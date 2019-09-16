@@ -1,0 +1,578 @@
+1.
+MACHADO, FABRICIO CASTRO ; FRANCO, CAIO HADDAD ; DOS SANTOS NETO, JOSE VITORINO ; DIAS-TEIXEIRA, KARINA LUIZA ; MORAES, CAROLINA BORSOI ; LOPES, ULISSES GAZOS ; AKTAS, BERTAL HUSEYIN ; Schenkman, Sergio . Identification of di-substituted ureas that prevent growth of trypanosomes through inhibition of translation initiation. Scientific Reports, v. 8, p. 4857, 2018.
+
+2.
+RIBEIRO, KLEBER SILVA ; VASCONCELLOS, CAMILLA IOSHIDA ; SOARES, RODRIGO PEDRO ; MENDES, MARIA TAYS ; ELLIS, CAMERON C. ; AGUILERA-FLORES, MARCELA ; DE ALMEIDA, IGOR CORREIA ; Schenkman, Sergio ; IWAI, LEO KEI ; TORRECILHAS, ANA CLAUDIA . Proteomic analysis reveals different composition of extracellular vesicles released by two Trypanosoma cruzi strains associated with their distinct interaction with host cells. JOURNAL OF EXTRACELLULAR VESICLES, v. 7, p. 1463779, 2018.
+
+3.
+MOREIRA, DOUGLAS DE SOUZA ; DUARTE, ANA PAULA ; PAIS, FABIANO SVIATOPOLK MIRSKY ; SILVA-PEREIRA, ROSIANE APARECIDA DA ; ROMANHA, ALVARO JOSÉ ; Schenkman, Sergio ; MURTA, SILVANE MARIA FONSECA . Overexpression of eukaryotic initiation factor 5A (eIF5A) affects susceptibility to benznidazole in Trypanosoma cruzi populations. Memórias do Instituto Oswaldo Cruz, v. 113, p. e180162, 2018.
+
+4.
+GOMES PASSOS SILVA, DANIELLE DA SILVA SANTOS, SELMA NARDELLI, SHEILA C. MENDES, ISABELA CECÍLIA FREIRE, ANNA CLÁUDIA GUIMARÃES REPOLÊS, BRUNO MARÇAL RESENDE, BRUNO CARVALHO COSTA-SILVA, HÉLLIDA MARINA DA SILVA, VERÔNICA SANTANA OLIVEIRA, KARLA ANDRADE DE OLIVEIRA, CAMILA FRANCO BATISTA VILELA, LIZA FIGUEIREDO FELICORI NAGEM, RONALDO ALVES PINTO FRANCO, GLÓRIA REGINA Macedo, Andrea Mara Pena, Sergio Danilo Junho TAHARA, ERICH BIRELLI SALES JUNIOR, POLICARPO ADEMAR MOREIRA, DOUGLAS SOUZA Teixeira, Santuza Maria Ribeiro MCCULLOCH, RICHARD VIRGILIO, STELA TOSI, LUIZ RICARDO ORSINI Schenkman, Sergio ANDRADE, LUCIANA OLIVEIRA , et al. ; The in vivo and in vitro roles of Trypanosoma cruzi Rad51 in the repair of DNA double strand breaks and oxidative lesions. PLoS Neglected Tropical Diseases, v. 12, p. e0006875, 2018.
+
+5.
+MORETTI, NILMAR SILVIO ; CESTARI, IGOR ; ANUPAMA, ATASHI ; STUART, KEN ; Schenkman, Sergio . Comparative Proteomic Analysis of Lysine Acetylation in Trypanosomes. JOURNAL OF PROTEOME RESEARCH, v. 17, p. 374-385, 2018.
+
+6.
+MACEDO, SILENE ; RODRIGUES, JOÃO PAULO FERREIRA ; Schenkman, Sergio ; Yoshida, Nobuko . Beta-adrenergic antagonist propranolol inhibits mammalian cell lysosome spreading and invasion by Trypanosoma cruzi metacyclic forms. MICROBES AND INFECTION, v. 19, p. 295-301, 2017.
+
+7.
+DE LIMA STEIN, MARIANA LEÃO ; ICIMOTO, MARCELO YUDI ; DE CASTRO LEVATTI, ERICA VALADARES ; OLIVEIRA, VITOR ; STRAUS, ANITA HILDA ; Schenkman, Sergio . Characterization and role of the 3-methylglutaconyl coenzyme A hidratase in Trypanosoma brucei. Molecular and Biochemical Parasitology (Print), v. 214, p. 36-46, 2017.
+
+8.
+ROUT, MICHAEL P. ; OBADO, SAMSON O. ; Schenkman, Sergio ; FIELD, MARK C. . Specialising the parasite nucleus: Pores, lamins, chromatin, and diversity. PLoS Pathogens (Online), v. 13, p. e1006170, 2017.
+
+9.
+CERQUEIRA, PAULA G. ; PASSOS-SILVA, DANIELLE G. ; VIEIRA-DA-ROCHA, JOÃO P. ; MENDES, ISABELA CECILIA ; DE OLIVEIRA, KARLA A. ; OLIVEIRA, CAMILA F.B. ; VILELA, LIZA F.F. ; NAGEM, RONALDO A.P. ; CARDOSO, JOSEANE ; NARDELLI, SHEILA C. ; KRIEGER, MARCO A. ; FRANCO, GLÓRIA R. ; MACEDO, ANDREA M. ; PENA, SÉRGIO D.J. ; SCHENKMAN, SÉRGIO ; GOMES, DAWIDSON A. ; GUERRA-SÁ, RENATA ; MACHADO, CARLOS R. . Effect of ionizing radiation exposure on Trypanosoma cruzi Ubiquitin-Proteasome System. Molecular and Biochemical Parasitology (Print), v. 212, p. 55-67, 2017.
+
+10.
+FREIRE, ANNA CLÁUDIA GUIMARÃES ; ALVES, CERES LUCIANA ; GOES, GRAZIELLE RIBEIRO ; RESENDE, BRUNO CARVALHO ; MORETTI, NILMAR SILVIO ; NUNES, VINÍCIUS SANTANA ; AGUIAR, PEDRO HENRIQUE NASCIMENTO ; TAHARA, ERICH BIRELLI ; FRANCO, GLÓRIA REGINA ; MACEDO, ANDRÉA MARA ; PENA, SÉRGIO DANILO JUNHO ; GADELHA, FERNANDA RAMOS ; GUARNERI, ALESSANDRA APARECIDA ; Schenkman, Sergio ; VIEIRA, LEDA QUERCIA ; Machado, Carlos Renato . Catalase expression impairs oxidative stress-mediated signalling in Trypanosoma cruzi. PARASITOLOGY, v. 144, p. 1-13, 2017.
+
+11.
+BELEW, A. TREY ; JUNQUEIRA, CAROLINE ; RODRIGUES-LUIZ, GABRIELA F. ; VALENTE, BRUNA M. ; OLIVEIRA, ANTONIO EDSON R. ; POLIDORO, RAFAEL B. ; ZUCCHERATO, LUCIANA W. ; BARTHOLOMEU, DANIELLA C. ; Schenkman, Sergio ; GAZZINELLI, RICARDO T. ; BURLEIGH, BARBARA A. ; EL-SAYED, NAJIB M. ; TEIXEIRA, SANTUZA M. R. . Comparative transcriptome profiling of virulent and non-virulent Trypanosoma cruzi underlines the role of surface proteins during infection. PLoS Pathogens, v. 13, p. e1006767, 2017.
+
+12.
+SOARES, RODRIGO P. XANDER, PATRÍCIA COSTA, ADRIANA OLIVEIRA MARCILLA, ANTONIO MENEZES-NETO, ARMANDO DEL PORTILLO, HERNANDO WITWER, KENNETH WAUBEN, MARCA NOLTE-`T HOEN, ESTHER OLIVIER, MARTIN CRIADO, MIRIÃ FERREIRA DA SILVA, LUIS LAMBERTI P. ABDEL BAQUI, MUNIRA MUHAMMAD Schenkman, S. COLLI, WALTER ALVES, MARIA JULIA MANSO FERREIRA, KAREN SPADARI PUCCIA, ROSANA NEJSUM, PETER RIESBECK, KRISTIAN STENSBALLE, ALLAN HANSEN, ELINE PALM JAULAR, LORENA MARTIN ØVSTEBØ, REIDUN DE LA CANAL, LAURA , et al. ; Highlights of the São Paulo ISEV workshop on extracellular vesicles in cross-kingdom communication. JOURNAL OF EXTRACELLULAR VESICLES, v. 6, p. 1407213, 2017.
+
+13.
+DI RENZO, MARÍA AGOSTINA ; LAVERRIÈRE, MARC ; Schenkman, Sergio ; WEHRENDT, DIANA PATRICIA ; TELLEZ-IÑÓN, MARÍA TERESA ; Potenza, Mariana . Characterization of TcCYC6 from Trypanosoma cruzi, a gene with homology to mitotic cyclins. Parasitology International (Print), v. 65, p. 196-204, 2016.
+Citações:1|1
+
+14.
+CESTARI, IGOR ; HAAS, PAIGE ; MORETTI, NILMAR SILVIO ; Schenkman, Sergio ; STUART, KEN . Chemogenetic Characterization of Inositol Phosphate Metabolic Pathway Reveals Druggable Enzymes for Targeting Kinetoplastid Parasites. Cell Chemical Biology, v. 23, p. 608-617, 2016.
+Citações:2|2
+
+15.
+DE JESUS, TERESA CRISTINA LEANDRO ; NUNES, VINICIUS SANTANA ; LOPES, MARIANA DE CAMARGO ; MARTIL, DAIANA EVELIN ; IWAI, LEO KEI ; MORETTI, NILMAR SILVIO ; MACHADO, FABRICIO CASTRO ; DE LIMA-STEIN, MARIANA L ; THIEMANN, OTAVIO HENRIQUE ; Elias, Maria Carolina ; JANZEN, CHRISTIAN J. ; Schenkman, Sergio ; DA CUNHA, JULIA PC . Chromatin proteomics reveals variable histone modifications during the life cycle of Trypanosoma cruzi. Journal of Proteome Research (Print), v. 15, p. 2039-2051, 2016.
+Citações:7|6
+
+16.
+AVILA, CARLA CRISTI D.C. ; PEACOCK, LORI ; MACHADO, FABRICIO CASTRO ; GIBSON, WENDY ; Schenkman, Sergio ; CARRINGTON, MARK ; Castilho, Beatriz A. . Phosphorylation of eIF2? on Threonine 169 is not required for Trypanosoma brucei cell cycle arrest during differentiation. Molecular and Biochemical Parasitology (Print), v. 205, p. 16-21, 2016.
+
+17.
+Catta-Preta, Carolina Moura Costa ; PASCOALINO, BRUNO DOS SANTOS ; DE SOUZA, WANDERLEY ; MOTTRAM, JEREMY C. ; Motta, Maria Cristina M. ; Schenkman, Sergio . Reduction of Tubulin Expression in Angomonas deanei by RNAi Modifies the Ultrastructure of the Trypanosomatid Protozoan and Impairs Division of Its Endosymbiotic Bacterium. The Journal of Eukaryotic Microbiology, v. 63, p. 794-803, 2016.
+Citações:1|1
+
+18.
+DA SILVA AUGUSTO, LEONARDO ; MORETTI, NILMAR SILVIO ; Ramos, Thiago Cesar Prata ; DE JESUS, TERESA CRISTINA LEANDRO ; ZHANG, MIN ; Castilho, Beatriz A. ; Schenkman, Sergio . A Membrane-bound eIF2 Alpha Kinase Located in Endosomes Is Regulated by Heme and Controls Differentiation and ROS Levels in Trypanosoma cruzi. PLoS Pathogens (Online), v. 11, p. e1004618, 2015.
+Citações:5|13
+
+19.
+CATTA-PRETA, CAROLINA M. C. ; BRUM, FELIPE L. ; DA SILVA, CAMILA C. ; ZUMA, ALINE A. ; ELIAS, MARIA C. ; DE SOUZA, WANDERLEY ; Schenkman, Sergio ; Motta, Maria Cristina M. . Endosymbiosis in trypanosomatid protozoa: the bacterium division is controlled during the host cell cycle. Frontiers in Microbiology (Online), v. 6, p. 520, 2015.
+Citações:5|5
+
+20.
+PHAN, ISABELLE Q. H. ; DAVIES, DOUGLAS R. ; MORETTI, NILMAR SILVIO ; SHANMUGAM, DHANASEKARAN ; CESTARI, IGOR ; ANUPAMA, ATASHI ; FAIRMAN, JAMES W. ; EDWARDS, THOMAS E. ; STUART, KENNETH ; Schenkman, Sergio ; MYLER, PETER J. . Iron superoxide dismutases in eukaryotic pathogens: new insights from Apicomplexa and Trypanosoma structures. Acta Crystallographica Section F Structural Biology Communications, v. 71, p. 615-621, 2015.
+Citações:2|3
+
+21.
+MORETTI, NILMAR SILVIO ; Augusto, Leonardo da Silva ; CLEMENTE, TATIANA MORDENTE ; ANTUNES, RAYSA PAES PINTO ; Yoshida, Nobuko ; TORRECILHAS, ANA CLAUDIA ; CANO, MARIA ISABEL NOGUEIRA ; Schenkman, Sergio . Characterization of Trypanosoma cruzi sirtuins as possible drug targets for Chagas Disease. Antimicrobial Agents and Chemotherapy (Print), v. 59, p. AAC.04694-14, 2015.
+Citações:4|12
+
+22.
+OLIVEIRA, VIVIAN CRISTINA ; MORETTI, NILMAR SILVO ; Augusto, Leonardo da Silva ; Schenkman, Sergio ; Mariano, Mario ; POPI, ANA FLAVIA . Ikaros could be a key factor in the maintenance of -B-side- of B-1 cells. Immunobiology (Jena. 1979), v. 220, p. 1232-1239, 2015.
+Citações:1|1
+
+23.
+CAMPO, V. L. ; IVANOVA, IRINA M. ; Carvalho, Ivone ; LOPES, CARLA D. ; Carneiro, Zumira A. ; SAALBACH, GERHARD ; Schenkman, S. ; DA SILVA, JOÃO SANTANA ; Nepogodiev, Sergey A. ; Field, Robert A. . Click chemistry oligomerisation of azido-alkyne-functionalised galactose accesses triazole-linked linear oligomers and macrocycles that inhibit Trypanosoma cruzi macrophage invasion. Tetrahedron (Oxford. Print), v. 71, p. 7344-7353, 2015.
+Citações:5|5
+
+24.
+Ramos, Thiago Cesar Prata ; NUNES, VINICIUS SANTANA ; NARDELLI, SHEILA CRISTINA ; PASCOALINO, BRUNO DOS SANTOS ; MORETTI, NILMAR SILVIO ; ROCHA, A. A. ; AUGUSTO, LEONARDO DA SILVA ; Schenkman, S. . Expression of non-acetylatable lysines 10 and 14 of histone H4 impairs transcription and replication in Trypanosoma cruzi. Molecular and Biochemical Parasitology (Print), v. 204, p. 1-10, 2015.
+Citações:3|2
+
+25.
+BRUM, FELIPE LOPES ; Catta-Preta, Carolina Moura Costa ; DE SOUZA, WANDERLEY ; Schenkman, Sergio ; Elias, Maria Carolina ; Motta, Maria Cristina Machado . Structural Characterization of the Cell Division Cycle in Strigomonas culicis, an Endosymbiont-Bearing Trypanosomatid. Microscopy and Microanalysis (Print), v. 20, p. 1-10, 2014.
+Citações:1|3
+
+26.
+PASCOALINO, B. ; DINDAR, G. ; VIEIRA-DA-ROCHA, J. P. ; MACHADO, C. R. ; JANZEN, C. J. ; Schenkman, S. . Characterization of two different Asf1 histone chaperones with distinct cellular localizations and functions in Trypanosoma brucei. Nucleic Acids Research, v. 42, p. 2906-2918, 2014.
+Citações:4|5
+
+27.
+CALDERANO, SIMONE ; GODOY, PATRICIA ; SOARES, DAIANE ; SANT'ANNA, OSVALDO AUGUSTO ; Schenkman, Sergio ; Elias, M. Carolina . ORC1/CDC6 and MCM7 distinct associate with chromatin through Trypanosoma cruzi life cycle. Molecular and Biochemical Parasitology (Print), v. 193, p. 110-113, 2014.
+Citações:5|5
+
+28.
+ROCHA, A. A. ; MORETTI, N. S. ; Schenkman, S. . Stress induces changes in the phosphorylation of Trypanosoma cruzi RNA polymerase II affecting its association with chromatin and RNA processing. Eukaryotic Cell, p. 855-865, 2014.
+
+29.
+MORAES, CAROLINA B. ; Giardini, Miriam A. ; KIM, HWAYOUNG ; FRANCO, CAIO H. ; ARAUJO-JUNIOR, ADALBERTO M. ; Schenkman, Sergio ; CHATELAIN, ERIC ; Freitas-Junior, Lucio H. . Nitroheterocyclic compounds are more efficacious than CYP51 inhibitors against Trypanosoma cruzi: implications for Chagas disease drug discovery and development. Scientific Reports, v. 4, p. 4703, 2014.
+Citações:35|19
+
+30.
+STOCO, PATRÍCIA HERMES WAGNER, GLAUBER TALAVERA-LOPEZ, CARLOS GERBER, ALEXANDRA ZAHA, ARNALDO THOMPSON, CLAUDIA ELIZABETH BARTHOLOMEU, DANIELLA CASTANHEIRA LÜCKEMEYER, DÉBORA DENARDIN Bahia, Diana LORETO, ELGION PRESTES, ELISA BEATRIZ LIMA, FÁBIO MITSUO RODRIGUES-LUIZ, GABRIELA VALLEJO, GUSTAVO ADOLFO FILHO, JOSÉ FRANCO DA SILVEIRA SCHENKMAN, SÉRGIO MONTEIRO, KARINA MARIANTE TYLER, KEVIN MORRIS ALMEIDA, LUIZ GONZAGA PAULA DE ORTIZ, MAURO FREITAS CHIURILLO, MIGUEL ANGEL MORAES, MILENE HÖEHR DE CUNHA, OBERDAN DE LIMA MENDONÇA-NETO, RONDON SILVA, ROSANE , et al. ; Genome of the Avirulent Human-Infective Trypanosome-Trypanosoma rangeli. PLoS Neglected Tropical Diseases (Online), v. 8, p. e3176, 2014.
+Citações:15|18
+
+31.
+Erben, Esteban D. ; NARDELLI, SHEILA C. ; DE JESUS, TERESA C. L. ; Schenkman, Sergio ; TELLEZ-IÑON, MARIA T. . Trypanosomatid Pin1-Type Peptidyl-Prolyl Isomerase Is Cytosolic and Not Essential for Cell Proliferation. The Journal of Eukaryotic Microbiology, v. 60, p. 101-105, 2013.
+Citações:1|1
+
+32.
+MORETTI, NILMAR SILVIO ; Schenkman, Sergio . Chromatin modifications in trypanosomes due to stress. Cellular Microbiology (Print), v. 15, p. 709-717, 2013.
+Citações:3|3
+
+33.
+Chung, Janete ; ROCHA, ANTONIO ; TONELLI, RENATA ; CASTILHO, BEATRIZ ; Schenkman, Sergio . Eukaryotic Initiation Factor 5A Dephosphorylation is Required for Translational Arrest in Stationary Phase Cells. Biochemical Journal (London. 1984), v. 451, p. 257-267, 2013.
+Citações:12|15
+
+34.
+KULKARNI, M. M. ; KARAFOVA, A. ; KAMYSZ, W. ; Schenkman, S. ; PELLE, R. ; MCGWIRE, B. S. . Secreted trypanosome cyclophilin inactivates lytic insect defense peptides and induces parasite calcineurin-activation and infectivity. Journal of Biological Chemistry (Online), v. 288, p. 8772-8784, 2013.
+Citações:9
+
+35.
+Motta, Maria Cristina Machado Martins, Allan Cezar de Azevedo DE SOUZA, SILVANA SANT?ANNA Catta-Preta, Carolina Moura Costa SILVA, ROSANE KLEIN, CECILIA COIMBRA DE ALMEIDA, LUIZ GONZAGA PAULA DE LIMA CUNHA, OBERDAN CIAPINA, LUCIANE PRIOLI BROCCHI, MARCELO COLABARDINI, ANA CRISTINA DE ARAUJO LIMA, BRUNA Machado, Carlos Renato DE ALMEIDA SOARES, CÉLIA MARIA PROBST, CHRISTIAN MACAGNAN DE MENEZES, CLAUDIA BEATRIZ AFONSO THOMPSON, CLAUDIA ELIZABETH BARTHOLOMEU, DANIELLA CASTANHEIRA GRADIA, DANIELA FIORI PAVONI, DANIELA PARADA GRISARD, EDMUNDO C. FANTINATTI-GARBOGGINI, FABIANA MARCHINI, FABRICIO KLERYNTON RODRIGUES-LUIZ, GABRIELA FLÁVIA WAGNER, GLAUBER , et al. ; Predicting the Proteins of Angomonas deanei, Strigomonas culicis and Their Respective Endosymbionts Reveals New Aspects of the Trypanosomatidae Family. Plos One, v. 8, p. e60209, 2013.
+Citações:24|21
+
+36.
+DA SILVA, ROSIANE V. ; MALVEZI, APARECIDA D. ; Augusto, Leonardo da Silva ; KIAN, DANIELLE ; TATAKIHARA, VERA LÚCIA H. ; YAMAUCHI, LUCY M. ; YAMADA-OGATTA, SUELI F. ; RIZZO, LUIZ V. ; Schenkman, Sergio ; PINGE-FILHO, PHILENO . Oral Exposure to Phytomonas serpens Attenuates Thrombocytopenia and Leukopenia during Acute Infection with Trypanosoma cruzi. Plos One, v. 8, p. e68299, 2013.
+Citações:3|2
+
+37.
+BUARQUE, DIEGO S. ; BRAZ, GLÓRIA R. C. ; MARTINS, RAFAEL M. ; TANAKA-AZEVEDO, ANITA M. ; GOMES, CÍCERA M. ; OLIVEIRA, FELIPE A. A. ; Schenkman, Sergio ; Tanaka, Aparecida S. . Differential Expression Profiles in the Midgut of Triatoma infestans Infected with Trypanosoma cruzi. Plos One, v. 8, p. e61203, 2013.
+Citações:7|13
+
+38.
+Campo, Vanessa L. ; Sesti-Costa, Renata ; Carneiro, Zumira A. ; Silva, JoÃ£o S. ; SCHENKMAN, S. ; Carvalho, Ivone . Design, synthesis and the effect of 1,2,3-triazole sialylmimetic neoglycoconjugates on Trypanosoma cruzi and its cell surface trans-sialidase. Bioorganic & Medicinal Chemistry (Print), v. 20, p. 145-156, 2012.
+Citações:23|31
+
+39.
+Scher, Ricardo ; Garcia, Juliana Bório Ferreira ; Pascoalino, Bruno ; Schenkman, Sergio ; Cruz, Angela Kaysel ; Schenkman, S. . Characterization of anti-silencing factor 1 in Leishmania major. Memórias do Instituto Oswaldo Cruz (Impresso), v. 107, p. 377-386, 2012.
+Citações:4|4
+
+40.
+Schamber-Reis, Bruno Luiz Fonseca ; Nardelli, Sheila ; RÃ©gis-Silva, Carlos Gustavo ; Campos, Priscila Carneiro ; Cerqueira, Paula GonÃ§alves ; Lima, Sabrina Almeida ; Franco, GlÃ³ria Regina ; Macedo, Andrea Mara ; Pena, Sergio Danilo Junho ; Cazaux, Christophe ; Hoffmann, Jean-SÃ©bastien ; Motta, Maria Cristina Machado ; Schenkman, Sergio ; Teixeira, Santuza Maria Ribeiro ; Machado, Carlos Renato . DNA polymerase beta from Trypanosoma cruzi is involved in kinetoplast DNA replication and repair of oxidative lesions. Molecular and Biochemical Parasitology (Print), v. 183, p. 122-131, 2012.
+Citações:5|10
+
+41.
+CORNEJO, A. ; de Oliveira, C.R. ; Wurtele, M. ; CHUNG, J. ; Hilpert, K. ; Schenkman, Sergio . A Novel Monoclonal Antibody Against the C-terminus of ?-Tubulin Recognizes Endocytic Organelles in Trypanosoma cruzi. Protein and Peptide Letters, v. 19, p. 636-643, 2012.
+Citações:3|3
+
+42.
+Schenkman, Sergio; GONZÁLEZ, JORGE . How to invade, replicate, and escape from host organisms. A challenge in defining virulence factors for parasites. Microbes and Infection, v. 14, p. 1374-1376, 2012.
+
+43.
+Potenza, Mariana ; Schenkman, Sergio ; LAVERRIÈRE, MARC ; TELLEZ-IÑÓN, MARÍA TERESA . Functional characterization of TcCYC2 cyclin from Trypanosoma cruzi. Experimental Parasitology, v. 132, p. 537-545, 2012.
+Citações:2|2
+
+44.
+DC-RUBIN, SERGIO S. C. ; Schenkman, Sergio . javax.xml.bind.JAXBElement@11b85d86. Cellular Microbiology (Print), v. 14, p. 1522-1530, 2012.
+Citações:20|37
+
+45.
+Harrison, Jennifer A. ; Kartha, K. P. Ravindranathan ; Fournier, Eric J. L. ; Lowary, Todd L. ; Malet, Carles ; Nilsson, Ulf J. ; Hindsgaul, Ole ; Schenkman, S. ; Naismith, James H. ; Field, Robert A. . Probing the acceptor substrate binding site of Trypanosoma cruzi trans-sialidase with systematically modified substrates and glycoside libraries. Organic & Biomolecular Chemistry, v. 9, p. 1653, 2011.
+Citações:20|19
+
+46.
+Genovesio, Auguste ; Giardini, Miriam A. ; Kwon, Yong-Jun ; Dossin, Fernando de Macedo ; Choi, Seo Yeon ; Kim, Nam Youl ; Kim, Hi Chul ; Jung, Sung Yong ; Schenkman, S. ; Almeida, Igor C. ; Emans, Neil ; Freitas-Junior, Lucio H. . Visual Genome-Wide RNAi Screening to Identify Human Host Factors Required for Trypanosoma cruzi Infection. Plos One, v. 6, p. e19733, 2011.
+Citações:17|18
+
+47.
+Ramos, Thiago Cesar Prata ; Freymüller-Haapalainen, Edna ; Schenkman, S. . Three-dimensional reconstruction of Trypanosoma cruzi epimastigotes and organelle distribution along the cell division cycle. Cytometry. Part A, v. 79A, p. 538-544, 2011.
+Citações:9|11
+
+48.
+Gallo, Gloria ; Ramos, Thiago Cesar Prata ; Tavares, Fernanda ; Rocha, Antonio A. ; Machi, Emerson ; Schenkman, S. ; Bahia, Diana ; Pesquero, João Bosco ; Würtele, Martin . Biochemical characterization of a protein tyrosine phosphatase from Trypanosoma cruzi involved in metacyclogenesis and cell invasion. Biochemical and Biophysical Research Communications (Print), v. 408, p. 427-431, 2011.
+Citações:9|11
+
+49.
+Oliveira, Gabriel M. ; Yoshida, Nobuko ; Higa, Elisa M. S. ; Schenkman, S. ; Alves, Monique ; Staquicini, Daniela ; Cascabulho, Cynthia ; Schor, Nestor . Induction of proinflammatory cytokines and nitric oxide by Trypanosoma cruzi in renal cells. Parasitology Research (1987. Print), v. 109, p. 483-491, 2011.
+Citações:1|2
+
+50.
+Calderano, Simone Guedes ; Diogo de Melo Godoy, Patrícia ; Motta, Maria Cristina M. ; Mortara, Renato A. ; Schenkman, Sergio ; Elias, M. Carolina . Trypanosoma cruzi DNA replication includes the sequential recruitment of pre-replication and replication machineries close to nuclear periphery. Nucleus, v. 2, p. 136-145, 2011.
+Citações:10|7
+
+51.
+Lovato, Diogo Ventura ; Amino, Rogerio ; González, Yamile ; Miranda, Antonio ; Schenkman, Sergio ; Tanaka, Aparecida S. . Infestin 1R, an intestinal subtilisin inhibitor from Triatoma infestans able to impair mammalian cell invasion by Trypanosoma cruzi. Experimental Parasitology, v. 129, p. 362-367, 2011.
+Citações:4|4
+
+52.
+Tonelli, Renata R. ; Augusto, Leonardo da Silva ; Castilho, Beatriz A. ; Schenkman, Sergio . Protein Synthesis Attenuation by Phosphorylation of eIF2 Is Required for the Differentiation of Trypanosoma cruzi into Infective Forms. Plos One, v. 6, p. e27904, 2011.
+Citações:19|22
+
+53.
+Costa, F.C. ; Oliva, M.A.V. ; JESUS, T. C. L. ; Schenkman, S. ; Thiemann, O.H. . Oxidative stress protection of Trypanosomes requires selenophosphate synthase. Molecular and Biochemical Parasitology (Print), v. 180, p. 47-50, 2011.
+Citações:7|8
+
+54.
+CARVALHO, I. ; ANDRADE, P. ; CAMPO, V. L. ; Guedes, Paulo M.M. ; Sesti-Costa, Renata ; Silva, João S. ; Schenkman, S. ; Dedola, Simone ; Hill, Lionel ; Rejzek, Martin . `Click chemistry synthesis of a library of 1,2,3-triazole-substituted galactose derivatives and their evaluation against Trypanosoma cruzi and its cell surface trans-sialidase. Bioorganic & Medicinal Chemistry, v. 18, p. 2412-2427, 2010.
+Citações:71|81
+
+55.
+Erben, Esteban D. ; Valguarnera, Ezequiel ; Nardelli, Sheila ; Chung, Janete ; Daum, Sebastian ; Potenza, Mariana ; Schenkman, S. ; Téllez-Iñón, María T. . Identification of an atypical peptidyl-prolyl cis/trans isomerase from trypanosomatids?. Biochimica et Biophysica Acta. Molecular Cell Research, v. 1803, p. 1028-1037, 2010.
+Citações:3|5
+
+56.
+de Jesus, T. C. L. ; TONELLI, R. R. ; Nardelli, S. C. ; da Silva Augusto, L. ; Motta, M. C. M. ; Girard-Dias, W. ; Miranda, K. ; ULRICH, P. ; Jimenez, V. ; BARQUILLA, A. ; Navarro, M. ; DOCAMPO, R. ; Schenkman, S. . Target of Rapamycin (TOR)-like 1 Kinase Is Involved in the Control of Polyphosphate Levels and Acidocalcisome Maintenance in Trypanosoma brucei. The Journal of Biological Chemistry (Print), v. 285, p. 24131-24140, 2010.
+Citações:26|27
+
+57.
+Matsuo, A. L. ; Silva, L. S. ; Torrecilhas, A. C. ; PASCOALINO, B. S. ; Ramos, T. C. ; Rodrigues, E. G. ; Schenkman, S. ; Caires, A. C. F. ; TRAVASSOS, L. R. . In Vitro and In Vivo Trypanocidal Effects of the Cyclopalladated Compound 7a, a Drug Candidate for Treatment of Chagas' Disease. Antimicrobial Agents and Chemotherapy (Print), v. 54, p. 3318-3325, 2010.
+Citações:22|22
+
+58.
+Toledo, Juliano S. ; Ferreira, Tiago R. ; Defina, Tânia P.A. ; Dossin, Fernando de M. ; Beattie, Kenneth A. ; Lamont, Douglas J. ; Cloutier, Serge ; Papadopoulou, Barbara ; Schenkman, S. ; Cruz, Angela K. . Cell homeostasis in a Leishmania major mutant overexpressing the spliced leader RNA is maintained by an increased proteolytic activity. International Journal of Biochemistry & Cell Biology, p. 1661-1671, 2010.
+Citações:4|4
+
+59.
+Motta, Maria Cristina Machado ; Catta-Preta, Carolina Moura Costa ; Schenkman, S. ; Martins, Allan Cezar de Azevedo ; Miranda, Kildare ; DE SOUZA, W. ; Elias, Maria Carolina . The Bacterium Endosymbiont of Crithidia deanei Undergoes Coordinated Division with the Host Cell Nucleus. Plos One, v. 5, p. e12415, 2010.
+Citações:15|16
+
+60.
+CAMPO, V. L. ; CARVALHO, I. ; Da Silva, Carlos H. T. P. ; Schenkman, S. ; Hill, Lionel ; Nepogodiev, Sergey A. ; Field, Robert A. . Cyclooligomerisation of azido-alkyne-functionalised sugars: synthesis of 1,6-linked cyclic pseudo-galactooligosaccharides and assessment of their sialylation by Trypanosoma cruzi trans-sialidase. Chemical Science: a new journal for findings of exceptional significance from across the chemical sciences, v. 1, p. 507, 2010.
+Citações:33|37
+
+61.
+POPI, A. F. ; Motta, Fabiana L. T. ; Mortara, Renato A. ; SCHENKMAN, S. ; Lopes, José D. ; Mariano, Mario . Co-ordinated expression of lymphoid and myeloid specific transcription factors during B-1b cell differentiation into mononuclear phagocytes. Immunology (Oxford), v. 126, p. 114-122, 2009.
+Citações:26|31
+
+62.
+Duhagon, M. A. ; Pastro, Lucia ; Sotelo-Silveira, Jose R ; Perez-Diaz, Leticia ; Maugeri, Dante ; Nardelli, Sheila C ; SCHENKMAN, S. ; Williams, Noreen ; Dallagiovanna, Bruno ; Garat, Beatriz . The Trypanosoma cruzi nucleic acid binding protein Tc38 presents changes in the intramitochondrial distribution during the cell cycle.. BMC Microbiology (Online), v. 9, p. 34, 2009.
+Citações:4|6
+
+63.
+Nardelli, Sheila Cristina ; Cunha, Julia Pinheiro Chagas ; Motta, Maria Cristina M. ; Schenkman, Sergio . Distinct acetylation of Trypanosoma cruzi histone H4 during cell cycle, parasite differentiation, and after DNA damage. Chromosoma (Berlin. Print), v. 118, p. 487-499, 2009.
+Citações:20|23
+
+64.
+SACRAMENTO, R. S. ; MARTINS, R. M. ; MIRANDA, A. ; DOBROFF, A. S. S. ; DAFFRE, S. ; FORONDA, A. S. ; de FREITAS, D. ; SCHENKMAN, S. . Differential effects of ?-helical and ?-hairpin antimicrobial peptides against Acanthamoeba castellanii. Parasitology (London. Print), v. 136, p. 813-821, 2009.
+Citações:9|7
+
+65.
+Godoy, P. D. d. M. ; Nogueira-Junior, L. A. ; Paes, L. S. ; CORNEJO, A. ; MARTINS, R. M. ; Silber, A. M. ; Schenkman, S. ; ELIAS, M. C. . Trypanosoma pre-replication machinery contains a single functional Orc1/Cdc6 protein as typical of Archaea. Eukaryotic Cell, v. 8, p. 1592-1603, 2009.
+Citações:35|37
+
+66.
+Elias, Maria Carolina ; Nardelli, Sheila Cristina ; Schenkman, S. . Chromatin and nuclear organization in. Future Microbiology, v. 4, p. 1065-1074, 2009.
+Citações:5|7
+
+67.
+MARTINS, R. M. ; AMINO, R. ; Daghastanli, K.R. ; Cuccovia, I.M. ; JULIANO, M. A. ; Schenkman, S. . A short proregion of trialysin, a pore-forming protein of Triatoma infestans salivary glands, controls activity by folding the N-terminal lytic motif. The FEBS Journal, v. 275, p. 994-1002, 2008.
+Citações:9|10
+
+68.
+Ferreira, Ludmila R.P.; Dossin, Fernando de M. ; Ramos, Thiago C. ; Freymüller, Edna ; Schenkman, Sergio . Active transcription and ultrastructural changes during Trypanosoma cruzi metacyclogenesis. Anais da Academia Brasileira de Ciências, v. 80, p. 157-166, 2008.
+Citações:19|12|23
+
+69.
+GUTIYAMA, L. M. ; CUNHA, J. P. C. DA ; Schenkman, S. . Histone H1 of Trypanosoma cruzi is concentrated in the nucleolus region and disperses upon phosphorylation during progression to mitosis. Eukaryotic Cell, v. 7, p. 1-10, 2008.
+Citações:9|14
+
+70.
+LOPES, J. D. ; SCHAMBERREIS, B ; REGISDASILVA, C ; RAJAO, M ; DAROCHA, W ; MACEDO, A ; FRANCO, G ; SCHENKMAN, S. ; NARDELLI, S ; HOFFMANN, J ; CASAUX, C ; PENA, S. D. ; Teixeira S M R ; MACHADO, C. R. . Biochemical studies with DNA polymerase ? and DNA polymerase ?-PAK of Trypanosoma cruzi suggest the involvement of these proteins in mitochondrial DNA maintenance. DNA Repair, v. 7, p. 1882-1892, 2008.
+Citações:14|18
+
+71.
+VILLANOVA, G; NARDELLI, S ; CRIBB, P ; MAGDALENO, A ; SILBER, A ; MOTTA, M ; SCHENKMAN, S ; SERRA, E . Trypanosoma cruzi bromodomain factor 2 (BDF2) binds to acetylated histones and is accumulated after UV irradiation. International Journal for Parasitology, v. 39, p. 665-673, 2008.
+Citações:16|19
+
+72.
+ELIAS, M. C. ; CUNHA, J. P. C. DA ; de FARIA, F. P. ; MORTARA, R. A. ; FREYMULLER, E. ; Schenkman, S. . Morphological Events during the Trypanosoma cruzi Cell Cycle. Protist (Jena), v. 158, p. 147-157, 2007.
+Citações:40|47
+
+73.
+Nardelli,S.C. ; Avila,A.R. ; FREUND, A. ; Motta,M.C. ; Manhaes,L. ; JESUS, T. C. L. ; Schenkman, S. ; Fragoso,S.P. ; Krieger,M.A. ; Goldenberg,S. ; Dallagiovanna,B. . Small-subunit rRNA processome proteins are translationally regulated during differentiation of Trypanosoma cruzi. Eukaryotic Cell, v. 6, p. 337-345, 2007.
+Citações:21|21
+
+74.
+CUNHA, J. P. C. DA ; Schenkman, S. . Response to Horn: Introducing histone modifications in trypanosomes. Trends in Parasitology, v. 23, p. 242-243, 2007.
+
+75.
+MORAES, M. C. S. ; JESUS, T. C. L. ; HASHIMOTO, N. N. ; DEY, M. ; SCHWARTZ, K. J. ; ALVES, V. S. ; AVILA, C. C. ; BANGS, J. D. ; DEVER, T. E. ; Schenkman, S. ; CASTILHO, B. A. . Novel Membrane-Bound eIF2{alpha} Kinase in the Flagellar Pocket of Trypanosoma brucei. Eukaryotic Cell, v. 6, p. 1979-1991, 2007.
+Citações:37|45
+
+76.
+MARTINS, R. M. ; AMINO, R. ; SFORCA, M. L. ; JULIANO, M. A. ; OYAMA JR., S. ; JULIANO, L. ; PERTINHEZ, T. A. ; SPISNI, A. ; Schenkman, S. . Lytic Activity and Structural Differences of Amphipathic Peptides Derived from Trialysin. Biochemistry (Easton), Estados Unidos, v. 45, n.6, p. 1765-1774, 2006.
+Citações:17|20
+
+77.
+RUBIN-DE-CELIS, S. S. C. ; UEMURA, H. ; YOSHIDA, N. ; Schenkman, S. . Expression of trypomastigote trans-sialidase in metacyclic forms of Trypanosoma cruzi increases parasite escape from its parasitophorous vacuole. Cellular Microbiology, Inglaterra, v. 8, p. 1888-1898, 2006.
+Citações:50|62
+
+78.
+BARBOSA, J. A. ; NETTO, L. E. S. ; FARAH, C. S. ; Schenkman, S. ; MENEGHINI, R. . The structural molecular biology network of the State of Sao Paulo, Brazil.. Anais da Academia Brasileira de Ciências, Rio de Janeiro, v. 78, p. 241-253, 2006.
+Citações:2|3
+
+79.
+KITUTI, C. M. ; TERSARIOL, I. L. S. ; Schenkman, S. . Divalent metal requirements for catalysis and stability of the RNA triphosphatase from Trypanosoma cruzi. Molecular and Biochemical Parasitology, Amsterdam, v. 150, p. 83-95, 2006.
+Citações:2|2
+
+80.
+Shaw, J. ; Schenkman, S. ; RODRIGUES, M. M. . Highlights of the XXI annual meeting of the Brazilian Society of Protozoology, the XXXII annual meeting on Basic Research in Chagas' disease & an international symposium on Vesicle Trafficking in Parasitic Protozoa - 7 to 9 November 2005, Caxambu, Minas Gerais, Brazil.. Kinetoplastid Biology and Disease, v. 5, p. 4, 2006.
+
+81.
+CUNHA, J. P. C. DA ; Nakayasu, E.S. ; ALMEIDA, I. C. ; Schenkman, S. . Post-translational modifications of Trypanosoma cruzi histone H4. Molecular and Biochemical Parasitology, v. 150, p. 268-277, 2006.
+Citações:37|47
+
+82.
+CUNHA, J. P. C. DA ; Nakayasu, E.S. ; ELIAS, M. C. Q. B. ; Pimenta, D.C. ; Tellez-Inon, M.T. ; Rojas, F. ; Manuel, M. ; Almeida I.C. ; Schenkman, S. . Trypanosoma cruzi histone H1 is phosphorylated in a typical cyclin dependent kinase site accordingly to the cell cycle. Molecular and Biochemical Parasitology, Amsterdam, v. 140, n.1, p. 75-86, 2005.
+Citações:30|31
+
+83.
+ DOSSIN, F. M. ; Schenkman, S. . Actively transcribing RNA polymerase II concentrates on spliced leader genes in the nucleus of Trypanosoma cruzi. Eukaryotic Cell, Estados Unidos, v. 4, n.5, p. 960-970, 2005.
+Citações:29|34
+
+84.
+ELIAS, M. C. Q. B. ; VARGAS, N. S. ; Tomazi, L. ; Pedroso, A. ; ZINGALES, B. ; Schenkman, S. ; BRIONES, M. R. S. . Comparative analysis of genomic sequences suggests that Trypanosoma cruzi CL Brener contains two sets of non-intercalated repeats of satellite DNA that correspond to T. cruzi I and T. cruzi II types. Molecular and Biochemical Parasitology, v. 140, p. 221-227, 2005.
+Citações:25|32
+
+85.
+PEREIRA-CHIOCCOLA, V. L. ; FRAGATA-FILHO, A. A. ; LEVY, A.M. ; RODRIGUES, M. M. ; Schenkman, S. . Enzyme-linked immunoassay using recombinant trans-sialidase of Trypanosoma cruzi can be employed for monitoring of patients with Chagas' disease after drug treatment. Clinical Diagnosis and Laboratory Immunology, Washington DC, v. 10, n.5, p. 826-830, 2003.
+Citações:16|16
+
+86.
+EJCHEL, T. F. ; RAMIREZ, M. I. ; VARGAS, N. S. ; AZEVEDO, E. B. ; ELIAS, M. C. Q. B. ; ZINGALES, B. ; Schenkman, S. . The largest subunit of the RNA polymerase II of Trypanosoma cruzi lacks the repeats in the carboxy-terminal domain and is encoded by several genes. Parasitology International, v. 52, p. 243-249, 2003.
+Citações:3|3
+
+87.
+ELIAS, M. C. Q. B. ; VARGAS, N. S. ; ZINGALES, B. ; Schenkman, S. . Organization of satellite DNA in the genome of Trypanosoma cruzi. Molecular and Biochemical Parasitology, v. 129, p. 1-9, 2003.
+Citações:33|32
+
+88.
+AMINO, R. ; MARTINS, R. M. ; PROCOPIO, J. ; HIRATA, I. ; JULIANO, M. A. ; Schenkman, S. . Trialysin, a Novel Pore-Forming Protein from Saliva of Haematophagous Insects Activated by Limited Proteolysis. The Journal of Biological Chemistry, Estados Unidos, v. 22, p. 6207-6213, 2002.
+Citações:42|45
+
+89.
+PORTO, R. M. ; AMINO, R. ; FARIA, M. ; ELIAS, M. C. Q. B. ; Schenkman, S. . Histone H1 is phosphorylated in non-replicating and infective forms of Trypanosoma cruzi. Molecular and Biochemical Parasitology, Holanda, v. 119, p. 265-271, 2002.
+Citações:18|20
+
+90.
+CAMPOS, I. T. N. ; AMINO, R. ; SAMPAIO, C. A. M. ; AUERSWWAald, E.A. ; FRIEDRICH, T. ; LEMAINE, H-G. ; Schenkman, S. ; TANAKA, A. S. . Infestin, a thrombin inhibitor present in Triatoma infestans, midguit, a Chagas' disease vector: Cloning, expression, and characterization. Insect Biochemistry and Molecular Biology, Holanda, v. 32, p. 991-997, 2002.
+Citações:52|55
+
+91.
+ELIAS, M. C. Q. B. ; FARIA, M. ; MORTARA, R. A. ; MOTA, M. C. ; THIRY, M. ; SOUZA, W. ; Schenkman, S. . Chromosome localization changes in the Trypanosoma cruzi interphase nucleus. Eukaryotic Cell, Washington, v. 1, n.6, p. 944-953, 2002.
+Citações:22|27
+
+92.
+Schenkman, S.; AMINO, R. ; TANAKA, A. S. . Triapsin, an unusual activatable serine protease from the saliva of the hematophagous vector of Chagas' disease Triatoma infestans (Hemiptera: Reduviidae). Insect Biochemistry and Molecular Biology, Holanda, v. 31, p. 465-472, 2001.
+Citações:35|38
+
+93.
+ELIAS, M. C. Q. B. ; PORTO, R. M. ; FREYMULLER, E. ; Schenkman, S. . Transcription rate modulation through Trypanosoma cruzi life cycle is reflected by nuclear organisation. Molecular and Biochemical Parasitology, v. 112, p. 95-99, 2001.
+
+94.
+Schenkman, S.; Harrison, J.A. ; KARTHA, K. P. ; TURNBULL, W. ; SCHEUERL, S. ; NAISMITH, J. H. ; FIELD, R. . Hydrolase and sialyltransferase activities of Trypanosoma cruzi trans-sialidase towards NeuAc-?-2,3-Gal-?-O-PNP. Bioorganic & Medicinal Chemistry Letters (Print), Inglaterra, v. 11, n.11, p. 141-144, 2001.
+Citações:16|19
+
+95.
+ACOSTA-SERRANO, A. ; ALMEIDA, I. C. ; FREITAS JUNIOR, L. H. ; YOSHIDA, N. ; Schenkman, S. . The mucin-like glycoprotein super-family of Trypanosoma cruzi: structure and biological roles.. Molecular and Biochemical Parasitology (Print), Holanda, v. 114, p. 143-150, 2001.
+Citações:118|122
+
+96.
+RIBEIRAO, M. ; PEREIRA-CHIOCCOLA, V. L. ; RENIA, L. ; FRAGATA-FILHO, A. A. ; Schenkman, S. ; RODRIGUES, M. M. . Chagasic patients develop a type 1 immune response to Trypanosoma cruzi trans-sialidase. Parasite Immunology, Inglaterra, v. 22, p. 49-53, 2000.
+Citações:44|45
+
+97.
+PEREIRA-CHIOCCOLA, V. L. ; ACOSTA-SERRANO, A. ; ALMEIDA, I. C. ; FERGUSON, M. A. ; PADRON, T. S. ; RODRIGUES, M. M. ; TRAVASSOS, L. R. ; Schenkman, S. . Mucin-like molecules form a negatively charged coat that protects Trypanosoma cruzi trypomastigotes from killing by human anti-a-galactosyl antibodies.. Journal of Cell Science, v. 113, p. 1299-1307, 2000.
+Citações:104|126
+
+98.
+YANG, J. ; Schenkman, S. ; HORENSTEIN, B. . A snapshot of nucleophilic participation during catalysis. Biochemistry (Easton), Estados Unidos, v. 39, p. 902-910, 2000.
+
+99.
+RAMIREZ, M. I. ; YAMAUCHI, L. M. ; FREITAS-JUNIOR, L. H. G. ; UEMURA, H. ; Schenkman, S. . The use of the green fluorescent protein to monitor and obtain more efficiently transfected Trypanosoma cruzi.. Molecular and Biochemical Parasitology, Amsterdam, v. 111, p. 235-240, 2000.
+Citações:20|23
+
+100.
+PEREIRA-CHIOCCOLA, V. L. ; COSTA, F. ; RIBEIRÃO, M. ; SOARES, I. S. ; ARENA, F. ; Schenkman, S. ; RODRIGUES, M. M. . Comparison Of Antibody And Protective Immune Responses Against Trypanosoma Cruzi Infection Elicited By Immunization With A Parasite Gene Delivered As Naked Dna Or Recombinant Protein. Parasite Immunology, Inglaterra, v. 21, p. 103-110, 1999.
+
+101.
+COSTA, F. ; RIBEIRAO, M. ; PEREIRA-CHIOCCOLA, V. L. ; Schenkman, S. ; RODRIGUES, M. . Trans-Sialidase Delivered As A Naked Dna Vaccine Elicits An Immunological Response Similar To A Trypanosoma Cruzi Infection. Brazilian Journal of Medical and Biological Research, Brasil, v. 32, p. 235-239, 1999.
+Citações:10|11
+
+102.
+ABUIM, G. ; FREITAS-JUNIOR, L. H. G. ; ALVES, M. J. M. ; COLLI, W. ; Schenkman, S. . Expression Of Trans-Sialidase And 85 Kda Glycoprotein Genes In Trypanosoma Cruzi Is Differentially Regulated At The Post-Transcriptional Level By Labile Protein Factors. The Journal of Biological Chemistry, Estados Unidos, v. 274, p. 13041-13047, 1999.
+Citações:41|45
+
+103.
+FREITAS-JUNIOR, L. H. G. ; PORTO, R. M. ; PIRRIT, L. A. ; Schenkman, S. ; SCHERF, A. . Identification of the Telomere in Trypanosoma cruzi Reveals Highly Heterogeneous Telomere Lengths in Different Parasite Strains. Nucleic Acids Research, Inglaterra, v. 27, p. 2451-2456, 1999.
+Citações:22|25
+
+104.
+PEREIRA-CHIOCCOLA, V. L. ; Schenkman, S. . Biological role of Trypanosoma cruzi trans-sialidase. Biochemical Society Transactions, Inglaterra, v. 27, p. 516-518, 1999.
+Citações:15|14
+
+105.
+COSTA, F. ; FRANCHIN, G. ; PEREIRA-CHIOCCOLA, V. L. ; RIBEIRÃO, M. ; Schenkman, S. ; RODRIGUES, M. M. . Immunization With A Plasmid Dna Containing The Gene Of Trans-Sialidase Reduces Trypanosoma Cruzi Infection In Mice. Vaccine (Guildford), Estados Unidos, v. 16, p. 768-774, 1998.
+Citações:84|89
+
+106.
+FREITAS-JUNIOR, L. H. G. ; BRIONES, M. R. S. ; Schenkman, S. . Two Distinct Groups Of Mucin-Like Genes Are Differentially Expressed In The Developmental Stages Of Trypanosoma Cruzi. Molecular and Biochemical Parasitology, Holanda, v. 93, p. 101-114, 1998.
+Citações:25|28
+
+107.
+ AMINO, R. ; PORTO, R. M. ; EGAMI, M. I. ; CHAMAS, R. ; Schenkman, S. . Identification And Characterization Of A Sialidase Released By The Salivary Gland Of The Hematophagous Insect Triatoma Infestans. The Journal of Biological Chemistry, Estados Unidos, v. 273, p. 24575-24582, 1998.
+Citações:22|23
+
+108.
+FRANCHIN, G. ; PEREIRA-CHIOCCOLA, V. L. ; Schenkman, S. ; RODRIGUES, M. M. . Passive Transfer Of A Monoclonal Antibody Specific For A Sialic Acid Dependent Epitope On The Surface Of Trypanosoma Cruzi Trypomastigotes Reduces Acute Phase Infection In Mice.. Infection and Immunity, Estados Unidos, v. 65, p. 2548-2554, 1997.
+
+109.
+RIBEIRÃO, M. ; PEREIRA-CHIOCCOLA, V. L. ; EICHINGER, D. E. ; RODRIGUES, M. M. ; Schenkman, S. . Different Rates Of Trans-Glycosylation And Hydrolysis Reveals An Acceptor Binding Site In The Trypanosoma Cruzi Trans-Sialidase.. Glycobiology (Oxford), Estados Unidos, v. 7, p. 1237-1246, 1997.
+Citações:63|64
+
+110.
+YOSHIDA, N. ; Schenkman, S. . American Trypanosomiasis.. Current Opinion in Infectious Diseases, Estados Unidos, v. 10, p. 351-356, 1997.
+Citações:3
+
+111.
+PROBERT, M. A. ; MILTON, M. J. ; HARRIS, R. ; Schenkman, S. ; BROWN, J. M. ; HOMANS, S. W. ; FIELD, R. . Chemoenzymatc Synthesis Of Gm3, Lewis X And Sialyl Lewis X Oligosaccharides In 13c-Enriched Form.. Tetrahedron Letters, Inglatera, v. 38, p. 5861-5864, 1997.
+
+112.
+HARISON, J. A. ; KARTHA, K. P. ; SMITH, S. L. ; NAISMITH, J. H. ; Schenkman, S. ; FIELD, R. A. . Development Of A High Through-Put Spectrophotometric Assay To Monitor Trypanosoma Cruzi Trans-Sialidase. Biochemical Society Transactions, Inglaterra, v. 24, p. 424S-425S, 1997.
+
+113.
+EGIMA, C. M. ; BRIONES, M. R. S. ; FREITAS-JUNIOR, L. H. G. ; G, L. H. ; Schenkman, S. ; UEMURA, H. . Organization Of Trans-Sialidase Genes In Trypanosoma Cruzi.. Molecular and Biochemical Parasitology, Holanda, v. 77, p. 115-125, 1996.
+Citações:18|22
+
+114.
+BRIONES, M. R. S. ; EGIMA, C. M. ; Schenkman, S. . Trypanosoma Cruzi Trans-Sialidase Gene Lacking Carboxy Terminal Repeats And Expressed In Epimastigote Forms.. Molecular and Biochemical Parasitology, Holanda, v. 70, p. 09-17, 1995.
+
+115.
+BRIONES, M. R. S. ; EGIMA, C. M. ; EICHINGER, D. ; Schenkman, S. . Trans-Sialidase Genes Expressed In Mammalian Forms Of Trypanosoma Cruzi Evolved From An Ancestor Gene Expressed In Insect Forms Of The Parasite.. Journal of Molecular Evolution, Estados Unidos, v. 41, p. 120-131, 1995.
+Citações:13|16
+
+116.
+AMINO, R. ; ACOSTA-SERRANO, A. ; MORITA, O. M. ; PEREIRA-CHIOCCOLA, V. L. ; Schenkman, S. . A Sialidase Activity In The Midgut Of The Insect Triatoma Infestans Is Responsible For The Low Levels Of Sialic Acid In Trypanosoma Cruzi Growing In The Insect Vector.. Glycobiology (Oxford), Etados Unidos, v. 5, p. 625-631, 1995.
+Citações:13|11
+
+117.
+ACOSTA-SERRANO, A. ; Schenkman, S. ; YOSHIDA, N. ; MEHLERT, A. ; RICHARDSON, J. M. ; FERGUSON, M. A. . The Lipid Structure Of The Gpi-Anchored Mucin-Like Sialic Acid Acceptors Of Trypanosoma Cruzi Changes During Parasite Differentiation From Epimastigotes To Infective Metacyclic Trypomastigote Forms.. Journal of Biological Chemistry, Estados Unidos, v. 270, p. 27244-27253, 1995.
+Citações:104
+
+118.
+Schenkman, S.; CHAVES, L. B. ; CARVALHO, L. P. ; EICHINGER, D. E. . A Proteolytical Fragment Of Trypanosoma Cruzi Trans--Sialidase Lacking The Carboxyl-Terminal Domain Is Active, Monomeric And Generates Antibodies That Inhibit Enzymatic Activity.. The Journal of Biological Chemistry, Estados Unidos, v. 269, p. 7970-7975, 1994.
+Citações:58|58
+
+119.
+ACOSTA-SERRANO, A. ; SCHENKMAN, R. P. F. ; Schenkman, S. . Sialic Acid Acceptors Of Different Stages Of Trypanosoma Cruzi Are Mucin-Like Glycoproteins Linked To The Parasite Membrane By Gpi Anchors.. Brazilian Journal of Medical and Biological Research, Brasil, v. 27, p. 439-442, 1994.
+Citações:12|10
+
+120.
+ALMEIDA, I. C. ; FERGUSON, M. A. ; Schenkman, S. ; TRAVASSOS, L. R. . Gpi-Anchored Glycoconjugates From Trypanosoma Cruzi Trypomastigotes Are Recongized By Lytic Anti-Alfa-Galactosyl Antibodies Isolated From Patients With Chronic Chagas' Disease.. Brazilian Journal of Medical and Biological Research, Brasil, v. 27, p. 443-447, 1994.
+
+121.
+PEREIRA-CHIOCCOLA, V. L. ; Schenkman, S. ; KLOETZEL, J. K. . Sera From Chronic Chagasic Patients And Rodents Infected With Trypanosoma Cruzi Inhibit Trans-Sialidase And Recognize Its Amino-Terminal Domain.. Infection and Immunity, Estados Unidos, v. 62, p. 2973-2978, 1994.
+Citações:25|27
+
+122.
+ Schenkman, S.; EICHINGER, D. ; PEREIRA, M. E. ; NUSSENZWEIG, V. . Structural and Functional Properties of Trypanosoma Trans-Sialidase. Annual Review of Microbiology (Print), Estados Unidos, v. 48, p. 499-523, 1994.
+Citações:219|226
+
+123.
+ALMEIDA, I. C. ; FERGUSON, M. A. ; Schenkman, S. ; TRAVASSOS, L. R. . Lytic Anti-Alfa-Galactosyl Antibodies From Patients With Chronic Chagas Disease Recognize Novel O-Linked Oligosaccharides On Mucin-Like Glycosylphosphbatid;Ylinositol-Anchored Glycoproteins Of Trypanosoma Cruzi. Biochemical Journal (London), Estados Unidos, v. 304, p. 793-802, 1994.
+Citações:135|154
+
+124.
+BRIONES, M. R. S. ; EGIMA, C. M. ; ACOSTA-SERRANO, A. ; Schenkman, S. . Trans-Sialidase And Sialic Acid Acceptors From Insect To Mammalian Stages Of Trypanosoma Cruzi.. Experimental Parasitology, Estados Unidos, v. 79, p. 211-214, 1994.
+Citações:10|10
+
+125.
+SCHENKMAN, R. P. F. ; VANDEKERCKHOVE, F. ; Schenkman, S. . Mammalian Cell Sialic Acid Enhances Invasion By Trypanosoma Cruzi. Infection and Immunity, Estados Unidos, v. 61, p. 898-902, 1993.
+Citações:76|72
+
+126.
+Schenkman, S.; EICHINGER, D. . Trypanosoma Cruzi Trans-Sialidase And Cell Invasion. Parasitology Today, Inglaterra, v. 9, p. 218-222, 1993.
+Citações:99|101
+
+127.
+Schenkman, S.; CHAVES, L. B. ; BRIONES, M. R. S. . Trans-sialidase from Trypanosoma cruzi epimastigotes is expressed at the stationary phase and is different from the enzyme expressed in trypomastigotes. Molecular and Biochemical Parasitology (Print), v. 61, p. 97-106, 1993.
+Citações:29|35
+
+128.
+ Schenkman, S.; FERGUSON, M. A. ; HEISE, N. ; ALMEIDA, M. L. C. ; MORTARA, R. A. ; YOSHIDA, N. . Mucin-Like Glycoproteins Linked To The Membrane By Gpi Anchor Are The Major Acceptor Of Sialic Acid In A Reaction Catalyzed By Trans-Sialidase In Metacyclic Forms Of Trypanosoma Cruzi. Molecular and Biochemical Parasitology, Holanda, v. 59, p. 293-304, 1993.
+Citações:162|156
+
+129.
+Schenkman, S.; CARVALHO, L. P. ; NUSSENZWEIG, V. . Trypanosoma Cruzi Trans-Sialidase And Neuraminidase Activities Can Be Mediated By The Same Enzymes. Journal of Experimental Medicine, Estados Unidos, v. 175, p. 567-575, 1992.
+Citações:109|95
+
+130.
+Schenkman, S.; MORTARA, R. A. . Hela Cells Extend And Internalize Kpseudopodia During Active Invasion By Trypanosoma Cruzi Trypomastigotes. Journal of Cell Science, Inglaterra, v. 101, p. 1635-1641, 1992.
+
+131.
+Schenkman, S.; KUROSAKI, T. ; RAVETCH, J. V. ; NUSSENZWEIG, V. . Evidence For The Participation Of The Ssp-3 Antigen In Athe Invasion Of Non-Phagocytic Mammalian Cells By Trypanosoma Cruzi. Journal of Experimental Medicine, Estados Unidos, v. 175, p. 1635-1641, 1992.
+Citações:40|40
+
+132.
+FREVERT, U. ; Schenkman, S. ; NUSSENZWEIG, V. . Stage-Specific Expression And Intracellular Shedding Of The Cell Surface Trans-Sialidase Of Trypanosoma Cruzi. Infection and Immunity, Estados Unidos, v. 60, p. 2349-2360, 1992.
+
+133.
+UEMURA, H. ; Schenkman, S. ; NUSSENZWEIG, V. ; EICHINGER, D. . Only Some Members Of A Gene Family In Trypanosoma Cruzi Encode Proteins Which Express Both Trans-Sialidase And Neuraminidase. EMBO Journal, v. 11, p. 3837-3844, 1992.
+
+134.
+VANDEKERCKHOVE, F. ; Schenkman, S. ; CARVALHO, L. P. ; TOMLINSON, S. ; KISO, M. ; YOSHIDA, M. ; HASEGAWA, A. ; NUSSENZWEIG, V. . Substrate Specificity Of The Trypanosoma Cruzi Trans-Sialidase. Glycobiology (Oxford), Inglaterra, v. 2, p. 541-548, 1992.
+Citações:103|104
+
+135.
+Schenkman, S.; DIAZ, C. ; NUSSENZWEIG, V. . Attachment Of Trypanosoma Cruzi Trypomastigotes To Receptors At Restricted Cell Surface Domains. Experimental Parasitology, Estados Unidos, v. 72, p. 76-86, 1991.
+Citações:67|57
+
+136.
+Schenkman, S.; ROBBINS, E. S. ; NUSSENZWEIG, V. . Attachment Of Trypanosoma Cruzi To Mammalian Cells Requires Parasite Energy And Invasion Can Be Independent Of The Target Cell Cytoskeleton. Infection and Immunity, Estados Unidos, v. 59, p. 645-654, 1991.
+
+137.
+METZ, C. N. ; Schenkman, S. ; DAVITZ, M. . Characterization Of The Plasma Glycosylphosphatidyl-Inositol-Specific phospholipase( Gpi-Pld). CELL BIOLOGY INTERNATIONAL REPORTS, Inglaterra, v. 15, p. 875-881, 1991.
+
+138.
+ Schenkman, S.; JIANG, M. ; HART, G. W. ; NUSSENZWEIG, V. . A novel cell surface trans-sialidase of trypanosoma cruzi generates a stage-specific epitope required for invasion of mammalian cells. Cell (Cambridge), Estados Unidos, v. 65, p. 1117-1125, 1991.
+Citações:341|297
+
+139.
+DAVITZ, M. A. ; HOM, J. ; Schenkman, S. . Purification Of A Glycosylphosphatidylinositol Specific Phospholipase D From Human Plasma. The Journal of Biological Chemistry, Estados Unidos, v. 264, p. 13760-13764, 1989.
+Citações:125|90
+
+140.
+TABA, M. R. M. ; SILVEIRA, J. F. ; TRAVASSOS, L. R. ; Schenkman, S. . Expression In Escherichia Coli Of A Diagnostic Antigen Of Paracoccidioides Brasiliensis. Experimental Mycology, Estados Unidos, v. 13, p. 223-320, 1989.
+Citações:15|14
+
+141.
+GUTHER, M. L. S. ; TRAVASSOS, L. R. ; Schenkman, S. . Identification Of C3 Acceptors Responsible For Complement Activation In Crithidia Fasciculata. Journal of Protozoology, Estados Unidos, v. 35, p. 475-480, 1988.
+
+142.
+Schenkman, S.; YOSHIDA, N. ; ALMEIDA, M. L. C. . Glycophosphatidylinositol-Anchored Proteins In Metacyclic Trypomastigotes Of Trypanosoma Cruzi. Molecular and Biochemical Parasitology, Holanda, v. 29, p. 141-152, 1988.
+Citações:63|45
+
+143.
+Schenkman, S.; ANDREWS, N. ; NUSSENZWEIG, V. ; ROBBINS, E. S. . Trypanosoma Cruzi Invade A Mammalian Epithelial Cell In A Polarized Manner. Cell (Cambridge), Estados Unidos, v. 55, p. 157-165, 1988.
+Citações:64|47
+
+144.
+STAMBUCK, B. U. ; PUCCIA, R. ; ALMEIDA, M. L. C. ; TRAVASSOS, L. R. ; Schenkman, S. . Secretion Of The 43 Kda Glycoprotein Antigen By Paracoccidioides Brasiliensis. Journal of Medical and Veterinary Mycology, Estados Unidos, v. 26, p. 367-373, 1988.
+
+145.
+ALMEIDA, M. L. C. ; PUCCIA, R. ; TURNER, M. J. ; STAMBUCK, B. U. ; Schenkman, S. . Identification Of An Acid-Lipase In Human Serum Which Is Capable Of Solubilizing Glycophosphatidiylinositol-Anchored Proteins. Biochemical and Biophysical Research Communications, Estados Unidos, v. 150, p. 476-482, 1988.
+Citações:52|32
+
+146.
+PUCCIA, R. ; GORIN, P. A. J. ; Schenkman, S. ; TRAVASSOS, L. R. . Exocellular Components Of Paracoccidioides Brasienesis. Identificationof An Specific Antigene. Infection and Immunity, Estados Unidos, v. 53, p. 199-206, 1986.
+Citações:155|156
+
+147.
+Schenkman, S.; GUTHER, M. L. S. ; YOSHIDA, N. . Mechanisms Of Resistance To Lysis ByThe Alternative Pathway In Trypanosoma Cruzi Trypomastigotes. Journal of Immunology (Baltimore), Estados Unidos, v. 137, p. 1623-1628, 1986.
+Citações:33|17
+
+148.
+GARCIA, L. A. M. ; Schenkman, S. ; ARAUJO, P. S. ; CHAIMOVICH, H. . Fusion Of Small Unilamellar Vesicles Induced By Serum Albumin Fragments. Brazilian Journal of Medical and Biological Research, Brasil, v. 16, p. 89-96, 1984.
+Citações:12|14
+
+149.
+CAMERON, G. ; Schenkman, S. ; ROSENBUCH, J. P. . Locating Peptides Generated By Limited Proteolysis In Know Sequences By Means Of Computer Search. Biochemical and Biophysical Research Communications, Estados Unidos, v. 125, p. 626-930, 1984.
+
+150.
+Schenkman, S.; TSUGITA, A. ; SCHWARTZ, M. ; ROSENBUCH, J. P. . Topology Of Phage Lambda Receptor Protein. Mapping Targets Of Proteolytic Cleavage In Relation To Binding Sites For Phage Or Monoclonal Antibodies. The Journal of Biological Chemistry, Estados Unidos, v. 259, p. 7570-7576, 1984.
+Citações:44|29
+
+151.
+COUTURE, E. ; Schenkman, S. ; SCHWARTZ, M. . Monoclonal Antibodies Reveal Lamb Antigenic Determinants On Both Faces Of The Escherichia Coli Outer Membrane. Journal of Bacteriology, Estados Unidos, v. 155, p. 1382-1392, 1983.
+Citações:22|9
+
+152.
+Schenkman, S.; ARAUJO, P. S. ; SESSO, A. ; QUINA, F. H. ; CHAIMOVICH, H. . A Kinetic And Structural Study Of A Two Step Aggregation And Fusion Of Neutral Phospholipid Vesicles Promoted By Serum Albumin At Low Ph. Chemistry and Physics of Lipids, Holanda, v. 28, p. 165-180, 1981.
+Citações:26|20
+
+153.
+Schenkman, S.; ARAUJO, P. S. ; DIJKMAN, R. ; QUINA, F. H. ; CHAIMOVICH, H. . Effect Of Temperature And Lipid Composition On The Serum Albumin Induced Fusion Of Single Unilamellar Vesicles. Biochimica et Biophysica Acta, Holanda, v. 649, p. 633-641, 1981.
+Citações:75

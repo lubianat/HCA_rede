@@ -1,0 +1,376 @@
+1.
+RAMOS, PATRÍCIA L. ; KONDO, MÁRCIA Y. ; SANTOS, SAARA M. B. ; DE VASCONCELLOS, SUZAN P. ; ROCHA, RAFAEL C. S. ; DA CRUZ, JOÃO B. ; EUGENIO, PATRÍCIA F. M. ; CABRAL, HAMILTON ; JULIANO, MARIA A. ; JULIANO, LUIZ ; Setubal, João C. ; DA SILVA, ALINE M. ; CAPPELINI, LUCIANA T. D. . A Tropical Composting Operation Unit at São Paulo Zoo as a Source of Bacterial Proteolytic Enzymes. APPLIED BIOCHEMISTRY AND BIOTECHNOLOGY, v. 187, p. 282-297, 2019.
+
+2.
+AMANN, RUDOLF I. BAICHOO, SHAKUNTALA BLENCOWE, BENJAMIN J. BORK, PEER BORODOVSKY, MARK BROOKSBANK, CATH CHAIN, PATRICK S. G. COLWELL, RITA R. DAFFONCHIO, DANIELE G. DANCHIN, ANTOINE DE LORENZO, VICTOR DORRESTEIN, PIETER C. FINN, ROBERT D. FRASER, CLAIRE M. GILBERT, JACK A. HALLAM, STEVEN J. HUGENHOLTZ, PHILIP IOANNIDIS, JOHN P. A. JANSSON, JANET K. KIM, JIHYUN F. KLENK, HANS-PETER KLOTZ, MARTIN G. KNIGHT, ROB KONSTANTINIDIS, KONSTANTINOS T. KYRPIDES, NIKOS C. , et al. ; Toward unrestricted use of public genomic data. SCIENCE, v. 363, p. 350-352, 2019.
+
+3.
+THOMAS, ANDREW MALTEZ MANGHI, PAOLO ASNICAR, FRANCESCO PASOLLI, EDOARDO ARMANINI, FEDERICA ZOLFO, MORENO BEGHINI, FRANCESCO MANARA, SERENA KARCHER, NICOLAI POZZI, CHIARA GANDINI, SARA SERRANO, DAVIDE TARALLO, SONIA FRANCAVILLA, ANTONIO GALLO, GAETANO TROMPETTO, MARIO FERRERO, GIULIO MIZUTANI, SAYAKA SHIROMA, HIROTSUGU SHIBA, SATOSHI SHIBATA, TATSUHIRO YACHIDA, SHINICHI YAMADA, TAKUJI WIRBEL, JAKOB SCHROTZ-KING, PETRA , et al. ; Metagenomic analysis of colorectal cancer datasets identifies cross-cohort microbial diagnostic signatures and a link with choline degradation. NATURE MEDICINE, v. 25, p. 667-678, 2019.
+
+4.
+TANG, FENNY H. F. ; STAQUICINI, FERNANDA I. ; TEIXEIRA, ANDRÉ A. R. ; MICHALOSKI, JUSSARA S. ; NAMIYAMA, GISLENE M. ; TANIWAKI, NOEMI N. ; Setubal, João C. ; DA SILVA, ALINE M. ; SIDMAN, RICHARD L. ; Pasqualini, Renata ; Arap, Wadih ; Giordano, Ricardo J. . A ligand motif enables differential vascular targeting of endothelial junctions between brain and retina. PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA, v. 116, p. 201809483-2305, 2019.
+
+5.
+RANGEL, LUIZ THIBERIO ; MARDEN, JEREMIAH ; COLSTON, SOPHIE ; SETUBAL, JOÃO CARLOS ; GRAF, JOERG ; GOGARTEN, JOHANN PETER . Identification and characterization of putative Aeromonas spp. T3SS effectors. PLoS One, v. 14, p. e0214035, 2019.
+
+6.
+SILVA, NATALIA MARIA ; DE OLIVEIRA, ALINE MÁRCIA SILVA ARAÚJO ; PEGORIN, STEFANIA ; GIUSTI, CAMILA ESCANDURA ; FERRARI, VITOR BATISTA ; BARBOSA, DEIBS ; MARTINS, LAYLA FARAGE ; MORAIS, CARLOS ; SETUBAL, JOÃO CARLOS ; VASCONCELLOS, SUZAN PANTAROTO ; DA SILVA, ALINE MARIA ; DE OLIVEIRA, JULIO CEZAR FRANCO ; PASCON, RENATA CASTIGLIONI ; VIANA-NIERO, CRISTINA . Characterization of novel hydrocarbon-degrading Gordonia paraffinivorans and Gordonia sihwensis strains isolated from composting. PLoS One, v. 14, p. e0215396, 2019.
+
+7.
+FACHI, JOSÉ LUÍS ; FELIPE, JAQUELINE DE SOUZA ; PRAL, LAÍS PASSARIELLO ; DA SILVA, BRUNA KARADI ; CORRÊA, RENAN OLIVEIRA ; DE ANDRADE, MIRELLA CRISTINY PEREIRA ; DA FONSECA, DENISE MORAIS ; BASSO, PAULO JOSÉ ; CÂMARA, NIELS OLSEN SARAIVA ; DE SALES E SOUZA, ÉRICKA LORENNA ; DOS SANTOS MARTINS, FLAVIANO ; GUIMA, SUZANA EIKO SATO ; THOMAS, ANDREW MALTEZ ; SETUBAL, JOÃO CARLOS ; MAGALHÃES, YULI THAMIRES ; FORTI, FÁBIO LUIS ; CANDREVA, THAMIRIS ; RODRIGUES, HOSANA GOMES ; DE JESUS, MARCELO BISPO ; CONSONNI, SÍLVIO ROBERTO ; FARIAS, ALESSANDRO DOS SANTOS ; VARGA-WEISZ, PATRICK ; VINOLO, MARCO AURÉLIO RAMIREZ . Butyrate Protects Mice from Clostridium difficile-Induced Colitis through an HIF-1-Dependent Mechanism. Cell Reports, v. 27, p. 750-761.e7, 2019.
+
+8.
+Patané, José S. L. ; MARTINS-JUNIOR, JOAQUIM ; RANGEL, LUIZ THIBERIO ; Varani, A. ; DIGIAMPIETRI, Luciano A. ; FACINCANI, AGDA P. ; WANG, NIAN ; FERRO, Jesus ; Almeida, N. F. ; Moreira, Leandro M ; Setubal, João C . Origin and diversification of Xanthomonas citri subsp. citri pathotypes revealed by inclusive phylogenomic, dating, and biogeographic analyses. BMC GENOMICS, v. 20, p. 700, 2019.
+
+9.
+BRAGA, STEFANIA PEGORIN ; DOS SANTOS, ALEXANDRE PAES ; PAGANINI, THAIS ; BARBOSA, DEIBS ; EPAMINO, GEORGE WILLIAN CONDOMITTI ; MORAIS, CARLOS ; MARTINS, LAYLA FARAGE ; SILVA, ALINE MARIA ; SETUBAL, JOÃO CARLOS ; VALLIM, MARCELO AFONSO ; PASCON, RENATA CASTIGLIONI . First report of cis-1,4-polyisoprene degradation by Gordonia paraffinivorans. BRAZILIAN JOURNAL OF MICROBIOLOGY, v. 19, p. e01431, 2019.
+
+10.
+FUKUMORI, CLAUDIO ; CASARO, MATEUS B. ; THOMAS, ANDREW M. ; MENDES, EDUARDO ; RIBEIRO, WILLIAN R. ; CRISMA, AMANDA R. ; MURATA, GILSON M. ; BIZZARRO, BRUNA ; DIAS-NETO, Emmanuel ; Setubal, Joao C. ; OLIVEIRA, MARIA A. ; TAVARES-DE-LIMA, WOTHAN ; CURI, RUI ; BORDIN, SILVANA ; SARTORELLI, PATRICIA ; FERREIRA, CAROLINE M. . Maternal supplementation with a synbiotic has distinct outcomes on offspring gut microbiota formation in A/J and C57BL/6 mice, differentially affecting airway inflammatory cell infiltration and mucus production. Journal of Functional Foods, v. 61, p. 103496, 2019.
+
+11.
+BRAGA, LUCAS P. P. ; SOUCY, SHANNON M. ; AMGARTEN, DEYVID E. ; DA SILVA, ALINE M. ; Setubal, João C. . Bacterial Diversification in the Light of the Interactions with Phages: The Genetic Symbionts and Their Role in Ecological Speciation. FRONTIERS IN ECOLOGY AND EVOLUTION, v. 6, p. fevo.2018.00006, 2018.
+
+12.
+DASILVA, LUCAS F. ; BECKEDORFF, FELIPE C. ; AYUPE, ANA C. ; AMARAL, MURILO S. ; MESEL, VINÍCIUS ; VIDEIRA, ALEXANDRE ; REIS, EDUARDO M. ; Setubal, João C. ; VERJOVSKI-ALMEIDA, Sergio . Chromatin Landscape Distinguishes the Genomic Loci of Hundreds of Androgen-Receptor-Associated LincRNAs From the Loci of Non-associated LincRNAs. Frontiers in Genetics, v. 9, p. 132, 2018.
+
+13.
+AMGARTEN, DEYVID ; BRAGA, LUCAS P. P. ; DA SILVA, ALINE M. ; Setubal, João C. . MARVEL, a Tool for Prediction of Bacteriophage Sequences in Metagenomic Bins. Frontiers in Genetics, v. 9, p. 304, 2018.
+
+14.
+PEREIRA, ADRIANA S. A. ; AMARAL, MURILO S. ; VASCONCELOS, ELTON J. R. ; PIRES, DAVID S. ; ASIF, HUMA ; DASILVA, LUCAS F. ; MORALES-VICENTE, DAVID A. ; CARNEIRO, VITOR C. ; ANGELI, CLAUDIA B. ; PALMISANO, GIUSEPPE ; FANTAPPIE, MARCELO R. ; PIERCE, RAYMOND J. ; Setubal, João C. ; VERJOVSKI-ALMEIDA, Sergio . Inhibition of histone methyltransferase EZH2 in Schistosoma mansoni in vitro by GSK343 reduces egg laying and decreases the expression of genes implicated in DNA replication and noncoding RNA metabolism. PLoS Neglected Tropical Diseases, v. 12, p. e0006873, 2018.
+
+15.
+PADOVANI DE SOUZA, KLEBER ; SETUBAL, JOÃO CARLOS ; PONCE DE LEON F. DE CARVALHO, ANDRÉ CARLOS ; OLIVEIRA, GUILHERME ; CHATEAU, ANNIE ; ALVES, RONNIE . Machine learning meets genome assembly. BRIEFINGS IN BIOINFORMATICS, v. 72, p. 1, 2018.
+
+16.
+RAMADAN, EMAN ; MAGED, MOHAMAD ; EL HOSSEINY, AHMED ; CHAMBERGO, FELIPE S. ; Setubal, João C. ; EL DORRY, HAMZA . Molecular adaptations of bacterial mercuric reductase to the hypersaline Kebrit Deep in the Red Sea. APPLIED AND ENVIRONMENTAL MICROBIOLOGY, v. 85, p. e01431, 2018.
+
+17.
+LEMOS, LEANDRO N. ; PEREIRA, ROBERTA V. ; QUAGGIO, RONALDO B. ; MARTINS, LAYLA F. ; MOURA, LIVIA M. S. ; DA SILVA, AMANDA R. ; ANTUNES, LUCIANA P. ; DA SILVA, ALINE M. ; Setubal, João C. . Genome-Centric Analysis of a Thermophilic and Cellulolytic Bacterial Consortium Derived from Composting. Frontiers in Microbiology, v. 8, p. 644, 2017.
+
+18.
+PUIGVERT, MARINA ; GUARISCHI-SOUSA, RODRIGO ; ZULUAGA, PAOLA ; COLL, NÚRIA S. ; MACHO, ALBERTO P. ; Setubal, João C. ; VALLS, MARC . Transcriptomes of Ralstonia solanacearum during Root Colonization of Solanum commersonii. Frontiers in Plant Science, v. 8, p. 370, 2017.
+
+19.
+PATANÉ, JOSÉ S.L. ; MARTINS, JOAQUIM ; CASTELÃO, ANA BEATRIZ ; NISHIBE, CHRISTIANE ; MONTERA, LUCIANA ; BIGI, FABIANA ; ZUMÁRRAGA, MARTIN J. ; CATALDI, ANGEL A. ; JUNIOR, ANTÔNIO FONSECA ; ROXO, ELIANA ; OSÓRIO, ANA LUIZA A.R. ; JORGE, KLAUDIA S. ; THACKER, TYLER C. ; Almeida, Nalvo F. ; ARAÚJO, FLABIO R. ; Setubal, João C. . Patterns and Processes of Mycobacterium bovis Evolution Revealed by Phylogenomic Analyses. Genome Biology and Evolution, v. 9, p. 521-535, 2017.
+
+20.
+ERILL, IVAN ; PUIGVERT, MARINA ; LEGRAND, LUDOVIC ; GUARISCHI-SOUSA, RODRIGO ; VANDECASTEELE, CÉLINE ; Setubal, João C. ; GENIN, STEPHANE ; GUIDOT, ALICE ; VALLS, MARC . Comparative Analysis of Ralstonia solanacearum Methylomes. Frontiers in Plant Science, v. 8, p. 504, 2017.
+
+21.
+AMGARTEN, DEYVID ; MARTINS, LAYLA FARAGE ; LOMBARDI, KAREN CRISTINA ; ANTUNES, LUCIANA PRINCIPAL ; DE SOUZA, ANA PAULA SILVA ; NICASTRO, GIANLUCCA GONÇALVES ; KITAJIMA, ELLIOTT WATANABE ; QUAGGIO, RONALDO BENTO ; UPTON, CHRIS ; SETUBAL, JOÃO CARLOS ; DA SILVA, ALINE MARIA . Three novel Pseudomonas phages isolated from composting provide insights into the evolution and diversity of tailed phages. BMC GENOMICS, v. 18, p. 346, 2017.
+
+22.
+Moreira, Leandro M. ; SOARES, MÁRCIA R. ; FACINCANI, AGDA P. ; FERREIRA, CRISTIANO B. ; FERREIRA, RAFAEL M. ; Ferro, Maria I. T. ; GOZZO, FÁBIO C. ; FELESTRINO, ÉRICA B. ; ASSIS, RENATA A. B. ; GARCIA, CAMILA CARRIÃO M. ; Setubal, João C. ; FERRO, JESUS A. ; DE OLIVEIRA, JULIO C.F. . Proteomics-based identification of differentially abundant proteins reveals adaptation mechanisms of Xanthomonas citri subsp. citri during Citrus sinensis infection. BMC MICROBIOLOGY, v. 17, p. 155, 2017.
+Citações:1
+
+23.
+WANG, NIAN ; PIERSON, ELIZABETH A. ; SETUBAL, JOÃO CARLOS ; XU, JIN ; LEVY, JULIEN G. ; ZHANG, YUNZENG ; LI, JINYUN ; RANGEL, LUIZ THIBERIO ; MARTINS, JOAQUIM . The Candidatus Liberibacter-Host Interface: Insights into Pathogenesis Mechanisms and Disease Control. Annual Review of Phytopathology, v. 55, p. 451-482, 2017.
+
+24.
+MENDES, EDUARDO ; ACETTURI, BEATRIZ G. ; THOMAS, ANDREW M. ; MARTINS, FLAVIANO DOS S. ; CRISMA, AMANDA R. ; MURATA, GILSON ; BRAGA, TÁRCIO T. ; CAMÂRA, NIELS O. S. ; FRANCO, ADRIANA L. DOS S. ; Setubal, João C. ; RIBEIRO, WILLIAN R. ; VALDUGA, CLAUDETE J. ; CURI, RUI ; DIAS-NETO, Emmanuel ; TAVARES-DE-LIMA, WOTHAN ; FERREIRA, CAROLINE M. . Prophylactic Supplementation of Bifidobacterium longum 51A Protects Mice from Ovariectomy-Induced Exacerbated Allergic Airway Inflammation and Airway Hyperresponsiveness. Frontiers in Microbiology, v. 8, p. 1732, 2017.
+
+25.
+MORAES, LAURO ÂNGELO GONÇALVES DE ; FELESTRINO, ÉRICA BARBOSA ; ASSIS, RENATA DE ALMEIDA BARBOSA ; MATOS, DIOGO ; LIMA, JOUBERT DE CASTRO ; LIMA, LEANDRO DE ARAÚJO ; ALMEIDA, NALVO FRANCO ; SETUBAL, JOÃO CARLOS ; GARCIA, CAMILA CARRIÃO MACHADO ; MOREIRA, LEANDRO MARCIO . TabPath: interactive tables for metabolic pathway analysis. BIOINFORMATICS, v. 34, p. 1040-1042, 2017.
+
+26.
+ASSIS, RENATA DE A. B. ; POLLONI, LORRAINE CRISTINA ; Patané, José S. L. ; THAKUR, SHALABH ; FELESTRINO, ÉRICA B. ; DIAZ-CABALLERO, JULIO ; DIGIAMPIETRI, LUCIANO ANTONIO ; GOULART, LUIZ RICARDO ; Almeida, Nalvo F. ; NASCIMENTO, RAFAEL ; DANDEKAR, ABHAYA M. ; ZAINI, PAULO A. ; Setubal, João C. ; Guttman, David S. ; MOREIRA, LEANDRO MARCIO . Identification and analysis of seven effector protein families with different adaptive and evolutionary histories in plant-associated members of the Xanthomonadaceae. Scientific Reports, v. 7, p. 16133, 2017.
+
+27.
+ROSSI, F ; GIRARDELLO, R ; MORAIS, C ; CURY, AP ; MARTINS, LF ; SILVA, AM ; ABDALA, E ; SETUBAL, JC ; DUARTE, AJ . Plasmid-mediated mcr-1 in carbapenem-susceptible Escherichia coli ST156 causing a blood infection: an unnoticeable spread of colistin resistance in Brazil?. Clinics, v. 72, p. 642-644, 2017.
+
+28.
+GUARISCHI-SOUSA, RODRIGO ; PUIGVERT, MARINA ; COLL, NÚRIA S. ; SIRI, MARÍA INÉS ; PIANZZOLA, MARÍA JULIA ; VALLS, MARC ; Setubal, João C. . Complete genome sequence of the potato pathogen Ralstonia solanacearum UY031. Standards in Genomic Sciences, v. 11, p. 7, 2016.
+Citações:5|5
+
+29.
+LIMA-JUNIOR, JAMES DALTRO ; VIANA-NIERO, CRISTINA ; CONDE OLIVEIRA, DANIEL V. ; MACHADO, GABRIEL ESQUITINI ; RABELLO, MICHELLE CRISTIANE DA SILVA ; MARTINS-JUNIOR, JOAQUIM ; MARTINS, LAYLA FARAGE ; DIGIAMPIETRI, LUCIANO ANTONIO ; DA SILVA, ALINE MARIA ; SETUBAL, JOÃO CARLOS ; RUSSELL, DANIEL A. ; JACOBS-SERA, DEBORAH ; POPE, WELKIN H. ; HATFULL, GRAHAM F. ; LEÃO, SYLVIA CARDOSO . Characterization of mycobacteria and mycobacteriophages isolated from compost at the São Paulo Zoo Park Foundation in Brazil and creation of the new mycobacteriophage Cluster U. BMC Microbiology (Online), v. 16, p. 111, 2016.
+Citações:1|1
+
+30.
+ANTUNES, LUCIANA PRINCIPAL ; MARTINS, LAYLA FARAGE ; PEREIRA, ROBERTA VERCIANO ; THOMAS, ANDREW MALTEZ ; BARBOSA, DEIBS ; LEMOS, LEANDRO NASCIMENTO ; SILVA, GIANLUCA MAJOR MACHADO ; MOURA, LIVIA MARIA SILVA ; EPAMINO, GEORGE WILLIAN CONDOMITTI ; DIGIAMPIETRI, LUCIANO ANTONIO ; LOMBARDI, KAREN CRISTINA ; RAMOS, PATRICIA LOCOSQUE ; QUAGGIO, RONALDO BENTO ; DE OLIVEIRA, JULIO CEZAR FRANCO ; PASCON, RENATA CASTIGLIONI ; CRUZ, JOÃO BATISTA DA ; DA SILVA, ALINE MARIA ; SETUBAL, JOÃO CARLOS . Microbial community structure and dynamics in thermophilic composting viewed through metagenomics and metatranscriptomics. Scientific Reports, v. 6, p. 38915, 2016.
+
+31.
+PAEZ-ESPINO, DAVID CHEN, I.-MIN A. PALANIAPPAN, KRISHNA RATNER, ANNA CHU, KEN SZETO, ERNEST PILLAY, MANOJ HUANG, JINGHUA MARKOWITZ, VICTOR M. NIELSEN, TORBEN HUNTEMANN, MARCEL K. REDDY, T. B. PAVLOPOULOS, GEORGIOS A. SULLIVAN, MATTHEW B. CAMPBELL, BARBARA J. CHEN, FENG MCMAHON, KATHERINE HALLAM, STEVE J. DENEF, VINCENT CAVICCHIOLI, RICARDO CAFFREY, SEAN M. STREIT, WOLFGANG R. WEBSTER, JOHN HANDLEY, KIM M. SALEKDEH, GHASEM H. , et al. ; IMG/VR: a database of cultured and uncultured DNA Viruses and retroviruses. Nucleic Acids Research (Online), v. 45, p. D457-D465, 2016.
+Citações:10|3
+
+32.
+ALMEIDA, DIEGO DANTAS ; KITAJIMA, JOÃO PAULO ; NISHIYAMA, MILTON YUTAKA ; CONDOMITTI, GEORGE WILLIAN ; OLIVEIRA, URSULA CASTRO DE ; SETÚBAL, JOÃO CARLOS ; JUNQUEIRA-DE-AZEVEDO, INÁCIO L. M. . The complete mitochondrial genome of Bothrops jararaca (Reptilia, Serpentes, Viperidae). Mitochondrial DNA Part B, v. 1, p. 907-908, 2016.
+
+33.
+Setubal, Joao C. Desconcertos na Ciência. Revista Brasileira de Psicanálise (Impresso), v. 50, p. 145-152, 2016.
+
+34.
+THOMAS, ANDREW M. ; JESUS, ELIANE C. ; LOPES, ADEMAR ; AGUIAR, SAMUEL ; BEGNAMI, MARIA D. ; ROCHA, RAFAEL M. ; CARPINETTI, PAOLA AVELAR ; CAMARGO, ANAMARIA A. ; HOFFMANN, CHRISTIAN ; FREITAS, HELANO C. ; SILVA, ISRAEL T. ; Nunes, Diana N. ; Setubal, João C. ; DIAS-NETO, Emmanuel . Tissue-Associated Bacterial Alterations in Rectal Carcinoma Patients Revealed by 16S rRNA Community Profiling. Frontiers in Cellular and Infection Microbiology, v. 6, p. 00179, 2016.
+
+35.
+ZHANG, YUNZENG ; JALAN, NEHA ; ZHOU, XIAOFENG ; GOSS, ERICA ; Jones, Jeffrey B ; Setubal, João C ; DENG, XIAOLING ; WANG, NIAN . Positive selection is the main driving force for evolution of citrus canker-causing Xanthomonas. The ISME Journal (Print), v. 15, p. 1-11, 2015.
+Citações:3|6
+
+36.
+SCHWARTZ, ALLISON R. ; Potnis, Neha ; TIMILSINA, SUJAN ; WILSON, MARK ; PATANÉ, JOSÉ ; MARTINS, JOAQUIM ; MINSAVAGE, GERALD V. ; DAHLBECK, DOUGLAS ; AKHUNOVA, ALINA ; ALMEIDA, NALVO ; VALLAD, GARY E. ; BARAK, JERI D. ; WHITE, FRANK F. ; MILLER, SALLY A. ; RITCHIE, DAVID ; GOSS, ERICA ; BART, REBECCA S. ; Setubal, João C. ; Jones, Jeffrey B. ; STASKAWICZ, BRIAN J. . Phylogenomics of Xanthomonas field strains infecting pepper and tomato reveals diversity in effector repertoires and identifies determinants of host specificity. Frontiers in Microbiology (Online), v. 6, p. 535, 2015.
+Citações:14|22
+
+37.
+Setubal, Joao C.; ALMEIDA, NALVO . TCBB Special Section on the Brazilian Symposium on Bioinformatics 2013. IEEE/ACM Transactions on Computational Biology and Bioinformatics (Print), v. 12, p. 499-499, 2015.
+
+38.
+ANDERSON, LETÍCIA ; AMARAL, MURILO S. ; BECKEDORFF, FELIPE ; SILVA, LUCAS F. ; DAZZANI, BIANCA ; OLIVEIRA, KATIA C. ; ALMEIDA, GIULLIANA T. ; GOMES, MONETE R. ; PIRES, DAVID S. ; Setubal, João C. ; DeMarco, Ricardo ; VERJOVSKI-ALMEIDA, Sergio . Schistosoma mansoni Egg, Adult Male and Female Comparative Gene Expression Analysis and Identification of Novel Genes by RNA-Seq. PLoS Neglected Tropical Diseases (Online), v. 9, p. e0004334, 2015.
+Citações:9|5
+
+39.
+FERREIRA, ARI J. S. ; SIAM, RANIA ; Setubal, João C. ; MOUSTAFA, AHMED ; SAYED, AHMED ; CHAMBERGO, FELIPE S. ; DAWE, ADAM S. ; GHAZY, MOHAMED A. ; SHARAF, HAZEM ; OUF, AMGED ; ALAM, INTIKHAB ; ABDEL-HALEEM, ALYAA M. ; LEHVASLAIHO, HEIKKI ; RAMADAN, EMAN ; ANTUNES, ANDRÉ ; STINGL, ULRICH ; ARCHER, JOHN A. C. ; JANKOVIC, BORIS R. ; SOGIN, MITCHELL ; BAJIC, VLADIMIR B. ; EL-DORRY, HAMZA . Core Microbial Functional Activities in Ocean Environments Revealed by Global Metagenomic Profiling Analyses. Plos One, v. 9, p. e97338, 2014.
+Citações:8|11
+
+40.
+TORTO-ALALIBO, TRUDY ; PURWANTINI, ENDANG ; LOMAX, JANE ; SETUBAL, JOÃ£O C. ; MUKHOPADHYAY, BISWARUP ; TYLER, BRETT M. . Genetic resources for advanced biofuel production described with the Gene Ontology. Frontiers in Microbiology (Online), v. 5, p. 5:528, 2014.
+Citações:6|6
+
+41.
+PURWANTINI, ENDANG ; TORTO-ALALIBO, TRUDY ; LOMAX, JANE ; SETUBAL, JOÃ£O C. ; TYLER, BRETT M. ; MUKHOPADHYAY, BISWARUP . Genetic resources for methane production from biomass described with the Gene Ontology. Frontiers in Microbiology (Online), v. 5, p. 634, 2014.
+Citações:2|3
+
+42.
+THOMAS, ANDREW ; GLEBER-NETTO, FREDERICO ; FERNANDES, GUSTAVO ; AMORIM, MARIA ; BARBOSA, LUISA ; FRANCISCO, ANA ; GUERRA DE ANDRADE, ARTHUR ; Setubal, João ; KOWALSKI, LUIZ ; NUNES, DIANA ; DIAS-NETO, Emmanuel . Alcohol and tobacco consumption affects bacterial richness in oral cavity mucosa biofilms. BMC Microbiology (Online), v. 14, p. 250, 2014.
+Citações:3|15
+
+43.
+RAJASEKARAN, PARTHIBAN ; ALEXANDER, JEFFRY C. ; SELEEM, MOHAMED N. ; JAIN, NEETA ; SRIRANGANATHAN, NAMMALWAR ; WATTAM, ALICE R. ; Setubal, João C. ; BOYLE, STEPHEN M. . Peptide nucleic acids inhibit growth of Brucella suis in pure culture and in infected murine macrophages. International Journal of Antimicrobial Agents (Print), v. 41, p. 500, 2013.
+Citações:15|16
+
+44.
+MARTINS, L. F. ; ANTUNES, L. P. ; PASCON, R. ; OLIVEIRA, Julio Cezar de ; DIGIAMPIETRI, Luciano A. ; BARBOSA, D. ; PEIXOTO, B. M. ; VALLIM, M. A. ; VIANA-NIERO, C. ; Ostroski, Eric H ; TELLES, G. ; DIAS, Z. ; CRUZ, J. B. ; JULIANO NETO, L. ; VERJOVSKI-ALMEIDA, Sergio ; da Silva, Aline M ; Setubal, J.C. . Metagenomic Analysis of a Tropical Composting Operation at the São Paulo Zoo Park Reveals Diversity of Biomass Degradation Functions and Organisms. Plos One, v. 8, p. e61928, 2013.
+Citações:21|16
+
+45.
+JALAN, NEHA ; KUMAR, DIBYENDU ; ANDRADE, MAXUEL O ; YU, FAHONG ; Jones, Jeffrey B ; GRAHAM, JAMES H ; White, Frank F ; Setubal, João C ; WANG, NIAN . Comparative genomic and transcriptome analyses of pathotypes of Xanthomonas citri subsp. citri provide insights into mechanisms of bacterial virulence and host range. BMC Genomics, v. 14, p. 551, 2013.
+Citações:16|16
+
+46.
+WULFF, NELSON ARNO ; ZHANG, SHUJIAN ; Setubal, João C ; Almeida, Nalvo F ; MARTINS, ELAINE C ; Harakava, Ricardo ; KUMAR, DIBYENDU ; RANGEL, LUIZ T ; FOISSAC, XAVIER ; BOVE, JOSEPH ; GABRIEL, DEAN W . The complete genome sequence of Candidatus Liberibacter americanus, associated with citrus Huanglongbing.. Molecular Plant-Microbe Interactions, v. 27, p. 131107142521009, 2013.
+Citações:12|25
+
+47.
+SAYED, A. ; GHAZY, M. A. ; Ferreira, A. J. S. ; SETUBAL, J. C. ; CHAMBERGO, F. S. ; OUF, A. ; ADEL, M. ; DAWE, A. S. ; ARCHER, J. A. C. ; BAJIC, V. B. ; SIAM, R. ; El-Dorry, H. . A novel mercuric reductase from the unique deep brine environment of Atlantis II in the Red Sea. The Journal of Biological Chemistry (Print), v. 289, p. 1675-1687, 2013.
+Citações:6
+
+48.
+PASCHOAL, A. R. ; MARACAJA-COUTINHO, V. ; Setubal, Joao C ; SIMOES, Z. L. P. ; VERJOVSKI-ALMEIDA, Sergio ; DURHAM, A. M. . Non-coding transcription characterization and annotation: A guide and web resource for non-coding RNA databases. RNA Biology, v. 9, p. 274-282, 2012.
+Citações:7|9
+
+49.
+Dos Santos, Patricia C ; Fang, Zhong ; Mason, Steven W ; Setubal, João C ; Dixon, Ray . Distribution of nitrogen fixation and nitrogenase-like sequences amongst microbial genomes. BMC Genomics, v. 13, p. 162, 2012.
+Citações:56
+
+50.
+Dias, Zanoni ; Dias, Ulisses ; Setubal, Joao C . SIS: a program to generate draft genome sequence scaffolds for prokaryotes. BMC Bioinformatics, v. 13, p. 96, 2012.
+Citações:9|8
+
+51.
+Wattam, A. R. ; INZANA, T. J. ; Williams, K. P. ; Mane, S. P. ; Shukla, M. ; Almeida, N. F. ; Dickerman, A. W. ; MASON, S. ; MORIYON, I. ; O'CALLAGHAN, D. ; WHATMORE, A. M. ; Sobral, B. W. ; Tiller, R. V. ; Hoffmaster, A. R. ; Frace, M. A. ; DE CASTRO, C. ; MOLINARO, A. ; Boyle, S. M. ; De, B. K. ; SETUBAL, J. C. . Comparative Genomics of Early-Diverging Brucella Strains Reveals a Novel Lipopolysaccharide Biosynthesis Pathway. MBIO, v. 3, p. e00246-12-e00246-12, 2012.
+Citações:7|4
+
+52.
+WILSON, M. L. ; CAI, Y. ; HANLON, R. ; TAYLOR, S. ; CHEVREUX, B. ; SETUBAL, J. C. ; Tyler, B. M. ; PECCOUD, J. . Sequence verification of synthetic DNA by assembly of sequencing reads. Nucleic Acids Research (Online), v. 41, p. e25-e25, 2012.
+Citações:1|2
+
+53.
+SLATER, S. ; Setubal, Joao C ; HOUMIEL, K. ; SUN, J. ; KAUL, R. ; GOLDMAN, B. ; FARRAND, S. ; Almeida, Nalvo F ; BURR, T. ; NESTER, E. W. ; RHOADS, D. ; WELCH, R. ; WOOD, Derek W. . The Genome of Agrobacterium tumefaciens C58: Reconciliation of sequence data, updated annotation, and distribution of linear chromosome in genus Agrobacterium.. Applied and Environmental Microbiology (Print), p. 1414-1417, 2012.
+Citações:5|11
+
+54.
+Wibberg, Daniel ; Blom, Jochen ; Jaenicke, Sebastian ; Kollin, Florian ; Rupp, Oliver ; Scharf, Birgit ; Schneiker-Bekel, Susanne ; Sczcepanowski, Rafael ; Goesmann, Alexander ; Setubal, Joao Carlos ; Schmitt, Rüdiger ; Pühler, Alfred ; Schlüter, Andreas . Complete genome sequencing of Agrobacterium sp. H13-3, the former Rhizobium lupini H13-3, reveals a tripartite genome consisting of a circular and a linear chromosome and an accessory plasmid but lacking a tumor-inducing Ti-plasmid. Journal of Biotechnology, v. 155, p. 50-62, 2011.
+Citações:48|43
+
+55.
+Potnis, Neha ; Krasileva, Ksenia ; Chow, Virginia ; Almeida, Nalvo F ; Patil, Prabhu B ; Ryan, Robert P ; Sharlach, Molly ; Behlau, Franklin ; Dow, J Max ; Momol, MT ; White, Frank F ; Preston, James F ; Vinatzer, Boris A ; Koebnik, Ralf ; Setubal, João C ; Norman, David J ; Staskawicz, Brian J ; Jones, Jeffrey B . Comparative genomics reveals diversity among xanthomonads infecting tomato and pepper. BMC Genomics, v. 12, p. 146, 2011.
+Citações:58|57
+
+56.
+Zhang, Hongtao ; Setubal, Joao Carlos ; Zhan, Xiaobei ; Zheng, Zhiyong ; Yu, Lijun ; Wu, Jianrong ; Chen, Dingqiang . Component identification of electron transport chains in curdlan-producing Agrobacterium sp. ATCC 31749 and its genome-specific prediction using comparative genome and phylogenetic trees analysis. Journal of Industrial Microbiology & Biotechnology, v. 38, p. 667-677, 2011.
+Citações:4|4
+
+57.
+COLLEN, J. ; COLLEN, P. N. ; REIS, Marcelo da Silva ; PEDERSEN, M. ; SETUBAL, J. C. ; Varani, A. ; Colepicolo, P. ; OLIVEIRA, Mariana Cabral de . Analysis of expressed sequence tags from the agarophyte Gracilaria tenuistipitata (Rhodophyta). Journal of Applied Phycology, v. 24, p. 641-647, 2011.
+Citações:4|4
+
+58.
+Cai, Rongman ; Lewis, James ; Yan, Shuangchun ; Liu, Haijie ; Clarke, Christopher R. ; Campanile, Francesco ; Almeida, Nalvo F. ; Studholme, David J. ; Lindeberg, Magdalen ; Schneider, David ; Zaccardelli, Massimo ; Setubal, Joao C. ; Morales-Lizcano, Nadia P. ; Bernal, Adriana ; Coaker, Gitta ; Baker, Christy ; Bender, Carol L. ; Leman, Scotland ; Vinatzer, Boris A. . The Plant Pathogen Pseudomonas syringae pv. tomato Is Genetically Monomorphic and under Strong Selection to Evade Tomato Immunity. PLoS Pathogens, v. 7, p. e1002130, 2011.
+Citações:65|103
+
+59.
+Hamilton, T. L. ; LUDWIG, M. ; DIXON, R. ; Boyd, E. S. ; dos SANTOS, P. C. ; SETUBAL, J. C. ; BRYANT, D. A. ; Dean, D. R. ; PETERS, J. W. . Transcriptional Profiling of Nitrogen Fixation in Azotobacter vinelandii. Journal of Bacteriology (Print), v. 193, p. 4477-4486, 2011.
+Citações:19|20
+
+60.
+Staquicini, F. I. Cardo-Vila, M. Kolonin, M. G. Trepel, M. Edwards, J. K. Nunes, D. N. Sergeeva, A. Efstathiou, E. Sun, J. Almeida, N. F. Tu, S.-M. Botz, G. H. Wallace, M. J. O'Connell, D. J. Krajewski, S. Gershenwald, J. E. Molldrem, J. J. Flamm, A. L. Koivunen, E. Pentz, R. D. Dias-Neto, E. SETUBAL, J. C. Cahill, D. J. Troncoso, P. Do, K.-A. , et al. ; Vascular ligand-receptor mapping by direct combinatorial selection in cancer patients. Proceedings of the National Academy of Sciences of the United States of America, v. 108, p. 1-6, 2011.
+Citações:31|38
+
+61.
+Jalan, N. ; Aritua, V. ; Kumar, D. ; Yu, F. ; Jones, J. B. ; Graham, J. H. ; SETUBAL, J. C. ; Wang, N. . Comparative Genomic Analysis of Xanthomonas axonopodis pv. citrumelo F1, Which Causes Citrus Bacterial Spot Disease, and Related Strains Provides Insights into Virulence and Host Specificity. Journal of Bacteriology (Print), v. 193, p. 6342-6357, 2011.
+Citações:34|37
+
+62.
+Moreira, Leandro M Almeida, Nalvo F Potnis, Neha Digiampietri, Luciano A Adi, Said S Bortolossi, Julio C da Silva, Ana C da Silva, Aline M de Moraes, Fabricio E de Oliveira, Julio C de Souza, Robson F Fancincani, Agda P Ferraz, Andre L Ferro, Maria I Furlan, Luiz R Gimenez, Daniele F Jones, Jeffrey B Kitajima, Elliot W Laia, Marcelo L Leite, Rui P Nishiyama, Milton Y Rodrigues Neto, Julio Nociti, Leticia A Norman, David J Ostroski, Eric H , et al. ; Novel insights into the genomic basis of citrus canker based on the genome sequences of two strains of Xanthomonas fuscans subsp. aurantifolii. BMC Genomics, v. 11, p. 238, 2010.
+Citações:44|48
+
+63.
+ Warren, Andrew S ; Archuleta, Jeremy ; Feng, Wu-chun ; Setubal, Joao Carlos . Missing genes in the annotation of prokaryotic genomes. BMC Bioinformatics, v. 11, p. 131, 2010.
+Citações:33|38
+
+64.
+Almeida, Nalvo F. ; Yan, Shuangchun ; Cai, Rongman ; Clarke, Christopher R. ; Morris, Cindy E. ; Schaad, Norman W. ; Schuenzel, Erin L. ; Lacy, George H. ; Sun, Xiaoan ; Jones, Jeffrey B. ; Castillo, Jose A. ; Bull, Carolee T. ; Leman, Scotland ; Guttman, David S. ; Setubal, João C. ; Vinatzer, Boris A. . PAMDB, A Multilocus Sequence Typing and Analysis Database and Website for Plant-Associated Microbes. Phytopathology, v. 100, p. 208-215, 2010.
+Citações:68|76
+
+65.
+BALAJI, P. ; FENG, W. ; LIN, H. ; ARCHULETA, J. ; MATSUOKA, S. ; Warren, A. ; Setubal, J. ; Lusk, Ewing ; Thakur, R. ; Foster, I. ; Katz, D. S. ; Jha, S. ; Shinpaugh, K. ; Coghlan, S. ; Reed, D. . Global-scale distributed I/O with ParaMEDIC. Concurrency and Computation, v. 22, p. 2266-2281, 2010.
+
+66.
+Tiller, R. V. ; Gee, J. E. ; Frace, M. A. ; Taylor, T. K. ; SETUBAL, J. C. ; Hoffmaster, A. R. ; De, B. K. . Characterization of novel Brucella strains originating from wild native rodent species in North Queensland, Australia. Applied and Environmental Microbiology (Print), v. 76, p. 5837-5845, 2010.
+Citações:57|41
+
+67.
+TORTO-ALALIBO, T. ; Collmer, C. W. ; GWINN-GIGLIO, M. ; Lindeberg, M. ; Meng, S. ; Chibucos, M. C. ; Tseng, T.-T. ; Lomax, J. ; Biehl, B. ; Ireland, A. ; Bird, D. ; Dean, R. A. ; Glasner, J. D. ; PERNA, N. ; SETUBAL, J. C. ; COLLMER, A. ; Tyler, B. M. . Unifying Themes in Microbial Associations with Animal and Plant Hosts Described Using the Gene Ontology. Microbiology and Molecular Biology Reviews, v. 74, p. 479-503, 2010.
+Citações:11|14
+
+68.
+Shulaev, Vladimir Sargent, Daniel J Crowhurst, Ross N Mockler, Todd C Folkerts, Otto Delcher, Arthur L Jaiswal, Pankaj Mockaitis, Keithanne Liston, Aaron Mane, Shrinivasrao P Burns, Paul Davis, Thomas M Slovin, Janet P Bassil, Nahla Hellens, Roger P Evans, Clive Harkins, Tim Kodira, Chinnappa Desany, Brian Crasta, Oswald R Jensen, Roderick V Allan, Andrew C Michael, Todd P Setubal, Joao Carlos Celton, Jean-Marc , et al. ; The genome of woodland strawberry (Fragaria vesca). Nature Genetics (Print), v. 43, p. 109-116, 2010.
+Citações:416|423
+
+69.
+DIAS-NETO, Emmanuel ; Nunes, Diana N. ; Giordano, Ricardo J. ; Sun, Jessica ; Botz, Gregory H. ; Yang, Kuan ; Setubal, João C. ; Pasqualini, Renata ; Arap, Wadih ; HO, Paulo Lee . Next-Generation Phage Display: Integrating and Comparing Available Molecular Tools to Enable Cost-Effective High-Throughput Analysis. Plos One, v. 4, p. e8338, 2009.
+Citações:76|74
+
+70.
+Chibucos, Marcus C. ; Tseng, Tsai-Tien ; Setubal, João C. . Describing commonalities in microbial effector delivery using the Gene Ontology. Trends in Microbiology, v. 17, p. 312-319, 2009.
+Citações:2|4
+
+71.
+Wattam, A. R. ; Williams, K. P. ; Snyder, E. E. ; Almeida, N. F. ; Shukla, M. ; Dickerman, A. W. ; Crasta, O. R. ; Kenyon, R. ; Lu, J. ; Shallom, J. M. ; Yoo, H. ; Ficht, T. A. ; Tsolis, R. M. ; Munk, C. ; Tapia, R. ; Han, C. S. ; Detter, J. C. ; Bruce, D. ; Brettin, T. S. ; Sobral, B. W. ; Boyle, S. M. ; SETUBAL, J. C. . Analysis of Ten Brucella Genomes Reveals Evidence for Horizontal Gene Transfer Despite a Preferred Intracellular Lifestyle. Journal of Bacteriology (Print), v. 191, p. 3569-3579, 2009.
+Citações:57|58
+
+72.
+Slater, S. C. Goldman, B. S. GOODNER, B. SETUBAL, J. C. Farrand, S. K. NESTER, E. W. Burr, T. J. Banta, L. Dickerman, A. W. Paulsen, I. OTTEN, L. Suen, G. Welch, R. Almeida, N. F. Arnold, F. Burton, O. T. Du, Z. Ewing, A. Godsy, E. Heisel, S. Houmiel, K. L. Jhaveri, J. Lu, J. Miller, N. M. Norton, S. , et al. ; Genome Sequences of Three Agrobacterium Biovars Help Elucidate the Evolution of Multichromosome Genomes in Bacteria. Journal of Bacteriology (Print), v. 191, p. 2501-2511, 2009.
+Citações:104|110
+
+73.
+Tseng, Tsai-Tien ; Tyler, Brett M ; Setubal, João C . Protein secretion systems in bacterial-host associations, and their description in the Gene Ontology. BMC Microbiology (Online), v. 9, p. S2, 2009.
+Citações:141|191
+
+74.
+Warren, Andrew S ; Setubal, João . The Genome Reverse Compiler: an explorative annotation tool. BMC Bioinformatics, v. 10, p. 35, 2009.
+Citações:6|7
+
+75.
+Gillespie, Joseph J. ; Ammerman, Nicole C. ; Dreher-Lesnick, Sheila M. ; Rahman, M. Sayeedur ; Worley, Micah J. ; Setubal, Joao C. ; Sobral, Bruno S. ; Azad, Abdu F. . An Anomalous Type IV Secretion System in Rickettsia Is Evolutionarily Conserved. Plos One, v. 4, p. e4833, 2009.
+Citações:49|58
+
+76.
+Almeida, Nalvo F. ; Yan, Shuangchun ; Lindeberg, Magdalen ; Studholme, David J. ; Schneider, David J. ; Condon, Bradford ; Liu, Haijie ; Viana, Carlos J. ; Warren, Andrew ; Evans, Clive ; Kemen, Eric ; MacLean, Dan ; Angot, Aurelie ; Martin, Gregory B. ; Jones, Jonathan D. ; Collmer, Alan ; Setubal, Joao C. ; Vinatzer, Boris A. . A Draft Genome Sequence of Pseudomonas syringae pv. tomato T1 Reveals a Type III Effector Repertoire Significantly Divergent from That of Pseudomonas syringae pv. tomato DC3000. Molecular Plant-Microbe Interactions, v. 22, p. 52-62, 2009.
+Citações:93|100
+
+77.
+SETUBAL, J. C.; SETUBAL, J. C. dos Santos, P. Goldman, B. S. Ertesvag, H. Espin, G. Rubio, L. M. Valla, S. Almeida, N. F. Balasubramanian, D. Cromes, L. Curatti, L. Du, Z. Godsy, E. GOODNER, B. Hellner-Burris, K. Hernandez, J. A. Houmiel, K. Imperial, J. Kennedy, C. Larson, T. J. Latreille, P. Ligon, L. S. Lu, J. Maerk, M. Miller, N. M. , et al. ; Genome Sequence of Azotobacter vinelandii, an Obligate Aerobe Specialized To Support Diverse Anaerobic Metabolic Processes. Journal of Bacteriology (Print), v. 191, p. 4534-4545, 2009.
+Citações:88|87
+
+78.
+Gillespie, Joseph J. ; Williams, Kelly ; Shukla, Maulik ; Snyder, Eric E. ; Nordberg, Eric K. ; Ceraul, Shane M. ; Dharmanolla, Chitti ; Rainey, Daphne ; Soneja, Jeetendra ; Shallom, Joshua M. ; Vishnubhat, Nataraj Dongre ; Wattam, Rebecca ; Purkayastha, Anjan ; Czar, Michael ; Crasta, Oswald ; SETUBAL, J. C. ; Azad, Abdu F. ; Sobral, Bruno S. . Rickettsia Phylogenomics: Unwinding the Intricacies of Obligate Intracellular Life. Plos One, v. 3, p. e2018, 2008.
+Citações:65|73
+
+79.
+Yan, S. ; Liu, H. ; Mohr, T. J. ; Jenrette, J. ; Chiodini, R. ; Zaccardelli, M. ; SETUBAL, J. C. ; Vinatzer, B. A. . Role of Recombination in the Evolution of the Model Plant Pathogen Pseudomonas syringae pv. tomato DC3000, a Very Atypical Tomato Strain. Applied and Environmental Microbiology, v. 74, p. 3171-3181, 2008.
+Citações:46|49
+
+80.
+Venancio, Thiago M ; DeMarco, Ricardo ; Almeida, Giulliana T ; Oliveira, Katia C ; Setubal, João C ; VERJOVSKI-ALMEIDA, Sergio . Analysis of Schistosoma mansoni genes shared with Deuterostomia and with possible roles in host interactions. BMC Genomics, v. 8, p. 407, 2007.
+Citações:5|8
+
+81.
+Yu, G.X. ; Snyder, E.E. ; Boyle, S.M. ; Crasta, O.R. ; Czar, M. ; Mane, S.P. ; Purkayastha, A. ; Sobral, B. ; Setubal, J.C. . A versatile computational pipeline for bacterial genome annotation improvement and comparative analysis, with Brucella as a use case. Nucleic Acids Research, v. 35, p. 3953-3962, 2007.
+Citações:11|10
+
+82.
+Snyder, E. E. Kampanya, N. Lu, J. Nordberg, E. K. Karur, H. R. Shukla, M. Soneja, J. Tian, Y. Xue, T. Yoo, H. Zhang, F. Dharmanolla, C. Dongre, N. V. Gillespie, J. J. Hamelius, J. Hance, M. Huntington, K. I. Jukneliene, D. Koziski, J. Mackasmiel, L. Mane, S. P. Nguyen, V. Purkayastha, A. Shallom, J. Yu, G. , et al. ; PATRIC: The VBI PathoSystems Resource Integration Center. Nucleic Acids Research, v. 35, p. D401-D406, 2007.
+Citações:56|57
+
+83.
+LORENZINI, D ; SILVAJR, P ; SOARES, M ; ARRUDA, P ; SETUBAL, J ; DAFFRE, S . Discovery of immune-related genes expressed in hemocytes of the tarantula spider Acanthoscurria gomesiana. Developmental and Comparative Immunology, v. 30, p. 545-556, 2006.
+Citações:16|19
+
+84.
+SETUBAL, J. C.. Lipoprotein computational prediction in spirochaetal genomes. Microbiology (Reading), v. 152, p. 113-121, 2006.
+Citações:114|119
+
+85.
+SETUBAL, J; MOREIRA, L ; DASILVA, A . Bacterial phytopathogens and genome science. Current Opinion in Microbiology, v. 8, p. 595-600, 2005.
+Citações:11|13
+
+86.
+Moreira, Leandro M. ; De Souza, Robson F. ; DIGIAMPIETRI, Luciano A. ; Da Silva, Ana C.R. ; Setubal, Joao C. . Comparative Analyses of Xanthomonas and Xylella Complete Genomes. Journal of Integrative Biology / Omics (Larchmont), v. 9, p. 43-76, 2005.
+Citações:16|17
+
+87.
+HANCE, M. E. ; Czar, M. J. ; Azad, Abdu F. ; Purkayastha, A. ; Snyder, Eric E. ; Crasta, O. R. ; SETUBAL, J. C. ; Sobral, B. W. . The Pathogen Resource Integration Center: Implications for Rickettsial Research. Annals of the New York Academy of Sciences, v. 1063, p. 459-465, 2005.
+Citações:1|1
+
+88.
+SETUBAL, J. C.; SILVA, Ana Claudia Rasera da ; ALMEIDA JR, Nalvo Franco de ; FERRO, Jesus ; FURLAN, Luiz Roberto ; MOREIRA, Leandro ; SOUZA, Robson de ; OLIVEIRA, Julio Cezar de . COMPARATIVE GENOMICS ANALYSES OF CITRUS-ASSOCIATED BACTERIA. Annual Review of Phytopathology (Print), Estados Unidos, v. 42, p. 163-184, 2004.
+Citações:28|33
+
+89.
+SETUBAL, J. C.; NASCIMENTO, Ana Lucia Tabet ; VERJOVSKI-ALMEIDA, Sergio ; SLUYS, Marie Anne Van ; MONTEIRO-VITORELLO, Claudia B. ; CAMARGO, Luis Eduardo Aranha ; DIGIAMPIETRI, Luciano A. ; HARTSKEERL, Rudy ; HO, Paulo Lee ; MARQUES, Marilis ; OLIVEIRA, Mariana Cabral de ; HAAKE, David ; MARTINS, Elizabeth . Genome features of Leptospira interrogans serovar Copenhageni. Brazilian Journal of Medical and Biological Research, v. 37, n.2, p. 459-477, 2004.
+Citações:121|18|127
+
+90.
+Nascimento, A. L. T. O. ; Setubal, J.C. . Comparative Genomics of Two Leptospira interrogans Serovars Reveals Novel Insights into Physiology and Pathogenesis. Journal of Bacteriology, estados unidos, v. 186, n.7, p. 2164-2172, 2004.
+Citações:248|244
+
+91.
+DeMarco, R. ; Setubal, J.C. . Saci-1, -2, and -3 and Perere, Four Novel Retrotransposons with High Transcriptional Activities from the Human Parasite Schistosoma mansoni. Journal of Virology, estados unidos, v. 78, n.6, p. 2967-2978, 2004.
+Citações:43|42
+
+92.
+MONTEIRO-VITORELLO, Claudia B. Camargo, Luis E. A. Van Sluys, Marie A. Kitajima, João P. Truffi, Daniela do Amaral, Alexandre M. Harakava, Ricardo de Oliveira, Julio C. F. Wood, Derek de Oliveira, Mariana C. Miyaki, Cristina Takita, Marco A. da Silva, Ana C. R. Furlan, Luis R. Carraro, Dirce M. Camarotte, Giovana Almeida, Nalvo F. Carrer, Helaine Coutinho, Luiz L. El-Dorry, Hamza A. Ferro, Maria I. T. Gagliardi, Paulo R. Giglioti, Eder Goldman, Maria H. S. Goldman, Gustavo H. , et al. ; The Genome Sequence of the Gram-Positive Sugarcane Pathogen Leifsonia xyli subsp. xyli. Molecular Plant-Microbe Interactions, v. 17, p. 827-836, 2004.
+Citações:69|58
+
+93.
+Van Sluys, M. A. ; Setubal, J.C. . Comparative Analyses of the Complete Genome Sequences of Pierce's Disease and Citrus Variegated Chlorosis Strains of Xylella fastidiosa. Journal of Bacteriology, EUA, v. 185, n.3, p. 1018-1026, 2003.
+Citações:201|224
+
+94.
+VERJOVSKI-ALMEIDA, Sergio DeMarco, Ricardo Martins, Elizabeth A L Guimarães, Pedro E M Ojopi, Elida P B Paquola, Apuã C M Piazza, João P Nishiyama, Milton Y Kitajima, João P Adamson, Rachel E Ashton, Peter D Bonaldo, Maria F Coulson, Patricia S Dillon, Gary P Farias, Leonardo P Gregorio, Sheila P Ho, Paulo L Leite, Ricardo A Malaquias, L Cosme C Marques, Regina C P Miyasato, Patricia A Nascimento, Ana L T O Ohlweiler, Fernanda P Reis, Eduardo M Ribeiro, Marcela A , et al. ; Transcriptome analysis of the acoelomate human parasite Schistosoma mansoni. Nature Genetics, Reino Unido, v. 35, p. 148-157, 2003.
+Citações:346|362
+
+95.
+Digiampietri, Luciano A ; MEDEIROS, Claudia Maria Bauzer ; Setubal, João C. . A data model for comparative genomics. Revista Tecnologia da Informação, v. 3, p. 35-40, 2003.
+Citações:1
+
+96.
+PIAZZA, J. P. ; Setubal, João C . New ways for automatic detection of contaminants in EST projects. Revista Tecnologia da Informação, v. 3, p. 36-41, 2003.
+
+97.
+ da Silva, A. C. R. Ferro, J. A. Reinach, F. C. Farah, C. S. Furlan, L. R. Quaggio, R. B. Monteiro-Vitorello, C. B. Sluys, M. A. Van Almeida, N. F. Alves, L. M. C. do Amaral, A. M. Bertolini, M. C. Camargo, L. E. A. Camarotte, G. Cannavan, F. Cardozo, J. Chambergo, F. Ciapina, L. P. Cicarelli, R. M. B. Coutinho, L. L. Cursino-Santos, J. R. El-Dorry, H. Faria, J. B. Ferreira, A. J. S. Ferreira, R. C. C. , et al. ; Comparison of the genomes of two Xanthomonas pathogens with differing host specificities. Nature (London), Londres, v. 417, p. 459-463, 2002.
+Citações:665|665
+
+98.
+SETUBAL, J. C.; SILVA, Ana Claudia Rasera da ; SIMPSON, A. J. G. ; KITAJIMA, Joao Paulo ; FERRO, Jesus ; SLUYS, Marie Anne Van ; MONTEIRO-VITORELLO, Claudia B. ; CAMARGO, Luis Eduardo Aranha ; MENCK, Carlos F. M. ; OLIVEIRA, Mariana Cabral de . C OMPARATIVE G ENOMIC A NALYSIS OF P LANT -A SSOCIATED B ACTERIA. Annual Review of Phytopathology (Print), EUA, v. 40, p. 169-189, 2002.
+Citações:95|104
+
+99.
+WERNECK, R. ; SETUBAL, J. C. . Finding minimum congestion spanning trees. ACM Journal of Experimental Algorithmics, v. 6, p. 1-20, 2001.
+Citações:21
+
+100.
+ Wood, D. W. ; Setubal, J.C. . The Genome of the Natural Genetic Engineer Agrobacterium tumefaciens C58. Science, USA, v. 294, p. 2317-2323, 2001.
+Citações:492|477
+
+101.
+ SETUBAL, J. C.; SIMPSON, A. J. G. ; REINACH, F. ; ARRUDA, P. ; KITAJIMA, Joao Paulo ; Van Sluys, Marie A. ; VERJOVSKI-ALMEIDA, Sergio ; ZAGO, M. ; ZATZ, M. ; MEIDANIS, J. . The genome sequence of the plant pathogen Xylella fastidiosa.. Nature (London), Londres, v. 406, p. 151-157, 2000.
+Citações:548|564
+
+102.
+CHERKASSKY, B. ; GOLDBERG, A. ; MARTIN, P. ; SETUBAL, J. C. ; STOLFI, J. . Augment Or Push? A Computational Study Of Bipartite Matching And Unit Capacity Maximum Flow Algorithms. ACM Journal of Experimental Algorithmics, EUA, v. 3, n.8, p. 1-40, 1998.
+
+103.
+ANDERSON, R. ; SETUBAL, J. C. . A Parallel Implementation Of The Push-Relabel Algorithm For The Maximum Flow Problem. Journal of Parallel and Distributed Computing, EUA, v. 29, n.1, p. 17-26, 1995.

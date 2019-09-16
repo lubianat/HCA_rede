@@ -1,0 +1,373 @@
+1.
+ DE CARVALHO, RENAN V.H. ; ANDRADE, WARRISON A. ; Lima-Junior, Djalma S. ; DILUCCA, MARISA ; DE OLIVEIRA, CAROLINE V. ; WANG, KUN ; NOGUEIRA, PAULA M. ; RUGANI, JERONIMO N. ; SOARES, RODRIGO P. ; Beverley, Stephen M. ; SHAO, FENG ; Zamboni, Dario S. . Leishmania Lipophosphoglycan Triggers Caspase-11 and the Non-canonical Activation of the NLRP3 Inflammasome. Cell Reports, v. 26, p. 429-437.e5, 2019.
+
+2.
+SANTA-CECÍLIA, FLÁVIA V. ; FERREIRA, DAVID W. ; GUIMARAES, RAFAELA M. ; CECILIO, NERRY T. ; FONSECA, MIRIAM M. ; LOPES, ALEXANDRE H. ; DAVOLI-FERREIRA, MARCELA ; KUSUDA, RICARDO ; SOUZA, GUILHERME R. ; NACHBUR, UELI ; Alves-Filho, José C. ; Teixeira, Mauro M. ; Zamboni, Dario S. ; Cunha, Fernando Q. ; Cunha, Thiago M. . The NOD2 signaling in peripheral macrophages contributes to neuropathic pain development. PAIN, v. 160, p. 102-116, 2019.
+
+3.
+TAIRA, T.M. ; LIMA, V. ; PRADO, D.S. ; SILVA, T.A. ; ISSA, J.P.M. ; DA SILVA, L.A.B. ; Zamboni, D.S. ; Cunha, F.Q. ; FUKADA, S.Y. . NLRP12 Attenuates Inflammatory Bone Loss in Experimental Apical Periodontitis. JOURNAL OF DENTAL RESEARCH, v. 98, p. 002203451882028-484, 2019.
+
+4.
+ZAMBONI, DARIO S; SACKS, DAVID L . Inflammasomes and Leishmania: in good times or bad, in sickness or in health. CURRENT OPINION IN MICROBIOLOGY, v. 52, p. 70-76, 2019.
+
+5.
+SOARES-SCHANOSKI, ALESSANDRA ; BAPTISTA CRUZ, NATÁLIA ; DE CASTRO-JORGE, LUÍZA ANTUNES ; DE CARVALHO, RENAN VILLANOVA HOMEM ; SANTOS, CLIOMAR ALVES DOS ; RÓS, NANCY DA ; OLIVEIRA, ÚRSULA ; COSTA, DANUZA DUARTE ; SANTOS, CECÍLIA LUÍZA SIMÕES DOS ; CUNHA, MARIELTON DOS PASSOS ; OLIVEIRA, MARIA LEONOR SARNO ; ALVES, JULIANA CARDOSO ; OCÉA, REGINA ADALVA DE LUCENA COUTO ; RIBEIRO, DANIELLE RODRIGUES ; GONÇALVES, ANDRÉ NICOLAU AQUIME ; GONZALEZ-DIAS, PATRICIA ; SUHRBIER, ANDREAS ; ZANOTTO, PAOLO MARINHO DE ANDRADE ; AZEVEDO, INÁCIO JUNQUEIRA DE ; Zamboni, Dario S. ; ALMEIDA, ROQUE PACHECO ; HO, PAULO LEE ; KALIL, JORGE ; NISHIYAMA, MILTON YUTAKA ; NAKAYA, HELDER I. . Systems analysis of subjects acutely infected with the Chikungunya virus. PLoS Pathogens, v. 15, p. e1007880-23, 2019.
+
+6.
+CARVALHO, RENAN V. H. ; SILVA, ALEXANDRE L. N. ; SANTOS, LEONARDO L. ; ANDRADE, WARRISON A. ; SÁ, KEYLA S. G. ; Zamboni, Dario S. . Macrophage priming is dispensable for NLRP3 inflammasome activation and restriction of Leishmania amazonensis replication. JOURNAL OF LEUKOCYTE BIOLOGY, v. ., p. .-., 2019.
+
+7.
+GONÇALVES, AUGUSTO V. ; MARGOLIS, SHALLY R. ; QUIRINO, GUSTAVO F. S. ; MASCARENHAS, DANIELLE P. A. ; RAUCH, ISABELLA ; NICHOLS, RANDILEA D. ; ANSALDO, EDUARD ; FONTANA, MARY F. ; VANCE, RUSSELL E. ; Zamboni, Dario S. . Gasdermin-D and Caspase-7 are the key Caspase-1/8 substrates downstream of the NAIP5/NLRC4 inflammasome required for restriction of Legionella pneumophila. PLoS Pathogens, v. 15, p. e1007886, 2019.
+
+8.
+KETELUT-CARNEIRO, NATÁLIA ; SOUZA, CAMILA OLIVEIRA SILVA ; Benevides, Luciana ; GARDINASSI, LUIZ GUSTAVO ; SILVA, MARIA CLÁUDIA ; TAVARES, LUCAS ALVES ; ZAMBONI, Dario Simões ; SILVA, JOÃO SANTANA . Caspase-11-dependent IL-1? release boosts Th17 immunity against Paracoccidioides brasiliensis. PLoS Pathogens, v. 15, p. e1007990, 2019.
+
+9.
+TAVARES, LÍVIA D. ; GALVÃO, IZABELA ; Costa, Vivian V. ; BATISTA, NATHALIA V. ; ROSSI, LÍVIA C. R. ; BRITO, CAMILA B. ; REIS, ALESANDRA C. ; QUEIROZ'JUNIOR, CELSO M. ; BRAGA, AMANDA D. ; Coelho, Fernanda M. ; DIAS, ANA C. ; Zamboni, Dario S. ; PINHO, VANESSA ; Teixeira, Mauro M. ; Amaral, Flávio A. ; Souza, Daniele G. . Phosphoinositide-3 kinase gamma regulates caspase-1 activation and leukocyte recruitment in acute murine gout. JOURNAL OF LEUKOCYTE BIOLOGY, v. ., p. .-., 2019.
+
+10.
+DE CASTRO-JORGE, LUIZA A. ; DE CARVALHO, RENAN V. H. ; KLEIN, TALINE M. ; HIROKI, CARLOS H. ; LOPES, ALEXANDRE H. ; GUIMARÃES, RAFAELA M. ; FUMAGALLI, MARCÍLIO JORGE ; FLORIANO, VITOR G. ; AGOSTINHO, MAYARA R. ; SLHESSARENKO, RENATA DEZENGRINI ; RAMALHO, FERNANDO SILVA ; Cunha, Thiago M. ; CUNHA, FERNANDO DE Q. ; DA FONSECA, BENEDITO A. L. ; Zamboni, Dario S. . The NLRP3 inflammasome is involved with the pathogenesis of Mayaro virus. PLoS Pathogens, v. 15, p. e1007934-., 2019.
+
+11.
+ANDRADE, WARRISON A. ; Zamboni, Dario S. . Inflammasome-dependent Mechanisms Involved in Sensing and Restriction of Bacterial Replication. CURRENT ISSUES IN MOLECULAR BIOLOGY, v. ., p. 99-132, 2018.
+
+12.
+Sônego, Fabiane ; CASTANHEIRA, FERNANDA V. S. ; Horta, Catarina V. ; KANASHIRO, ALEXANDRE ; CZAIKOSKI, PAULA G. ; Zamboni, Dario S. ; ALVES-FILHO, JOSÉ CARLOS ; Cunha, Fernando Q. . The host control of a clinical isolate strain of P. aeruginosa infection is independent of Nod-1 but depends on MyD88. INFLAMMATION RESEARCH, v. 67, p. 435-443, 2018.
+
+13.
+DE SOUZA, PATRÍCIA REIS ; GUIMARÃES, FRANCIELLE RODRIGUES ; SALES-CAMPOS, HELIOSWILTON ; BONFÁ, GIULIANO ; NARDINI, VIVIANI ; CHICA, JAVIER EMILIO LAZO ; TURATO, WALTER MIGUEL ; SILVA, JOÃO SANTANA ; ZAMBONI, Dario Simões ; CARDOSO, CRISTINA RIBEIRO DE BARROS . Absence of NOD2 receptor predisposes to intestinal inflammation by a deregulation in the immune response in hosts that are unable to control gut dysbiosis. IMMUNOBIOLOGY, v. 233, p. 577-585, 2018.
+
+14.
+CODO, ANA CAMPOS ; SARAIVA, AMANDA CORREIA ; DOS SANTOS, LEONARDO LIMA ; VISCONDE, MARINA FRANCISCO ; GALES, ANA CRISTINA ; ZAMBONI, Dario Simões ; MEDEIROS, ALEXANDRA IVO . Inhibition of inflammasome activation by a clinical strain of Klebsiella pneumoniae impairs efferocytosis and leads to bacterial dissemination. Cell Death & Disease, v. 9, p. 1182-1196, 2018.
+
+15.
+CERQUEIRA, DAIANE M. ; GOMES, MARCO TÚLIO R. ; SILVA, ALEXANDRE L. N. ; RUNGUE, MARCELLA ; ASSIS, NATAN R. G. ; GUIMARÃES, ERIKA S. ; MORAIS, SUELLEN B. ; BROZ, PETR ; Zamboni, Dario S. ; C. OLIVEIRA, SERGIO . Guanylate-binding protein 5 licenses caspase-11 for Gasdermin-D mediated host resistance to Brucella abortus infection. PLoS Pathogens, v. 14, p. e1007519, 2018.
+
+16.
+Nascimento, Daniele C. ; MELO, PAULO H. ; PIÑEROS, ANNIE R. ; FERREIRA, RAPHAEL G. ; COLÓN, DAVID F. ; DONATE, PAULA B. ; CASTANHEIRA, FERNANDA V. ; GOZZI, ALINE ; CZAIKOSKI, PAULA G. ; NIEDBALA, WANDA ; BORGES, MARCOS C. ; Zamboni, Dario S. ; LIEW, FOO Y. ; Cunha, Fernando Q. ; ALVES-FILHO, JOSE C. . IL-33 contributes to sepsis-induced long-term immunosuppression by expanding the regulatory T cell population. Nature Communications, v. 8, p. 14919, 2017.
+Citações:8|12
+
+17.
+CARLOS, DANIELA ; COSTA, FREDERICO R. C. ; PEREIRA, CAMILA A. ; ROCHA, FERNANDA A. ; YAOCHITE, JULIANA N. U. ; OLIVEIRA, GABRIELA G. ; CARNEIRO, FERNANDO S. ; TOSTES, RITA C. ; RAMOS, SIMONE G. ; Zamboni, Dario S. ; CAMARA, NIELS O. S. ; Ryffel, Bernhard ; Silva, João S. . Mitochondrial DNA Activates the NLRP3 Inflammasome and Predisposes to Type 1 Diabetes in Murine Model. Frontiers in Immunology, v. 8, p. 164-18, 2017.
+
+18.
+MASCARENHAS, D. P. A. ; Zamboni, D. S. . Inflammasome biology taught by Legionella pneumophila. JOURNAL OF LEUKOCYTE BIOLOGY, v. 101, p. 841-849, 2017.
+
+19.
+EUGENIA SCHROEDER, MARÍA ; RUSSO, SOFÍA ; COSTA, CARLOS ; HORI, JULIANA ; TISCORNIA, INÉS ; BOLLATI-FOGOLÍN, MARIELA ; ZAMBONI, DARÍO S ; FERREIRA, GONZALO ; CAIROLI, ERNESTO ; HILL, MARCELO . Pro-inflammatory Ca++-activated K+ channels are inhibited by hydroxychloroquine. Scientific Reports, v. 7, p. 1, 2017.
+Citações:1|1
+
+20.
+GON?ALVES, AMANDA COSTA ; FERREIRA, LUCAS SOUZA ; MANENTE, FRANCINE ALESSANDRA ; DE FARIA, CAROLINA MARIA QUINELLO GOMES ; POLESI, MARISA CAMPOS ; DE ANDRADE, CLEVERTON ROBERTO ; ZAMBONI, DARIO SIM?ES ; CARLOS, IRACILDA ZEPPONE . The NLRP3 inflammasome contributes to host protection during Sporothrix schenckii infection. IMMUNOLOGY, v. 151, p. 154-166, 2017.
+
+21.
+Cunha, Larissa D. ; SILVA, ALEXANDRE L.N. ; RIBEIRO, JULIANA M. ; MASCARENHAS, DANIELLE P.A. ; QUIRINO, GUSTAVO F.S. ; SANTOS, LEONARDO L. ; Flavell, Richard A. ; Zamboni, Dario S. . AIM2 Engages Active but Unprocessed Caspase-1 to Induce Noncanonical Activation of the NLRP3 Inflammasome. Cell Reports, v. 20, p. 794-805, 2017.
+Citações:2|1
+
+22.
+FERIOTTI, CLAUDIA ; DE ARAÚJO, ELISEU FRANK ; LOURES, FLAVIO VIEIRA ; DA COSTA, TANIA ALVES ; GALDINO, NAYANE ALVES DE LIMA ; ZAMBONI, Dario Simões ; CALICH, VERA LUCIA GARCIA . NOD-Like Receptor P3 Inflammasome Controls Protective Th1/Th17 Immunity against Pulmonary Paracoccidioidomycosis. Frontiers in Immunology, v. 8, p. eCollection 201, 2017.
+
+23.
+ MASCARENHAS, DANIELLE P. A. ; CERQUEIRA, DAIANE M. ; Pereira, Marcelo S. F. ; CASTANHEIRA, FERNANDA V. S. ; FERNANDES, TALITA D. ; MANIN, GRAZIELE Z. ; Cunha, Larissa D. ; Zamboni, Dario S. . Inhibition of caspase-1 or gasdermin-D enable caspase-8 activation in the Naip5/NLRC4/ASC inflammasome. PLoS Pathogens, v. 13, p. e1006502, 2017.
+Citações:6|5
+
+24.
+Lima-Junior, Djalma S. ; MINEO, TIAGO W. P. ; CALICH, VERA L. G. ; Zamboni, Dario S. . Dectin-1 Activation during Leishmania amazonensis Phagocytosis Prompts Syk-Dependent Reactive Oxygen Species Production To Trigger Inflammasome Assembly and Restriction of Parasite Replication. JOURNAL OF IMMUNOLOGY, v. ., p. ji1700258-., 2017.
+Citações:5|4
+
+25.
+Franco, Luis H. ; FLEURI, ANNA K.A. ; PELLISON, NAT&AACUTELIA C. ; QUIRINO, GUSTAVO F. S. ; Horta, Catarina V. ; CARVALHO, RENAN V. H. DE ; OLIVEIRA, SÉRGIO C. ; Zamboni, Dario S. . Autophagy downstream of endosomal Toll-like Receptors Signaling in Macrophages is a Key Mechanism for Resistance to Leishmania major Infection. JOURNAL OF BIOLOGICAL CHEMISTRY, v. 292, p. jbc.M117.780981-13096, 2017.
+
+26.
+MOREIRA-SOUZA, ALINE CRISTINA ABREU ; ALMEIDA-DA-SILVA, CÁSSIO LUIZ COUTINHO ; RANGEL, THUANY PRADO ; ROCHA, GABRIELLE DA COSTA ; BELLIO, MARIA ; ZAMBONI, Dario Simões ; VOMMARO, ROSSIANE CLAUDIA ; COUTINHO-SILVA, ROBSON . The P2X7 Receptor Mediates Toxoplasma gondii Control in Macrophages through Canonical NLRP3 Inflammasome Activation and Reactive Oxygen Species Production. Frontiers in Immunology, v. 8, p. 1-12, 2017.
+
+27.
+SANTOS, DANIELA ; CAMPOS, TAÍS M. ; SALDANHA, MAÍRA ; Oliveira, Sergio C. ; NASCIMENTO, MAURICIO ; Zamboni, Dario S. ; MACHADO, PAULO R. ; ARRUDA, SÉRGIO ; SCOTT, PHILLIP ; CARVALHO, EDGAR M. ; CARVALHO, LUCAS P. . IL-1? production by intermediate monocytes is associated with immunopathology in cutaneous leishmaniasis. JOURNAL OF INVESTIGATIVE DERMATOLOGY, v. 138, p. 1107-1115, 2017.
+
+28.
+FRANCA, RFO ; VIEIRA, SM ; TALBOT, J ; PERES, RS ; PINTO, LG ; ZAMBONI, DS ; LOUZADA-JUNIOR, P ; Cunha, FQ ; CUNHA, TM . Expression and activity of NOD1 and NOD2 / RIPK2 signalling in mononuclear cells from patients with rheumatoid arthritis. Scandinavian Journal of Rheumatology (Trykt Utg.), v. 45, p. 8-12, 2016.
+Citações:2|2
+
+29.
+ZOCCAL, KARINA F. ; SORGI, CARLOS A. ; Hori, Juliana I. ; PAULA-SILVA, FRANCISCO W. G. ; ARANTES, ELIANE C. ; SEREZANI, CARLOS H. ; Zamboni, Dario S. ; FACCIOLI, LÚCIA H. . Opposing roles of LTB4 and PGE2 in regulating the inflammasome-dependent scorpion venom-induced mortality. Nature Communications, v. 7, p. 10760, 2016.
+Citações:14|15
+
+30.
+BRADLEY, WILLIAM P. ; BOYER, MARK A. ; NGUYEN, HIEU T. ; BIRDWELL, L. DILLON ; YU, JANET ; RIBEIRO, JULIANA M. ; WEISS, SUSAN R. ; Zamboni, Dario S. ; Roy, Craig R. ; Shin, Sunny . Primary Role for Toll-Like Receptor-Driven Tumor Necrosis Factor Rather than Cytosolic Immune Detection in Restricting Coxiella burnetii Phase II Replication within Mouse Macrophages. Infection and Immunity (Print), v. 84, p. 998-1015, 2016.
+Citações:4|6
+
+31.
+FERNANDES, TALITA D. ; Cunha, Larissa D. ; RIBEIRO, JULIANA M. ; Massis, Liliana M. ; Lima-Junior, Djalma S. ; NEWTON, HAYLEY J. ; Zamboni, Dario S. . Murine alveolar macrophages are highly susceptible to replication of phase II in vitro. Infection and Immunity (Print), v. 84, p. 2439-2448, 2016.
+Citações:3|3
+
+32.
+COSTA, FREDERICO R.C. ; FRANÇOZO, MARCELA C.S. ; DE OLIVEIRA, GABRIELA G. ; IGNACIO, ALINE ; CASTOLDI, ANGELA ; Zamboni, Dario S. ; RAMOS, SIMONE G. ; CÂMARA, NIELS O. ; DE ZOETE, MARCEL R. ; PALM, NOAH W. ; Flavell, Richard A. ; Silva, João S. ; CARLOS, DANIELA . Gut microbiota translocation to the pancreatic lymph nodes triggers NOD2 activation and contributes to T1D onset. The Journal of Experimental Medicine, v. 213, p. 1223-1239, 2016.
+Citações:2|17
+
+33.
+DAVOLI-FERREIRA, MARCELA ; FONSECA, DENISE M. ; MOTA, CAROLINE M. ; DIAS, MURILO S. ; Lima-Junior, Djalma S. ; DA SILVA, MURILO V. ; QUIRINO, GUSTAVO F. S. ; Zamboni, Dario S. ; Silva, João S. ; MINEO, TIAGO W. P. . Nucleotide-binding oligomerization domain-containing protein 2 prompts potent inflammatory stimuli during Neospora caninum infection. Scientific Reports, v. 6, p. 1-14, 2016.
+Citações:3
+
+34.
+SOUZA, J. A. ; MEDEIROS, M. C. ; ROCHA, F. R. ; DE AQUINO, S. G. ; AVILA-CAMPOS, M. J. ; SPOLIDORIO, L. C. ; Zamboni, D. S. ; GRAVES, D. T. ; ROSSA, C. . Role of NOD2 and RIP2 in host-microbe interactions with Gram-negative bacteria: insights from the periodontal disease model. Innate Immunity, v. 22, p. 598-611, 2016.
+
+35.
+NASCIMENTO, MANUELA S. L. ; FERREIRA, MARCELA D. ; QUIRINO, GUSTAVO F. S. ; MARUYAMA, SANDRA R. ; KRISHNASWAMY, JAYENDRA K. ; LIU, DONG ; BERLINK, JONILSON ; FONSECA, DENISE M. ; Zamboni, Dario S. ; CARREGARO, VANESSA ; ALMEIDA, ROQUE P. ; Cunha, Thiago M. ; EISENBARTH, STEPHANIE S. ; Silva, João S. . NOD2-RIP2-mediated signalling contributes to shape adaptive immunity in visceral leishmaniasis. The Journal of Infectious Diseases, v. 214, p. 1647-1657, 2016.
+
+36.
+BRUDER-NASCIMENTO, THIAGO ; FERREIRA, NATHANNE S. ; ZANOTTO, CAMILA Z. ; RAMALHO, FERNANDA N. Z. ; PEQUENO, ISABELA O. ; OLIVON, VANIA C. ; NEVES, KARLA B. ; LOPES, RHEURE A. M. ; CAMPOS, EDUARDO ; AGUIAR SILVA, CARLOS ALBERTO ; FAZAN, RUBENS ; CARLOS, DANIELA ; MESTRINER, FABIOLA L. A. C. ; PRADO, DOUGLAS ; PEREIRA, FELIPE V. ; BRAGA, TÁRCIO T. ; LUIZ, JOÃO PAULO M. ; CAU, STEFANY B.A. ; ELIAS, PAULA L. ; MOREIRA, AYRTON C. ; CAMARA, NIELS O.S. ; Zamboni, Dario S. ; ALVES-FILHO, JOSÉ CARLOS ; TOSTES, RITA C. . NLRP3 Inflammasome Mediates Aldosterone-Induced Vascular Damage. Circulation (New York, N.Y.), v. ., p. CIRCULATIONAHA, 2016.
+Citações:6|8
+
+37.
+CHAVES DE SOUZA, JOÃO ANTÔNIO ; FRASNELLI, SABRINA CRUZ TFAILE ; DE ALMEIDA CURYLOFO, FABIANA ; CAMPOS, MÁRIO JULIO ÁVILA ; SPOLIDÓRIO, LUIS CARLOS ; ZAMBONI, Dario Simões ; GRAVES, DANA T. ; ROSSA JUNIOR, CARLOS . NOD1 in the modulation of host-microbial interactions and inflammatory bone resorption in the periodontal disease model. Immunology (Oxford. Print), v. 149, p. 374-385, 2016.
+
+38.
+Massis, Liliana M. ; ASSIS-MARQUES, MARIANA A. ; CASTANHEIRA, FERNANDA V. S. ; CAPOBIANCO, YASMIN J. ; BALESTRA, ANDIAMIRA C. ; ESCOLL, PEDRO ; WOOD, REBECCA E. ; MANIN, GRAZIELE Z. ; CORREA, VANI M. A. ; Alves-Filho, José C. ; Cunha, Fernando Q. ; BUCHRIESER, CARMEN ; BORGES, MARCOS C. ; NEWTON, HAYLEY J. ; Zamboni, Dario S. . Legionella longbeachae is immunologically silent and highly virulent in vivo. JOURNAL OF INFECTIOUS DISEASES, v. 215, p. jiw560-451, 2016.
+Citações:1|1
+
+39.
+GALVANI, RÔMULO G. ; LEMOS, RAMON ; AREAL, RÔMULO B. ; SALVADOR, POLLYANNA A. ; Zamboni, Dario S. ; WANDERLEY, JOÃO LUIZ M. ; BONOMO, ADRIANA . Disease Severity and Mortality Can Be Independently Regulated in a Mouse Model of Experimental Graft versus Host Disease. Plos One, v. 10, p. e0118079, 2015.
+Citações:2|2
+
+40.
+LOPES, ALEXANDRE H. ; Talbot, Jhimmy ; SILVA, RANGEL L. ; LIMA, JONILSON B. ; FRANÇA, RAFAEL O. ; VERRI, WALDICEU A. ; MASCARENHAS, DANIELLE P. ; Ryffel, Bernhard ; Cunha, Fernando Q. ; Zamboni, Dario S. ; Cunha, Thiago M. . Peripheral NLCR4 inflammasome participates in the genesis of acute inflammatory pain. PAIN, v. 156, p. 451-459, 2015.
+Citações:6|7
+
+41.
+KETELUT-CARNEIRO, N. ; SILVA, G. K. ; ROCHA, F. A. ; MILANEZI, C. M. ; CAVALCANTI-NETO, F. F. ; Zamboni, D. S. ; SILVA, J. S. . IL-18 Triggered by the Nlrp3 Inflammasome Induces Host Innate Resistance in a Pulmonary Model of Fungal Infection. The Journal of Immunology (1950), v. 194, p. 4507, 2015.
+Citações:7|20
+
+42.
+Zamboni, Dario S.; Lima-Junior, Djalma S. . Inflammasomes in host response to protozoan parasites. Immunological Reviews, v. 265, p. 156-171, 2015.
+Citações:18|7
+
+43.
+CARVALHO, NATÁLIA B. ; Oliveira, Fernanda S. ; MARINHO, FÁBIO A.V. ; DE ALMEIDA, LEONARDO A. ; FAHEL, JÚLIA S. ; BÁFICA, ANDRÉ ; ROTHFUCHS, ANTONIO G. ; Zamboni, Dario S. ; CALIARI, MARCELO V. ; OLIVEIRA, SÉRGIO C. . Nucleotide-binding oligomerization domain-2 (NOD2) regulates type-1 cytokine responses to Mycobacterium avium but is not required for host control of infection. Microbes and Infection, v. 17, p. 337-344, 2015.
+Citações:2|2
+
+44.
+RAMOS-JUNIOR, E. S. ; MORANDINI, A. C. ; ALMEIDA-DA-SILVA, C. L. C. ; FRANCO, E. J. ; POTEMPA, J. ; NGUYEN, K. A. ; OLIVEIRA, A. C. ; Zamboni, D. S. ; OJCIUS, D. M. ; SCHARFSTEIN, J. ; COUTINHO-SILVA, R. . A Dual Role for P2X7 Receptor during Porphyromonas gingivalis Infection. Journal of Dental Research, v. 94, p. 1233-1242, 2015.
+Citações:4|9
+
+45.
+CERQUEIRA, D. M. ; PEREIRA, M. S. F. ; SILVA, A. L. N. ; CUNHA, L. D. ; Zamboni, D. S. . Caspase-1 but Not Caspase-11 Is Required for NLRC4-Mediated Pyroptosis and Restriction of Infection by Flagellated Legionella Species in Mouse Macrophages and In Vivo. The Journal of Immunology (1950), v. 195, p. 2303-2311, 2015.
+Citações:16|27
+
+46.
+ CUNHA, L. D. ; RIBEIRO, J. M. ; FERNANDES, T. D. ; MASSIS, L. M. ; KHOO, C. A. ; MOFFATT, J. H. ; NEWTON, H. J. ; ROY, C. R. ; Zamboni, D.S. . Inhibition of inflammasome activation by Coxiella burnetii type IV secretion system effector IcaA. Nature Communications, v. 6, p. 1-13, 2015.
+Citações:13|6
+
+47.
+ATAIDE, MARCO A. ; ANDRADE, WARRISON A. ; Zamboni, Dario S. ; WANG, DONGHAI ; SOUZA, MARIA DO CARMO ; FRANKLIN, BERNARDO S. ; ELIAN, SAMIR ; MARTINS, FLAVIANO S. ; PEREIRA, DHELIO ; REED, GEORGE ; FITZGERALD, KATHERINE A. ; GOLENBOCK, DOUGLAS T. ; Gazzinelli, Ricardo T. . Malaria-Induced NLRP12/NLRP3-Dependent Caspase-1 Activation Mediates Inflammation and Hypersensitivity to Bacterial Superinfection. PLoS Pathogens (Online), v. 10, p. e1003885, 2014.
+Citações:43|45
+
+48.
+SANCHES, TIAGO L. M. ; Cunha, Larissa D. ; SILVA, GRACE K. ; GUEDES, PAULO M. M. ; SILVA, JOÃO SANTANA ; Zamboni, Dario S. . The Use of a Heterogeneously Controlled Mouse Population Reveals a Significant Correlation of Acute Phase Parasitemia with Mortality in Chagas Disease. Plos One, v. 9, p. e91640, 2014.
+Citações:3|3
+
+49.
+ARIFA, RAQUEL D.N. ; MADEIRA, MILA F.M. ; DE PAULA, TALLES P. ; LIMA, RENATA L. ; Tavares, Livia D. ; MENEZES-GARCIA, ZÉLIA ; Fagundes, Caio T. ; RACHID, MILENE A. ; Ryffel, Bernhard ; Zamboni, Dario S. ; Teixeira, Mauro M. ; Souza, Danielle G. . Inflammasome Activation Is Reactive Oxygen Species Dependent and Mediates Irinotecan-Induced Mucositis through IL-1? and IL-18 in Mice. The American Journal of Pathology (Print), v. 184, p. 2023-2034, 2014.
+Citações:12|10
+
+50.
+Sônego, Fabiane ; CASTANHEIRA, FERNANDA V. S. ; CZAIKOSKI, PAULA G. ; KANASHIRO, ALEXANDRE ; SOUTO, FABRICIO O. ; FRANÇA, RAFAEL O. ; Nascimento, Daniele C. ; FREITAS, ANDRESSA ; SPILLER, FERNANDO ; Cunha, Larissa D. ; Zamboni, Dario S. ; Alves-Filho, José C. ; Cunha, Fernando Q. . MyD88-, but Not Nod1- and/or Nod2-Deficient Mice, Show Increased Susceptibility to Polymicrobial Sepsis due to Impaired Local Inflammatory Response. Plos One, v. 9, p. e103734, 2014.
+Citações:2|2
+
+51.
+CUNHA, L. D. ; Zamboni, D.S. . Recognition of Legionella pneumophila nucleic acids by innate immune receptors. Microbes and Infection, v. 16, p. 985-990, 2014.
+Citações:2|3
+
+52.
+DUTRA, F. F. ; ALVES, L. S. ; RODRIGUES, D. ; FERNANDEZ, P. L. ; DE OLIVEIRA, R. B. ; GOLENBOCK, D. T. ; Zamboni, D. S. ; BOZZA, M. T. . Hemolysis-induced lethality involves inflammasome activation by heme. Proceedings of the National Academy of Sciences of the United States of America, v. 39, p. E4110, 2014.
+Citações:49|55
+
+53.
+GASPAROTO, THAIS HELENA ; DE OLIVEIRA, CARINE ERVOLINO ; DE FREITAS, LUISA THOMAZINI ; PINHEIRO, CLAUDIA RAMOS ; HORI, JULIANA ISSA ; GARLET, GUSTAVO POMPERMAIER ; CAVASSANI, KAREN ANGÉLICA ; SCHILLACI, ROXANA ; DA SILVA, JOÃO SANTANA ; ZAMBONI, Dario Simões ; CAMPANELLI, ANA PAULA . Inflammasome Activation Is Critical to the Protective Immune Response during Chemically Induced Squamous Cell Carcinoma. Plos One, v. 9, p. e107170, 2014.
+Citações:3|1
+
+54.
+PRATES, T. P. ; TAIRA, T. M. ; HOLANDA, M. C. ; BIGNARDI, L. A. ; SALVADOR, S. L. ; Zamboni, D. S. ; Cunha, F. Q. ; FUKADA, S. Y. . NOD2 Contributes to Porphyromonas gingivalis-induced Bone Resorption. Journal of Dental Research, v. 11, p. 1155, 2014.
+Citações:12|13
+
+55.
+DE MELO, FILIPE M ; BRAGA, CATARINA JM ; PEREIRA, FELIPE V ; MARICATO, JULIANA T ; ORIGASSA, CLARICE ST ; SOUZA, MARIANA F ; MELO, AMANDA C ; SILVA, PRISCILA ; TOMAZ, SAMANTA L ; GIMENES, KARINA P ; SCUTTI, JORGE AB ; JULIANO, MARIA A ; ZAMBONI, DARIO S ; CÂMARA, NIELS O ; TRAVASSOS, LUIZ R ; FERREIRA, LUIS CS ; RODRIGUES, ELAINE G . Anti-metastatic immunotherapy based on mucosal administration of flagellin and immunomodulatory P10. Immunology and Cell Biology (Print), v. 93, p. 86-98, 2014.
+Citações:5|9
+
+56.
+LEITE, FÁBIO RENATO MANZOLLI ; DE AQUINO, SABRINA GARCIA ; GUIMARÃES, MORGANA RODRIGUES ; CIRELLI, JONI AUGUSTO ; Zamboni, Dario S. ; Silva, João S. ; JUNIOR, CARLOS ROSSA . Relevance of the Myeloid Differentiation Factor 88 (MyD88) on RANKL, OPG, and Nod Expressions Induced by TLR and IL-1R Signaling in Bone Marrow Stromal Cells. Inflammation, v. 38, p. 1, 2014.
+Citações:4|4
+
+57.
+MASCARENHAS, D. P. A. ; PEREIRA, M. S. F. ; MANIN, G. Z. ; Hori, J. I. ; Zamboni, D. S. . Interleukin 1 Receptor-Driven Neutrophil Recruitment Accounts to MyD88-Dependent Pulmonary Clearance of Legionella pneumophila Infection In Vivo. The Journal of Infectious Diseases, v. 211, p. 322-330, 2014.
+Citações:6|5
+
+58.
+SILVA, GRACE K. ; Cunha, Larissa D. ; Horta, Catarina V. ; SILVA, ALEXANDRE L. N. ; GUTIERREZ, FREDY R. S. ; Silva, João S. ; Zamboni, Dario S. . A Parent-of-Origin Effect Determines the Susceptibility of a Non-Informative F1 Population to Trypanosoma cruzi Infection In Vivo. Plos One, v. 8, p. e56347, 2013.
+Citações:8|4
+
+59.
+CASE, C. L. ; KOHLER, L. J. ; LIMA, J. B. ; STROWIG, T. ; DE ZOETE, M. R. ; Flavell, R. A. ; Zamboni, D. S. ; ROY, C. R. . Caspase-11 stimulates rapid flagellin-independent pyroptosis in response to Legionella pneumophila. PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA, v. 110, p. 1851-1856, 2013.
+Citações:90|107
+
+60.
+Hori, Juliana I. ; Zamboni, Dario S. ; CARRÃO, DANIEL B. ; GOLDMAN, Gustavo Henrique ; BERRETTA, ANDRESA A. . The Inhibition of Inflammasome by Brazilian Propolis (EPP-AF). Evidence-Based Complementary and Alternative Medicine (Online), v. 2013, p. 1-11, 2013.
+Citações:3|13
+
+61.
+ LIMA-JUNIOR, DJALMA S ; COSTA, DIEGO L ; CARREGARO, VANESSA ; CUNHA, LARISSA D ; SILVA, ALEXANDRE L N ; MINEO, TIAGO W P ; GUTIERREZ, FREDY R S ; BELLIO, MARIA ; BORTOLUCI, KARINA R ; FLAVELL, Richard A ; BOZZA, MARCELO T ; SILVA, JOÃO S ; ZAMBONI, DARIO S . Inflammasome-derived IL-1? production induces nitric oxide-mediated resistance to Leishmania. Nature Medicine (Print), v. 19, p. 909-915, 2013.
+Citações:80|67
+
+62.
+GOMES, M. T. R. ; CAMPOS, P. C. ; OLIVEIRA, F. S. ; CORSETTI, P. P. ; Bortoluci, K. R. ; CUNHA, L. D. ; Zamboni, D. S. ; OLIVEIRA, S. C. . Critical Role of ASC Inflammasomes and Bacterial Type IV Secretion System in Caspase-1 Activation and Host Innate Resistance to Brucella abortus Infection. The Journal of Immunology (1950), v. 190, p. 3629-3638, 2013.
+Citações:29|37
+
+63.
+SILVA, G. K. ; COSTA, R. S. ; SILVEIRA, T. N. ; CAETANO, B. C. ; HORTA, C. V. ; GUTIERREZ, F. R. S. ; GUEDES, P. M. D. M. ; ANDRADE, W. A. ; DE NIZ, M. ; GAZZINELLI, R. T. ; Zamboni, D. S. ; SILVA, J. S. . Apoptosis-Associated Speck-like Protein Containing a Caspase Recruitment Domain Inflammasomes Mediate IL-1  Response and Host Resistance to Trypanosoma cruzi Infection. The Journal of Immunology (1950), v. 191, p. 3373-3383, 2013.
+Citações:18|18
+
+64.
+Cunha, Larissa D. ; Zamboni, Dario S. . Subversion of inflammasome activation and pyroptosis by pathogenic bacteria. Frontiers in Cellular and Infection Microbiology, v. 3, p. 1, 2013.
+Citações:34|24
+
+65.
+Hori, Juliana I. ; Pereira, Marcelo S. F. ; Roy, Craig R. ; NAGAI, HIROKI ; Zamboni, Dario S. . Identification and functional characterization of K + transporters encoded by Legionella pneumophila - kup genes. CELLULAR MICROBIOLOGY, v. 15, p. n/a-n/a, 2013.
+Citações:2|2
+
+66.
+Amaral, Flávio A. ; Costa, Vivian V. ; Tavares, Livia D. ; Sachs, Daniela ; Coelho, Fernanda M. ; Fagundes, Caio T. ; Soriani, Frederico M. ; Silveira, Tatiana N. ; Cunha, Larissa D. ; Zamboni, Dario S. ; Quesniaux, Valerie ; Peres, Raphael S. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; Ryffel, Bernhard ; Souza, Daniele G. ; Teixeira, Mauro M. . NLRP3 inflammasome-mediated neutrophil recruitment and hypernociception depend on leukotriene B4 in a murine model of gout. Arthritis and Rheumatism, v. 64, p. 474-484, 2012.
+Citações:52|69
+
+67.
+Franco, Luis H. ; Beverley, Stephen M. ; Zamboni, Dario S. . Innate Immune Activation and Subversion of Mammalian Functions by Leishmania Lipophosphoglycan. Journal of Parasitology Research (Print), v. 2012, p. 1-11, 2012.
+Citações:10
+
+68.
+Oliveira, Fernanda S. ; Carvalho, Natalia B. ; Zamboni, Dario S. ; Oliveira, Sergio C. . Nucleotide-Binding Oligomerization Domain-1 and -2 Play No Role in Controlling Brucella abortus Infection in Mice. Clinical & Developmental Immunology (Print), v. 2012, p. 1-5, 2012.
+Citações:6|10
+
+69.
+Rodrigues, Adele A. ; Saosa, Jasson S. S. ; da Silva, Grace K. ; Martins, Flávia A. ; da Silva, Aline A. ; Souza Neto, Cecílio P. da Silva ; Horta, Catarina V. ; Zamboni, Dario S. ; da Silva, João S. ; Ferro, Eloisa A. V. ; da Silva, Claudio V. ; Milon, Genevieve . IFN- Plays a Unique Role in Protection against Low Virulent Trypanosoma cruzi Strain. Plos Neglected Tropical Diseases, v. 6, p. e1598, 2012.
+Citações:16|16
+
+70.
+Lopes, Marcela F. ; Zamboni, Dario S. ; Lujan, Hugo D. ; Rodrigues, Mauricio M. . Immunity to Protozoan Parasites. Journal of Parasitology Research (Print), v. 2012, p. 1-3, 2012.
+Citações:3
+
+71.
+MOREIRA, LILIAN O. ; Zamboni, Dario S. . NOD1 and NOD2 Signaling in Infection and Inflammation. Frontiers in Immunology, v. 3, p. 1-12, 2012.
+Citações:63|58
+
+72.
+Vieira, S. M. ; Cunha, T. M. ; Franca, R. F. O. ; Pinto, L. G. ; Talbot, J. ; Turato, W. M. ; Lemos, H. P. ; LIMA, J. B. ; Verri, W. A. ; Almeida, S. C. L. ; Ferreira, S. H. ; Louzada-Junior, P. ; Zamboni, D. S. ; Cunha, F. Q. . Joint NOD2/RIPK2 Signaling Regulates IL-17 Axis and Contributes to the Development of Experimental Arthritis. The Journal of Immunology (1950. Online), v. 188, p. 5116-5122, 2012.
+Citações:11|12
+
+73.
+Pereira, Marcelo S. F. ; Marques, Gabriel G. ; DelLama, José Eduardo ; Zamboni, Dario S. . The Nlrc4 Inflammasome Contributes to Restriction of Pulmonary Infection by Flagellated Legionella spp. that Trigger Pyroptosis. Frontiers in Microbiology (Online), v. 2, p. 1-6, 2011.
+Citações:14|20
+
+74.
+Massis, Liliana M. ; Zamboni, Dario S. . Innate Immunity to Legionella Pneumophila. Frontiers in Microbiology (Online), v. 2, p. 1-7, 2011.
+Citações:18|24
+
+75.
+Caetano, Braulia C. ; Biswas, Amlan ; Lima-Junior, Djalma S. ; Benevides, Luciana ; Mineo, Tiago W.P. ; Horta, Catarina V. ; Lee, Kyoung-Hee ; Silva, Joao S. ; Gazzinelli, Ricardo T. ; Zamboni, Dario S. ; Kobayashi, Koichi S. . Intrinsic expression of Nod2 in CD4+ T lymphocytes is not necessary for the development of cell-mediated immunity and host resistance to Toxoplasma gondii. European Journal of Immunology, v. 41, p. 3627-3631, 2011.
+Citações:22|21
+
+76.
+PEREIRA, M. S. F. ; Morgantetti, G. F. ; MASSIS, L. M. ; HORTA, C. V. ; Hori, J. I. ; Zamboni, D. S. . Activation of NLRC4 by Flagellated Bacteria Triggers Caspase-1-Dependent and -Independent Responses To Restrict Legionella pneumophila Replication in Macrophages and In Vivo. JOURNAL OF IMMUNOLOGY, v. 187, p. 000, 2011.
+Citações:34|43
+
+77.
+CORREA-COSTA, M. ; BRAGA, T. T. ; SEMEDO, P. ; HAYASHIDA, C. Y. ; BECHARA, L. R. G. ; ELIAS, R. M. ; BARRETO, C. R. ; SILVA-CUNHA, C. ; HYANE, M. I. ; Gonçalves, Giselle Martins ; BRUM, P. C. ; Fujihara, C ; ZATS, R. ; Zamboni, D. S. ; CÂMARA, Niels Olsen Saraiva . Pivotal Role of Toll-Like Receptors 2 and 4, Its Adaptor Molecule MyD88, and Inflammmasome Complex in Experimental Tubule-Interstitial Nephritis. Plos One, v. 6, p. 1-7, 2011.
+Citações:30|28
+
+78.
+GUEDES, P. M. M. ; Oliveira SF ; GUTIERREZ, F. R. S. ; SILVA, G. K. ; Rodrigues, G.J ; Bendhack, LM ; Franco, DW ; Matta, MAV ; Zamboni, D.S. ; Silva, RS ; SILVA, J. S. . Nitric oxide donor trans-[Rucl([15]ane N4)NO]²+ as a possible therapeutic approach for Chagas disease.. British Journal of Pharmacology, v. 160, p. 270-282, 2010.
+Citações:35|38
+
+79.
+SILVEIRA, T. N. ; Zamboni, D. S. . Pore Formation Triggered by Legionella spp. Is an Nlrc4 Inflammasome-Dependent Host Cell Response That Precedes Pyroptosis. Infection and Immunity (Print), v. 78, p. 1403-1413, 2010.
+Citações:50|60
+
+80.
+SILVA, G. K. ; GUTIERREZ, F. R. S. ; GUEDES, P. M. M. ; HORTA, C. V. ; CUNHA, L. D. ; Mineo, T. W. P. ; SANTIAGO-SILVA, J. ; Kobayashi, K. S. ; Flavell, R. A. ; SILVA, J. S. ; Zamboni, D. S. . Cutting Edge: Nucleotide-Binding Oligomerization Domain 1-Dependent Responses Account for Murine Resistance against Trypanosoma cruzi Infection. The Journal of Immunology (1950), v. 184, p. 1148-1152, 2010.
+Citações:45|56
+
+81.
+Gonçalves, Giselle Martins ; Zamboni, Dario S. ; CÂMARA, Niels Olsen Saraiva . The role of innate immunity in septic acute kidney injuries. Shock (Augusta, Ga.), v. 34, p. 22-26, 2010.
+Citações:30|37
+
+82.
+Frutuoso, Mariana S. ; Hori, Juliana I. ; Pereira, Marcelo S.F. ; Junior, Djalma S.L. ; Sônego, Fabiane ; Kobayashi, Koichi S. ; Flavell, Richard A. ; Cunha, Fernando Q. ; Zamboni, Dario S. . The pattern recognition receptors Nod1 and Nod2 account for neutrophil recruitment to the lungs of mice infected with Legionella pneumophila. Microbes and Infection, v. 12, p. 819-827, 2010.
+Citações:42|53
+
+83.
+Nascimento, Daniele C. ; Alves-Filho, José C. ; Sônego, Fabiane ; Fukada, Sandra Y. ; Pereira, Marcelo S. ; Benjamim, Claudia ; Zamboni, Dario S. ; Silva, João S. ; Cunha, Fernando Q. . Role of regulatory T cells in long-term immune dysfunction associated with severe sepsis. Critical Care Medicine, v. 38, p. 1718-1725, 2010.
+Citações:44|52
+
+84.
+Buzzo, C. L. ; Campopiano, J. C. ; MASSIS, L. M. ; Lage, S. L. ; Cassado, A. A. ; Leme-Souza, R. ; Dias da Cunha, L. ; Russo, M. ; Zamboni, D. S. ; Amarante-Mendes, G. P. ; Bortoluci, K. R. . A novel pathway for inducible nitric-oxide synthase activation through inflammasomes. The Journal of Biological Chemistry (Print), v. 285, p. 32087-32095, 2010.
+Citações:25|23
+
+85.
+Cunha, Thiago M ; Talbot, Jhimmy ; Pinto, Larissa G ; Vieira, Silvio M ; Souza, Guilherme R ; Guerrero, Ana T ; Sonego, Fabiane ; Verri, Waldiceu A ; Zamboni, D. S. ; Ferreira, Sergio H ; Cunha, Fernando Q . Caspase-1 is involved in the genesis of inflammatory hypernociception by contributing to peripheral IL-1b maturation. Molecular Pain, v. 6, p. 1-10, 2010.
+Citações:22|16
+
+86.
+Marim, Fernanda M. ; Silveira, Tatiana N. ; Lima, Djalma S. ; Zamboni, Dario S. . A Method for Generation of Bone Marrow-Derived Macrophages from Cryopreserved Mouse Bone Marrow Cells. Plos One, v. 5, p. e15263, 2010.
+Citações:83|42
+
+87.
+Popi, A.F. ; Zamboni, D.S. ; Mortara, R.A. ; Mariano, M. . Microbicidal property of B1 cell derived mononuclear phagocyte. Immunobiology (Germany), p. x, 2009.
+Citações:14|17
+
+88.
+Shin, Sunny ; Case, Christopher L. ; Archer, Kristina A. ; Nogueira, Catarina V. ; Kobayashi, Koichi S. ; Flavell, Richard A. ; Roy, Craig R. ; Zamboni, Dario S. . Type IV Secretion-Dependent Activation of Host MAP Kinases Induces an Increased Proinflammatory Cytokine Response to Legionella pneumophila. PLoS Pathogens (Online), v. 4, p. e1000220, 2008.
+Citações:80|85
+
+89.
+REN, Tao ; ZAMBONI, Dario Simões ; ROY, Craig R ; DIETRICH, Wiliam F ; VANCE, Russell e . Flagellin-Deficient Legionella Mutants Evade Caspase-1- and Naip5-Mediated Macrophage Immunity. PLoS Pathogens, Estados Unidos, v. 2, n.3, p. e18, 2006.
+Citações:285|137
+
+90.
+ ZAMBONI, Dario Simões; KOBAYASHI, Koich ; KOHLSDORF, Tiana ; OGURA, Yasunori ; LONG, Michelle e ; VANCE, Russell e ; KUIDA, Keisuki ; MARIATHASAN, Sanjeev ; DIXIT, Visha M ; FLAVELL, Richard A ; DIETRICH, Wiliam F ; ROY, Craig R . The Birc1e cytosolic pattern-recognition receptor contributes to the detection and control of Legionella pneumophila infection. Nature Immunology (Print), Estados Unidos, v. 7, n.3, p. 318-325, 2006.
+Citações:323|330
+
+91.
+ROY, Craig R ; ZAMBONI, Dario Simões . Cytosolic detection of flagellin: a deadly twist. Nature Immunology (Print), v. 7, p. 549-551, 2006.
+Citações:11|12
+
+92.
+SUTTERWALA, F. S. ; OGURA, Yasunori ; ZAMBONI, Dario Simões ; ROY, Craig R ; FLAVELL, Richard A . NALP3: a key player in caspase-1 activation. Journal of Endotoxin Research (Cessou em 2007. Cont. ISSN 1753-4259 Innate Immunity (Print)), v. 12, p. 251-256, 2006.
+Citações:51|48
+
+93.
+ZAMBONI, Dario Simões; RABINOVITCH, Michel . Phagocytosis of Apoptotic Cells Increases the Susceptibility of Macrophages to Infection with Coxiella burnetii Phase II through Down-Modulation of Nitric Oxide Production. Infection and Immunity (Print), Estados Unidos, v. 72, n.4, p. 2075-2080, 2004.
+Citações:18|17
+
+94.
+ZAMBONI, Dario Simões. Genetic Control of Natural Resistance of Mouse Macrophages to Coxiella burnetii Infection In Vitro: Macrophages from Restrictive Strains Control Parasitophorous Vacuole Maturation. Infection and Immunity (Print), Estados Unidos, v. 72, n.4, p. 2395-2399, 2004.
+Citações:18|18
+
+95.
+ZAMBONI, Dario Simões; CAMPOS, Marco ; TORRECILHAS, Ana Claudia ; KISS, Katy ; SAMUEL, James e ; GOLENBOCK, Douglas T ; LAUW, Fanny N ; ROY, Craig R ; ALMEIDA, Igor C ; GAZZINELLI, Ricardo T . Stimulation of Toll-like Receptor 2 by Coxiella burnetii Is Required for Macrophage Production of Pro-inflammatory Cytokines and Resistance to Infection. The Journal of Biological Chemistry (Print), Estados Unidos, v. 279, n.52, p. 54405-54415, 2004.
+Citações:56|28
+
+96.
+ZAMBONI, Dario Simões; RABINOVITCH, Michel . Nitric Oxide Partially Controls Coxiella burnetii Phase II Infection in Mouse Primary Macrophages. Infection and Immunity (Print), Estados Unidos, v. 71, n.3, p. 1225-1233, 2003.
+Citações:58|64
+
+97.
+ZAMBONI, Dario Simões; MCGRATH, Susan ; RABINOVITCH, Michel ; ROY, Craig R . Coxiella burnetii express type IV secretion system proteins that function similarly to components of the Legionella pneumophila Dot/Icm system. Molecular Microbiology (Print), Estados Unidos, v. 49, n.4, p. 965-976, 2003.
+Citações:92|95
+
+98.
+Zamboni, Dario S.; MORTARA, RENATO A. ; FREYMULLER, Edna ; RABINOVITCH, Michel . Mouse resident peritoneal macrophages partially control in vitro infection with Coxiella burnetii phase II. MICROBES AND INFECTION, v. 4, p. 591-598, 2002.
+Citações:24|23
+
+99.
+ZAMBONI, Dario Simões; MORTARA, Renato Arruda ; RABINOVITCH, Michel . Infection of Vero cells with Coxiella burnetii phase II: relative intracellular bacterial load and distribution estimated by confocal laser scanning microscopy and morphometry. Methods In Microbiology, Estados Unidos, v. 43, n.3, p. 223-232, 2001.
+Citações:25|26
+
+100.
+COLLI, Guarino ; ZAMBONI, Dario Simões . Ecology of the worm-lizard Amphisbaena alba in th cerrado of central Brazil. Copeia, Estados Unidos, v. 3, p. 733-742, 1999.

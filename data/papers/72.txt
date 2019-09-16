@@ -1,0 +1,818 @@
+1.
+CAMPOS, ANGÉLICA CRISTINE ALMEIDA ; GÓES, LUIZ GUSTAVO BENTIM ; MOREIRA-SOTO, ANDRES ; DE CARVALHO, CRISTIANO ; AMBAR, GUILHERME ; SANDER, ANNA-LENA ; FISCHER, CARLO ; RUCKERT DA ROSA, ADRIANA ; CARDOSO DE OLIVEIRA, DEBORA ; KATAOKA, ANA PAULA G. ; Pedro, Wagner André ; MARTORELLI, LUZIA FÁTIMA A. ; QUEIROZ, L.H. ; CRUZ-NETO, ARIOVALDO P. ; DURIGON, E. L. ; DREXLER, JAN FELIX . Bat Influenza A(HL18NL11) Virus in Fruit Bats, Brazil. EMERGING INFECTIOUS DISEASES (ONLINE), v. 25, p. eid2502.181246-333-337, 2019.
+
+2.
+FAVORETTO, SILVANA R. ; ARAUJO, DANIELLE B. ; DUARTE, NAYLÊ F. H. ; OLIVEIRA, DBL ; DA CRUS, NATHALIA G. ; MESQUITA, FLAVIO ; LEAL, FABYANO ; MACHADO, RAFAEL R. G. ; GAIO, FERNANDA ; OLIVEIRA, WALBER F. ; ZANOTTO, PAOLO M. A. ; DURIGON, E. L. . Zika Virus in Peridomestic Neotropical Primates, Northeast Brazil. EcoHealth, v. 10, p. 12-15, 2019.
+
+3.
+VIEIRA, SANDRA E. ; BANDO, SILVIA Y. ; DE PAULIS, MILENA ; OLIVEIRA, DBL ; Thomazelli, Luciano M. ; DURIGON, E. L. ; MARTINEZ, MARINA B. ; MOREIRA-FILHO, CARLOS ALBERTO . Distinct transcriptional modules in the peripheral blood mononuclear cells response to human respiratory syncytial virus or to human rhinovirus in hospitalized infants with bronchiolitis. PLoS One, v. 14, p. e0213501, 2019.
+
+4.
+SILVA, DANIELLA GREGORIA BOMFIM PRADO DA ; ALMEIDA, FLÁVIA JACQUELINE ; ARNONI, MARIANA VOLPE ; SÁFADI, MARCO AURÉLIO PALAZZI ; MIMICA, MARCELO JENNE ; JAROVSKY, DANIEL ; ROSSETTI, GABRIELA PEREIRA DE ALMEIDA ; MAGALHÃES, MAURICIO ; OLIVEIRA, Danielle Bruna Leal de ; THOMAZELLI, Luciano Matsumiya ; COLMANETTI, THAIS CRISTINA ; DURIGON, E. L. ; BEREZIN, EITAN NAAMAN . First report of two consecutive respiratory syncytial virus outbreaks by the novel genotypes ON-1 and NA-2 in a neonatal intensive care unit. Jornal de Pediatria, v. 1, p. 1, 2018.
+Citações:10|12
+
+5.
+BARBOSA, CARLA M. ; DI PAOLA, NICHOLAS ; CUNHA, MARIELTON P. ; RODRIGUES-JESUS, MÔNICA J. ; ARAUJO, DANIELLE B. ; SILVEIRA, VANESSA B. ; LEAL, FABYANO B. ; MESQUITA, FLÁVIO S. ; BOTOSSO, VIVIANE F. ; ZANOTTO, PAOLO M.A. ; DURIGON, E. L. ; SILVA, MARCOS V. ; OLIVEIRA, DBL . Yellow Fever Virus in Urine and Semen of Convalescent Patient, Brazil. EMERGING INFECTIOUS DISEASES, v. 24, p. 176-178, 2018.
+
+6.
+THOMAZELLI, LUCIANO M. ; OLIVEIRA, DANIELLE B. L. DE ; DURIGON, GIULIANA S. ; WHITAKER, BRETT ; KAMILI, SHIFAQ ; BEREZIN, E. N. ; DURIGON, E. L. . Human parainfluenza virus surveillance in pediatric patients with lower respiratory tract infections: a special view of parainfluenza type 4. Jornal de Pediatria, v. 94, p. 554-558, 2018.
+
+7.
+AMARILLA, A. C. F. ; POMPEI, J. C. A. ; ARAUJO, D. B. ; VÁZQUEZ, F. A. ; GALEANO, R. R. ; DELGADO, L. M. ; BOGADO, G. ; COLMAN, M. ; SANABRIA, L. ; IAMAMOTO, K. ; GARCIA, R. ; ASSIS, D. ; RECALDE, R. ; MARTORELLI, L. F. ; QUIÑONES, E. ; CABELLO, A. ; MARTINI, M. ; COSIVI, O. ; DURIGON, E. L. ; FAVORETTO, S. R. . Re-emergence of rabies virus maintained by canid populations in Paraguay. Zoonoses and Public Health, v. 65, p. 222, 2018.
+
+8.
+FISCHER, CARLO PEDROSO, CELIA MENDRONE, ALFREDO BISPO DE FILIPPIS, ANA MARIA VALLINOTO, ANTONIO CARLOS ROSÁRIO RIBEIRO, BERGMANN MORAIS DURIGON, E. L. MARQUES, ERNESTO T.A. CAMPOS, GUBIO S. VIANA, ISABELLE F.T. LEVI, JOSÉ EDUARDO SCARPELLI, LUCIANO CESAR NOGUEIRA, Maurício Lacerda BASTOS, MICHELE DE SOUZA SOUZA, NATHALIA C. SANTIAGO KHOURI, RICARDO LIRA, SANNY KOMNINAKIS, SHIRLEY VASCONCELOS BARONTI, CÉCILE CHARREL, RÉMI N. KÜMMERER, BEATE M. DROSTEN, CHRISTIAN BRITES, CARLOS DE LAMBALLERIE, XAVIER NIEDRIG, MATTHIAS , et al. ; External Quality Assessment for Zika Virus Molecular Diagnostic Testing, Brazil. EMERGING INFECTIOUS DISEASES, v. 24, p. 1-5, 2018.
+
+9.
+OLIVEIRA, DANIELLE DURIGON, GIULIANA MENDES, ÉRICA LADNER, JASON ANDREATA-SANTOS, ROBERT ARAUJO, DANIELLE BOTOSSO, Viviane PAOLA, NICHOLAS NETO, DANIEL CUNHA, MARIELTON BRACONI, CARLA ALVES, RÚBENS JESUS, MONICA PEREIRA, LENNON MELO, STELLA MESQUITA, FLÁVIO SILVEIRA, VANESSA Thomazelli, Luciano FAVORETTO, SILVANA ALMONFREY, FRANCIANE ABDULKADER, REGINA GABRILI, JOEL TAMBOURGI, DENISE OLIVEIRA, SÉRGIO PRIETO, KARLA , et al. ; Persistence and Intra-Host Genetic Evolution of Zika Virus Infection in Symptomatic Adults: A Special View in the Male Reproductive System. Viruses-Basel, v. 10, p. 615, 2018.
+
+10.
+STRAVINSKAS DURIGON, THOMAS ; MACKENZIE, BREANNE ; CARNEIRO OLIVEIRA-JUNIOR, MANOEL ; SANTOS-DIAS, ALANA ; DE ANGELIS, KÁTIA ; MALFITANO, CHRISTIANO ; KELLY DA PALMA, RENATA ; MORENO GUERRA, JULIANA ; DAMACENO-RODRIGUES, NILSA REGINA ; GARCIA CALDINI, ELIA ; DE ALMEIDA, FRANCINE MARIA ; AQUINO-SANTOS, HELIDA CRISTINA ; RIGONATO-OLIVEIRA, NICOLE CRISTINE ; LEAL DE OLIVEIRA, DANIELLE BRUNA ; AIMBIRE, FLAVIO ; LIGEIRO DE OLIVEIRA, ANA PAULA ; FRANCO DE OLIVEIRA, LUIZ VICENTE ; DURIGON, EDISON LUIZ ; HIEMSTRA, PIETER S. ; VIEIRA, RODOLFO P. . Aerobic Exercise Protects from Pseudomonas aeruginosa-Induced Pneumonia in Elderly Mice. Journal of Innate Immunity, v. 10, p. 279-290, 2018.
+
+11.
+DE SOUZA, WILLIAM ; DENNIS, TRISTAN ; FUMAGALLI, MARCÍLIO ; Araujo, Jansen ; SABINO-SANTOS, GILBERTO ; MAIA, FELIPE ; ACRANI, GUSTAVO ; CARRASCO, ADRIANO ; ROMEIRO, MARILIA ; MODHA, SEJAL ; VIEIRA, LUIZ ; OMETTO, TATIANA ; QUEIROZ, LUZIA ; DURIGON, EDISON ; NUNES, MÁRCIO ; FIGUEIREDO, LUIZ ; GIFFORD, ROBERT . Novel Parvoviruses from Wild and Domestic Animals in Brazil Provide New Insights into Parvovirus Distribution and Diversity. Viruses-Basel, v. 10, p. 143, 2018.
+
+12.
+DI PAOLA, NICHOLAS ; CUNHA, MARIELTON DOS PASSOS ; DURIGON, GIULIANA STRAVINSKAS ; BEREZIN, EITAN NAAMAN ; DURIGON, EDISON ; OLIVEIRA, Danielle Bruna Leal de ; ZANOTTO, Paolo Marinho de Andrade . Complete Genome Sequences of Five Human Respiratory Syncytial Virus Isolates Collected in Brazil. GENOME ANNOUNCEMENTS, v. 6, p. e01609-17, 2018.
+
+13.
+DI PAOLA, NICHOLAS ; CUNHA, MARIELTON DOS PASSOS ; DURIGON, GIULIANA STRAVINSKAS ; BEREZIN, EITAN NAAMAN ; DURIGON, EDISON ; OLIVEIRA, DANIELLE BRUNA LEAL ; ZANOTTO, Paolo Marinho de Andrade . Complete Genome Sequence of a Human Metapneumovirus Isolate Collected in Brazil. GENOME ANNOUNCEMENTS, v. 6, p. e01597-17, 2018.
+
+14.
+DE ARAUJO, JANSEN ; LO, MICHAEL K. ; TAMIN, AZAIBI ; OMETTO, TATIANA L. ; THOMAZELLI, Luciano Matsumiya ; NARDI, MARCELLO S. ; HURTADO, RENATA F. ; NAVA, ALESSANDRA ; SPIROPOULOU, CHRISTINA F. ; ROTA, PAUL A. ; DURIGON, E. L. . Antibodies Against Henipa-Like Viruses in Brazilian Bats. Vector Borne and Zoonotic Diseases (Larchmont, N.Y.), v. 1, p. 1-x, 2017.
+
+15.
+DE SOUZA PETERSEN, ELISA ; DE ARAUJO, JANSEN ; KRÜGER, LUCAS ; SEIXAS, MARINA M. ; OMETTO, TATIANA ; THOMAZELLI, Luciano Matsumiya ; WALKER, DAVID ; DURIGON, E. L. ; PETRY, MARIA VIRGINIA . First detection of avian influenza virus (H4N7) in Giant Petrel monitored by geolocators in the Antarctic region. Marine Biology (Berlin), v. 164, p. 62, 2017.
+
+16.
+Vieira, Sandra E. ; THOMAZELLI, Luciano Matsumiya ; DE PAULIS, MILENA ; FERRONATO, ANGELA E. ; OLIVEIRA, DANIELE B. ; MARTINEZ, MARINA BAQUERIZO ; DURIGON, E. L. . Infections Caused by HRSV A ON1 Are Predominant among Hospitalized Infants with Bronchiolitis in São Paulo City. Biomed Research International, v. 2017, p. 1-7, 2017.
+Citações:2|2
+
+17.
+DE ARAUJO, JANSEN ; PETRY, MARIA VIRGÍNIA ; FABRIZIO, THOMAS ; WALKER, DAVID ; OMETTO, TATIANA ; THOMAZELLI, Luciano Matsumiya ; SCHERER, ANGELO L. ; SERAFINI, PATRICIA P. ; NETO, ISAAC S. ; KRAUSS, SCOTT ; WEBSTER, ROBERT G. ; WEBBY, RICHARD J. ; DURIGON, E. L. . Migratory birds in Southern Brazil are a source of multiple avian influenza virus subtypes. Influenza and Other Respiratory Viruses, v. 1, p. 1-1, 2017.
+
+18.
+THOMAZELLI, Luciano Matsumiya ; DE ARAÚJO, JANSEN ; FABRIZIO, THOMAS ; WALKER, DAVID ; REISCHAK, DILMARA ; OMETTO, TATIANA ; BARBOSA, CARLA MENEGUIN ; PETRY, MARIA VIRGINIA ; WEBBY, RICHARD J. ; DURIGON, E. L. . Novel avian paramyxovirus (APMV-15) isolated from a migratory bird in South America. PLoS One, v. 12, p. e0177214, 2017.
+Citações:4|4
+
+19.
+VAZ, FREDERICO FONTANELLI ; SERAFINI, PATRÍCIA PEREIRA ; LOCATELLI-DITTRICH, ROSANGELA ; MEURER, RAFAEL ; DURIGON, E. L. ; DE ARAÚJO, JANSEN ; THOMAZELLI, Luciano Matsumiya ; OMETTO, TATIANA ; SIPINSKI, ELENISE ANGELOTTI BASTOS ; SEZERBAN, RAFAEL MEIRELLES ; ABBUD, MARIA CECÍLIA ; RASO, TÂNIA FREITAS . Survey of pathogens in threatened wild red-tailed Amazon parrot ( Amazona brasiliensis ) nestlings in Rasa Island, Brazil. BRAZILIAN JOURNAL OF MICROBIOLOGY, v. 48, p. 747-753, 2017.
+
+20.
+LUGARINI, C. ; HURTADO, R. ; ARAUJO, J. ; OMETTO, T. L. ; THOMAZELLI, L. M. ; SEIXAS, M. M. M. ; DURIGON, E. L. ; SILVA, J. C. R. . Lack of Detection of Avian Influenza, Newcastle Disease, and West Nile Viruses in Wild Birds of Northeastern Brazil. JOURNAL OF WILDLIFE DISEASES, p. 00, 2017.
+
+21.
+DI PAOLA, NICHOLAS ; CUNHA, MARIELTON DOS PASSOS ; DURIGON, GIULIANA STRAVINSKAS ; BEREZIN, EITAN NAAMAN ; DURIGON, EDISON ; OLIVEIRA, Danielle Bruna Leal de ; ZANOTTO, Paolo Marinho de Andrade . Complete Genome Sequences of Two Human Parainfluenza Virus Type 3 Isolates Collected in Brazil. GENOME ANNOUNCEMENTS, v. 5, p. e01192-17, 2017.
+
+22.
+FIGUEIREDO, MARIO LUIS GARCIA DE ; AMARILLA, ALBERTO ANASTACIO ; FIGUEIREDO, GLAUCIANE GARCIA DE ; ALFONSO, HELDA LIZ ; LIPPI, VERONICA ; MAIA, FELIPE GONÇALVES MOTTA ; MORAIS, FELIPE ALVES ; COSTA, CRISTÓVÃO ALVES DA ; HENRIQUES, DYANA ALVES ; Durigon, Edison Luis ; FIGUEIREDO, Luiz Tadeu Moraes ; AQUINO, VICTOR HUGO . Cacipacore virus as an emergent mosquito-borne Flavivirus. Revista da Sociedade Brasileira de Medicina Tropical, v. 50, p. 539-542, 2017.
+
+23.
+THOMAZELLI, Luciano Matsumiya ; OLIVEIRA, DANIELLE B. L. DE ; DURIGON, GIULIANA S. ; WHITAKER, BRETT ; KAMILI, SHIFAQ ; BEREZIN, EITAN N. ; DURIGON, E. L. . Human parainfluenza virus surveillance in pediatric patients with lower respiratory tract infections: a special view of parainfluenza type 4. Jornal de Pediatria, v. 1, p. 1-1, 2017.
+Citações:10|12
+
+24.
+TOLARDO, ALINE LAVADO ; SOUZA, WILLIAM MARCIEL DE ; ROMEIRO, MARILIA FARIGNOLI ; VIEIRA, LUIZ CARLOS ; LUNA, LUCIANO KLEBER DE SOUZA ; HENRIQUES, DYANA ALVES ; ARAUJO, JANSEN DE ; SIQUEIRA, CARLOS EDUARDO HASSEGAWA ; COLOMBO, TATIANA ELIAS ; AQUINO, VICTOR HUGO ; FONSECA, BENEDITO ANTONIO LOPES DA ; BRONZONI, ROBERTA VIEIRA DE MORAIS ; NOGUEIRA, MAURÍCIO LACERDA ; Durigon, Edison Luiz ; FIGUEIREDO, LUIZ TADEU MORAES . A real-time reverse transcriptase polymerase chain reaction for detection and quantification of Vesiculovirus. Memórias do Instituto Oswaldo Cruz (Online), v. 111, p. 385-390, 2016.
+
+25.
+GÓES, LUIZ GUSTAVO BENTIM ; Campos, Angélica Cristine de Almeida ; CARVALHO, CRISTIANO DE ; AMBAR, GUILHERME ; Queiroz, Luzia Helena ; CRUZ-NETO, ARIOVALDO PEREIRA ; MUNIR, MUHAMMAD ; Durigon, Edison Luiz . Genetic diversity of bats coronaviruses in the Atlantic Forest hotspot biome, Brazil. Infection, Genetics and Evolution (Print), v. 44, p. 510-513, 2016.
+
+26.
+OLIVEIRA, DANIELLE B.L. ; ALMEIDA, FLÁVIA J. ; DURIGON, E. L. ; MENDES, ÉRICA A. ; BRACONI, CARLA T. ; MARCHETTI, IVAN ; ANDREATA-SANTOS, ROBERT ; CUNHA, MARIELTON P. ; ALVES, RÚBENS P.S. ; PEREIRA, LENNON R. ; MELO, STELLA R. ; NETO, DANIEL F.L. ; MESQUITA, FLÁVIO S. ; ARAUJO, Danielle Bastos ; FAVORETTO, SILVANA R. ; SÁFADI, MARCO A.P. ; FERREIRA, LUÍS C.S. ; ZANOTTO, PAOLO M.A. ; BOTOSSO, VIVIANE F. ; BEREZIN, EITAN N. . Prolonged Shedding of Zika Virus Associated with Congenital Infection. New England Journal of Medicine (Print), v. 1, p. NEJMc1607583, 2016.
+
+27.
+ROMEIRO, MARILIA FARIGNOLI ; DE SOUZA, WILLIAM MARCIEL ; TOLARDO, ALINE LAVADO ; VIEIRA, LUIZ CARLOS ; HENRIQUES, DYANA ALVES ; DE ARAUJO, JANSEN ; SIQUEIRA, CARLOS EDUARDO HASSEGAWA ; COLOMBO, TATIANA ELIAS ; AQUINO, VICTOR HUGO ; DA FONSECA, BENEDITO ANTONIO LOPES ; DE MORAIS BRONZONI, ROBERTA VIEIRA ; NOGUEIRA, Maurício Lacerda ; DURIGON, E. L. ; FIGUEIREDO, Luiz Tadeu Moraes . A real-time RT-PCR for rapid detection and quantification of mosquito-borne alphaviruses. Archives of Virology, v. 2016, p. 1-6, 2016.
+
+28.
+MESQUITA, FLÁVIO DA SILVA ; OLIVEIRA, Danielle Bruna Leal de ; CREMA, DANIELA ; PINEZ, CÉLIA MIRANDA NUNES ; COLMANETTI, THAÍS CRISTINA ; THOMAZELLI, Luciano Matsumiya ; GILIO, ALFREDO ELIAS ; VIEIRA, SANDRA ELISABETH ; MARTINEZ, MARINA BAQUIÃO ; BOTOSSO, VIVIANE FONGARO ; DURIGON, E. L. . Rapid antigen detection test for respiratory syncytial virus diagnosis as a diagnostic tool. Jornal de Pediatria (Impresso), v. 1, p. 1-x, 2016.
+Citações:10|12
+
+29.
+MORAIS, F. ; PEREIRA, A. ; PEREIRA, A. S. P. ; MORELI, M. L. ; CAMARGO, L. M. ; NARDI, M. S. ; TOFOLI, C. ; ARAUJO, J. ; DUTRA, L. ; OMETTO, T. L. ; HURTADO, R. ; MAUES, F. ; HINKE, T. Z. ; MAH, S. J. ; LIMA, M. C. ; FIGUEIREDO, L. ; DURIGON, E. L. . Serological Survey of Hantavirus in Inhabitants from Tropical and Subtropical Areas of Brazil. Advances in Virology, v. 2016, p. 1-6, 2016.
+
+30.
+Souza, W.M. ; Romeiro, M.F. ; Fumagalli, M.J. ; Modha, S. ; Araujo, J. ; QUEIROZ, L.H. ; DURIGON, E. L. ; Figueiredo, L.T.M. ; Murcia, P.R. ; Gifford, R. . Chapparvoviruses occur in at least three vertebrate classes and have a broad biogeographic distribution. Journal of General Virology, v. 98, p. 225-229, 2016.
+
+31.
+Hurtado, Renata ; DE AZEVEDO-JÚNIOR, SEVERINO MENDES ; VANSTREELS, RALPH ERIC THIJL ; FABRIZIO, THOMAS ; WALKER, DAVID ; RODRIGUES, ROBERTA C. ; SEIXAS, MARINA M. M. ; DE ARAÚJO, JANSEN ; THOMAZELLI, Luciano Matsumiya ; OMETTO, TATIANA LOPES ; WEBBY, RICHARD J. ; WEBSTER, ROBERT G. ; JEREZ, JOSÉ ANTONIO ; DURIGON, E. L. . Surveillance of Avian Influenza Virus in Aquatic Birds on the Brazilian Amazon Coast. EcoHealth, v. 1, p. 1-6, 2016.
+Citações:1|3
+
+32.
+OLIVEIRA, DBL ; IWANE, MARIKA K. ; PRILL, MILA M. ; WEINBERG, GEOFFREY A. ; WILLIAMS, JOHN V. ; GRIFFIN, MARIE R. ; SZILAGYI, PETER G. ; EDWARDS, KATHRYN M. ; STAAT, MARY A. ; HALL, CAROLINE B. ; DURIGON, E. L. ; ERDMAN, DEAN D. . Molecular characterization of respiratory syncytial viruses infecting children reported to have received palivizumab immunoprophylaxis. Journal of Clinical Virology, v. 65, p. 26-31, 2015.
+Citações:2|1
+
+33.
+MORAES, CLAUDIA TRIGO PEDROSO ; OLIVEIRA, DANIELLE BRUNA LEAL ; CAMPOS, ANGELICA CRISTINE ALMEIDA ; BOSSO, PATRICIA ALVES ; LIMA, HILDENER NOGUEIRA ; STEWIEN, KLAUS EBERHARD ; GILIO, A. E. ; Vieira, Sandra Elisabete ; Botosso, Viviane Fongaro ; DURIGON, E. L. . Genetic variability in G2 and F2 region between biological clones of human respiratory syncytial virus with or without host immune selection pressure. Memórias do Instituto Oswaldo Cruz (Impresso), v. 00, p. 00-00, 2015.
+Citações:1|3
+
+34.
+DE ARAUJO, JANSEN ; DURÉ, ANA I.L. ; NEGRÃO, RAQUEL ; OMETTO, TATIANA ; THOMAZELLI, Luciano Matsumiya ; DURIGON, E. L. . Co-circulation in a single biome of the Juquitiba and Araraquara hantavirus detected in human sera in a sub-tropical region of Brazil. Journal of Medical Virology (Print), v. 1, p. n/a-n/a, 2015.
+Citações:2|5
+
+35.
+DURIGON, GIULIANA STRAVINSKAS ; OLIVEIRA, DANIELLE BRUNA LEAL ; FELICIO, MARIA CAROLINA CALAHANI ; FINELLI, CRISTIANE ; PEREIRA, MARIA FERNANDA BADUE ; STORNI, JULIANA GAMO ; CALDEIRA, RAQUEL NEGRÃO ; BEREZIN, RENI CHEHTER ; Durigon, Edison Luiz ; BEREZIN, EITAN NAAMAN . Poor Outcome of Acute Respiratory Infection in Young Children with Underlying Health Condition in Brazil. International Journal of Infectious Diseases, v. 34, p. 3-7, 2015.
+Citações:1|2
+
+36.
+Hurtado, Renata ; FABRIZIO, THOMAS ; VANSTREELS, RALPH ERIC THIJL ; KRAUSS, SCOTT ; WEBBY, RICHARD J. ; WEBSTER, ROBERT G. ; Durigon, Edison Luiz . Molecular Characterization of Subtype H11N9 Avian Influenza Virus Isolated from Shorebirds in Brazil. Plos One, v. 10, p. e0145627, 2015.
+Citações:3|4
+
+37.
+HURTADO, R. F. ; VANSTREELS, R. E. T. ; SERAFINI, P. P. ; AZEVEDO JUNIOR, S. M. ; DURIGON, E. L. . Aquatic wild birds kept captive at remote coastal communities in northern Brazil. Boletín Chileno de Ornitología, v. 20, p. 17-22, 2015.
+Citações:1
+
+38.
+DOMINGUEZ, S. R. ; SHRISASTAVA, S. ; BERGLUND, A. ; QIAN, Z. ; GOES, L. G. B. ; HALPIN, R. A. ; FEDOROVA, N. B. ; RANSIER, A. ; WESTON, P. A. ; DURIGON, E. L. ; JEREZ, J. A. ; ROBINSON, C. C. ; TOWN, C. D. ; HOLMES, K. V. . Isolation, propagation, genome analysis, and epidemiology of HKU1 Betacoronaviruses from Colorado and Brazil. Journal of General Virology (Print), v. 95, p. 836-848, 2014.
+Citações:4|6
+
+39.
+FERONE, EDUARDO A. ; BEREZIN, EITAN N. ; DURIGON, GIULIANA S. ; FINELLI, CRISTIANE ; FELÍCIO, MARIA C.C. ; STORNI, JULIANA G. ; DURIGON, EDISON L. ; OLIVEIRA, DANIELLE B. L. DE . Clinical and epidemiological aspects related to the detection of adenovirus or respiratory syncytial virus in infants hospitalized for acute lower respiratory tract infection. Jornal de Pediatria (Impresso), v. 90, p. 42-49, 2014.
+Citações:4|7
+
+40.
+ARAUJO, DANIELLE B. ; MARTORELLI, LUZIA A. ; KATAOKA, ANA PAULA G. A. ; CAMPOS, ANGÉLICA C. A. ; RODRIGUES, CAMILA S. ; SANFILIPPO, LUIZ F. ; CUNHA, ELENICE S. ; DURIGON, EDISON L. ; FAVORETTO, SILVANA R. . ANTIBODIES TO RABIES VIRUS IN TERRESTRIAL WILD MAMMALS IN NATIVE RAINFOREST ON THE NORTH COAST OF SÃO PAULO STATE, BRAZIL. Journal of Wildlife Diseases, v. 50(3), p. 140429150826008, 2014.
+Citações:2|2
+
+41.
+SCHWIND, JESSICA S; GOLDSTEIN, TRACEY ; THOMAS, KATE ; MAZET, JONNA AK ; SMITH, WOUTRINA A . Capacity building efforts and perceptions for wildlife surveillance to detect zoonotic pathogens: comparing stakeholder perspectives. BMC Public Health (Online), v. 14, p. 684, 2014.
+Citações:3|2
+
+42.
+DE ARAUJO, JANSEN ; DE AZEVEDO JÚNIOR, SEVERINO M. ; GAIDET, NICOLAS ; HURTADO, RENATA F. ; WALKER, DAVID ; Thomazelli, Luciano M. ; OMETTO, TATIANA ; SEIXAS, MARINA M. M. ; RODRIGUES, ROBERTA ; GALINDO, DANIELE B. ; DA SILVA, ADRIANA C. S. ; RODRIGUES, ARLINÉA M. M. ; BOMFIM, LEONARDO L. ; MOTA, MARCELO A. ; LARRAZÁBAL, MARIA E. ; Branco, Joaquim O. ; SERAFINI, PATRICIA ; NETO, ISAAC S. ; FRANKS, JOHN ; WEBBY, RICHARD J. ; WEBSTER, ROBERT G. ; DURIGON, EDISON L. . Avian Influenza Virus (H11N9) in Migratory Shorebirds Wintering in the Amazon Region, Brazil. Plos One, v. 9, p. e110141, 2014.
+Citações:2|16
+
+43.
+HURTADO, R. ; VANSTREELS, R. E. T. ; SERAFINI, P. P. ; de AZEVEDO Jr, S. M. ; DURIGON, E. L. . Aquatic wild birds kept captive at remote coastal communities in northern Brazil. Boletín Chileno de Ornitología, v. 20, p. 17-22, 2014.
+Citações:1
+
+44.
+DANTAS, G. P. M. ; OLIVEIRA, L. R. ; MILO, A. C. M. ; ARAUJO, J. ; HURTADO, R. ; DURIGON, E. L. ; SANFILIPPO, L. F. ; MORGANTE, J. S. . Demographic History of the Gentoo Penguin ( Pygoscelis papua ) and the Adélie Penguin ( Pygoscelis adeliae ) on Admiralty Bay, King George Island, Antarctica. Waterbirds (De Leon Springs, Fla.), v. 37, p. 410-418, 2014.
+
+45.
+SOUSA, E DE ; COSTA, T P ; WERTHER, K ; DURIGON, EL ; ARAUJO, J DE ; FERREIRA, CS ; PINTO, AA . Presence of antibodies against H5, H7 and H9 influenza A virus in wild birds in the State of São Paulo, Brazil. Revista Brasileira de Ciência Avícola / Brazilian Journal of Poultry Science, v. 15, p. 169-172, 2013.
+Citações:1|1
+
+46.
+DE OLIVEIRA TORRES CARRASCO, ADRIANO ; RODRIGUES, JULIANA NOGUEIRA MARTINS ; SEKI, MEIRE CHRISTINA ; DE MORAES, FABRICIO EDGAR ; SILVA, JAQUELINE RAYMONDI ; Durigon, Edison Luis ; PINTO, ARAMIS AUGUSTO . Use of reverse transcriptase polymerase chain reaction (RT-PCR) in molecular screening of Newcastle disease virus in poultry and free-living bird populations. Tropical Animal Health and Production, v. 45, p. 569-576, 2013.
+Citações:2|1
+
+47.
+MOURA, FERNANDA E. A. ; PERDIGÃO, ANNE C. B. ; RIBEIRO, JOYCE F. ; FLORÊNCIO, CAROLINE M. G. D. ; OLIVEIRA, FRANCISCO M. S. ; PEREIRA, SAMUEL A. R. ; BOTOSSO, VIVIANE F. ; SIQUEIRA, MARILDA M. ; Thomazelli, Luciano M. ; CALDEIRA, RAQUEL N. ; OLIVEIRA, DANIELLE B. L. ; DURIGON, EDISON L. . Respiratory syncytial virus epidemic periods in an equatorial city of Brazil. Influenza and Other Respiratory Viruses (Print), v. Nov 7, p. n/a-n/a, 2013.
+Citações:2|3
+
+48.
+CURTI, SUELY PIRES ; Figueiredo, Cristina Adelaide ; de Oliveira, Maria Isabel ; ANDRADE, JOELMA QUEIROZ ; ZUGAIB, MARCELO ; FRUGIS YU, ANA LUCIA ; OLIVEIRA, DANIELLE BRUNA ; Durigon, Edison Luiz . Molecular epidemiology of rubella viruses involved in congenital rubella infections in São Paulo, Brazil, between 1996 and 2009. Journal of Medical Virology (Print), v. 85, p. n/a-n/a, 2013.
+Citações:3|3
+
+49.
+Favoretto, Silvana Regina ; ALMEIDA, MARILENE FERNANDES DE ; MARTORELLI, LUZIA FATIMA ALVES ; AIRES, CAROLINE COTRIN ; LABRUNA, MARCELO BAHIA ; KATAOKA, ANA PAULA ARRUDA GERALDES ; CAMPOS, ANGELICA CRISTINE DE ALMEIDA ; SACRAMENTO, DEBORA REGINA VEIGA ; Durigon, Edison Luiz ; KOPROWSKI, HILARY . Experimental infection of the bat tick Carios fonsecai (Acari: Ixodidae) with the rabies virus. Revista da Sociedade Brasileira de Medicina Tropical (Impresso), v. 46, p. 788-790, 2013.
+Citações:1|1
+
+50.
+SANTOS, L. G. F. ; Ometto T L ; ARAUJO, J. ; THOMAZELLI, Luciano Matsumiya ; BORGES, L. ; RAMOS, D. G. ; DURIGON, E. L. ; PINHO, J. B. ; AGUIAR, D. M. . Absence of Anaplasmataceae DNA in Wild Birds and Bats from a Flooded Area in the Brazilian Northern Pantanal. Air Water Borne Diseases, v. 2, p. 113, 2013.
+Citações:1
+
+51.
+DURIGON, E. L.; THOMAZELLI, Luciano Matsumiya ; Oliveira, Danielle B.L. ; MACEDO, PRISCILA V. ; LOTUFO, JOÃO P.B. ; DA CUNHA, CLÓVIS A. ; NETO, JOÃO T. . Virological Response to Standard- and Double-Dose Oseltamivir Treatment in Patients With Pandemic (H1N1) 2009 Influenza. Infectious Diseases in Clinical Practice, v. 00, p. 00, 2013.
+
+52.
+HURTADO, R. ; SERAFINI, P. P. ; VANSTREELS, R. E. T. ; OLSEN, K. M. ; DURIGON, E. L. . Northernmost record of Brown Skuas Stercorarius antarcticus (Lesson 1831) at Maranhão state, Northern Brazil. Boletín Chileno de Ornitología, v. 18, p. 52-56, 2013.
+
+53.
+GÓES, L. G. B. ; RUVALCABA, S. G. ; CAMPOS, A.C.A. ; QUEIROZ, L. H. ; CARVALHO, C. ; JEREZ, J.A. ; DURIGON, E. L. ; DAVALOS, L. I. ; DOMINGUEZ, S. R. . Novel bat coronaviruses, Brazil and Mexico.. Emerging Infectious Diseases (Online), v. 19, p. 1711-1713, 2013.
+Citações:13
+
+54.
+FAVORETTO, S. R. ; DE MATTOS, C. C. ; DE MATTOS, C. A. ; CAMPOS, A. C. A. ; SACRAMENTO, D. R. V. ; DURIGON, E. L. . The emergence of wildlife species as a source of human rabies infection in Brazil. Epidemiology and Infection (Print), v. feb, p. 1-10, 2013.
+Citações:9|14
+
+55.
+OMETTO, T. DURIGON, E. L. DE ARAUJO, J. APRELON, R. DE AGUIAR, D. M. CAVALCANTE, G. T. MELO, R. M. LEVI, J. E JUNIOR, S. M. D. A. PETRY, M. V. NETO, I. S. SERAFINI, P. VILLALOBOS, E. CUNHA, E. M. S. LARA, M. D. C. C. S. H. NAVA, A. F. D. NARDI, M. S. HURTADO, R. RODRIGUES, R. SHERER, A. L. SHERER, J. D. F. M. GERALDI, M. P. DE SEIXAS, M. M. M. PETERKA, C. BANDEIRA, D. D. S. , et al. ; West Nile virus surveillance, Brazil, 2008-2010. Transactions of the Royal Society of Tropical Medicine and Hygiene, v. xxx, p. 1, 2013.
+Citações:19|19
+
+56.
+Lima, Hildenêr Nogueira ; Botosso, Viviane Fongaro ; Leal Oliveira, Danielle Bruna ; de Almeida Campos, Angélica Cristine ; Leal, Andrea Lima ; Silva, Tereza Souza ; Ramos Bosso, Patrícia Alves ; Pedroso Moraes, Claudia Trigo ; da Silva Filho, Claudionor Gomes ; Vieira, Sandra Elisabete ; Gilio, Alfredo Elias ; STEWIEN, Klaus Eberhard ; Durigon, Edison Luiz . Molecular epidemiology of the SH (small hydrophobic) gene of human respiratory syncytial virus (HRSV), over 2 consecutive years. Virus Research (Print), v. 163, p. 82-86, 2012.
+Citações:6|6
+
+57.
+Queiroz, Luzia Helena ; Favoretto, Silvana Regina ; Cunha, Elenice Maria S. ; Campos, Angélica Cristine A. ; Lopes, Marissol Cardoso ; Carvalho, Cristiano ; Iamamoto, Keila ; Araújo, Danielle Bastos ; Venditti, Leandro Lima R. ; Ribeiro, Erica S. ; Pedro, Wagner André ; Durigon, Edison Luiz . Rabies in southeast Brazil: a change in the epidemiological pattern. Archives of Virology, v. 157, p. 93-105, 2012.
+Citações:10|8
+
+58.
+FIGUEIREDO, C.a. ; OLIVEIRA, M.i. ; CURTI, S.p. ; AFONSO, A.M.S. ; FRUGI YU, A.L. ; GUALBERTO, F. ; DURIGON, E.L. . Phylogenetic analysis of rubella virus strains during an outbreak in São Paulo, 2007-2008. Journal of Medical Virology (Print), v. 84, p. 1666-1671, 2012.
+Citações:7|7
+
+59.
+THOMAZELLI, LM ; ARAUJO, J DE ; FERREIRA, C DE S ; HURTADO, R ; OLIVEIRA, DB ; OMETTO, T ; GOLONO, M ; SANFILIPPO, L ; DEMETRIO, C ; FIGUEIREDO, ML ; DURIGON, EL . Molecular surveillance of the Newcastle disease virus in domestic and wild birds on the North Eastern Coast and Amazon biome of Brazil. Revista Brasileira de Ciência Avícola / Brazilian Journal of Poultry Science, v. 14, p. 01-07, 2012.
+
+60.
+DE ARAUJO, JANSEN ; THOMAZELLI, LUCIANO MATSUMIYA ; HENRIQUES, DYANA ALVES ; LAUTENSCHALAGER, DANIELE ; OMETTO, TATIANA ; DUTRA, LILIA MARA ; AIRES, CAROLINE COTRIN ; FAVORITO, SANDRA ; Durigon, Edison Luiz . Detection of hantavirus in bats from remaining rain forest in Sao Paulo, Brazil. BMC Research Notes, v. 5, p. 690, 2012.
+Citações:13
+
+61.
+FIGUEIREDO, C.a. ; OLIVEIRA, M.i. ; CURTI, S.p. ; AFONSO, A.M.S. ; FRUGIS YU, A.L. ; ARAÚJO, J. ; OLIVEIRA, D.B. ; DURIGON, E.L. . Epidemiological and molecular characterization of rubella virus isolated in São Paulo, Brazil during 1997-2004. Journal of Medical Virology (Print), v. 84, p. 1831-1838, 2012.
+Citações:6|5
+
+62.
+GARDINASSI, Luiz Gustavo ; SIMAS, P. V. M. ; SALOMAO, J. B. ; DURIGON, E. L. ; TREVIZAN, D. M. Z. ; CORDEIRO, J. A. ; NOGUEIRA, M. L. ; RAHAL, P. ; SOUZA, Fatima Pereira de . Seasonality of Viral Respiratory Infections in Southeast of Brazil: The Influence of Temperature and air Humidity.. Brazilian Journal of Microbiology (Impresso), v. x, p. 98-108, 2012.
+
+63.
+KATZOV-ECKERT, H. BOTOSSO, V. F. ARRUDA NETO, E. Zanotto, PMA VGDN Consortium Peret TCT UEDA, M. PASMANICK, A. GILIO, A. E. Leal A.I. Campo A.C.A. Moraes C.T.P. OLIVEIRA, C. A. F. SCHVARTSMAN, C. Oliveira B.L DURIGON, E. L. BEREZIN, E. Tenório E.C.N. Paula F.E Proença-Modena J.L. STEWIEN, K. E. VAZ -DE- LIMA, L. R. SOUZA, M. C. O. BARBOSA, M. L. HONG, M. A. , et al. ; Philodynamics and Dispersal of HRSV entails its permanence in the general population in between yearly outbreaks in children. Plos One, v. 7, p. e41953, 2012.
+Citações:8|6
+
+64.
+Simas. P.V.M ; GARDINASSI, Luiz Gustavo Araujo ; Nogueira, F. C. ; Bonfim. C. M ; Gomes, E, D ; Lacerda, M.N. ; DURIGON, E. L. ; RAHAL, Paula ; SOUZA, F. P. . Analysis of Climatica Factors Impact on RSV Infection Distribution in Children Attending Childcare at Northwest Region of São Paulo, Brazil. Virus Reviews and Research, v. 17, p. 1-6, 2012.
+
+65.
+Almeida, M F ; FAVORETTO, S. R. ; MARTORELLI, L. F. A. ; TREZZA-NETTO, J. ; CAMPOS, A. C. A. ; OZAHATA, C. H. ; SODRE, M. ; SODRE, M. M. ; KATAOKA, A. P. A. G. ; SACRAMENTO, D. R. V. ; DURIGON, E. L. . CHARACTERIZATION OF RABIES VIRUS ISOLATED FROM A COLONY OF Eptesicus furinalis BATS IN BRAZIL. Revista do Instituto de Medicina Tropical de São Paulo (Impresso), v. 53, p. 31-37, 2011.
+Citações:2|4|5
+
+66.
+Araujo, Jansen ; PEREIRA, A. ; Nardi M.S. ; HENRIQUES, D. A. ; LAUTENSCHALAGER, D. A. ; DUTRA, L. M. M. ; OMETTO, T. ; HURTADO, R. ; MAUES, F. C. J. ; Nava A, ; MORAIS, F. A. ; AIRES, C C ; Favorito S ; DURIGON, E. L. . Detection of hantaviruses in Brazilian rodents by SYBR-Green-based real-time RT-PCR. Archives of Virology, v. 27, p. 1-6, 2011.
+Citações:5|6
+
+67.
+Rosa, Adriana Ruckert da ; Kataoka, Ana Paula de Arruda Geraldes ; Favoretto, Silvana Regina ; Sodré, Miriam Martos ; Trezza Netto, José ; Campos, Angélica Cristine de Almeida ; Durigon, Edison Luiz ; Martorelli, Luzia Fátima Alves . First report of rabies infection in bats, Molossus molossus, Molossops neglectus and Myotis riparius in the city of São Paulo, State of São Paulo, southeastern Brazil. Revista da Sociedade Brasileira de Medicina Tropical (Impresso), v. 44, p. 146-149, 2011.
+Citações:1|5
+
+68.
+Campos, Angélica Cristine de Almeida ; Melo, Fernando Lucas ; Romano, Camila Malta ; Araujo, Danielle Bastos ; Cunha, Elenice Maria Sequetin ; Sacramento, Débora Regina Veiga ; de Andrade Zanotto, Paolo Marinho ; Durigon, Edison Luiz ; Favoretto, Silvana Regina . One-step protocol for amplification of near full-length cDNA of the rabies virus genome. Journal of Virological Methods, v. 174, p. 1-6, 2011.
+Citações:7|9
+
+69.
+Goes, Luiz ; DURIGON, E. L. ; CAMPOS, A. C. A. ; HEIN, N ; PASSOS, S. D. ; JEREZ, J. A. . Coronavirus HKU1 in Children, Brazil, 1995. Emerging Infectious Diseases (Print), v. 17, p. 1147-1148, 2011.
+Citações:4|5
+
+70.
+Ferraro, Alexandre Archanjo ; Ferronato, Angela Esposito ; Sacramento, Patr& ; Botosso, Viviane Fongaro ; Oliveira, Danielle Bruna Leal de ; Marinheiro, Juliana Cristina ; H& ; Durigon, Edison Luiz ; Vieira, Sandra Elisabete . Severity of viral coinfection in hospitalized infants with respiratory syncytial virus infection. Jornal de Pediatria (Impresso), v. 87, p. 307-313, 2011.
+Citações:27|33
+
+71.
+Aoki, K. ; Benko, M. ; Davison, A. J. ; Echavarria, M. ; ERDMAN, D. D. ; Harrach, B. ; Kajon, A. E. ; Schnurr, D. ; Wadell, G. ; DURIGON, E. L. . Toward an Integrated Human Adenovirus Designation System That Utilizes Molecular and Serological Data and Serves both Clinical and Fundamental Virology. Journal of Virology (Print), v. 85, p. 5703-5704, 2011.
+Citações:16|22
+
+72.
+Bonfim, Caroline M. ; Nogueira, Maur& ; Simas, Paulo V& ; Gardinassi, Luis Gustavo A. ; Durigon, Edison L. ; Rahal, Paula ; Souza, F& ; DURIGON, E. L. . Frequent respiratory pathogens of respiratory tract infections in children attending daycare centers. Jornal de Pediatria (Impresso), v. 87, p. 439-44, 2011.
+Citações:6|7
+
+73.
+Filoni, C. ; Catao-Dias, J. L. ; Cattori, V. ; Willi, B. ; Meli, M. L. ; Ramiro Correa, S. H. ; Cristina Marques, M. ; Harumi Adania, C. ; Ramos Silva, J. C. ; Vianna Marvulo, M. F. ; Ferreira Neto, J. S. ; Luiz Durigon, E. ; de Carvalho, V. M. ; Dall'Acqua Coutinho, S. ; Lutz, H. ; Hofmann-Lehmann, R. ; DURIGON, E. L. . Surveillance using serological and molecular methods for the detection of infectious agents in captive Brazilian neotropic and exotic felids. Journal of Veterinary Diagnostic Investigation, v. 24, p. 166-173, 2011.
+Citações:9|10
+
+74.
+Albas, Avelino ; Campos, Angélica Cristine de Almeida ; Araujo, Danielle Bastos ; Rodrigues, Camila Seabra ; Sodré, Miriam Martos ; Durigon, Edison Luiz ; Favoretto, Silvana Regina . Molecular characterization of rabies virus isolated from non-haematophagous bats in Brazil. Revista da Sociedade Brasileira de Medicina Tropical (Impresso), v. 44, p. 678-683, 2011.
+Citações:6|8|8
+
+75.
+GREGORY, L. ; LARA, M.C.C.S.H. ; HASEGAWA, M.Y. ; CASTRO,R.S. ; Gaeta, N.C. ; Rodrigues, J.N.M. ; ARAUJO, J. ; Keller, L. W. ; DURIGON, E. L. . Detecção do vírus da Artrite Encefalite Caprina em pulmão, glândula mamária, cérebro e líquido sinovial de cabras naturalmente infectadas pela técnica de nested-PCR. Medicina veterinária (UFRPE), v. 5, p. 7-11, 2011.
+Citações:2
+
+76.
+GREGORY, L. ; Lara ; HASEGAWA, M.Y. ; Castro ; Rodrigues, J.N.M. ; ARAUJO, J. ; Keller, L. W. ; Silva, L. K. F. ; DURIGON, E. L. . Detecção do vírus da Artrite Encefalite Caprina no sêmen através das técnicas de PCR e RT-PCR. Arquivos do Instituto Biológico (Online), v. 78, p. 599-603, 2011.
+
+77.
+FIGUEIREDO, C. A. ; OLIVEIRA, M. I. ; AFONSO, A. M. S. ; CURTI, S. P. ; DURIGON, E. L. . Rubella encephalitis in a young adult male: isolation and genotype analysis. Infection, v. 39, p. 73-75, 2011.
+Citações:9|10
+
+78.
+GREGORY, L. ; LARA, Maria Do Carmo Custódio de Souza Hunold ; HASEGAWA, Marjorie Y ; CASTRO, Roberto S ; RODRIGES, J N M ; ARAUJO, J ; Keller, L.W. ; DURIGON, E. L. . Detecção do vírus da Artrite Encefalite Caprina em pulmão, glândula mamária, cérebro e pulmão. Medicina Veterinária (UFRPE), v. 5, p. 7-11, 2011.
+Citações:2
+
+79.
+GREGORY, L. ; LARA, Maria Do Carmo Custódio de Souza Hunold ; HASEGAWA, Marjorie Y ; CASTRO, Roberto S ; RODRIGES, J N M ; ARAUJO, J ; Keller, L.W. ; Silva, L.K ; DURIGON, E. L. . DETECÇÃO DO VÍRUS DA ARTRITE ENCEFALITE CAPRINA NO SÊMEN ATRAVÉS DAS TÉCNICAS DE PCR E NESTED-PCR. Arquivos do Instituto Biológico (Impresso), v. 78, p. 599-603, 2011.
+
+80.
+Lima H N ; BOTOSSO, V. F ; OLIVEIRA, D. B. L. ; A C Campos de Almeida ; Andrea Leal ; LEAL, A. L. ; Ramos Bosso PA ; PEDROSO, C. T. M. ; Silva Filho CG ; VIEIRA, S. E. / VIEIRA, Sandra / Vieira, S ; GILIO, A. E. ; STEWIEN, K. E. ; DURIGON, E. L. . Molecular epidemiology of the SH (small hydrophobic) gene of human respiratory syncytial virus (HRSV), over 2 consecutive years.. Virus Research (Print), v. 163, p. 82-86, 2011.
+Citações:6|6
+
+81.
+Romano, Camila Malta ; de Carvalho-Mello, Isabel M. V. Guedes ; Jamal, Leda F. ; de Melo, Fernando Lucas ; Iamarino, Atila ; Motoki, Marco ; Pinho, João Renato Rebello ; Holmes, Edward C. ; Zanotto, Paolo Marinho de Andrade ; DURIGON, E. L. . Social Networks Shape the Transmission Dynamics of Hepatitis C Virus. Plos One, v. 5, p. e11170, 2010.
+Citações:25|32
+
+82.
+Durigon, G.S. ; Oliveira, D.B.L. ; Vollet, S.B. ; Storni, J.G. ; Felício, M.C.C. ; Finelli, C. ; Piera, J. ; Magalhães, M. ; Caldeira, R.N. ; Barbosa, M.L. ; DURIGON, E. L. . Hospital-acquired human bocavirus in infants. The Journal of Hospital Infection, p. 75-79, 2010.
+Citações:5|9
+
+83.
+Figueiredo, Mario LG DE ; Gomes, Almerio DE C ; Amarilla, Alberto A ; Leandro, Andre DE S ; Orrico, Agnaldo DE S ; Araujo, Renato F DE ; Castro, Jesuina DO SM ; DURIGON, E. L. ; Aquino, Victor H ; Figueiredo, Luiz TM . Mosquitoes infected with dengue viruses in Brazil. Virology journal, v. 7, p. 152-157, 2010.
+Citações:9|15
+
+84.
+Thomazelli, Luciano M. ; Araujo, Jansen ; Oliveira, Danielle B. ; Sanfilippo, Luiz ; Ferreira, Carolina S. ; Brentano, Liana ; Pelizari, Vivian H. ; Nakayama, Cristiane ; Duarte, Rubens ; Hurtado, Renata ; Durigon, Edison L . Newcastle disease virus in penguins from King George Island on the Antarctic region. Veterinary Microbiology (Amsterdam. Print), p. 1-9, 2010.
+Citações:13|11
+
+85.
+Figueiredo, Cristina Adelaide ; Cordovani, Nancy Therezinha Barbagallo ; Castrignano, Silvana Beres ; Alves, Venancio Avancini Ferreira ; Kanamura, Cristina Takami ; de Oliveira, Maria Isabel ; de Campos Fernandes, Flora Maria ; Klautau, Giselle Burlamaqui ; Durigon, Edison Luiz . ACUTE LIVER FAILURE ASSOCIATED WITH RUBELLA VIRUS IN A CHILD. The Pediatric Infectious Disease Journal, p. 1-574, 2010.
+Citações:5
+
+86.
+GROTTO, R. M. T. ; JAMAL, Leda de Fátima ; DURIGON, E. L. ; PINHO, João Renato Rebello ; Massad, Eduardo ; MORAES, C F V ; BRACONI, C ; RIBEIRO, V ; BLOCK, J ; ALVARENGA, Anderson ; SOUZA, L R ; ZANOTTO, Paolo Marinho de Andrade ; PARDINI, Maria Inês de Moura Campos . Variability of the conserved V3 loop tip motif in HIV-1 subtype B isolates collected from Brazilian and French patients. Brazilian Journal of Medical and Biological Research (Impresso), v. 41, p. 720-728, 2010.
+Citações:1|1
+
+87.
+RUBIO, Marcelo ; SOUZA, F. P. ; CALÇA, J. ; Bonfim. C. M ; Gomes, E, D ; DURIGON, E. L. ; FOSSEY, Marcelo Andres ; RAHAL, : Paula . HEPARIN AND DEXTRAN SULFATE: THEIR ROLE ON RSV INFECTIVITY. Virus Reviews and Research, v. 15, p. 92-107, 2010.
+
+88.
+ESCOBAR, C. ; Luchsinger V ; OLIVEIRA, D. B. ; DURIGON, E. L. ; Chnaiderman J ; Avendaño LF . Genetic variability of human metapneumovirus isolated from Chilean children, 2003-2004.. Journal of Medical Virology, v. 81, p. 340-344, 2009.
+Citações:9|10
+
+89.
+BOTOSSO, V. F. ; ZANOTTO, P. M. A. ; UEDA, J. ; ARRUDA, E. ; GILIO, A. E. ; VIEIRA, S. E. ; STEWIEN, K. E. ; PERET, T. C. ; JAMAL, L. F. ; PARDINI, M. I. ; PINHO, J. R. R. ; MASSAD, E. ; SANTANNA, O. A. ; HOLMES, E. C. ; DURIGON, E. L. . Positive selection results in frequent reversible amino acid replacements in the G protein gene of human respiratory syncytial virus.. PLoS Pathogens, v. 5, p. 246-250, 2009.
+Citações:1
+
+90.
+OLIVEIRA, D. B. L. ; DURIGON, E. L. ; CARVALHO, A. C. L. ; LEAL, A. L. ; SOUZA, T. S. ; THOMAZELLI, L. M. ; MORAES, C. T. P. ; VIEIRA, S E ; GILLIO, A E ; STEWIEN, K. E. . Epidemiology and genetic variability of human metapneumovirus during a 4-year-long study in Southeastern Brazil.. Journal of Medical Virology (Print), v. May, p. 915-921, 2009.
+
+91.
+KELLER, L. W. ; BARBOSA, M. L. ; MELO, F. L. ; PEREIRA, L. M. ; DAVID-NETO, E. ; Lanhez L E ; DURIGON, E. L. . Phylogenetic analysis of a near-full-length sequence of an erythrovirus genotype 3 strain isolated in Brazil.. Archives of Virology, v. 154, p. 1685-1687, 2009.
+Citações:10|8
+
+92.
+Bonatto, Cínthia C ; Magalhães, Beatriz S ; Branco, Joaquim O ; DURIGON, E. L. ; Silva, Luciano P . Shape and size of red blood cells from the Pygoscelid penguins of Antarctica using atomic force microscopy. Polar Biology (Print), v. 32, p. 287-293, 2009.
+Citações:1|3
+
+93.
+BRANCO, J. O. ; Costa, E. S ; ARAUJO, J. ; DURIGON, E. L. ; Alves, M.A. S . Kelp gulls, Larus dominicanus (Aves: Laridae), breeding in Keller Peninsula, King George Island, Antarctic Peninsula. Revista Brasileira de Zoologia (Impresso), v. 26, p. 562-566, 2009.
+Citações:1|1
+
+94.
+Passos, Saulo Duarte ; Gazeta, Rosa Estela ; Latorre, Maria do Rosario ; Durigon, Edison Luis ; Gauditano, Giancarla ; Yoshinari, Natalino H. . Características clínico-epidemiológicas da doença Lyme-símile em crianças. Revista da Associação Médica Brasileira (1992. Impresso), v. 55, p. 139-144, 2009.
+Citações:4|10|3
+
+95.
+Bonatto, Cínthia C. ; Magalhães, Beatriz S. ; Branco, Joaquim O. ; DURIGON, E. L. ; Silva, Luciano P. ; BRANCO, J. O. . Shape and size of red blood cells from the Pygoscelid penguins of Antarctica using atomic force microscopy. Polar Biology (Print), v. 32, p. 287-293, 2009.
+Citações:1|3
+
+96.
+OLIVEIRA, M. I. ; CURTY, S. P. ; AFONSO, A. M. S. ; FIGUEIREDO, C. A. ; Azevedo R.S.(Raymundo S Azevedo) ; Passos S.D. (Saulo Duarte Passos) ; STEWIEN, K. E. ; DURIGON, E. L. . PARVOVIRUS B19 FREQUENCY IN EXANTHEMATIC CASES INITIALY SUSPECTED ASSOCIATED WITH NEUROMYELITIS.. Virus Reviews and Research, v. 14, p. 1-14, 2009.
+
+97.
+GREGORY, L. ; LARA, M.C.C.S.H. ; VILLALOBOS, E.M.C. ; HASEGAWA, M.Y. ; CASTRO,R.S. ; Rodrigues, J.N.M. ; ARAUJO, J. ; Keller, L. W. ; DURIGON, E. L. . Caprine Arthritis Encephalitis virus detected by PCR and Nested-PCR in Milk. ARS Veterinária, v. 25, p. 142-146, 2009.
+
+98.
+Oliveira, Danielle Bruna ; DURIGON, E. L. ; Carvalho, Ariane ; LEAL, A. L. ; Souza, Thereza ; Thomazelli, Luciano ; Moraes, Claudia ; Vieira, Sandra ; Gilio, Alfredo ; Stewien, Klaus . ?Epidemiology and genetic variability of human metapneumovirus during a 4 year-long study in southeastern Brazil?. Journal of Medical Virology (Print), v. 81, p. 915-921, 2009.
+Citações:28|39
+
+99.
+OLIVEIRA, M. I. ; CURTI, S. P. ; AFONSO, A. M. ; FIGUEIREDO, C. A. ; AZEVEDO, R. S. ; STEVIEN, K. E. ; DURIGON, E. L. . PARVOVIRUS B19 FREQUENCY IN EXANTHEMATIC CASES INITIALY SUSPECTED AS MEASLES OR RUBELLA INFECTIONS IN SÃO PAULO, BRAZIL. Virus Reviews and Research, v. 14, p. 1-14, 2009.
+
+100.
+Simas. P.V.M ; GARDINASSI, L. G. A. ; BITTAR, Cintia Oliva ; Cordeiro, J. A. ; Carvalho A.C ; SALOMAO, Joao Batista ; NOGUEIRA, M. L. ; DURIGON, E. L. ; ARRUDA NETO, E. ; SOUZA, F. P. ; RAHAL, P . RSV ASSOCIATED DISEASE IN HOSPITALIZED CHILDREN IN SOUTHEAST. Virus Reviews and Research, v. 14, p. 1-18, 2009.
+
+101.
+BOTOSSO, V. F. ; ZANOTTO, P. M. A. ; UEDA, M. ; ARRUDA-NETO, E. ; GILIO, A. E. ; VIEIRA, S. E. ; STEWIEN, K. E. ; Peret, Teresa C. T. ; JAMAL, L. F. ; Pardini, Maria I. de M. C. ; PINHO, J. R. R. ; MASSAD, E. ; Sant'Anna, Osvaldo A. ; Holmes, Eddie C. ; DURIGON, E. L. . Positive Selection Results in Frequent Reversible Amino Acid Replacements in the G Protein Gene of Human Respiratory Syncytial Virus. PLoS Pathogens (Online), v. 5, p. e1000254, 2009.
+Citações:62|79
+
+102.
+Botosso, V.F. ; ZANOTTO, P. M. A. ; UEDA, M. ; ARRUDA NETO, E. ; GIGLIO, A. ; Vieira, S.E. ; STEWIEN, K. ; PERET, T. C. T. ; JAMAL, L. F. ; PARDINI, M. I. M. C. ; PINHO, J. R. R. ; MASSAD, E. ; SANTANNA, O. A. ; HOLMES, E.C ; DURIGON, E. L. ; COMONE, P. . Positive Selection Results in Frequent Reversible Amino Acid Replacements in the G Protein Gene of Human Respiratory Syncytial Virus. PLoS Pathogens, v. 5, p. e1000254, 2009.
+Citações:62|79
+
+103.
+Botosso, Viviane F. ; Zanotto, Paolo M. de A. ; Ueda, Mirthes ; ARRUDA, E. G. ; VIERIA, S. E. ; Stewien, Klaus E. ; Peret, Teresa C. T. ; Jamal, Leda F. ; Pardini, Maria I. de M. C. ; Pinho, João R. R. ; Massad, Eduardo ; Sant& ; Holmes, Eddie C. ; DURIGON, E. L. ; PECCHINI, R. . Positive Selection Results in Frequent Reversible Amino Acid Replacements in the G Protein Gene of Human Respiratory Syncytial Virus. PLoS Pathogens, v. 5, p. 1, 2009.
+Citações:1
+
+104.
+GREGORY, L. ; LARA, M. C. C. S. H. ; VILLALOBOS, E. M. C. ; HASEGAWA, M. Y. ; CASTRO, R. S. ; RODRIGUES, J. N. M. ; ARAUJO, J. ; KELLER, L. W. ; DURIGON, E. L. . Detecção do vírus da artrite encefalite caprina em amostras de leite de cabras pela reação em cadeia da polimerase (PCR) e nested-PCR. ARS Veterinária (Impresso), v. 25, p. 142-146, 2009.
+
+105.
+GANDRA, R. F. ; GAMBALE, W. ; SIMAO, R. C. G. ; RUIZ, L. S. ; DURIGON, E. L. ; CAMARGO, L. M. A. ; GIUDICE, M. C. ; SANFILIPPO, L. F. ; ARAUJO, J. ; PAULA, C. R. . Malassezia spp. in Acoustic Meatus of Bats (Molossus molossus) of the Amazon Region, Brazil.. Mycopathologia, v. 165, p. 21-26, 2008.
+Citações:11|12
+
+106.
+ CAMPOS PARDINI, M. I. M. ; JAMAL, L. F. ; DURIGON, E. L. ; MASSAD, E. ; PEREZ, J. F. ; PINHO, J. R. R. ; HOLMES, E. C. ; ZANOTTO, P. M. A. . Boosting Virology in Brazil. PLoS Biology, v. 6, p. 0001-0002, 2008.
+Citações:3|3
+
+107.
+NASCIMENTO, C. A. ; LEAL, A. L. ; SOUSA, T. S. ; MORAES, C. T. P. ; camone p ; TENORIO, E. C. N. ; VEDOVELLO, D. ; ADABIA, C H ; QUINZANI, R. H. ; GILIO, A. E. ; VIEIRA, S. E. ; DURIGON, E. L. ; CARDOSO, D. ; BOTOSSO, V. F. ; SANTANNA, O. A. . One-step reverse transcriptase polymerase chain reaction for the diagnosis of respiratory syncytial virus in children. Journal of Virological Methods, v. 148, p. 115-119, 2008.
+Citações:5|7
+
+108.
+VIEIRA, S. E. ; DURIGON, E. L. ; EJZEMBERG, B. . Lower respiratory tract infection caused by respiratory syncytial virus in infants: the role played by specific antibodies. Clinics (São Paulo), v. 72, p. 709-716, 2008.
+Citações:4|4
+
+109.
+HUATUCO, E. M. M. ; DURIGON, E. L. ; LEBRUN, F. L. ; PASSOS, S. D. ; GAZETA, R. E. ; AZEVEDO, R. S. ; MASSAD, E. . Seroprevalence of human parvovirus B19 in a suburban population in São Paulo, Brazil.. Revista de Saúde Pública / Journal of Public Health, v. 42, p. 443-449, 2008.
+Citações:11|13
+
+110.
+ FREITAS, R. B. ; F L, M. ; Romano CM ; Freitras MR ; MACEDO, M. ; LINHARES, A. C. ; ZANOTTO, P. M. A. ; DURIGON, E. L. . Molecular characterization of human erythrovirus B19 strains obtained from patients with several clinical presentations in the Amazon region of Brazil.. Journal of Clinical Virology, v. 43, p. 60-65, 2008.
+Citações:20|23
+
+111.
+Arcuri HA ; Apponi LH ; Valentini SR ; DURIGON, E. L. ; de Azevedo WF ; Fossey MA ; RAHAL, P. ; SOUZA, F. P. . Expression and purification of human respiratory syncytial virus recombinant fusion protein.. Protein Expression and Purification, v. 62, p. 146-152, 2008.
+Citações:1|4
+
+112.
+VAZ-DE-LIMA, L. R. A. ; SOUZA, M. C. O. ; MATSUMOTO, T. K. ; HONG, M. A. ; BARBOSA, M. L. ; SATO, N. S. ; REQUEJO, H. I. ; OLIVEIRA, C. A. F. ; PECCHINI, R. ; BEREZIN, E. ; PASSOS, S. D. ; SCHVARTSMAN, C. ; Pasmanick A, ; DURIGON, E. L. ; UEDA, J. . Performance of indirect immunofluorescence assay, immunochromatography assay and reverse transcription-polymerase chain reaction for detecting human respiratory syncytial virus in nasopharyngeal aspirate samples.. Memórias do Instituto Oswaldo Cruz, v. 103, p. 463-467, 2008.
+Citações:1|2
+
+113.
+FIGUEIREDO, C A ; Klautau GB ; AFONSO, A M ; Castrignano SB ; OLIVEIRA, M I ; CURTI, S P ; Squarcina GG ; Narimatsu K ; Rasslan Z ; Lima CA ; Golin V ; Tadeo E ; Spagunolo FJ ; Cataldo B ; DURIGON, E. L. . Isolation and genotype analysis of rubella virus from a case of Guillain-Barré syndrome. Journal of Clinical Virology, v. 43, p. 343-345, 2008.
+Citações:15|17
+
+114.
+PECCHINI, R. ; BEREZIN, E. ; Felício MC ; PASSOS, S. D. ; de Souza MC ; de Lima LR ; UEDA, J. ; MATSUMOTO, T. K. ; DURIGON, E. L. . Incidence and clinical characteristics of the infection by the respiratory syncytial virus in children admitted in Santa Casa de São Paulo Hospital.. The Brazilian Journal of Infectious Diseases, v. 12, p. 476-479, 2008.
+Citações:16|30|19
+
+115.
+PEREIRA, N. A. ; MONEZI, T. A. ; PEREIRA, C. A. D. ; RICHTZENHAIN, L. J. ; DURIGON, E. L. . Antigenic characterization of canine parvovirus isolates from Brazil using specific monoclonal antibodies. Brazilian Journal of Veterinary Research and Animal Science (Impresso), v. 45, p. 385-389, 2008.
+
+116.
+Amaral H A ; CORTEZ, Adriana ; RICHTZENHAIN, L. J. ; DURIGON, E. L. ; Larsson M H M A . PCR detection of canine distemper virus in biological fluids.. Online Journal of Veterinary Research, v. 12, p. 70-75, 2008.
+
+117.
+NASCIMENTO, C. A. ; LEAL, A. L. ; SOUSA, T. S ; MORAES, C. T. P ; COMONE, P. ; TENORIO, E. C ; VEDOVELLO, D. ; QUINZANI, R. H. ; GILIO, A. E. ; VIEIRA, S. E. / VIEIRA, Sandra / Vieira, S ; DURIGON, E. L. ; BOTOSSO, V. F ; SANT´ANNA, O. A. . One step reverse transcriptase plymerase chain reaction for the diagnosis of respiratory syncytial virus in childres. Journal of Virological Methods, v. 148, p. 115-119, 2008.
+Citações:5|7
+
+118.
+FREITAS, R. B. ; DURIGON, E. L. ; Oliveira DD ; Romano CM ; Freitras MR ; Linhares AD ; walshkeller L ; Barbosa ML ; Huatuco EM ; Holmes EC ; Zanotto PM . The "pressure pan" evolution of human erythrovirus B19 in the Amazon, Brazil. Journal of Virology, v. Aug 13, p. 107-112, 2007.
+Citações:5|5
+
+119.
+Moura PO ; Roberto AF ; HEIN, N. ; BALDACCI, E. R. ; VIEIRA, S E ; EJZEMBERG, B. ; Perrini P ; KE, Stewien ; DURIGON, E. L. ; MEHNERT, D. ; HARSI, C. M. . Molecular epidemiology of human adenovirus isolated from children hospitalized with acute respiratory infection in Sao Paulo, Brazil. Journal of Medical Virology, v. 79, p. 174-81, 2007.
+Citações:24|23
+
+120.
+ PEREIRA, C. D. ; Leal ES ; DURIGON, E. L. . Selective regimen shift and demographic growth increase associated with the emergence of high-fitness variants of canine parvovirus.. Infection, Genetics and Evolution, v. 7, p. 399-409, 2007.
+Citações:40|48
+
+121.
+da Silva VN ; ARAUJO J, ; DURIGON, E. L. ; CORREA, B. . Sequence variability in the FUM1 gene of Fusarium verticillioides strains. Canadian Journal of Microbiology, v. 53, p. 446-449, 2007.
+Citações:2|7
+
+122.
+Wendel S ; LEVI, J. E. ; Takaoka DT ; Silva IC ; Castro JP ; Torezan-Filho MA ; Ghaname J ; Gioachini R ; DURIGON, E. L. . Primary screening of blood donors by nat testing for HCV-RNA: development of an "in-house" method and results.. Revista do Instituto de Medicina Tropical de São Paulo, v. 49, p. 177-185, 2007.
+Citações:9
+
+123.
+LEVI, J. E. ; Wendel S ; Takaoka DT ; Silva IC ; Castro JP ; Torezan-Filho MA ; Ghaname J ; Gioachini R ; Brandao J ; Landi EP ; DURIGON, E. L. . Replacement of HIV p24 Ag test by a multiplex RT-PCR method for primary screening of blood donors.. Revista do Instituto de Medicina Tropical de São Paulo, v. 49, p. 171-176, 2007.
+Citações:6|3
+
+124.
+PERINI, A. P. ; BARBOSA, M. L. ; BOTOSSO, V. F. ; MORAES, C. T. P. ; GILIO, A. E. ; HEIN, N. ; STEWIEN, Klaus Eberhard ; DURIGON, E. L. . Comparison of HeLa-I, HEp-2 and NCI-H292 cell lines for the isolation of human respiratory syncytial virus (HRSV).. Journal of Virological Methods, v. 146, p. 368-371, 2007.
+Citações:3|2
+
+125.
+LOURENCO, A. ; DURIGON, E. L. ; ZANOTTO, P. ; MADEIRA, J. E. G. C. ; ALMEIDA, A. P. ; CORREA, B. . Genetic diversity of environmental Aspergillus flavus strains in the state of São Paulo, Brazil by random amplified polymorphic DNA. Memórias do Instituto Oswaldo Cruz, v. 102, p. 687-692, 2007.
+Citações:15|22
+
+126.
+THOMAZELLI, L. M. ; VIEIRA, S. ; LEAL, A. L. ; SOUSA, T. S. ; OLIVEIRA, D. B. L. ; GOLONO, M. A. ; GILIO, A. E. ; STEWIEN, Klaus Eberhard ; ERDMAN, D. D. ; DURIGON, E. L. . Surveillance of eight respiratory viruses in clinical samples of pediatric patients in southeast Brazil.. Jornal de Pediatria, v. 83, p. 422-428, 2007.
+Citações:49|18|55
+
+127.
+NASCIMENTO, C. A. ; LEAL, A. L. ; SOUSA, T. S. ; MORAES, C. T. P. ; COMONE, P. ; TENORIO, E. C. ; VEDOVELLO, D. ; QUINZANI, R. H. ; GILIO, A. E. ; VIEIRA, S. E. ; DURIGON, E. L. ; BOTOSSO, V. F. . One-step reverse transcriptase polymerase chain reaction for the diagnosis of respiratory syncytial virus in children.. Journal of Virological Methods, v. 147, p. x, 2007.
+
+128.
+VIEIRA, S. E. ; GILIO, A. E. ; DURIGON, E. L. ; EJZENBERG, B. . Lower respiratory tract infection caused by respiratory syncytial virus in infants: the role played by specific antibodies. Clinics (São Paulo), v. 62, p. 709-716, 2007.
+Citações:4|4
+
+129.
+CAMPOS, A. C. A. ; DURIGON, E. L. ; LEAL, A. L. ; SILVA, T. S. ; BOSSO, P. A. R. ; MORAES, C. T. P. ; OLIVEIRA, D. B. L. ; LIMA, H. N. ; VIEIRA, S. E. ; BOTOSSO, V. F. ; ZANOTTO, P. M. A. ; STEWIEN, Klaus Eberhard . Comparison between ectodomain and G2 region of G glycoprotein for genotyping of HRSV. Brazilian Journal of Microbiology, v. 38, p. 413-416, 2007.
+Citações:2|2
+
+130.
+CAMPOS, A. C. A. ; DURIGON, E. L. ; LEAL, A. L. ; SILVA, T. S. ; Bosso PAR ; MORAES, C. T. P. ; OLIVEIRA, D. B. L. ; LIMA, H. N. ; VIEIRA, S. E. ; BOTOSSO, V. F. ; ZANOTTO, P. M. A. ; STEWIEN, K. E. . COMPARISON BETWEEN ECTODOMAIN AND G2 REGION OF G GLYCOPROTEIN FOR GENOTYPING OF HRSV. Brazilian Journal of Microbiology, v. 38, p. 413-416, 2007.
+Citações:2|2
+
+131.
+BRENTANO, L. ; Nogueira-Dantas, EO. ; FERREIRA, A J P ; SOARES, R. M. ; DURIGON, E. L. ; LAZZARIN, Simaia . Genome sequencing analysis of Brazilian chicken anemia virus isolates that lack MSB-1 cell culture tropism. Comparative Immunology, Microbiology and Infectious Diseases, v. 30, p. 81-96, 2007.
+Citações:6|5
+
+132.
+Luciano M. Thomazelli ; Vieira, SE ; LEAL, A. L. ; Sousa, TS ; OLIVEIRA, D. B. L. ; Miguel A. Golono ; Alfredo E. Gillio ; Klaus E. Stwien ; Dean D. Erdman ; DURIGON, E. L. . Vigilância de Oito Vírus Respiratórios Em Amostras Clínicas De Pacientes Pediátricos No Sudeste do Brasil. Jornal de Pediatria (Online), v. 83, p. 05, 2007.
+
+133.
+PERINI, A. P. ; Barbosa, M.L. ; Botosso, V.F. ; Moraes, C.T.P. ; Hens, N. ; Stewien, K.E. ; DURIGON, E. L. . Comparison of HeLa-I, HEp-2 and NCI-H292 cell lines for the isolation of humans respiratory syncytial virus (HRSV). Journal of Virological Methods, v. 146, p. 368-371, 2007.
+Citações:3|2
+
+134.
+ DURIGON, E. L.; HORTA, M. C. ; LABRUNA, M. B. ; SCHUMAKER, T. T. S. . Isolation of Rickettsia felis in the Mosquito Cell Line C6/36.. Applied and Environmental Microbiology,, Estados Unidos, v. 72, n.02, p. 1705-1707, 2006.
+
+135.
+FAVORETTO, S R ; CC, Mattos ; NB, M. ; carrieri ml ; Rolin NB ; Silva LM ; Rupprecht CE ; DURIGON, E. L. ; Mattos CA . Rabies virus maintained by dogs in humans and terrestrial wildlife, Ceara State, Brazil.. Emerging Infectious Diseases, v. 12, p. 1978-1981, 2006.
+Citações:20|23
+
+136.
+FILONI, Claudia ; JL, Catao-dias ; Bay G ; DURIGON, E. L. ; Jorge RS ; Lutz H ; Hofmann-Lehmann R . First evidence of feline herpesvirus, calicivirus, parvovirus, and Ehrlichia exposure in Brazilian free-ranging felids.. Journal of Wildlife Diseases, v. 42, p. 470-477, 2006.
+Citações:32|41
+
+137.
+Toyoshima MT ; walshkeller L ; BARBOSA, M L ; DURIGON, E. L. . Papular-purpuric "gloves and socks" syndrome caused by parvovirus B19 infection in Brazil: a case report.. The Brazilian Journal of Infectious Diseases, v. 10, p. 62-64, 2006.
+Citações:8
+
+138.
+Carnieli Junior P ; VENTURA, A. ; DURIGON, E. L. . Digoxigenin-labeled probe for rabies virus nucleoprotein gene detection. Revista da Sociedade Brasileira de Medicina Tropical, v. 39, p. 159-162, 2006.
+Citações:5|6|6
+
+139.
+PEREIRA, M. G. M. ; FOSSEY, M. A. ; DURIGON, E. L. ; RAHAL, P. ; SOUZA, Fatima Pereira de . Mechanisms of Activation of Protein F for Effective RSV Infection. Virus Reviews and Research, v. 11, p. 07-13, 2006.
+
+140.
+RAGAZZI, Selma L Betta ; LIMA, Lourdes Andrade Vaz de ; ROTA, Paul ; BELLINI, W J ; GILIO, A e ; VAZ, F A Costa ; DURIGON, E. L. . Congenital and neonatal measles during an epidemic in Sao Paulo, Brazil in 1997.. The Pediatric Infectious Disease Journal, USA, v. 24, n.4, p. 377-378, 2005.
+Citações:6|10
+
+141.
+DURIGON, E. L.; SOARES, P B ; DEMETRIO, C ; SANFILIPPO, L ; KAWANOTO, A H ; BRENTANO, L . Standardization of a duplex RT-PCR for the detection of Influenza A and Newcastle disease viruses in migratory birds.. Journal of Virological Methods, Inglaterra, v. 123, n.2, p. 125-130, 2005.
+Citações:15|19
+
+142.
+ALMEIDA, M F ; MARTORELLI, L F ; AIRES, C C ; SALLUM, P C ; DURIGON, E. L. ; MASSAD, e . Abstract Experimental rabies infection in haematophagous bats Desmodus rotundus.. Epidemiology and Infection, USA, v. 133, n.3, p. 523-527, 2005.
+Citações:16|18
+
+143.
+FAVORETTO, S R ; MARTORELLI, L F ; ELKHOURY, M R ; ZARGO, A M ; DURIGON, E. L. . Rabies virus detection and phylogenetic studies in samples from an exhumed human. Clinical Infectious Diseases, v. 41, n.3, p. 413-414, 2005.
+Citações:3|6
+
+144.
+KAWAMOTO, A. H. N. ; MANCINI, D. A. P. ; PEREIRA, L. E. ; CIANCIARULLO, A. M. ; CRUZ, A. S. ; DIAS, A. L. F. ; MENDONCA, R. M. Z. ; PINTO, J. R. ; DURIGON, E. L. . Investigation of Influenza In Migrating Birds, the Primordial Reservoir and Transmitter of Influenza, In Brazil.. Brazilian Journal of Microbiology, v. 36, p. 88-93, 2005.
+Citações:6|10|8
+
+145.
+ALMEIDA, M. F. DE ; Martorelli, L.F.A. ; Aires, C.C. ; SALLUM, P. C. ; DURIGON, E. L. ; MASSAD, E. . Experimental rabies infection in haematophagous bats Desmodus rotundus. Epidemiology and Infection, v. 133, p. 523-527, 2005.
+Citações:16|18
+
+146.
+PEREIRA, C. A. D. ; BORGES, A. G. B. ; MEHNERT, D. U. ; DURIGON, E. L. ; MONEZI, T. A. . Pesquisa de parvovírus canino em felinos domésticos pela reação da hemaglutinação utilizando anticorpos monoclonais. Revista de Ciências Veterinárias, v. III, n.3, p. 41-47, 2005.
+
+147.
+HUATUCO, Egma Marcelina Mayta ; LEBRUN, Fabiana Luzia Alves Silveira ; PASSOS, Saulo Duarte ; GAZETA, Rosa Estela ; AZEVEDO, Raimundo Soares ; MASSAD, Eduardo ; DURIGON, E. L. . Seroepidemiological study of human parvovirus B-19in São Paulo State , Brazil. Epidemiology and Infection, UK, v. 00, n.00, p. 00-00, 2005.
+
+148.
+KAWAMOTO, A. H. N. ; MANCINI, D. A. P. ; PEREIRA, L. E. ; CIANCIARULLO, A. M. ; CRUZ, A. S. ; DIAS, A. L. F. ; MENDONÇA, R. M. Z. ; PINTO, J. R. ; DURIGON, E. L. . Investigation of influenza in migrating birds, the primordial reservoir and transmitters of influenza in Brazil. Brazilian Journal of Microbiology, São Paulo Brasil, v. 36, p. 88-93, 2005.
+Citações:6|10|8
+
+149.
+OLIVEIRA, M.i. ; CURTI, S.p. ; FIGUEIREDO, C.a. ; SARDINHA, A.m.a. ; SALLUM, M.a.m. ; DURIGON, E. L. . Molecular Analysis Of A Measles Virus Isolate From Brazil: A Case Originating In Japan. Acta Virologica (English ed.), Eslovaquia, v. 48, p. 9-14, 2004.
+Citações:4|4
+
+150.
+BOSSO, P. A. R. ; CANDEIAS, J. M. G. ; PADUAN, K. S. ; RICCHETTI, S. M. Q. ; MIRANDA, A. F. M. ; RUGOLO, L. M. S. S. ; DURIGON, E. L. ; VENTURA, A. M. . Human respiratory syncytial virus detection in children admitted at a community hospital in botucatu, SP, Brazil. Brazilian Journal of Microbiology, v. 35, p. 348-351, 2004.
+Citações:6|24|4
+
+151.
+KOSAKA, I. M. ; CARROMEU, C. ; DURIGON, E. L. ; VENTURA, A. M. . Construction of adenoviral vectors expressing F and G glycoproteins of human respiratory syncytial virus (HRSV). Brazilian Journal of Microbiology, v. 35, p. 167-172, 2004.
+
+152.
+SANFILIPPO, L. F. ; Soares, P.B.M. ; Demétrio, C. ; Kawanoto, A.H.N.K. ; Brentano, L. ; DURIGON, E. L. . Standartization of a duplex RT-PCR for the detection of Influenza A and Newcastle diseases viruses in migratory birds. Journal of Virological Methods, São Paulo, v. 123, p. 125-130, 2004.
+
+153.
+SALLUM, P. C. ; Almeida, M.F. ; MASSAD, E. ; Martorelli, L.F.A. ; Aires, C.C. ; DURIGON, E. L. . Experimental rabies infection in hematophagus bat Desmodus rotundus.. Epidemiology and Infection, 2004.
+
+154.
+PEREIRA, M G M ; CABRAL, H ; DURIGON, E. L. ; FOSSEY, M. A. ; VENTURA, A ; RAHAL, Paula ; SOUZA, Fatima Pereira de . Pex 5 - Purification of Respiratory Syncytial Virus F Protein From Cell Culture. Journal of the Brazilian Society for Virology, v. 9, n.1, p. 193-194, 2004.
+
+155.
+LASARO, M. O. ; ALVES, A. M. ; BOTOSSO, V. F. ; DURIGON, E. L. ; FERREIRA, L. C. . Antibody-inducing properties of a prototype bivalent herpes simplex virus/enterotoxigenic Escherichia coli DNA vaccine.. FEMS Immunology and Medical Microbiology, USA, v. 35, n.1, p. 25-31, 2003.
+
+156.
+DURIGON, E. L.; FILONI, Claudia ; ADABIA, C H ; DIAS, J Lcatão . Serosurvey for feline leukemia virus and lintiviruses in captive small neotropic felids in Sao Paulo State, Brazil. Journal of Zoo and Wildlife Medicine, USA, v. 34, n.1, p. 65-68, 2003.
+Citações:11|12
+
+157.
+VIEIRA, S E ; GILLIO, A E ; MYAIO, C R ; PHAL, M M ; LOUTUFO, J P ; HEIN, N ; BETTA, S L ; DURIGON, E. L. ; BOTOSSO, Viviane ; EJZENBERG, B ; OKAY, Y . Nosocomial respiratory syncytial virus infection in a pediatric ward.. Infection Control and Hospital Epidemiology, USA, v. 24, n.7, p. 468-469, 2003.
+Citações:3|4
+
+158.
+JO, Luna ; MA, Santos ; DURIGON, E. L. ; JP, Araujo Junior ; JM., Duarte . Tuberculosis survey of free-ranging marsh deer (Blastocerus dichotomus) in Brazil.. Journal of Zoo and Wildlife Medicine, USA, v. 34, n.4, p. 414-415, 2003.
+Citações:1|3
+
+159.
+DURIGON, E. L.; AM, Azevedo ; V, Okasima ; DA, Queiroz ; D, de Moraes-vasconcelos ; AJ, Duarte ; AS, Grumach . Detection of influenza, parainfluenza, adenovirus and respiratory syncytial virus during asthma attacks in children older than 2 years old.. Allergologia et Immunopathologia, Madrid, v. 31, n.6, p. 311-317, 2003.
+Citações:21
+
+160.
+C, Filoni ; CH, Adania ; DURIGON, E. L. ; JL, Catao-dias . Serosurvey for feline leukemia virus and lentiviruses in captive small neotropic felids in Sao Paulo state, Brazil.. Journal of Zoo and Wildlife Medicine, USA, v. 34, n.1, p. 65-68, 2003.
+Citações:11|10
+
+161.
+HEIN, N. ; SANTOS, N. C. ; CACHARO, A. L. ; LOPES, C. L. B. C. ; GOMES, M. C. S. ; DURIGON, E. L. ; GILIO, A. E. ; Ejzenberg, Bernardo . A coleta simultânea de swab nasal e do aspirado de nasofaringe para pesquisa de vírus respiratórios em crianças hospitalizadas. Pediatria (USP), v. 25, p. 84-90, 2003.
+
+162.
+FERREIRA, C. E. A. ; NAKANO, Viviane ; DURIGON, E. L. ; AVILA-CAMPOS, M. J. . Prevalence of Clostridium spp. and Clostridium difficile in children with acute diarrhea in São Paulo city, Brazil. Memórias do Instituto Oswaldo Cruz, Rio de Janeiro, v. 98, p. 451-454, 2003.
+Citações:12|5|14
+
+163.
+AZEVEDO, A M ; DURIGON, E. L. ; OKASIMA, V ; QUEIRÓZ, D. A. O. ; VASCONCELOS, Dd D Moraes ; DUARTE, A J ; GRUMACH, A S . Detection of influenza, parainfluenza, adenovirus and respiratory syncytial virus during asthma attack in children older than 2 years old. Allergol Immunopathol, Madri, v. 31, n.6, p. 311-317, 2003.
+
+164.
+OLIVEIRA, M I ; CURTI, S P ; FIGUEIREDO, C A ; AFONSO, A M ; THEOBALDO, M ; AZEVEDO, R. S. ; DURIGON, E. L. . Rash after measles vaccination: laboratory analysis of cases reported in Sao Paulo, Brazil.. Revista de Saúde Pública / Journal of Public Health, Brasil, v. 36, n.2, p. 155-159, 2002.
+Citações:8|9|10
+
+165.
+QUEIROZ, D. A. ; DURIGON, E. L. ; BOTOSSO, V. F. ; EJZEMBERG, B. ; VIEIRA, S E ; MINEO, J. R. ; YAMASHITA, C. ; HEIN, N ; LOPES, C. L. ; CACHARO, A. L. ; STEWIEN, K. E. . Immune response to respiratory syncytial virus in young Brazilian children. Brazilian Journal of Medical and Biological Research, Brasil, v. 35, n.10, p. 1183-1193, 2002.
+Citações:19|25
+
+166.
+DURIGON, E. L.; STEWIEN, Klaus Eberhard ; OLIVEIRA, M I ; ROTA, Paul A ; BELLINI, William J ; CURTI, S P ; FIGUEIREDO, C A ; AFONSO, A M ; THEOBALDO, M ; SOUZA, L T ; LLIFFICK, S ; MORAES, J C . Genetic homogeneity of measles viruses associated with a measles outbreak, Sao Paulo, Brazil, 1997.. Emerging Infectious Diseases, USA, v. 8, n.8, p. 808-813, 2002.
+Citações:27|29
+
+167.
+Vieira, Sandra E. ; GILIO, A. E. ; MIYAO, C. R. ; PAHL, M.M.C. ; Lotufo, J.P.B. ; HEIN, N. ; BETTA, S. L. ; DURIGON, E. L. ; BOTOSSO, V. F. ; Ejzenberg, Bernardo ; OKAY, Y. . Infecção nosocomial pelo vírus respiratório sincicial em enfermaria de pediatria. Pediatria (USP), v. 24, p. 17-24, 2002.
+Citações:1
+
+168.
+Vieira, Sandra E. ; GILIO, A. E. ; MIYAO, C. R. ; HEIN, N. ; BETTA, S. L. ; Lotufo, J.P.B. ; BOTOSSO, V. F. ; DURIGON, E. L. ; Ejzenberg, Bernardo ; OKAY, Y. . Sazonalidade do vírus respiratório sincicial na Cidade de São Paulo, SP. Pediatria (USP), v. 24, p. 73-74, 2002.
+
+169.
+DURIGON, E. L.; BOTOSSO, V. F. ; S E, V. ; K E, S. ; D A, Q. . Clinical patterns and seasonal trends in respiratory syncytial virus hospitalizations in Sao Paulo, Brazil.. Revista do Instituto de Medicina Tropical de São Paulo, v. 43, n.3, p. 125-131, 2001.
+Citações:92|61
+
+170.
+DURIGON, E. L.; J R, P. ; V A, A. ; A F, V. ; M O, M. ; L E, F. ; B, G. ; A, W. . Detection of human parvovirus B19 in a patient with hepatitis.. Brazilian Journal of Medical and Biological Research, v. 34, n.9, p. 1131-1138, 2001.
+Citações:13|14
+
+171.
+DURIGON, E. L.; SILVA, V. N. ; PIRES, M. ; CORREA, B. ; A, L. ; M J, F. . Time course of virus-like particles (VLPS) double-stranded RNA accumulation in toxigenic and non-toxigenic strains of Aspergillus flavus. Brazilian Journal of Microbiology, v. 32, n.1, p. 56-60, 2001.
+Citações:1|1
+
+172.
+DURIGON, E. L.; VENTURA, A. ; ARAUJO, A. ; YOKOSAWA, J. . Polymerase chain reaction detection of adenovirus DNA sequences in human lymphocytes. Brazilian Journal of Microbiology, v. 35, n.2, p. 153-157, 2001.
+Citações:1
+
+173.
+BRESSANE, M. A. ; AVILA-CAMPOS, M. J. ; DURIGON, E. L. . Prevalence of the Bacteroides fragilis Group and Enterotoxigenic Bacteroides fragilis in Immunodeficient Children. Anaerobe (London), Estads Unidos, v. 7, p. 277-281, 2001.
+Citações:14|17
+
+174.
+VIEIRA, S. E. ; GILIO, A. E. ; MIYAO, C. R. ; HEIN, N. ; BETTA, S. L. ; DURIGON, E. L. ; EJZEMBERG, B. ; OKAY, Y. . A profilaxia da infecção nosocomial por vírus respiratório sincicial. Carta ao Editor. Pediatria (São Paulo), São Paulo, v. 23, n.4, p. 349-350, 2001.
+
+175.
+OLIVEIRA, M. I. ; CURTI, S. P. ; FIGUEIREDO, C. A. ; AFONSO, A. M. S. ; THEOBALDO, M. ; DURIGON, E. L. ; FELIPPE, J. M. M. S. . Detection of rubella virus RNA in serum samples by RT-PCR assay. Rev.Saúde Pública, Brasil, v. 37, n.1, p. 24-27, 2001.
+
+176.
+VIEIRA, S e ; GILIO, A e ; MIYAO, C R ; PAHL, M M C ; LOTUFO, J P ; HEIN, N ; BETTA, S ; DURIGON, E. L. ; BOTOSSO, V ; EJZENBERG, B. ; OKAY, Y . Nosocomial Respiratory Syncytial Virus infection in a Pediatric Ward. (submetido). x, 2001.
+
+177.
+GAZZETA, R ; PASSOS, S D ; DURIGON, E. L. ; EJZENBERG, B. ; OKAY, Y . Soroprevalência de Anticorpos Anti-Hherpesvírus (em publicação). Pediatria (USP), São Paulo, 2001.
+
+178.
+VIEIRA, S e ; STEWIEN, K ; QUEIROZ, D ; DURIGON, E. L. ; TÖRÖK, T ; ANDERSON, L ; MIYAO, C ; HEIN, N ; PAHL, M ; GILIO, A ; EJZENBERG, B. ; OKAY, Y . Clinical Patterns and Seasonal Triends in Respiratory Syncytial virus Hospitalizations in São Paulo, Brazil.. Revista do Instituto de Medicina Tropical de São Paulo, São Paulo, v. 3, n.43, p. 125-131, 2001.
+
+179.
+DURIGON, E. L.; K, T. ; N, I. ; W, S. ; E, U. ; S, T. ; K, A. ; E, S. ; M, N. ; R B, J. . Genetic characterization of adenovirus strains isolated from patients with acute conjunctivitis in the city of Sao Paulo, Brazil. Journal of Medical Virology, v. 61, p. 143-149, 2000.
+Citações:18|20
+
+180.
+DURIGON, E. L.; M L, R. ; S S, K. ; V, M. ; A R, C. T. ; Y, H. . Molecular characterization of porcine rotaviruses from the southern region of Brazil: characterization of an atypical genotype G[9] strain.. Journal of Clinical Microbiology, v. 38, n.6, p. 2443-2446, 2000.
+Citações:36|37
+
+181.
+DURIGON, E. L.; PEREIRA, C. D. ; MONEZI, T. ; D U, M. ; M, D. . Molecular characterization of canine parvovirus in Brazil by polymerase chain reaction assay.. Veterinary Microbiology (Amsterdam), v. 75, n.2, p. 127-133, 2000.
+Citações:79|85
+
+182.
+DURIGON, E. L.; STEWIEN, K. E. ; LIMA, L. R. V. ; BOTOSSO, V. F. ; OLIVEIRA, M. I. ; S N, F. ; NOGUEIRA, M. B. ; RAGAZZI, S. ; COSTA, M. ; EJZEMBERG, B. . Clinical and laboratory evaluation of measleslike rash in clidren and young adults. Brazilian Journal of Microbiology, v. 31, n.4, p. 281-285, 2000.
+
+183.
+DURIGON, E. L.; PEREIRA, C. D. . Genetic diversity of the VP1/VP2 gene of canine parvovirus type 2b amplified from clinical specimens in Brazil. Brazilian Journal of Microbiology, v. 31, n.4, p. 312-314, 2000.
+
+184.
+PASSOS, S. D. ; KRAKAUER, A. M. ; LOTUFO, João Paulo Becker ; DURIGON, E. L. ; GILIO, A. E. ; EJZEMBERG, B. ; OKAY, Y. . Diagnóstico da rubéola em pacientes com exantema. Pediatria (São Paulo), São Paulo, v. 22, n.3, p. 271-271, 2000.
+
+185.
+COSTA, C. A. ; BOTOSSO, V. F. ; SOARES PBM ; DURIGON, E. L. ; STEWIEN, K. . Respiratory Virus Screening in Brazilian Indians from Northern Amazon State.. Virus Reviews & Research, v. 5, n.2, p. 37-40, 2000.
+
+186.
+STEWIEN, K e ; LIMA, L R de A V de ; BOTOSSO, V F ; I, M ; OLIVEIRA, M I de ; FAGUNDES, S N de ; NOGUEIRA, M B ; RAGAZZI, S L B ; COSTA, M T Z da ; EJZENBERG, B. ; DURIGON, E. L. . Clinical and laboratory evaluation of measleslike rash in children and young adults.. Brazilian Journal of Microbiology, v. 4, n.31, p. 281-285, 2000.
+
+187.
+EJZENBERG, B. ; PASSOS, S D ; KRAKAUER, A M ; LOTUFO, J P ; NOGUEIRA, M B ; DURIGON, E. L. ; GILIO, A e ; OKAY, Y . Diagnóstico Clínico da Rubéola em Paciente com Exantema.. Pediatria (USP), São Paulo, v. 3, n.22, p. 271, 2000.
+
+188.
+DURIGON, E. L.; DANI, M. ; ARNS, C. W. . Molecular characterization of brazilian avian pneumovirus isolates: comparison between immunocheluminescent Southern blot and nested PCR. Journal of Virological Methods, v. 79, p. 237-241, 1999.
+Citações:14|15
+
+189.
+DURIGON, E. L.; SOARES, R. M. ; BERSANO, J. G. ; RICHTZENHAIN, L. J. . Detection of porcine parvovirus DNA by the polymerase chain reaction assay using primers to the highlyconserved nonstructural protein gene, NS-1. Journal of Virological Methods, v. 78, p. 191-199, 1999.
+Citações:44|43
+
+190.
+DURIGON, E. L.; ARNS, C. W. ; DANI, M. . Molecular characterization of brasilian avian pneumovirus isolates using reverse transcripition-polymerase chain reaction, restriction endonuclease analysis and sequencing of a G gene fragment. Avian Pathology, v. 28, p. 473-477, 1999.
+Citações:8|8
+
+191.
+DURIGON, E. L.; REZENDE, V. ; ALMEIDA, E. ; BENTO, R. . Estudo da flora bacteriana e viral na otite média secretora e rinofaringe na infância. Revista Brasileira de Otorrinolaringologia, v. 65, p. 10-18, 1999.
+Citações:5
+
+192.
+DURIGON, E. L.; FREITAS, R. B. ; GUSMAO, S. R. B. ; LINHARES, A. C. . Survey of parvovirus B19 infection in a cohort of pregnant women in Belém, Brazil. The Brazilian Journal of Infectious Diseases, p. 6-16, 1999.
+Citações:8
+
+193.
+DURIGON, E. L.; WERTHER, K. ; LATIMER, K. S. ; RASO, T. F. . psittacine beak and feather disease in Brazil: case report. Revista Brasileira de Ciência Avícola / Brazilian Journal of Poultry Science, p. 85-89, 1999.
+
+194.
+DURIGON, E. L.; GILIO, A. E. ; VIEIRA, S. ; HEIN, N. ; STEWIEN, K. E. ; QUEIROZ, D. ; BOTOSSO, V. F. ; LOPES, C. ; EJZEMBERG, B. ; OKAY, Y . Infecções virais em crianças internadas por doença aguda do trato respiratório inferior. Revista Brasileira de Ciência Avícola / Brazilian Journal of Poultry Science, p. 334-344, 1999.
+Citações:17
+
+195.
+CR, Miyao ; AE, Gilio ; S, Vieira ; N, Hein ; MM, Pahl ; SL, Betta ; DURIGON, E. L. ; KE, Stewien ; DA, Queiroz ; VF, Botoso ; MC, Gomes ; CL, Lopes ; B, Ejzenberg ; Y, Okay . Viral infections in hospitalized children affected by acute lower respiratory tract disease. Jornal de Pediatria, v. 75, p. 334-344, 1999.
+
+196.
+ALMEIDA, M. F. ; MARTORELLI, L. F. A. ; AIRES, C. C. ; SALLUM, P. C. ; DURIGON, E. L. ; MASSAD, E. . Experimental rabies infection in haematophagous bats Desmodus rotundus. Epidemiology and Infection, v. 133, p. 523-527, 1999.
+Citações:16|18
+
+197.
+WERTHER, K. ; RASO, T F ; DURIGON, E. L. ; LATIMER, K S . Psittacine Beak and Feather Disease in Brazil: case report. Revista Brasileira de Ciência Avícola / Brazilian Journal of Poultry Science, Campinas-SP, v. 01, n.01, p. 85-88, 1999.
+
+198.
+ALMEIDA, M. F. ; SALLUM, P. C. ; MARTORELLI, L. F. A. ; DURIGON, E. L. ; AIRES, C. C. ; MASSAD, E. . Experimental rabies infection in haematophagous bats Desmodus rotundus. Epidemiology and Infection (Online), v. 133, p. 523-527, 1999.
+Citações:16|18
+
+199.
+MIYAO, C R ; GILIO, A e ; VIEIRA, S ; HEIN, N ; PAHL, M M C ; BETTA, S L ; DURIGON, E. L. ; STEWIEN, K e ; QUEIROZ, D A O ; BOTOSO, V F ; GOMES, M C S ; LOPES, C L B C ; EJZENBERG, B. ; OKAY, Y . Infecções Virais em Crianças internadas por Doença Aguda no Trato Respiratório Inferior.. Jornal de Pediatria, Rio de Janeiro, v. 5, n.75, p. 334-344, 1999.
+
+200.
+DURIGON, E. L.; CAMPAGNOLI, R. P. ; LATIMER, K. S. ; WERTHER, K. . Descripition of the first case of psittacine beak and feather disease in Brazil. Publicação eletrônica, 1998.
+
+201.
+DURIGON, E. L.; SOARES, P. ; GUIMARAES, M. B. . The haemagglutination spectrum of psittacine beak and feather disease virus in brazilian pssitacine birds. Publicação eletrônica, 1998.
+
+202.
+DURIGON, E. L.; EJZEMBERG, B. ; BALDACCI, E. R. ; NOGUEIRA, M. B. ; OKAY, Y ; STEWIEN, K. E. . Apresentação clínica de 52 crianças com exantema causado pelo Herpesvirus humano tipo 6. Pediatria, São Paulo, v. 20, n.3, p. 266-275, 1998.
+
+203.
+DURIGON, E. L.; OLIVEIRA, M. I. ; ROTA, Paul ; BELLINI, W. J. ; STEWIEN, K. E. ; CURTI, S. P. . Genetic analysis of measles virus in São Paulo, Brazil. Virus Reviews and Research, São Paulo, v. 3, n.1, p. 00, 1998.
+Citações:5
+
+204.
+DURIGON, E. L.; BLACK, J. B. ; PELLET, P. E. . Seroconversion to human herpesvirus 6 and human herpesvirus 7 among brazilian children with clinical diagnosis of measles or rubella. Clinical Infectious Diseases, Estados Unidos, v. 23, p. 1156-1158, 1996.
+Citações:21|28
+
+205.
+DURIGON, E. L.; ERDMAN, D. D. ; ANDERSON, L. J. . Genetic diversity of human parvovirus B 19: sequence analysis of the VP1/VP2 gene from multiple B 19 isolates. Journal of General Virology, Estados Unidos, v. 77, p. 2767-2774, 1996.
+Citações:78|75
+
+206.
+DURIGON, E. L.; LAL, A. A. ; HOLLOWAY, B. ; COLLINS, E. . Polymerase chain reaction and a liquid-phase, nonisotopic hybridization for species and sensitive detection of malaria infection. American Journal of Tropical Medicine and Hygiene, Estados Unidos, v. 52, n.2, p. 139-144, 1995.
+Citações:27|25
+
+207.
+DURIGON, E. L.; ROTA, Paul ; YURAN, T. ; BELLINI, W. J. . Deteccion of measles virus nucleic acid in urinespecimens from vaccine recipients. Journal of Clinical Microbiology, Estados Unidos, v. 33, p. 2485-2488, 1995.
+Citações:53|58
+
+208.
+DURIGON, E. L.; PERET, T. C. ; STEWIEN, K. E. ; CANDEIAS, J. A. N. . A staphylococcal coagglutination assay for rapid identification of rotavirus and adenovirus in stool samples. Journal of Virological Methods, Estados Unidos, v. 52, p. 265-272, 1995.
+Citações:2|2
+
+209.
+DURIGON, E. L.; STEWIEN, K. E. ; BALDACCI, E. R. ; OKAY, Y ; LISBOA, Cláudia ; EJZEMBERG, B. . Infecção por Parvovírus: apresentação atípica em três crianças. Pediatria, São Paulo, v. 17, n.4, p. 197-201, 1995.
+
+210.
+DURIGON, E. L.; FINKEL, T. H. ; TOROK, T. J. ; FERGUSON, P. J. ; ZAKI, S. R. ; LEUNG, D. Y. M. ; ANDERSON, L. J. ; HARBECK, R. J. ; GELFAND, E. W. ; SAULSBURY, F. T. . Chronic parvovirus B19 infection and systemic necrotizing vasculitis: opportunistic infection or etiologic agent?. Lancet, Inglaterra, v. 343, p. 1255-1258, 1994.
+Citações:254|237
+
+211.
+DURIGON, E. L.; ANDERSON, B. C. ; HOLLOWAY, B. ; ERDMAN, D. D. ; ANDERSON, L. J. . Immunocheluminescent southern blot assay for polymerase chain reaction detection of human parvovirus B 19 DNA. Molecular and Cellular Probes, Estados Unidos, v. 8, p. 199-203, 1994.
+Citações:3|2
+
+212.
+DURIGON, E. L.; HOLLOWAY, B. ; ERDMAN, D. D. . Detection of human parvovirus B19 DNA PCR products by RNA probe hybridization enzyme immunoassay. Journal of Clinical Microbiology, Estados Unidos, v. 32, p. 2295-2298, 1994.
+
+213.
+DURIGON, E. L.; ERDMAN, D. D. ; ANDERSON, L. J. ; EUI-CHONG, K. . Chemiluminescent microwell hybridization assay for direct detection of human parvovirus B 19 DNA. Journal of Virological Methods, Estados Unidos, v. 50, n.1, p. 349-354, 1994.
+Citações:2|3
+
+214.
+DURIGON, E. L.; ERDMAN, D. D. ; ANDERSON, L. J. ; TOROK, T. J. ; GARY, W. G. ; PALLANSCH, M. A. . Multiple primer pairs for polymerase chain reaction (PCR) amplification of human parvovirus B19 DNA. Journal of Virological Methods, Estados Unidos, v. 44, p. 155-165, 1993.
+Citações:80|83
+
+215.
+DURIGON, E. L.; MOS, E. N. ; STEWIEN, K. E. ; JEREZ, J. A. ; SANTOS, M. A. ; TANAKA, H. ; GILIO, A. E. ; HARSI, C. M. ; BALDACCI, E. R. ; PERET, T. C. . Viral, bacterial and parasitic pathogens associated with severe diarrhoea in the city of São Paulo, Brazil. Journal of Health Population and Nutrition, Estados Unidos, v. 11, n.03, p. 148-152, 1993.
+Citações:23
+
+216.
+DURIGON, E. L.; GILIO, A. E. ; STEWIEN, K. E. ; TANAKA, H. ; BALDACCI, E. R. . Ocorrência de astrovírus humanos na cidade de São Paulo. Revista de Saúde Pública (Online), São Paulo, v. 25, n.02, p. 157-158, 1991.
+
+217.
+DURIGON, E. L.; CANDEIAS, J. A. N. ; JEREZ, J. A. ; ORTOLANI, E. L. ; BITTENCOURT, M. J. . Comparison of Staphylococcal co-aglutination with other assays for the rapid diagnosis of rotavirus infection in humans calves and piglets. Journal of Virological Methods, Estados Unidos, v. 35, p. 73-79, 1991.
+Citações:5|5
+
+218.
+DURIGON, E. L.; GILIO, A. E. ; BALDACCI, E. R. ; MOS, E. N. ; SANTOS, M. A. ; MOREIRA, A. F. ; MANISSADJIAN, A. ; CARPIO, J. P. . Pesquisa de Clostridium difficile em fezes de crianças internadas em enfermaria geral pediátrica. Brazilian Journal of Microbiology, São Paulo, v. 21, n.04, p. 299-303, 1990.
+
+219.
+DURIGON, E. L.; JEREZ, J. A. ; CANDEIAS, J. A. N. ; RACZ, M. L. . Tipos Eletroforéticos de Rotavirus Bovinos.. Brazilian Journal of Microbiology, São Paulo, v. 20, n.02, p. 254-257, 1989.
+
+220.
+DURIGON, E. L.; VIEIRA, L. C. ; OKADA, M. . Efeitos do Tioglicolato de sódio em cultivos sucessivos de Toxoplasma Gondii em camundongos. Arquivos do Instituto Biológico, São Paulo, v. 65, n.1, p. 119-121, 1988.
+
+221.
+DURIGON, E. L.; ANGELO, M. J. O. ; JEREZ, J. A. ; TANAKA, H. ; HAGIWARA, M. K. . Comparação Entre As Reações de Hemaglutinação, Isolamento de Virus, Imunoeletrosmoforese e Imunomicroscopia Eletrônica Para O Diagnóstico Etiológico da Parvovirose Canina.. Brazilian Journal of Microbiology, São Paulo, v. 18, n.03, p. 205-210, 1987.
+
+222.
+DURIGON, E. L.; JEREZ, J. A. ; CANDEIAS, J. A. N. ; RACZ, M. L. . Evidenciação de Rotavirus Através de Ensaio Imunoenzimático Elisa A Partir de Material Fecal Diarréico de Bezerros.. Brazilian Journal of Microbiology, São Paulo, v. 18, n.03, p. 201-204, 1987.
+
+223.
+DURIGON, E. L.; JEREZ, J. A. ; CANDEIAS, J. A. N. ; RIBEIRO, L. C. ; RACZ, M. L. . Anticorpos Anti-Rotavirus Em Bovinos.. Brazilian Journal of Microbiology, São Paulo, v. 18, n.04, p. 371-374, 1987.
+
+224.
+DURIGON, E. L.; MOS, E. N. ; GRUBER, A. ; NORONHA, A. M. B. . Prevalência de Campylobacter jejune e C. coli em fezes normais e diarréicas de cães em São Paulo. Brazilian Journal of Microbiology, São Paulo, v. 16, n.04, p. 287-289, 1985.
+
+225.
+GRUBER, A ; DURIGON, E. L. ; MÓS, E. N. ; MADEIRA, A. M. B. N. . Prevalência de Campylobacter jejuni e C. coli em fezes normais e diarréicas de cães em São Paulo.. Revista de Microbiologia, São Paulo, v. 16, n.4, p. 287-289, 1985.
+Citações:1
+
+226.
+DURIGON, E. L.; SANTOS, M. A. ; MOS, E. N. . Similaridade de Resultados Com Diferentes Métodos de Coloração Diferencial de Viabilidade Em Mycobacterium Bovis.. Brazilian Journal of Microbiology, São Paulo, v. 15, n.02, p. 41-44, 1984.

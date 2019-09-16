@@ -1,0 +1,640 @@
+1.
+APS, LUANA RAPOSO DE MELO MORAES ; PIANTOLA, MARCO AURÉLIO FLORIANO ; PEREIRA, SARA ARAUJO ; CASTRO, JULIA TAVARES DE ; SANTOS, FERNANDA AYANE DE OLIVEIRA ; FERREIRA, LUÍS CARLOS DE SOUZA . Eventos adversos de vacinas e as consequências da não vacinação: uma análise crítica. REVISTA DE SAÚDE PÚBLICA (ONLINE), v. 52, p. 40-50, 2018.
+
+2.
+CABRAL-MIRANDA, GUSTAVO ; CARDOSO, ANA R. ; Ferreira, Luis C.S. ; SALES, M. GORETI F. ; BACHMANN, MARTIN F. . Biosensor-based selective detection of Zika virus specific antibodies in infected individuals. BIOSENSORS & BIOELECTRONICS, v. 113, p. 101-107, 2018.
+
+3.
+ CAIRES-JÚNIOR, LUIZ CARLOS GOULART, ERNESTO MELO, UIRÁ SOUTO ARAUJO, BRUNO SILVA HENRIQUE ALVIZI, LUCAS SOARES-SCHANOSKI, ALESSANDRA DE OLIVEIRA, DANYLLO FELIPE KOBAYASHI, GERSON SHIGERU GRIESI-OLIVEIRA, KARINA MUSSO, CAMILA MANSO AMARAL, MURILO SENA DASILVA, LUCAS FERREIRA ASTRAY, RENATO MANCINI SUÁREZ-PATIÑO, SANDRA FERNANDA VENTINI, DANIELLA CRISTINA GOMES DA SILVA, SÉRGIO YAMAMOTO, GUILHERME LOPES EZQUINA, SUZANA NASLAVSKY, MICHEL SATYA TELLES-SILVA, KAYQUE ALVES WEINMANN, KARINA VAN DER LINDEN, VANESSA VAN DER LINDEN, HELIO DE OLIVEIRA, JOÃO MENDES RICARDO ARRAIS, NIVIA RODRIGUES MARIA , et al. ; Discordant congenital Zika syndrome twins show differential in vitro viral susceptibility of neural progenitor cells. Nature Communications, v. 9, p. 1-11, 2018.
+
+4.
+ROSA DA SILVA, CLEIDE MARA ; CHURA-CHAMBI, ROSA MARIA ; RAMOS PEREIRA, LENNON ; CORDEIRO, YRAIMA ; de Souza Ferreira, Luís Carlos ; MORGANTI, LIGIA . Association of high pressure and alkaline condition for solubilization of inclusion bodies and refolding of the NS1 protein from zika virus. BMC BIOTECHNOLOGY, v. 18, p. 12-18, 2018.
+
+5.
+MORENO, ANA C. R. ; Porchia, Bruna F. M. M. ; PAGNI, ROBERTA L. ; SOUZA, PATRÍCIA DA CRUZ ; PEGORARO, RAFAEL ; RODRIGUES, KARINE B. ; BARROS, TÁCITA B. ; APS, LUANA R. DE MELO MORAES ; DE ARAÚJO, ELISEU F. ; CALICH, VERA L. G. ; FERREIRA, LUÍS C. DE SOUZA . The Combined Use of Melatonin and an Indoleamine 2,3-Dioxygenase-1 Inhibitor Enhances Vaccine-Induced Protective Cellular Immunity to HPV16-Associated Tumors. Frontiers in Immunology, v. 9, p. 1914, 2018.
+
+6.
+OLIVEIRA, DANIELLE DURIGON, GIULIANA MENDES, ÉRICA LADNER, JASON ANDREATA-SANTOS, ROBERT ARAUJO, DANIELLE BOTOSSO, VIVIANE PAOLA, NICHOLAS NETO, DANIEL CUNHA, MARIELTON BRACONI, CARLA ALVES, RÚBENS JESUS, MONICA PEREIRA, LENNON MELO, STELLA MESQUITA, FLÁVIO SILVEIRA, VANESSA THOMAZELLI, LUCIANO FAVORETTO, SILVANA ALMONFREY, FRANCIANE ABDULKADER, REGINA GABRILI, JOEL TAMBOURGI, DENISE OLIVEIRA, SÉRGIO PRIETO, KARLA , et al. ; Persistence and Intra-Host Genetic Evolution of Zika Virus Infection in Symptomatic Adults: A Special View in the Male Reproductive System. Viruses-Basel, v. 10, p. 615, 2018.
+
+7.
+LUIS C.S., FERREIRA; JESUS CINTRA, MARIANA DE ; FABRIS MAEDA, DENICAR LINA NASCIMENTO ; MATHIAS-SANTOS, CAMILA ; RAMOS PEREIRA, LENNON ; BARROS LUIZ, WILSON ; Rodrigues, Juliana Falcão . Impact of Toxin-Specific Antibodies on the Adjuvanticity and Inflammatory Effects Induced by Parenterally Administered Escherichia coli heat-Labile Toxin. International Journal of Vaccine Research, v. 3, p. 1-9, 2018.
+
+8.
+M. J. RODRIGUES JESUS ; FOTORAN, W. L. ; CARDOSO, R. M. ; ARAKAKI, K. ; WUNDERLICH, G. ; FERREIRA, LUIS CS . Nano-multilamellar lipid vesicles (NMVs) enhance protective antibody responses against Shiga toxin (Stx2a) produced by enterohemorrhagic Escherichia coli strains (EHEC). BRAZILIAN JOURNAL OF MICROBIOLOGY (ONLINE), v. 49, p. 10, 2018.
+
+9.
+BUZZO, CARINA DE LIMA ; MEDINA, TIAGO ; BRANCO, LAURA M. ; LAGE, SILVIA L. ; FERREIRA, LUÍS CARLOS DE SOUZA ; AMARANTE-MENDES, GUSTAVO P. ; HOTTIGER, MICHAEL O. ; DE CARVALHO, DANIEL D. ; BORTOLUCI, KARINA R. . Epigenetic regulation of nitric oxide synthase 2, inducible (Nos2) by NLRC4 inflammasomes involves PARP1 cleavage. Scientific Reports, v. 7, p. 41686, 2017.
+
+10.
+Porchia, Bruna F.M.M. ; MORENO, ANA CAROLINA R. ; RAMOS, RODRIGO N. ; Diniz, Mariana O. ; DE ANDRADE, LAÍS HELENA T.M. ; ROSA, DANIELA S. ; BARBUTO, JOSÉ ALEXANDRE M. ; Boscardin, Silvia B. ; Ferreira, Luís Carlos S. . Herpes Simplex Virus Glycoprotein D Targets a Specific Dendritic Cell Subset and Improves the Performance of Vaccines to Human Papillomavirus-Associated Tumors. MOLECULAR CANCER THERAPEUTICS, v. 16, p. molcanther.007, 2017.
+
+11.
+NIZARD, MEVYN ; ROUSSEL, HÉLÈNE ; Diniz, Mariana O. ; KARAKI, SOUMAYA ; TRAN, THI ; VORON, THIBAULT ; DRANSART, ESTELLE ; SANDOVAL, FEDERICO ; RIQUET, MARC ; RANCE, BASTIEN ; MARCHETEAU, ELIE ; FABRE, ELIZABETH ; MANDAVIT, MARION ; TERME, MAGALI ; BLANC, CHARLOTTE ; ESCUDIE, JEAN-BAPTISTE ; GIBAULT, LAURE ; BARTHES, FRANÇOISE LE PIMPEC ; GRANIER, CLEMENCE ; Ferreira, Luis C. S. ; BADOUAL, CECILE ; JOHANNES, LUDGER ; TARTOUR, ERIC . Induction of resident memory T cells enhances the efficacy of cancer vaccine. Nature Communications, v. 8, p. 15221, 2017.
+Citações:12|13
+
+12.
+KAM, YIU-WING ; LEITE, JULIANA ALMEIDA ; LUM, FOK-MOON ; TAN, JESLIN J. L. ; LEE, BERNETT ; JUDICE, CARLA C. ; TEIXEIRA, DANIEL AUGUSTO DE TOLEDO ; ANDREATA-SANTOS, ROBERT ; VINOLO, MARCO A. ; ANGERAMI, RODRIGO ; RESENDE, MARIANGELA RIBEIRO ; FREITAS, ANDRE RICARDO RIBAS ; AMARAL, ELIANA ; JUNIOR, RENATO PASSINI ; COSTA, MARIA LAURA ; GUIDA, JOSÉ PAULO ; ARNS, CLARICE WEIS ; FERREIRA, LUIS CARLOS S. ; RÉNIA, LAURENT ; PROENÇA-MODENA, JOSE LUIZ ; NG, LISA F. P. ; Costa, Fabio T. M. . Specific Biomarkers Associated With Neurological Complications and Congenital Central Nervous System Abnormalities From Zika Virus-Infected Patients in Brazil. JOURNAL OF INFECTIOUS DISEASES, v. 216, p. 172, 2017.
+Citações:4
+
+13.
+MAEDA, DENICAR LINA NASCIMENTO FABRIS ; BATISTA, MILENE TAVARES ; PEREIRA, LENNON RAMOS ; DE JESUS CINTRA, MARIANA ; Amorim, Jaime Henrique ; MATHIAS-SANTOS, CAMILA ; PEREIRA, SARA ARAÚJO ; BOSCARDIN, SILVIA BEATRIZ ; SILVA, SANDRIANA DOS RAMOS ; FAQUIM-MAURO, ELIANA L. ; SILVEIRA, VANESSA BARBOSA ; OLIVEIRA, DANIELLE BRUNA LEAL ; JOHNSTON, STEPHEN ALBERT ; FERREIRA, LUÍS CARLOS DE SOUZA ; Rodrigues, Juliana Falcão . Adjuvant-Mediated Epitope Specificity and Enhanced Neutralizing Activity of Antibodies Targeting Dengue Virus Envelope Protein. Frontiers in Immunology, v. 8, p. 1175, 2017.
+
+14.
+SALES, NATIELY S. ; SILVA, JAMILE R. ; APS, LUANA R.M.M. ; SILVA, MARIÂNGELA O. ; Porchia, Bruna F.M.M. ; Ferreira, Luís Carlos S. ; Diniz, Mariana O. . In vivo electroporation enhances vaccine-mediated therapeutic control of human papilloma virus-associated tumors by the activation of multifunctional and effector memory CD8 + T cells. VACCINE, v. 10, p. 7240-7249, 2017.
+
+15.
+BATISTA, MILENE TAVARES ; FERREIRA, EWERTON LUCENA ; PEREIRA, GISELA DE SOUZA ; STAFFORD, PHILLIP ; MAEDA, DENICAR LINA NASCIMENTO FABRIS ; Rodrigues, Juliana Falcão ; BRADY, L. JEANNINE ; JOHNSTON, STEPHEN ALBERT ; FERREIRA, LUÍS CARLOS DE SOUZA ; FERREIRA, RITA DE CÁSSIA CAFÉ . LT adjuvant modulates epitope specificity and improves the efficacy of murine antibodies elicited by sublingual vaccination with the N-terminal domain of Streptococcus mutans P1. VACCINE, v. 35, p. 7273-7282, 2017.
+
+16.
+ROCHA, LETICIA ; ALVES, RUBENS ; CAETANO, BRUNA ; PEREIRA, LENNON ; MITSUNARI, THAIS ; AMORIM, JAIME ; POLATTO, JULIANA ; BOTOSSO, VIVIANE ; GALLINA, NEUZA ; PALACIOS, RICARDO ; PRECIOSO, ALEXANDER ; GRANATO, CELSO ; OLIVEIRA, DANIELLE ; SILVEIRA, VANESSA ; LUZ, DANIELA ; FERREIRA, LUÍS ; PIAZZA, ROXANE . Epitope Sequences in Dengue Virus NS1 Protein Identified by Monoclonal Antibodies. Antibodies, v. 6, p. 14, 2017.
+
+17.
+ANTONIALLI, RENAN ; SULCZEWSKI, FERNANDO BANDEIRA ; AMORIM, KELLY NAZARÉ DA SILVA ; ALMEIDA, BIANCA DA SILVA ; FERREIRA, NATÁLIA SOARES ; YAMAMOTO, MÁRCIO MASSAO ; SOARES, IRENE SILVA ; FERREIRA, LUÍS CARLOS DE SOUZA ; ROSA, DANIELA SANTORO ; BOSCARDIN, SILVIA BEATRIZ . CpG Oligodeoxinucleotides and Flagellin Modulate the Immune Response to Antigens Targeted to CD8?+ and CD8?? Conventional Dendritic Cell Subsets. Frontiers in Immunology, v. 8, p. 1727, 2017.
+
+18.
+Amorim, Jaime Henrique ; DOS SANTOS ALVES, RÚBENS PRINCE ; BIZERRA, RAÍZA ; ARAÚJO PEREIRA, SARA ; RAMOS PEREIRA, LENNON ; NASCIMENTO FABRIS, DENICAR LINA ; SANTOS, ROBERT ANDREATA ; ROMANO, CAMILA MALTA ; de Souza Ferreira, Luís Carlos . Antibodies are not required to a protective immune response against dengue virus elicited in a mouse encephalitis model. Virology (New York, N.Y. Print), v. 487, p. 41-49, 2016.
+Citações:5|4
+
+19.
+ALVES, RÚBENS PRINCE DOS SANTOS ; PEREIRA, LENNON ; FABRIS, DENICAR LINA NASCIMENTO ; SALVADOR, FELIPE SCASSI ; SANTOS, ROBERT ANDREATA ; Zanotto, Paolo Marinho de Andrade ; ROMANO, C. M. ; AMORIM, JAIME HENRIQUE ; FERREIRA, L. C. S. . Production of a recombinant Dengue virus 2 NS5 protein and the potential use as a vaccine antigen. Clinical and Vaccine Immunology, v. 1, p. CVI.00081-16, 2016.
+
+20.
+APS, LUANA R.M.M. ; TAVARES, MILENE B. ; ROZENFELD, JULIO H.K. ; LAMY, M. TERESA ; Ferreira, Luís C.S. ; Diniz, Mariana O. . Bacterial spores as particulate carriers for gene gun delivery of plasmid DNA. Journal of Biotechnology, v. 228, p. 58-66, 2016.
+Citações:2
+
+21.
+SAMPAIO, SUELY C. F. ; LUIZ, WILSON B. ; VIEIRA, MÔNICA A. M. ; FERREIRA, RITA C. C. ; GARCIA, BRUNA G. ; SINIGAGLIA-COIMBRA, RITA ; SAMPAIO, JORGE L. M. ; FERREIRA, LUÍS C. S. ; GOMES, TÂNIA A. T. . Flagellar Cap Protein FliD Mediates Adherence of Atypical Enteropathogenic Escherichia coli to Enterocyte Microvilli. Infection and Immunity (Print), v. 84, p. 1112-1122, 2016.
+Citações:2|7
+
+22.
+Diniz, M. O. ; SALES, N. S. ; SILVA, J. R. ; FERREIRA, L. C. S. . Protection against HPV-16-associated tumors requires the activation of CD8+ effector memory T cells and the control of myeloid-derived suppressor cells. Molecular Cancer Therapeutics, v. 15, p. 1-11, 2016.
+Citações:2|4
+
+23.
+ OLIVEIRA, DANIELLE B.L. ; ALMEIDA, FLÁVIA J. ; DURIGON, EDISON L. ; MENDES, ÉRICA A. ; BRACONI, CARLA T. ; MARCHETTI, IVAN ; ANDREATA-SANTOS, ROBERT ; CUNHA, MARIELTON P. ; ALVES, RÚBENS P.S. ; PEREIRA, LENNON R. ; MELO, STELLA R. ; NETO, DANIEL F.L. ; MESQUITA, FLÁVIO S. ; ARAUJO, DANIELLE B. ; FAVORETTO, SILVANA R. ; SÁFADI, MARCO A.P. ; Ferreira, Luís C.S. ; ZANOTTO, PAOLO M.A. ; BOTOSSO, VIVIANE F. ; BEREZIN, EITAN N. . Prolonged Shedding of Zika Virus Associated with Congenital Infection. New England Journal of Medicine (Print), v. 375, p. 1202-1204, 2016.
+
+24.
+TRAN, T. ; Diniz, M. O. ; Dransart, E. ; Gey, A. ; Merillon, N. ; LONE, Y. C. ; GODEFROY, S. ; SIBLEY, C. ; Ferreira, L. C. ; MEDIONI, J. ; OUDARD, S. ; Johannes, L. ; Tartour, E. . A Therapeutic Her2/neu Vaccine Targeting Dendritic Cells Preferentially Inhibits the Growth of Low Her2/neu-Expressing Tumor in HLA-A2 Transgenic Mice. Clinical Cancer Research (Print), v. 22, p. 4133-4144, 2016.
+Citações:2|5
+
+25.
+AVILA, L.A. ; APS, L.R.M.M. ; PLOSCARIU, N. ; SUKTHANKAR, P. ; GUO, R. ; WILKINSON, K.E. ; GAMES, P. ; SZOSZKIEWICZ, R. ; ALVES, R.P.S. ; DINIZ, M.O. ; FANG, Y. ; FERREIRA, L.C.S. ; TOMICH, J.M. . Gene delivery and immunomodulatory effects of plasmid DNA associated with Branched Amphiphilic Peptide Capsules. Journal of Controlled Release, v. 241, p. 15-24, 2016.
+Citações:3|3
+
+26.
+AVILA, L. ADRIANA ; APS, LUANA R. M. M. ; SUKTHANKAR, PINAKIN ; PLOSCARIU, NICOLETA ; GUDLUR, SUSHANTH ; ?IMO, LADISLAV ; SZOSZKIEWICZ, ROBERT ; PARK, YOONSEONG ; LEE, STELLA Y. ; IWAMOTO, TAKEO ; Ferreira, Luis C. S. ; TOMICH, JOHN M. . Branched Amphiphilic Cationic Oligopeptides Form Peptiplexes with DNA: A Study of Their Biophysical Properties and Transfection Efficiency. Molecular Pharmaceutics (Print), v. 12, p. 706-715, 2015.
+Citações:3|6
+
+27.
+APS, LUANA R.M.M. ; Diniz, Mariana O. ; Porchia, Bruna F.M.M. ; SALES, NATIELY S. ; MORENO, ANA CAROLINA R. ; Ferreira, Luís C.S. . Bacillus subtilis spores as adjuvants for DNA vaccines. Vaccine (Guildford), v. 33, p. 2328-2334, 2015.
+Citações:2|4
+
+28.
+SALVADOR, FELIPE SCASSI ; Amorim, Jaime Henrique ; ALVES, RUBENS PRINCE SANTOS ; PEREIRA, SARA A. ; FERREIRA, LUIS CARLOS SOUZA ; ROMANO, CAMILA MALTA . Complete Genome Sequence of an Atypical Dengue Virus Serotype 2 Lineage Isolated in Brazil. Genome Announcements, v. 3, p. e00779-15, 2015.
+
+29.
+MONARIS, D ; SBROGIO-ALMEIDA, ME ; DIB, CC ; CANHAMERO, TA ; SOUZA, GO ; VASCONCELLOS, SA ; FERREIRA, LCS ; ABREU, PAE . Protective immunity and reduced renal colonization induced by vaccines containing recombinant Leptospira interrogans outer membrane proteins and flagellin adjuvant. Clinical and Vaccine Immunology, v. 22, p. CVI.00285-15-965, 2015.
+Citações:3|6
+
+30.
+LUIZ, WILSON B. ; RODRIGUES, JULIANA F. ; CRABB, JOSEPH H. ; SAVARINO, STEPHEN J. ; Ferreira, Luis C.S. . Maternal vaccination with a fimbrial tip adhesin and passive protection of neonatal mice against lethal human enterotoxigenic Escherichia coli challenge. Infection and Immunity (Print), v. 83, p. IAI.00858-15-4564, 2015.
+Citações:5|4
+
+31.
+Amorim, Jaime Henrique ; BIZERRA, RAÍZA ; DOS SANTOS ALVES, RÚBENS PRINCE ; NASCIMENTO FABRIS, DENICAR LINA ; de Souza Ferreira, Luís Carlos . Dengue virus models based on mice as experimental hosts. Future Virology (Print), v. 10, p. 835-844, 2015.
+Citações:1|1
+
+32.
+SANTANA, VINICIUS CANATO ; ALMEIDA, RAFAEL RIBEIRO ; RIBEIRO, SUSAN PEREIRA ; FERREIRA, LUÍS CARLOS DE SOUZA ; KALIL, JORGE ; ROSA, DANIELA SANTORO ; CUNHA NETO, EDECIO . Co-administration of plasmid-encoded granulocyte-macrophage colony-stimulating factor increases human immunodeficiency virus-1 DNA vaccine-induced polyfunctional CD4+ T-cell responses. Memórias do Instituto Oswaldo Cruz (Online), v. 2015, p. 1-7, 2015.
+Citações:4|4
+
+33.
+ALMEIDA, RAFAEL RIBEIRO ; RAPOSO, RUI ANDRÉ SARAIVA ; COIRADA, FERNANDA CAROLINE ; DA SILVA, JAMILE RAMOS ; de Souza Ferreira, Luís Carlos ; KALIL, JORGE ; NIXON, DOUGLAS F ; CUNHA-NETO, EDECIO . Modulating APOBEC expression enhances DNA vaccine immunogenicity. Immunology and Cell Biology (Print), v. 93, p. 868-876, 2015.
+Citações:1|3
+
+34.
+DE OLIVEIRA, LILIANE MARIA FERNANDES ; MORALE, MIRIAN GALLIOTE ; CHAVES, AGATHA A. MUNIZ ; CAVALHER, ALINE MARQUES ; LOPES, ALINE SORIANO ; DINIZ, MARIANA DE OLIVEIRA ; SCHANOSKI, ALESSANDRA SOARES ; DE MELO, ROBSON LOPES ; FERREIRA, LUÍS CARLOS DE SOUZA ; DE OLIVEIRA, MARIA LEONOR S. ; DEMASI, MARILENE ; HO, PAULO LEE . Design, Immune Responses and Anti-Tumor Potential of an HPV16 E6E7 Multi-Epitope Vaccine. Plos One, v. 10, p. e0138686, 2015.
+Citações:2|5
+
+35.
+FERREIRA, EWERTON LUCENA ; BATISTA, MILENE TAVARES ; CAVALCANTE, RAFAEL CIRO MARQUES ; PEGOS, VANESSA RODRIGUES ; PASSOS, HÉLIC MOREIRA ; DA SILVA, DALVA ADELINA ; Balan, Andrea ; FERREIRA, LUÍS CARLOS DE SOUZA ; FERREIRA, RITA DE CÁSSIA CAFÉ . Sublingual immunization with the phosphate binding-protein (PstS) reduces oral colonization by Streptococcus mutans. Molecular Oral Microbiology, v. 31, p. n/a-n/a, 2015.
+Citações:1|2
+
+36.
+RIOS, W. M. ; MOLFETTA, J. B. ; BRANDAO, I. T. ; MASSON, A. P. ; PERIPATO, R. ; SILVA, I. D. ; RODRIGUES, R. F. ; ARNOLDI, F. ; SOUZA, P. R. M. ; DINIZ, M. O. ; FERREIRA, LCS ; SILVA, C. L. . Fusion of Glioblastoma Tumor Antigens to Herpes Simplex Virus-1 Glycoprotein D Enhances Secondary Adaptive Immune Responses in a DNA Vaccine Strategy. Journal of Vaccines & Vaccination, v. 6, p. 1000302, 2015.
+
+37.
+Braga, Catarina J. M. ; RODRIGUES, JULIANA F. ; MEDINA-ARMENTEROS, YORDANKA ; FARINHA-ARCIERI, LUÍS E. ; VENTURA, ARMANDO M. ; Boscardin, Silvia B. ; Sbrogio-Almeida, Maria E. ; FERREIRA, LUÍS C. S. . Parenteral Adjuvant Effects of an Enterotoxigenic Escherichia coli Natural Heat-Labile Toxin Variant. Frontiers in Immunology (Online), v. 4, p. 487, 2014.
+Citações:1|2
+
+38.
+Amorim, Jaime Henrique ; ALVES, RÚBENS PRINCE DOS SANTOS ; BOSCARDIN, SILVIA BEATRIZ ; FERREIRA, LUÍS CARLOS DE SOUZA . The dengue virus non-structural 1 protein: Risks and benefits. Virus Research (Print), v. 181, p. 53-60, 2014.
+Citações:11|25
+
+39.
+BATISTA, M. T. ; Souza, R. D. ; PACCEZ, J. D. ; LUIZ, W. B. ; FERREIRA, E. L. ; CAVALCANTE, R. C. M. ; FERREIRA, R. C. C. ; FERREIRA, L. C. S. . Gut adhesive Bacillus subtilis spores as a platform for the mucosal delivery of antigens. Infection and Immunity (Print), v. 82, p. 1-10, 2014.
+Citações:6|14
+
+40.
+DE SOUZA, RENATA DAMÁSIO ; BATISTA, MILENE TAVARES ; LUIZ, WILSON BARROS ; CAVALCANTE, RAFAEL CIRO MARQUES ; Amorim, Jaime Henrique ; Bizerra, Raíza Sales Pereira ; MARTINS, EDUARDO GIMENES ; de Souza Ferreira, Luís Carlos . Bacillus subtilis Spores as Vaccine Adjuvants: Further Insights into the Mechanisms of Action. Plos One, v. 9, p. e87454, 2014.
+Citações:8|8
+
+41.
+ALVES, R.P.S. ; YANG, M.J. ; BATISTA, M.T. ; FERREIRA, L.C.S. . Alzheimer's disease: is a vaccine possible?. Brazilian journal of medical and biological research, v. 47, p. 438-444, 2014.
+Citações:4|7
+
+42.
+BATISTA, M. T. ; Souza, R. D. ; FERREIRA, E. L. ; ROBINETTE, R. ; CROWLEY, P. J. ; RODRIGUES, J. F. ; BRADY, L. J. ; FERREIRA, L. C. S. ; FERREIRA, R. C. C. . Immunogenicity and in vitro and in vivo protective effects of antibodies targeting a recombinant form of the Streptocccus mutans P1 surface protein. Infection and Immunity (Print), v. 82, p. 4978-4988, 2014.
+Citações:2|6
+
+43.
+NIZARD, MEVYN ; DINIZ, MARIANA O ; ROUSSEL, HELENE ; TRAN, THI ; FERREIRA, LUIS CS ; BADOUAL, CECILE ; TARTOUR, ERIC . Mucosal vaccines. Human Vaccines & Immunotherapeutics, v. 10, p. 2175-2187, 2014.
+Citações:8|6
+
+44.
+HU, JOHN C. ; MATHIAS-SANTOS, CAMILA ; GREENE, CHRISTOPHER J. ; KING-LYONS, NATALIE D. ; RODRIGUES, JULIANA F. ; HAJISHENGALLIS, GEORGE ; FERREIRA, LUÍS C. S. ; CONNELL, TERRY D. . Intradermal Administration of the Type II Heat-Labile Enterotoxins LT-IIb and LT-IIc of Enterotoxigenic Escherichia coli Enhances Humoral and CD8+ T Cell Immunity to a Co-Administered Antigen. Plos One, v. 9, p. e113978, 2014.
+Citações:3|3
+
+45.
+Amorim, Jaime H. ; JESUS, MONICA R. ; LUIZ, WILSON B. ; Porchia, Bruna F.M.M. ; FERREIRA, RITA C.C. ; SERVAT, ESTEBAN G. ; GHIRINGHELLI, PABLO D. ; FERREIRA, LUIS C.S ; BENTANCOR, LETICIA V. . Role of bacteriophages in STEC infections: new implications for the design of prophylactic and treatment approaches. F1000Research, v. 3, p. 1-19, 2014.
+Citações:3
+
+46.
+DE MELO, FILIPE M ; BRAGA, CATARINA JM ; PEREIRA, FELIPE V ; MARICATO, JULIANA T ; ORIGASSA, CLARICE ST ; SOUZA, MARIANA F ; MELO, AMANDA C ; SILVA, PRISCILA ; TOMAZ, SAMANTA L ; GIMENES, KARINA P ; SCUTTI, JORGE AB ; JULIANO, MARIA A ; ZAMBONI, DARIO S ; CÂMARA, NIELS O ; TRAVASSOS, LUIZ R ; FERREIRA, LUIS CS ; RODRIGUES, ELAINE G . Anti-metastatic immunotherapy based on mucosal administration of flagellin and immunomodulatory P10. Immunology and Cell Biology (Print), v. 93, p. 86-98, 2014.
+Citações:5|9
+
+47.
+BITENCOURT, AMANDA R. ; VICENTIN, ELAINE C. ; JIMENEZ, MARIA C. ; RICCI, RICARDO ; Leite, Juliana A. ; COSTA, FABIO T. ; Ferreira, Luis C. ; RUSSELL, BRUCE ; NOSTEN, FRANÇOIS ; RÉNIA, LAURENT ; GALINSKI, MARY R. ; BARNWELL, JOHN W. ; Rodrigues, Mauricio M. ; Soares, Irene S. . Antigenicity and Immunogenicity of Plasmodium vivax Merozoite Surface Protein-3. Plos One, v. 8, p. e56061, 2013.
+Citações:12|12
+
+48.
+GUEVARA, C. P. ; LUIZ, W. B. ; SIERRA, A. ; CRUZ, C. ; QADRI, F. ; KAUSHIK, R. S. ; FERREIRA, L. C. S. ; GOMEZ-DUARTE, O. G. . Enterotoxigenic Escherichia coli (ETEC) CS21 pilus contributes to adhesion to intestinal cells and to pathogenesis under in vivo conditions. Microbiology (Reading. Print), v. 159, p. 1725-1735, 2013.
+Citações:7|12
+
+49.
+HENRIQUES, HUGO R. ; RAMPAZO, ELINE V. ; GONÇALVES, ANTONIO J. S. ; VICENTIN, ELAINE C. M. ; Amorim, Jaime H. ; PANATIERI, RAQUEL H. ; AMORIM, KELLY N. S. ; YAMAMOTO, MARCIO M. ; FERREIRA, LUÍS C. S. ; ALVES, ADA M. B. ; Boscardin, Silvia B. . Targeting the Non-structural Protein 1 from Dengue Virus to a Dendritic Cell Population Confers Protective Immunity to Lethal Virus Challenge. PLoS Neglected Tropical Diseases (Online), v. 7, p. e2330, 2013.
+Citações:15
+
+50.
+SANTANA, VINICIUS C. ; Diniz, Mariana O. ; Cariri, Francisco A. M. O. ; VENTURA, ARMANDO M. ; CUNHA-NETO, EDÉCIO ; ALMEIDA, RAFAEL R. ; CAMPOS, MARCO A. ; LIMA, GRACIELA K. ; FERREIRA, LUÍS C. S. . Bicistronic DNA Vaccines Simultaneously Encoding HIV, HSV and HPV Antigens Promote CD8+ T Cell Responses and Protective Immunity. Plos One, v. 8, p. e71322, 2013.
+Citações:7|7
+
+51.
+TAVARES, MILENE B. ; SOUZA, RENATA D. ; LUIZ, WILSON B. ; CAVALCANTE, RAFAEL C. M. ; CASAROLI, CAROLINE ; MARTINS, EDUARDO G. ; FERREIRA, RITA C. C. ; FERREIRA, LUÍS C. S. . Bacillus subtilis Endospores at High Purity and Recovery Yields: Optimization of Growth Conditions and Purification Method. Current Microbiology (Print), v. 66, p. 279-285, 2013.
+Citações:8|6
+
+52.
+Diniz, Mariana O. ; Cariri, Francisco A.M.O. ; APS, LUANA R.M.M. ; Ferreira, Luís C.S. . Enhanced Therapeutic Effects Conferred by an Experimental DNA Vaccine Targeting Human Papillomavirus-Induced Tumors. Human Gene Therapy, v. 24, p. 861-870, 2013.
+Citações:10|10
+
+53.
+TÓFOLI DE ARAÚJO, FABIANO ; BOLANOS-GARCIA, VICTOR M. ; PEREIRA, CRISTIANE T. ; SANCHES, MARIO ; OSHIRO, ELISA E. ; FERREIRA, RITA C. C. ; CHIGARDZE, DIMITRI Y. ; BARBOSA, JOÃO ALEXANDRE GONÇALVES ; de Souza Ferreira, Luís Carlos ; BENEDETTI, CELSO E. ; BLUNDELL, TOM L. ; Balan, Andrea . Structural and Physiological Analyses of the Alkanesulphonate-Binding Protein (SsuA) of the Citrus Pathogen Xanthomonas citri. Plos One, v. 8, p. e80083, 2013.
+Citações:2|3
+
+54.
+LAGE, S. L. ; RODRIGUES, M. M. ; BUZZO, C. L. ; AMARAL, E. P. ; MATTEUCCI, K. C. ; MASSIS, L. M. ; ICIMOTO, M. Y. ; CARMONA, A. K. ; D'IMPERIO LIMA, M. R. ; RODRIGUES, M. M. ; FERREIRA, L. C. S. ; AMARANTE-MENDES, G. P. ; BORTOLUCI, K. R. . Cytosolic flagellin-induced lysosomal pathway regulates inflammasome-dependent and -independent macrophage responses. Proceedings of the National Academy of Sciences of the United States of America, v. 250, p. 001, 2013.
+Citações:13|14
+
+55.
+Amorim, Jaime Henrique ; Diniz, Mariana Oliveira ; Cariri, Francisco A.M.O. ; Rodrigues, Juliana Falcão ; Bizerra, Raíza Sales Pereira ; Gonçalves, Antônio J.S. ; de Barcelos Alves, Ada Maria ; de Souza Ferreira, Luís Carlos . Protective immunity to DENV2 after immunization with a recombinant NS1 protein using a genetically detoxified heat-labile toxin as an adjuvant. Vaccine (Guildford), v. 30, p. 837-845, 2012.
+Citações:23|24
+
+56.
+MAYORGA, ORIANA ; TEIXEIRA, ALINE F. ; Ferreira, Luis C. S. ; TABORDA, CARLOS P. ; MUÑOZ, JULIAN E. ; TRAVASSOS, LUIZ R. ; LINCOPAN, NILTON . The role of adjuvants in therapeutic protection against paracoccidioidomycosis after immunization with the P10 peptide. Frontiers in Microbiology (Online), v. 3, p. 1-6, 2012.
+Citações:13|15
+
+57.
+Bizerra, Raíza Sales Pereira ; Amorim, Jaime Henrique ; Pereira Bizerra, Raíza Sales ; DOS SANTOS ALVES, RÚBENS PRINCE ; Sbrogio-Almeida, Maria Elisabete ; LEVI, JOSÉ EDUARDO ; CAPURRO, MARGARETH LARA ; FERREIRA, L. C. S. . A Genetic and Pathologic Study of a DENV2 Clinical Isolate Capable of Inducing Encephalitis and Hematological Disturbances in Immunocompetent Mice. Plos One, v. 7, p. e44984, 2012.
+Citações:6|9
+
+58.
+MATHIAS-SANTOS, C. ; RODRIGUES, J. F. ; SBROGIO-ALMEIDA, M. E. ; CONNELL, T. ; Ferreira, Luís C.S. . Distinctive immunomodulatory and inflammatory properties of the Escherichia coli type II heat-labile enterotoxin LT-IIa and its pentamer following intradermal administration. Clinical and Vaccine Immunology, v. 18, p. 12143-1251, 2011.
+Citações:7|9
+
+59.
+Diniz, M. O. ; FERREIRA, L. C. S. . Enhanced anti-tumor effect of a gene gun-delivered DNA vaccine encoding the human papillomavirus type 16 oncoproteins genetically fused to the herpes simplex virus glycoprotein D. Brazilian Journal of Medical and Biological Research (Impresso), v. 44, p. 421-427, 2011.
+Citações:6
+
+60.
+Bargieri, Daniel Y. ; Soares, Irene S. ; Costa, Fabio T. M. ; Braga, Catarina J. ; Ferreira, Luis C. S. ; Rodrigues, Mauricio M. . Malaria Vaccine Development: Are Bacterial Flagellin Fusion Proteins the Bridge between Mouse and Humans?. Journal of Parasitology Research (Print), v. 2011, p. 1-10, 2011.
+Citações:5
+
+61.
+ RODRIGUES, J. F. ; MATHIAS-SANTOS, C. ; SBROGIO-ALMEIDA, M. E. ; Amorim, J. H. ; CABRERA-CRESPO, J. ; BALAN, A. ; FERREIRA, L. C. S. . Functional Diversity of Heat-labile Toxins (LT) Produced by Enterotoxigenic Escherichia coli: DIFFERENTIAL ENZYMATIC AND IMMUNOLOGICAL ACTIVITIES OF LT1 (hLT) AND LT4 (pLT). The Journal of Biological Chemistry (Print), v. 286, p. 5222-5233, 2011.
+Citações:11|15
+
+62.
+Pere, H. ; Montier, Y. ; Bayry, J. ; Quintin-Colonna, F. ; Merillon, N. ; Dransart, E. ; Badoual, C. ; Gey, A. ; Ravel, P. ; Marcheteau, E. ; Batteux, F. ; Sandoval, F. ; Adotevi, O. ; Chiu, C. ; Garcia, S. ; Tanchot, C. ; Lone, Y.-C. ; Ferreira, L. C. ; Nelson, B. H. ; Hanahan, D. ; Fridman, W. H. ; Johannes, L. ; Tartour, E. . A CCR4 antagonist combined with vaccines induces antigen-specific CD8+ T cells and tumor immunity against self antigens. Blood (Philadelphia, PA), v. 118, p. 4853-4862, 2011.
+Citações:77|86
+
+63.
+Porchia, Bruna F. M. M. ; Diniz, Mariana O. ; Cariri, Francisco A. M. O. ; Santana, Vinícius C. ; Amorim, Jaime H. ; Balan, Andrea ; Braga, Catarina J. M. ; Ferreira, Luís Carlos S. . Purified Herpes Simplex Type 1 Glycoprotein D (gD) Genetically Fused with the Type 16 Human Papillomavirus E7 Oncoprotein Enhances Antigen-Specific CD8 + T Cell Responses and Confers Protective Antitumor Immunity. Molecular Pharmaceutics (Print), v. 8, p. 2320-2330, 2011.
+Citações:4|3
+
+64.
+OLIVEIRA, B. H. ; SILVA, M. ; BRAGA, C. J. ; MASSIS, L. M. ; FERREIRA, L. C. S. ; SBROGIO-ALMEIDA, M. E. ; TAKAGI, M. . Production of native flagellin from Salmonella typhimurium in a bioreactor and purification by tangential ultrafiltration. Brazilian Journal of Chemical Engineering, v. 28, p. 575-584, 2011.
+
+65.
+Rojas, R. L. G. ; GOMES, P. A. D. P. ; BENTANCOR, L. V. ; SBROGIO-ALMEIDA, M. E. ; COSTA, S. O. P. ; MASSIS, L. M. ; FERREIRA, R. C. C. ; PALERMO, M. S. ; FERREIRA, L. C. S. . Salmonella enterica Serovar Typhimurium Vaccine Strains Expressing a Nontoxic Shiga-Like Toxin 2 Derivative Induce Partial Protective Immunity to the Toxin Expressed by Enterohemorrhagic Escherichia coli. Clinical and Vaccine Immunology, v. 17, p. 529-536, 2010.
+Citações:7|8
+
+66.
+Braga, Catarina J.M. ; Massis, Liliana M. ; Sbrogio-Almeida, Maria E. ; Alencar, Bruna C.G. ; Bargieri, Daniel Y. ; Boscardin, Silvia B. ; Rodrigues, Maurício M. ; FERREIRA, L. C. S. . CD8+ T cell adjuvant effects of Salmonella FliCd flagellin in live vaccine vectors or as purified protein. Vaccine (Guildford), v. 28, p. 1373-1382, 2010.
+Citações:26|38
+
+67.
+Bargieri, Daniel Y. ; Leite, Juliana A. ; Lopes, Stefanie C.P. ; Sbrogio-Almeida, Maria Elisabete ; Braga, Catarina J.M. ; Ferreira, Luis C.S. ; Soares, Irene S. ; Costa, Fabio T.M. ; Rodrigues, Mauricio M. . Immunogenic properties of a recombinant fusion protein containing the C-terminal 19kDa of Plasmodium falciparum merozoite surface protein-1 and the innate immunity agonist FliC flagellin of Salmonella Typhimurium. Vaccine (Guildford), v. 28, p. 2818-2826, 2010.
+Citações:24|30
+
+68.
+NUGYEN, H. ; OSHIRO, E. ; TAVARES, M. B. ; Suzuki, C. ; Pimenta, D.C. ; Angeli, C.B. ; Oliveira, J.C.F. ; Ferro, M.I.T ; FERREIRA, L. C. S. ; FERREIRA, R. C. C. . Distribution and biological role of the oligopeptide-binding protein (OppA). Genetics and Molecular Research, v. 33, p. 341-347, 2010.
+
+69.
+TAVARES, M. B. ; Silva, B.M. ; Cavalcante, Rafael C.M. ; Souza, R. D. ; LUIZ, W. ; PACCEZ, J. D. ; Crowley, P.J. ; Brady, L.J. ; FERREIRA, L. C. S. ; FERREIRA, R. C. C. . Induction of neutralizing antibodies in mice immunized with an amino-terminal polypeptide of Streptococcus mutans P1 protein produced by recombinant Bacillus subtilis strain. FEMS Immunology and Medical Microbiology, v. 59, p. 131-142, 2010.
+Citações:6|7
+
+70.
+ Diniz, M. O. ; LASARO, M. O. ; Ertl, H. C. ; FERREIRA, L. C. S. . Immune Responses and Therapeutic Antitumor Effects of an Experimental DNA Vaccine Encoding Human Papillomavirus Type 16 Oncoproteins Genetically Fused to Herpesvirus Glycoprotein D. Clinical and Vaccine Immunology, v. 17, p. 1576-1583, 2010.
+Citações:14|15
+
+71.
+Amorim, Jaime Henrique ; Porchia, Bruna F.M.M. ; Balan, Andrea ; Cavalcante, Rafael C.M. ; da Costa, Simone Morais ; de Barcelos Alves, Ada Maria ; de Souza Ferreira, Luís Carlos . Refolded dengue virus type 2 NS1 protein expressed in Escherichia coli preserves structural and immunological properties of the native protein. Journal of Virological Methods, v. 167, p. 186-192, 2010.
+Citações:16|17
+
+72.
+LASARO, M. O. ; MATHIAS-SANTOS, C. ; RODRIGUES, J. F. ; FERREIRA, L. C. S. . Functional and immunological characterization of a natural polymorphic variant of a heat-labile toxin (LT-1) produced by enterotoxigenic Escherichia coli (ETEC). FEMS Immunology and Medical Microbiology, v. 55, p. 93-99, 2009.
+Citações:11|19
+
+73.
+SOUZA, C. S. ; FERREIRA, L. C. S. ; THOMAS, L. ; BARBOSA, J. A. R. ; BALAN, A. . Crystallization, data collection and data processing of maltose-binding protein (MalE) form the phyotpathogen Xanthomonas axopodis pv. citri. Acta Crystallographica. Series F, v. F65, p. 105-107, 2009.
+
+74.
+GOMES, P. A. D. P. ; BENTANCOR, L. V. ; J.D.PACCEZ, ; SBROGIO-ALMEIDA, M. E. ; PALERMO, M. S. ; FERREIRA, R. C. C. ; FERREIRA, L. C. S. . Antibody responses elicited in mice immunized with Bacillus subtilis vaccine strains expressing Stx2B subunit of enterohemorragic Escherichia coli O157:H7. Brazilian Journal of Microbiology, v. 40, p. 332-337, 2009.
+
+75.
+BRAGA, C. J. ; G.M.G.RITTNER, ; HENAO, J. ; Teixeira, A.F. ; MASSIS, L. M. ; SBROGIO-ALMEIDA, M. ; C.P.TABORDA, ; FERREIRA, L. C. S. . Paracoccidioides brasiliensis vaccine formulations based on the gp43-derived P10 sequence and the Salmonella enterica FliC flagellin. Infection and Immunity (Print), v. 77, p. 1700-1709, 2009.
+Citações:22|25
+
+76.
+BRAGA, C. J. ; MASSIS, L. M. ; ALENCAR, B. C. G. ; RODRIGUEZ, M. B. ; SBROGIO-ALMEIDA, M. ; FERREIRA, L. C. S. . Cytotoxic T cell adjuvant effects of three Salmonella enterica flagellins. Journal of Brazilian Society of Microbiology (Online), v. 39, p. 44-49, 2008.
+Citações:12
+
+77.
+BALAN, A. ; SANTACRUZ, C. P. ; MOUTRAN, A. ; FERREIRA, L. C. S. ; NESHICH, G. ; BARBOSA, J. A. R. . Crystalographic structure and substrate-binding interactions of the molybdate-binding protein of the phytopathogen Xanthomonas axonopodis pv citri. BBA. Proteins and Proteomics, v. 1784, p. 393-399, 2008.
+Citações:12|13
+
+78.
+BALAN, A. ; SOUZA, C. S. ; FERREIRA, R. ; FERREIRA, L. C. S. . Production of the refolded oligopeptide-binding protein (OppA) encoded by the citrus pathogen Xanthomonas axonopodis pv citri. Genetics and Molecular Research, v. 7, p. 117-126, 2008.
+Citações:3|3
+
+79.
+LASARO, M. O. ; RODRIGUES, J. F. ; MATHIAS-SANTOS, C. ; GUTH, B. E. C. ; BALAN, A. ; SBROGIO-ALMEIDA, M. ; FERREIRA, L. C. S. . Genetic diversity of heat-labile toxin expressed by enterotoxigenic Escherichia coli strains isolated from humans. Journal of Bacteriology, v. 190, p. 2400-2410, 2008.
+Citações:21|22
+
+80.
+LUIZ, W. ; Cavalcante, R.C.M ; PACCEZ, J. D. ; Souza, R. D. ; SBROGIO-ALMEIDA, M. E. ; FERREIRA, R. C. C. ; FERREIRA, L. C. S. . Boosting systemic and secreted antibody responses in mice orally immunized with recombinant Bacillus subtilis strains following parenteral priming with a DNA vaccine encoding the enterotoxigenic Escherichia coli (ETEC) CFA/I fimbriae B subunit. Vaccine (Guildford), v. 26, p. 3998-4005, 2008.
+Citações:15|15
+
+81.
+MASSIS, L. M. ; BRAGA, C. J. ; SBROGIO-ALMEIDA, M. ; Lauand, C. ; NEWTON, S. M. C. ; KLEBBA, P. E. ; FERREIRA, L. C. S. . Anti-flagellin antibody responses elicited in mice orally immunized with attenuated Salmonella enterica serovar Typhimurium vaccine strains. Memórias do Instituto Oswaldo Cruz, v. 103, p. 606-610, 2008.
+Citações:8|6|8
+
+82.
+BARGIERI, D. ; ROSA, D. S. ; BRAGA, C. J. ; CARVALHO, B. O. ; COSTA, F. T. M. ; ESPINDOLA, N. M. ; VAZ, A. J. ; SOARES, I. S. ; FERREIRA, L. C. S. ; RODRIGUEZ, M. M. . New malaria vaccine candidates based on the Plasmodium vivax merozoite surface protein-1 and the TLR-5 agonist Salmonella Typyimurium FliC flagellin. Vaccine (Guildford), v. 26, p. 6132-6142, 2008.
+Citações:52|61
+
+83.
+Farinha-Arcieri, L. E. ; Porchia, B.M. ; Carromeu, C. ; Simabuco, F.M. ; FERREIRA, L. C. S. ; Zerbini, L.F. ; Ventura, A. . Expression and purification of a recombinant adenovirus fiber knob in a baculovirus system. Intervirology, v. 51, p. 189-195, 2008.
+
+84.
+L.MA, ; KASERER, W. ; ANNMALAI, R. ; D.C.SCOTT, ; JIANG, X. ; XIAO, Q. ; Maymani, H. ; MASSIS, L. M. ; FERREIRA, L. C. S. ; NEWTON, S. M. C. ; P.E.KLEBBA, . Evidence of ball-chain transport of ferric enterobactin through FepA. Journal of Biological Chemistry (Online), v. 282, p. 397-402, 2007.
+
+85.
+NAKAMATSU, E. H. ; FUJIHIRA, E. ; FERREIRA, R. C. C. ; BALAN, A. ; COSTA, S. O. P. ; FERREIRA, L. C. S. . Oligopeptide uptake and aminoglycoside resistance in Escherichia coli K12. FEMS Microbiology Letters, v. 269, p. 229-233, 2007.
+Citações:4|4
+
+86.
+PACCEZ, J. D. ; NUGYEN, H. ; LUIZ, W. ; FERREIRA, R. C. C. ; SBROGIO-ALMEIDA, M. E. ; FERREIRA, L. C. S. . Evaluation of different promoter sequences and antigen sorting signals on the immunogenicity of Bacillus subtilis vaccine vehicles. Vaccine (Guildford), v. 25, p. 4671-4680, 2007.
+Citações:17|17
+
+87.
+NEPOMUCENO, R. ; TAVARES, M. B. ; LEMOS, J. A. ; GRISWOLD, A. R. ; RIBEIRO, J. ; BALAN, A. ; GUIMARAES, K. S. ; FERREIRA, L. C. S. ; FERREIRA, R. C. C. . The oligopeptide (opp) gene cluster of Streptococcus mutans: identification, prevalence and characterization. Oral Microbiology and Immunology, v. 22, p. 277-284, 2007.
+Citações:7|7
+
+88.
+BARGIERI, D. ; ROSA, D. ; LASARO, M. A. S. ; FERREIRA, L. C. S. ; I.R.SOARES, ; RODRIGUEZ, M. M. . Adjuvant requirement for successful immunization with recombinant derivatives of Plasmodium vivaz merozoite surface protein-1 delivered via the intranasal route. Memórias do Instituto Oswaldo Cruz, v. 102, p. 313-317, 2007.
+Citações:11|12
+
+89.
+LASARO, M. A. S. ; RODRIGUES, J. F. ; CABRERA-CRESPO, J. ; SBROGIO-ALMEIDA, M. E. ; LASARO, M. O. ; FERREIRA, L. C. S. . Evaluation of experimental conditions for quantification of LT produced by human-derived enterotoxigenic Escherichia coli strains. Brazilian Journal of Microbiology, v. 38, p. 1-7, 2007.
+Citações:4
+
+90.
+MOUTRAN, A. ; BALAN, A. ; FERREIRA, L. C. S. ; GIORGETTI, A. ; TRAMONTANO, A. ; FERREIRA, R. C. C. . Structural model and ligand interactions of the Xanthomonas axonopodis pv citri oligopeptide-binding protein. Genetics and Molecular Research, v. 6, p. 1169-1177, 2007.
+Citações:4|4
+
+91.
+OSHIRO, E. ; NEPOMUCENO, R. ; J.B.FARIA, ; FERREIRA, L. C. S. ; FERREIRA, R. . Site-directed gene replacement of the phytopathogen Xanthomonas axonopodis pv.citri. Journal of Medical Microbiology, v. 65, p. 171-179, 2006.
+Citações:8
+
+92.
+J.D.PACCEZ, ; LUIZ, W. ; SBROGIO-ALMEIDA, M. ; FERREIRA, R. ; SCHUMANN, W. ; FERREIRA, L. C. S. . Stable episomal expression system under control of a stress inducible promoter enhances the immunogenicity of Bacillus subtilis as a vector for antigen delivery. Vaccine (Guildford), Amsterdam, v. 24, p. 2935-2943, 2006.
+Citações:17|17
+
+93.
+SANTACRUZ, C. P. ; BALAN, A. ; FERREIRA, L. C. S. ; BARBOSA, J. A. R. . Crystallization, data collection and phasing of the molybdate-binding protein of the phytopathogen Xanthomonas axonopodis pv citri. Acta Crystallographica. Series F, v. 62, p. 289-291, 2006.
+Citações:3|3
+
+94.
+LASARO, M. A. S. ; RODRIGUES, J. F. ; MATHIAS-SANTOS, C. ; GUTH, B. E. C. ; REGUA-MANGIA, A. ; FERREIRA, A. J. P. ; TAKAGI, M. ; CABRERA-CRESPO, J. ; ALMEIDA, M. E. S. ; FERREIRA, L. C. S. . Production and release of heat-labile toxin by wild-type human-derived enterotoxigenic Escherichia coli. FEMS Immunology and Medical Microbiology, v. 48, p. 123-131, 2006.
+Citações:16|15
+
+95.
+BALAN, A. ; SANTACRUZ, C. P. ; MOUTRAN, A. ; FERREIRA, R. C. C. ; MEDRANO, F. J. ; PEREZ, C. ; RAMOS, C. ; FERREIRA, L. C. S. . The molybdate-binding protein (ModA) of the plant pathogen Xanthomonas axonopodis pv citri. Protein Expression and Purification, v. 50, p. 215-222, 2006.
+Citações:14|14
+
+96.
+LÁSARO, M. O. ; LUIZ, W. ; SBROGIO-ALMEIDA, M. ; FERREIRA, L. C. S. . Prime-boost vaccine regimen confers protective immunity to human-derived enterotoxigenic Escherichia coli. Vaccine (Guildford), v. 23, p. 2428-2436, 2005.
+Citações:11
+
+97.
+FERREIRA, L. C. S.; FERREIRA, R. ; SCHUMANN, W. . Bacillus subtilis as a tool for vaccine development: from antigen factories to delivery vectors. Anais da Academia Brasileira de Ciências, Rio de Janeiro, v. 77, n.1, p. 113-124, 2005.
+Citações:25|8|31
+
+98.
+BALAN, A. ; SOUZA, C. S. ; MOUTRAN, A. ; FERREIRA, R. ; C.S.FRANCO, ; RAMOS, C. ; FERREIRA, L. C. S. . Purificatin and in vitro characterization of the maltose-binding protein of the plant pathogen Xanthomonas citri. Protein Expression and Purification, London, v. 43, p. 103-110, 2005.
+Citações:9|9
+
+99.
+LASARO, M. O. ; M.O.DINIZ, ; REYES-SANDOVAL, A. ; ERTL, H. ; FERREIRA, L. C. S. . Anti-tumor DNA vaccines based on the expression of human papillomavirus-16 E6/E7 oncoproteins genetically fused with the glycoprotein D from human herpes virus-1. Microbial Pathogenesis, Paris, v. 7, p. 1541-1550, 2005.
+
+100.
+NUGYEN, H. ; NGUYEN, Q. ; FERREIRA, R. ; FERREIRA, L. C. S. ; L.T.TRAN, ; SCHUMANN, W. . Construction of plasmid-based expression vectors for Bacillus subtilis exhibiting full structural stability. Plasmid, v. 54, p. 241-248, 2005.
+Citações:65|63
+
+101.
+ACOSTA, M. B. ; FERREIRA, R. ; FERREIRA, L. C. S. ; COSTA, S. O. P. . Intracellular polyamine pools, oligopeptide-binding protein A expression, and resistance to aminoglycosides in Escherichia coli. Memórias do Instituto Oswaldo Cruz, Rio de Janeiro, v. 100, n.7, p. 789-793, 2005.
+Citações:2|2
+
+102.
+MOUTRAN, A. ; Balan, A. ; SANTACRUZ-PÉREZ, Carolina ; FERREIRA, L. C. S. ; FERREIRA, R. C. C. ; NESHICH, G. . Homology modeling of molybdate-binding protein. Acta Crystallographica. Section A, Foundations of Crystallography, v. 61, p. c168-c168, 2005.
+
+103.
+REGUA-MANGIA, A. ; GUTH, B. E. C. ; J.R.C.ANDRADE, ; IRINO, K. ; PACHECO, A. B. F. ; FERREIRA, L. C. S. ; ZAHNER, V. ; TEIXEIRA, L. . Genotypic and phenotypic characterization of enterotoxigenic Escherichia coli strains isolated in Rio de Janeiro. FEMS Immunology and Medical Microbiology, Amsterdam, v. 40, p. 155-162, 2004.
+Citações:20|26
+
+104.
+MOUTRAN, A. ; BALAN, A. ; QUAGIO, R. ; FERREIRA, R. ; FERREIRA, L. C. S. . The oligopeptide permease (Opp) of the plant pathogen Xanthomonas axonopodis pv citri. Current Microbiology (Print), New York, v. 48, p. 354-359, 2004.
+Citações:8|7
+
+105.
+SBROGIO-ALMEIDA, M. ; MOSCA, T. ; MASSIS, L. M. ; ABRAHAMSOHN, I. ; FERREIRA, L. C. S. . Host and bacterial factors affecting induction of immune responses to flagellin expressed by attenuated Salmonella vaccine strains. Infection and Immunity (Print), Washington, v. 72, p. 2546-2555, 2004.
+Citações:25|26
+
+106.
+SCHUMANN, W. ; FERREIRA, L. C. S. . Production of recombinant proteins in Escherichia coli. Genetics and Molecular Biology, Ribeirão Preto, v. 27, n.3, p. 442-453, 2004.
+Citações:38|6|44
+
+107.
+LÁSARO, M. O. ; LUIZ, W. ; SBROGIO-ALMEIDA, M. ; NISHIMURA, L. ; GUTH, B. E. C. ; FERREIRA, L. C. S. . Combined vaccine regimen based on parenteral priming with a DNA vaccine and administration of an oral booster consisting of a recombinant Salmonella enterica Serovar Thyphimurium vaccine strain for immunization against infection with human-derived enterotoxigenic Escherichia coli strains. Infection and Immunity (Print), Washington, v. 72, n.11, p. 6480-6491, 2004.
+Citações:12|12
+
+108.
+LÁSARO, M. O. ; ALVES, A. M. B. ; BOTOSO, V. F. ; DURIGON, E. L. ; FERREIRA, L. C. S. . Antibody-inducing properties of a prototype bivalent herpes simplex virus/enterotoxigenic Escherichia coli DNA vaccine. FEMS Immunology and Medical Microbiology, London, v. 35, p. 25-31, 2003.
+
+109.
+MONTEIRO, A. C. ; FERREIRA, R. C. C. ; PADILLA, G. ; FERREIRA, L. C. S. ; COSTA, S. O. P. . Environmental and genetic factors affecting mutability to aminoglycoside antibiotics among Escherichia coli strains. Genetics and Molecular Biology, Ribeirão Preto, v. 26, p. 221-227, 2003.
+Citações:6|5|6
+
+110.
+MASSIS, L. M. ; M.E.S.ALMEIDA, ; FERREIRA, L. C. S. . Salmonella vacinais. Uma estratégia promissora para o desenvolvimento de vacinas orais multivalentes. Biotecnologia, Ciência e Desenvolvimento, Brasília, v. 25, p. 22-26, 2002.
+
+111.
+ALVES, A. M. B. ; LASARO, M. O. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . DNA immunization against the CFA/I fimbriae of enterotoxigenic Escherichia coli (ETEC). Vaccine (Guildford), v. 19, p. 788-795, 2001.
+Citações:7|16
+
+112.
+SBROGIO-ALMEIDA, M. E. ; FERREIRA, L. C. S. . Flagellin expressed by live Salmonella vaccine strains induces distinct antibody responses following delivery via systemic or mucosa immunization routes. FEMS Immunology and Medical Microbiology, Holanda, v. 30, p. 203-208, 2001.
+Citações:23|23
+
+113.
+SIMOES, M. A. ; FERREIRA, L. C. S. . Adjuvantes de Mucosas. Aliados na busa de vacinas orais mais eficazes. Biotecnologia, Ciência e Desenvolvimento, Brasilia, v. 19, p. 32-35, 2001.
+
+114.
+PACHECO, A. B. F. ; FERREIRA, L. C. S. ; ALMEIDA, D. F. ; M.O.PICHEL, ; BINSZTEIN, N. ; G.VIBOUD, . Beyond serotypes and virulence-associated factors: detection of genetic diversity among O153:H45 CFA/I heat-stable enterotoxigenic Escherichia coli strains. Journal of Clinical Microbiology, Washington, v. 39, n.12, p. 4500-4505, 2001.
+Citações:16|18
+
+115.
+LASARO, M. O. ; ROHR, C. T. C. ; FERREIRA, L. C. S. . Vacinas de DNA multivalentes. Pesquisas abrem caminho para a vacina ideal. Biotecnologia, Ciência e Desenvolvimento, Brasília, v. 23, p. 68-71, 2001.
+
+116.
+ACOSTA, M. B. ; PADILLA, G. ; FERREIRA, R. C. C. ; FERREIRA, L. C. S. ; COSTA, S. O. P. . Altered expression of oligopeptide-binding protein (OppA) and aminoglycoside resistance in laboratory and clinical Escherichia coli strains. Journal of Medical Microbiology, Londres, v. 49, p. 409-413, 2000.
+Citações:16|19
+
+117.
+LASARO, M. O. ; FERREIRA, L. C. S. . Vacinas contra diarréia.Novas perspectivas baseadas em vacinas de DNA. Biotecnologia, Ciência e Desenvolvimento, Brasília, v. 14, p. 28-32, 2000.
+
+118.
+GUILLOBEL, H. C. R. ; CARINHANHA, J. ; CARDENAS, L. ; CLEMENTS, J. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . Adjuvant activity of a nontoxic mutant of Escherichia coli heat-labile enterotoxin on systemic and mucosal immune responses elicited against a heterologous antigen carried by a live Salmonella enterica Serovar Typhimurium vaccine strain. Infection and Immunity (Print), Washington, v. 68, p. 4349-4353, 2000.
+Citações:23|24
+
+119.
+LUNA, M. G. ; F.F.SARDELLA, ; FERREIRA, L. C. S. . Salmonella flagellin fused with a linear epitope of colonization factor antigen I (CFA/I) can prime antibody responses against homologous and heterologous fimbriae of enterotoxigenic Escherichia coli. Research in Microbiology (Paris), v. 151, p. 575-582, 2000.
+Citações:7|6
+
+120.
+ALVES, A. M. B. ; LÁSARO, M. O. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . New vaccine strategies against enterotoxigenic Escherichia coli. I - DNA vaccines against the CFA/I fimbrial adhesin. Brazilian Journal of Medical and Biological Research (Impresso), Ribeirão Preto, v. 32, p. 223-229, 1999.
+Citações:12|12
+
+121.
+LÁSARO, M. O. ; ALVES, A. M. B. ; GUILLOBEL, H. C. R. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . New vaccine strategies against enterotoxigenic Escherichia coli. II - Enhanced systemic and secreted antibody responses against the CFA/I fimbriae by priming with DNA and boosting with a live recombinant Salmonella vaccine. Brazilian Journal of Medical and Biological Research (Impresso), Ribeirão Preto, v. 32, p. 241-246, 1999.
+Citações:14|15
+
+122.
+FERREIRA, L. C. S.; ALVES, A. M. B. ; LÁSARO, M. O. ; C.GATTASS, ; A.PYRRHO, ; ALMEIDA, D. F. . Antibody response in mice immunized with a plasmid DNA encoding the colonization factor antigen I of enterotoxigenic. FEMS Immunology and Medical Microbiology (Print), Berlin, v. 23, p. 321-330, 1999.
+Citações:11|11
+
+123.
+M.E.S.ALMEIDA, ; NEWTON, S. M. C. ; FERREIRA, L. C. S. . Antibody responses against flagellin in mice orally immunized with attenuated Salmonella vaccine strains. Archives of Microbiology, Berlin, v. 172, p. 102-108, 1999.
+Citações:9|12
+
+124.
+TSUHAKO, M. H. ; FERREIRA, L. C. S. ; COSTA, S. O. P. . OppA Escherichia coli mutants have osmodependent resistance to aminoglycoside antibiotics. Genetics and Molecular Biology (Impresso), RIBEIRÃO PRETO, v. 21, n.1, p. 15-19, 1998.
+Citações:2|2
+
+125.
+ALVES, A. M. B. ; LASARO, M. O. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . Epitope specificity of antibodies raised against enterotoxigenic Escherichia coli CFA/I fimbriae in mice immunized with naked DNA. Vaccine (Guildford), AMSTERDAM, v. 16, p. 9-15, 1998.
+Citações:16|18
+
+126.
+GUILLOBEL, H. C. R. ; LUNA, M. G. ; CAMACHO, E. F. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . Immunization against the colonization factor antigen I of enterotoxigenic Escherichia coli by administration of a bivalent Salmonella typhimurium aroA vaccine strain. Brazilian Journal of Medical and Biological Research (Impresso), RIBEIRÃO PRETO, v. 31, p. 545-554, 1998.
+
+127.
+LUNA, M. G. ; RUDIN, A. ; VINHAS, S. A. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . Epitope specificity of a monoclonal antibody generated against the dissociated CFA/I fimbriae of enterotoxigenic Escherichia coli. MICROBIOLOGIY AND IMMUNOLOGY, TOKYO, v. 42, n.5, p. 341-346, 1998.
+Citações:2
+
+128.
+SPRING, S. ; LINS, U. ; AMANN, R. ; LUDWIG, W. ; SCHLEIFER, K. H. ; FERREIRA, L. C. S. ; ESQUIVEL, D. M. S. ; FARINA, M. . Phylogenitic Affiliation And Ultrastructure Of Uncultured Magnetotatic Bacteria From The Southern Hemisphere. Archives of Microbiology, BERLIN, v. 169, p. 136-147, 1998.
+Citações:75|83
+
+129.
+ALVES, A. M. B. ; LÁSARO, M. O. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . Immunoglobulin G subclass response in mice immunized with plasmid DNA encoding the CFA/I fimbriae of enterotoxigenic Escherichia coli. Immunology Letters, v. 62, p. 145-149, 1998.
+Citações:13|14
+
+130.
+PACHECO, A. B. F. ; SOARES, K. C. ; ALMEIDA, D. F. ; G.VIBOUD, ; BINSZTEIN, N. ; FERREIRA, L. C. S. . Clonal Nature of enterotoxigenic Escherichia coli (ETEC) serotype O6:H16 revealed by randomly amplified DNA analysis. Journal of Clinical Microbiology (Print), v. 36, p. 2099-2102, 1998.
+Citações:23|28
+
+131.
+FERREIRA, R. C. C. ; BORGES-NETO, A. A. ; FRACALANZA, S. E. L. ; COSTA, S. O. P. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . Cell envelope components of Yersinia pestis grown in intraperitoneal diffusion chambers. Revista de Microbiologia (Impresso) (Cessou em 1999. Cont. ISSN 1517-8382 Brazilian Journal of Microbiology (Impresso)), SAO PAULO, v. 29, p. 174-178, 1998.
+
+132.
+JR, M. ; FERREIRA, R. C. C. ; FERREIRA, L. C. S. . Mutagenic activation of CL 64,855, an anti-Trypanosoma cruzi nitroderivant, by bacterial nitroreductases. Genetics and Molecular Biology (Impresso), Ribeirão Preto, v. 4, p. 567-572, 1998.
+
+133.
+FERREIRA, R. C. C. ; COSTA, S. O. P. ; FERREIRA, L. C. S. ; L.R.TRABULSI, . Penicillin-binding proteins of pathogenic Escherichia coli strains. FEMS Microbiology Letters, Amsterdam, v. 168, p. 313-317, 1998.
+
+134.
+LUNA, M. G. ; MARTINS, M. M. ; NEWTON, S. M. C. ; COSTA, S. O. P. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . Cloning and expression of colonization factor antigen I (CFA/I) epitopes of enterotoxigenic Escherichia coli (ETEC) in Salmonella flagellin. Research in Microbiology (Paris), PARIS, v. 148, p. 217-228, 1997.
+Citações:14|19
+
+135.
+PACHECO, A. B. F. ; GUTH, B. E. C. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . Clonal relationships among Escherichia coli serogroup O6 isolates based on RAPD. FEMS Microbiology Letters, AMSTERDAM, v. 148, p. 255-260, 1997.
+Citações:12|15
+
+136.
+LEAL, N. C. ; FARIAS, R. C. L. ; SILVA, M. S. B. ; ALMEIDA, A. M. P. ; FERREIRA, L. C. S. . Plasmid profiles of Yersinia pestis strains isolated in Northeast Brazil. Revista de Microbiologia, SÃO PAULO, v. 28, p. 40-45, 1997.
+Citações:6|6
+
+137.
+PACHECO, A. B. F. ; GUTH, B. E. C. ; SOARES, K. C. S. ; NISHIMURA, L. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . Random amplification of polymorphic DNA reveals serotype-specific clonal clusters among enterotoxigenic Escherichia coli (ETEC) isolated from humans. JOURNAL OF CLINICAL MICROBIOLOGY, WASHINGTON, v. 35, n.2, p. 1521-1525, 1997.
+
+138.
+MOTTA, M. C. M. ; LEAL, L. H. M. ; SOUZA, W. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . Detection of penicillin-binding proteins in the endosymbionts of the trypanosoatid Crithidia deanei. JOURNAL OF EUKARYOTIC MICROBIOLOGY, v. 44, p. 492-496, 1997.
+
+139.
+LUNA, M. G. ; FERREIRA, L. C. S. ; ALMEIDA, D. F. ; RUDIN, A. . Peptides 14VIDLL18 and 96FEAAAL101 defined as epitopes of antibodies raised against amino acid sequences of enterotoxigenic Escherichia coli colonization factor antigen I fused to Salmonella flagellin. MICROBIOLOGY, LONDON, v. 143, p. 3201-3207, 1997.
+
+140.
+PACHECO, A. B. F. ; GUTH, B. E. C. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . Characterization of enterotoxigenic Escherichia coli by random amplification of polymorphic DNA. Research in Microbiology (Paris), PARIS, v. 147, p. 175-182, 1996.
+Citações:31|38
+
+141.
+MACHADO, R. S. ; CAMELO, D. C. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . Effect of sigma factor (Sigma S) on the stability of penicillin-binding protein 3 (PPB 3) of Escherichia coli K12. Brazilian Journal of Genetics, RIBEIRÃO PRETO, v. 19, p. 545-549, 1996.
+
+142.
+FERREIRA, R. C. C. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . Penicillin-binding proteins (PPBs) of the pathogenic Yersinia species. Revista de Microbiologia, SÃO PAULO, v. 27, p. 111-115, 1996.
+Citações:1|1
+
+143.
+NISHIMURA, L. ; FERREIRA, L. C. S. ; PACHECO, A. B. F. ; GUTH, B. E. . Relationship between outer membrane protein and lipopolysaccharide profiles and serotypes of enterotoxigenic Escherichia coli isolated in Brazil. FEMS Microbiology Letters, AMSTERDAM, v. 143, p. 253-258, 1996.
+Citações:17|16
+
+144.
+RODRIGUEZ, M. B. ; FERREIRA, L. C. S. ; MONTEIRO, G. ; COSTA, S. O. P. . Identification of a periplasmic protein associated with osmolarity-dependent aminoglycoside resistance in Escherichia coli. Brazilian Journal of Genetics, RIBEIRÃO PRETO, v. 18, n.1, p. 7-12, 1995.
+Citações:3|4
+
+145.
+GUTH, B. E. C. ; PACHECO, A. B. F. ; KRÜGER, W. M. V. ; FERREIRA, L. C. S. . Comparison of outer membrane protein and lipopolysaccharide profiles of enterotoxigenic Escherichia coli strains isolated in São Paulo, Brazil. Brazilian Journal of Medical and Biological Research, RIBEIRÃO PRETO, v. 28, p. 545-552, 1995.
+Citações:7|7
+
+146.
+FERREIRA, R. C. C. ; PARK, J. T. ; CAMELO, D. C. ; ALMEIDA, D. F. ; FERREIRA, L. C. S. . Interactions of Yersinia pestis penicillin-binding proteins with beta-lactam antibiotics. Antimicrobial Agents and Chemotherapy, WASHINGTON, v. 39, p. 1853-1855, 1995.
+Citações:4|4
+
+147.
+FERREIRA, R. C. C. ; PARK, J. T. ; FERREIRA, L. C. S. . Plasmid regulation and temperature-sensitive behaviour of the Yersinia pestis penicillin-binding proteins. Infection and Immunity, WASHINGTON, v. 62, p. 2404-2407, 1994.
+Citações:5|5
+
+148.
+ABATH, F. G. C. ; ALMEIDA, A. M. P. ; FERREIRA, L. C. S. . Identification of surface-exposed Yersinia pestis proteins by radiodination and biotinylation methods. Journal of Medical Microbiology, LONDON, v. 37, p. 420-424, 1992.
+Citações:6|5
+
+149.
+ALMEIDA, A. M. P. ; FERREIRA, L. C. S. . Evaluation of three serological tests for the detection of human plague in Northeast Brazil. Memórias do Instituto Oswaldo Cruz, RIO DE JANEIRO, v. 87, p. 87-92, 1992.
+Citações:1|2
+
+150.
+LEAL, N. C. ; FERREIRA, L. C. S. . Plasmid composition of Shigella flexneri and Shigella sonnei strains isolated from diarrheic and asymptomatic children in Northeast Brazil. Brazilian Journal of Genetics, RIBEIRÃO PRETO, v. 14, p. 609-621, 1991.
+
+151.
+ABATH, F. G. C. ; ALMEIDA, A. M. P. ; FERREIRA, L. C. S. . Surface-exposed antigenic determinants in outer membranes of wild Yersinia pestis isolates. Zentralblatt Für Bakteriologie, BERLIN, v. 276, p. 73-85, 1991.
+
+152.
+ABATH, F. G. C. ; FERREIRA, L. C. S. . Comparative studies of Yersinia pestis outer membrane isolation techniques and their potential use on plague epidemiology. Revista do Instituto de Medicina Tropical de São Paulo, SÃO PAULO, v. 32, p. 78-83, 1990.
+Citações:2
+
+153.
+ABATH, F. G. C. ; ALMEIDA, A. M. P. ; FERREIRA, L. C. S. . Strain specific variation of outer membrane proteins of wild Yersinia pestis strains subjected to different growth temperatures. Memórias do Instituto Oswaldo Cruz, RIO DE JANEIRO, v. 85, p. 107-111, 1990.
+Citações:2|1
+
+154.
+M.E.B.MELO, ; FERREIRA, L. C. S. . Screening the mutagenic activities of commonly used anti-parasite drugs by the Simultest: a simplified Salmonella/microsome plate incorporation assay. Revista do Instituto de Medicina Tropical de São Paulo, SÃO PAULO, v. 32, p. 269-274, 1990.
+Citações:9|11
+
+155.
+LEAL, N. C. ; ALMEIDA, A. M. P. ; FERREIRA, L. C. S. . Evaluation of different plasmid DNA extraction methods in the molecular characterization of Yersinia pestis plasmids. Revista Brasileira de Microbiologia, SÃO PAULO, v. 21, p. 213-218, 1990.
+
+156.
+ABATH, F. G. C. ; ALMEIDA, A. M. P. ; FERREIRA, L. C. S. . Immunochemical localization of the fraction-1 antigen, a virulence determinant of Yersinia pestis. Anais da Academia Brasileira de Ciências, RIO DE JANEIRO, v. 62, p. 291-297, 1990.
+
+157.
+FERREIRA, R. C. C. ; JR, M. ; A.A.S.FILHO, ; FERREIRA, L. C. S. . Avaliacao do potencial mutagênico cancerígeno de fármacos pelo ensaio Salmonella/fracao microssomal. II - Mutagenicidade de antibioticos antitumorais do grupo das antracilinas. Ciência e Cultura, São Paulo, v. 41, p. 603-606, 1989.
+
+158.
+G.BRENNAND, ; M.MAGALHAES, ; FERREIRA, L. C. S. . Colicin production and serum resistance in pathogenic Escherichia coli isolated from humans in North East Brazil. Brazilian Journal of Genetics, Ribeirão Preto, v. 12, p. 465-476, 1989.
+
+159.
+LEAL, N. C. ; ALMEIDA, A. M. P. ; FERREIRA, L. C. S. . Plasmid composition and virulence-associated factors of Yersinia pestis isolates from a plague outbreak at the Paraiba State, Brazil. Revista do Instituto de Medicina Tropical de São Paulo (Impresso), v. 31, p. 295-300, 1989.
+Citações:9|12|10
+
+160.
+ABATH, F. G. C. ; ALMEIDA, A. M. P. ; FERREIRA, L. C. S. . Electrophoretic characterization of the outer membrane proteins of Yersinia pestis isolated in North East Brazil. EPIDEMIOLOGY AND INFECTION, Londres, v. 103, p. 595-602, 1989.
+
+161.
+A.BETZNER, ; FERREIRA, L. C. S. ; J.V.HOLTJE, ; KECK, W. . Control of the activity of the soluble lytic transglycosilase by the stringent response of E.coli. FEMS Microbiology Letters, AMSTERDAN, v. 67, p. 161-164, 1989.
+Citações:15|14
+
+162.
+FERREIRA, L. C. S.; SCHWARZ, U. ; KECK, W. ; CHARLIER, P. ; DIDEBERG, O. ; J.M.GHUYSEN, . Properties and crystallization of a genetically engineered water soluble derivative of penicillin-binding protein 5 of Escherichia coli. EUROPEAN JOURNAL OF BIOCHEMISTRY, v. 171, p. 11-16, 1988.
+
+163.
+FERREIRA, R. C. C. ; SCHWARZ, U. ; FERREIRA, L. C. S. . Activation of anti-Trypanosoma cruzi drugs to genotoxic metabolites promoted by mammalian microsomal enzymes. Mutation Research, Amsterdam, v. 204, p. 577-585, 1988.
+
+164.
+FERREIRA, R. C. C. ; M.E.B.MELO, ; JR, M. ; FERREIRA, L. C. S. . Evaluation of the genotoxic activity of blood and urine of guinea pigs treated with nifurtimox and benznidazolele. Brazilian Journal of Medical and Biological Research, Ribeirão Preto, v. 21, p. 1069-1077, 1988.
+Citações:5|4
+
+165.
+JUNGMAN, D. M. L. C. S. ; FERREIRA, L. C. S. . Plasmid curing of Escherichia coli and Salmonella typhimurium by treatment with sodium dodecyl sulphate and high temperature incubation. Revista de Microbiologia (Impresso) (Cessou em 1999. Cont. ISSN 1517-8382 Brazilian Journal of Microbiology (Impresso)), São Paulo, v. 18, n.38, p. 178-183, 1987.
+Citações:1|3
+
+166.
+FERREIRA, L. C. S.; KECK, W. ; A.BETZNER, ; SCHWARZ, U. . In vivo cell division gene product interactions in Escherichia coli K12.. Journal of Bacteriology (Print), Washington, v. 169, p. 5776-5781, 1987.
+Citações:18|11
+
+167.
+FERREIRA, L. C. S.; ALMEIDA, D. F. . Iodogen catalysed iodination of surface proteins of Escherichia coli K12.. Brazilian Journal of Genetics (Impresso) (Cessou em 1997. Cont. ISSN 1415-4757 Genetics and Molecular Biology (Impresso), Ribeirão Preto, v. 10, p. 625-634, 1987.
+Citações:4
+
+168.
+FERREIRA, R. C. C. ; FERREIRA, L. C. S. . Mutagenicity of nifurtimox and benzinidazole in the Salmonella/microsome assay. Brazilian Journal of Medical and Biological Research (Impresso), Ribeirão Preto, v. 19, p. 19-25, 1986.
+Citações:24|24
+
+169.
+FERREIRA, R. C. C. ; FERREIRA, L. C. S. . CL 64,855, a potent anti-Trypanosoma cruzi drug is also mutagenic in the Salmonella/microsomal assay. Memórias do Instituto Oswaldo Cruz (Impresso), Rio de Janeiro, v. 81, p. 49-52, 1986.
+Citações:3|15
+
+170.
+FERREIRA, R. C. C. ; FERREIRA, L. C. S. . Mutagenicity of CL 64,855, a potent anti-Trypanosoma cruzi drug. Mutation Research Letters, Amsterdam, v. 171, p. 11-15, 1986.
+
+171.
+FERREIRA, R. C. C. ; FERREIRA, L. C. S. . Avaliação do potencial mutagênico-cancerígeno de fármacos pelo ensaio Salmonella/fração microssomal. I - Mutagenicidade de drogas anti-Trypanosoma cruzi. Ciência e Cultura, São Paulo, v. 38, p. 696-702, 1986.
+
+172.
+FERREIRA, L. C. S.; ALMEIDA, D. F. . Further phenotypic analysis of the cell division mutation Y16 of Escherichia coli K-12.. Brazilian Journal of Genetics (Impresso) (Cessou em 1997. Cont. ISSN 1415-4757 Genetics and Molecular Biology (Impresso), Ribeirão Preto, v. 7, p. 205-217, 1984.
+Citações:4
+
+173.
+FERREIRA, L. C. S.; ALMEIDA, D. F. . Strain specific expression of the ftsH gene of Escherichia coli K12. Brazilian Journal of Genetics (Impresso) (Cessou em 1997. Cont. ISSN 1415-4757 Genetics and Molecular Biology (Impresso), RIBEIRÃO PRETO, v. 7, p. 401-409, 1984.
+Citações:2

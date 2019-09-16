@@ -1,0 +1,1293 @@
+1.
+PÉREZ, MALENA M. ; MARTINS, LARISSA M. S. ; DIAS, MURILO S. ; PEREIRA, CAMILA A. ; LEITE, JEFFERSON A. ; GONÇALVES, ENRICO C.S. ; DE ALMEIDA, PAULA Z. ; DE FREITAS, EMANUELLE N. ; TOSTES, RITA C. ; RAMOS, SIMONE G. ; DE ZOETE, MARCEL R. ; RYFFEL, BERNHARD ; SILVA, JOÃO S. ; CARLOS, DANIELA . IL-17/IL-17R axis elicits intestinal neutrophil migration, restrains gut dysbiosis and LPS translocation in high-fat diet-induced metabolic syndrome model. IMMUNOLOGY, v. 1, p. 1, 2019.
+Citações:65|15
+
+2.
+Cardoso, C.R. ; PROVINCIATTO, P.R. ; GODOI, D.F. ; FONSECA, M.T. ; FERREIRA, B.R. ; Teixeira, G. ; Cunha, F.Q. ; PINZAN, C.F. ; DA SILVA, J.S. . The signal transducer and activator of transcription 6 (STAT-6) mediates Th2 inflammation and tissue damage in a murine model of peanut-induced food allergy. ALLERGOLOGIA ET IMMUNOPATHOLOGIA, v. 01, p. 1, 2019.
+
+3.
+GUPTA, GAURAV ; SANTANA, ALYNNE K.M. ; GOMES, CIRO M. ; TURATTI, ALINE ; Milanezi, Cristiane M. ; BUENO FILHO, ROBERTO ; FUZO, CARLOS ; Almeida, Roque P. ; PEREIRA, VANESSA C. ; Roselino, Ana M. ; SILVA, JOÃO S. . Inflammasome gene expression is associated with immunopathology in human localized cutaneous leishmaniasis. CELLULAR IMMUNOLOGY, v. 1, p. 1, 2019.
+
+4.
+ALVES, V. B. FREITAS ; DE SOUSA, B. COUTINHO ; FONSECA, M. THAÍS COSTA ; OGATA, H. ; CALIÁRI-OLIVEIRA, C. ; YAOCHITE, J. NAVARRO UEDA ; RODRIGUES JÚNIOR, V. ; CHICA, J. E. LAZO ; DA SILVA, J. SANTANA ; MALMEGRIM, K. C. RIBEIRO ; PERNOMIAN, L. ; CARDOSO, C. RIBEIRO . A single administration of human adipose tissue-derived mesenchymal stromal cells (MSC) induces durable and sustained long-term regulation of inflammatory response in experimental colitis. CLINICAL AND EXPERIMENTAL IMMUNOLOGY, v. 196, p. 139-154, 2019.
+
+5.
+LAGO, ALESSANDRA FABIANE ; DE OLIVEIRA, ANAMARIA SIRIANI ; DE SOUZA, HUGO CELSO DUTRA ; da Silva, João Santana ; BASILE-FILHO, ANIBAL ; GASTALDI, ADA CLARICE . The effects of physical therapy with neuromuscular electrical stimulation in patients with septic shock. MEDICINE, v. 97, p. e9736, 2018.
+
+6.
+SILVA, MARIA C. ; DAVOLI-FERREIRA, MARCELA ; MEDINA, TIAGO S. ; Sesti-Costa, Renata ; Silva, Grace K. ; LOPES, CARLA D. ; CARDOZO, LUCAS E. ; GAVA, FÁBIO N. ; LYRONI, KONSTANTINA ; DIAS, FABRÍCIO C. ; FRADE, AMANDA F. ; BARON, MONIQUE ; NAKAYA, HELDER I. ; FIGUEIREDO, FLORÊNCIO ; Alves-Filho, José C. ; Cunha, Fernando Q. ; TSATSANIS, CHRISTOS ; CHEVILLARD, CHRISTOPHE ; Cunha-Neto, Edecio ; HIRSCH, EMILIO ; SILVA, JOÃO S. ; CUNHA, THIAGO M. . Canonical PI3K? signaling in myeloid cells restricts Trypanosoma cruzi infection and dampens chagasic myocarditis. Nature Communications, v. 9, p. 1513, 2018.
+
+7.
+AMÔR, NÁDIA GHINELLI ; DE OLIVEIRA, CARINE ERVOLINO ; Gasparoto, Thaís Helena ; BOAS, VANESSA GARCIA VILAS ; PERRI, GRAZIELA ; KANENO, RAMON ; Lara, Vanessa Soares ; GARLET, Gustavo Pompermaier ; da Silva, João Santana ; MARTINS, GISLÂINE A. ; HOGABOAM, CORY ; Cavassani, Karen A. ; CAMPANELLI, Ana Paula . ST2/IL-33 signaling promotes malignant development of experimental squamous cell carcinoma by decreasing NK cells cytotoxicity and modulating the intratumoral cell infiltrate. Oncotarget, v. 9, p. 1, 2018.
+
+8.
+Benevides, Luciana ; COSTA, RENATA SESTI ; TAVARES, LUCAS ALVES ; RUSSO, MOMTCHILO ; MARTINS, GISLÂINE A. ; DA SILVA, LUIS LAMBERTI P. ; KARLA DE P. ARRUDA, LUIZA ; Cunha, Fernando Q. ; Carregaro, Vanessa ; Silva, João Santana . Blimp-1 controls Th9 cell development, IL-9 production and allergic inflammation. JOURNAL OF ALLERGY AND CLINICAL IMMUNOLOGY, v. 1, p. 1, 2018.
+
+9.
+RUSSO, PEDRO S. T. ; FERREIRA, GUSTAVO R. ; CARDOZO, LUCAS E. ; BÜRGER, MATHEUS C. ; ARIAS-CARRASCO, RAUL ; Maruyama, Sandra R. ; HIRATA, THIAGO D. C. ; LIMA, DIÓGENES S. ; PASSOS, FERNANDO M. ; FUKUTANI, KIYOSHI F. ; LEVER, MELISSA ; SILVA, JOÃO S. ; MARACAJA-COUTINHO, VINICIUS ; NAKAYA, HELDER I. . CEMiTool: a Bioconductor package for performing comprehensive modular co-expression analyses. BMC BIOINFORMATICS, v. 19, p. 1, 2018.
+
+10.
+MARTINS, LARISSA M. S. ; PEREZ, MALENA M. ; PEREIRA, CAMILA A. ; COSTA, FREDERICO R. C. ; DIAS, MURILO S. ; TOSTES, RITA C. ; RAMOS, SIMONE G. ; DE ZOETE, MARCEL R. ; RYFFEL, BERNHARD ; SILVA, JOÃO S. ; CARLOS, DANIELA . Interleukin-23 promotes intestinal T helper type17 immunity and ameliorates obesity-associated metabolic syndrome in a murine high-fat diet model. IMMUNOLOGY, v. 154, p. 624-636, 2018.
+
+11.
+DE SOUZA, PATRÍCIA REIS ; GUIMARÃES, FRANCIELLE RODRIGUES ; SALES-CAMPOS, HELIOSWILTON ; BONFÁ, GIULIANO ; NARDINI, VIVIANI ; CHICA, JAVIER EMILIO LAZO ; TURATO, WALTER MIGUEL ; Silva, João Santana ; ZAMBONI, DARIO SIMÕES ; CARDOSO, Cristina Ribeiro de Barros . Absence of NOD2 receptor predisposes to intestinal inflammation by a deregulation in the immune response in hosts that are unable to control gut dysbiosis. IMMUNOBIOLOGY, v. 223, p. 577-585, 2018.
+
+12.
+AMANO, MARIANE T. ; CASTOLDI, ANGELA ; ANDRADE-OLIVEIRA, VINICIUS ; LATANCIA, MARCELA T. ; TERRA, FERNANDA F. ; CORREA-COSTA, MATHEUS ; BREDA, CRISTIANE N.S. ; FELIZARDO, RAPHAEL J.F. ; PEREIRA, WELBERT O. ; DA SILVA, MARINA B. ; MIYAGI, MARIANA Y.S. ; AGUIAR, CRISTHIANE F. ; HIYANE, MEIRE I. ; SILVA, JOÃO S. ; MOURA, IVAN C. ; CAMARA, NIELS O.S. . The lack of PI3K? favors M1 macrophage polarization and does not prevent kidney diseases progression. INTERNATIONAL IMMUNOPHARMACOLOGY, v. 64, p. 151-161, 2018.
+
+13.
+KANNEN, VINICIUS ; SAKITA, JULIANA Y. ; CARNEIRO, ZUMIRA A. ; BADER, MICHAEL ; ALENINA, NATALIA ; TEIXEIRA, REGINA R. ; DE OLIVEIRA, ENIO C. ; BRUNALDI, MARIÂNGELA O. ; GASPAROTTO, BIANCA ; SARTORI, DANIELA C. ; FERNANDES, CLEVERSON R. ; SILVA, JOÃO S. ; ANDRADE, MARCUS V. ; SILVA, WILSON A. ; UYEMURA, SERGIO A. ; GARCIA, SÉRGIO B. . Mast Cells and Serotonin Synthesis Modulate Chagas Disease in the Colon: Clinical and Experimental Evidence. DIGESTIVE DISEASES AND SCIENCES, v. 1, p. 1, 2018.
+
+14.
+REYNOLDS, C. J. ; SULEYMAN, O. M. ; ORTEGA-PRIETO, A. M. ; SKELTON, J. K. ; BONNESOEUR, P. ; BLOHM, A. ; CARREGARO, V. ; Silva, J. S. ; JAMES, E. A. ; MAILLÈRE, B. ; DORNER, M. ; BOYTON, R. J. ; ALTMANN, D. M. . T cell immunity to Zika virus targets immunodominant epitopes that show cross-reactivity with other Flaviviruses. Scientific Reports, v. 8, p. 1/1, 2018.
+
+15.
+BRAGA, TARCIO TEODORO ; CORREA-COSTA, MATHEUS ; SILVA, REINALDO CORREIA ; CRUZ, MARIO COSTA ; HIYANE, MEIRE IOSHIE ; DA SILVA, JOAO SANTANA ; PEREZ, KATIA REGINA ; CUCCOVIA, IOLANDA MIDEA ; CAMARA, NIELS OLSEN SARAIVA . CCR2 contributes to the recruitment of monocytes and leads to kidney inflammation and fibrosis development. Inflammopharmacology (Dordrecht. Print), v. 25, p. 1568-5608, 2017.
+
+16.
+MAIA, PEDRO IVO DA SILVA ; CARNEIRO, ZUMIRA R. ; LOPES, CARLA DUQUE ; OLIVEIRA, CAROLINA G ; Silva, João Santana ; ALBUQUERQUE, SERGIO ; HAGENBACH, ADELHEID ; GUST, RONALD ; DEFLON, VICTOR ; ABRAM, ULRICH . Organometallic Gold(III) Complexes with Hybrid SNS-Donating Thiosemicarbazone Ligands: Cytotoxicity and anti-Trypanosoma cruzi Activity. Dalton Transactions (2003. Print), v. 46, p. Advance Article, 2017.
+Citações:1|2
+
+17.
+CARLOS, DANIELA ; COSTA, FREDERICO R. C. ; PEREIRA, CAMILA A. ; Rocha, Fernanda A. ; YAOCHITE, JULIANA N. U. ; OLIVEIRA, GABRIELA G. ; CARNEIRO, FERNANDO S. ; TOSTES, RITA C. ; RAMOS, SIMONE G. ; Zamboni, Dario S. ; CAMARA, NIELS O. S. ; RYFFEL, BERNHARD ; SILVA, JOÃO S. . Mitochondrial DNA Activates the NLRP3 Inflammasome and Predisposes to Type 1 Diabetes in Murine Model. Frontiers in Immunology (Online), v. 8, p. 164, 2017.
+
+18.
+KHALID, KHALID ELTAHIR ; SALES, MANUELA ; SACRAMENTO, LAÍS ; Costa, Diego L. ; SOUZA, DJALMA DE ; Carregaro, Vanessa ; SILVA, JOAO SANTANA DA . T1/ST2 deficient mice display protection against Leishmania infantum experimental infection. ACTA TROPICA, v. 172, p. 1-6, 2017.
+
+19.
+SANTOS, M. B. ; DE OLIVEIRA, D. T. ; CAZZANIGA, R. A. ; VARJ?O, C. S. ; DOS SANTOS, P. L. ; SANTOS, M. L. B. ; CORREIA, C. B. ; FARIA, D. R. ; SIMON, M. DO V. ; Silva, J. S. ; DUTRA, W. O. ; Reed, S. G. ; DUTHIE, M. S. ; DE ALMEIDA, R. P. ; DE JESUS, A. R. . Distinct Roles of Th17 and Th1 Cells in Inflammatory Responses Associated with the Presentation of Paucibacillary Leprosy and Leprosy Reactions. SCANDINAVIAN JOURNAL OF IMMUNOLOGY, v. 86, p. 40-49, 2017.
+Citações:1
+
+20.
+SACRAMENTO, LAÍS A. ; DA COSTA, JÉSSICA L. ; DE LIMA, MIKHAEL H. F. ; SAMPAIO, PEDRO A. ; Almeida, Roque P. ; Cunha, Fernando Q. ; SILVA, JOÃO S. ; Carregaro, Vanessa . Toll-Like Receptor 2 Is Required for Inflammatory Process Development during Leishmania infantum Infection. Frontiers in Microbiology, v. 8, p. 262, 2017.
+
+21.
+SOUZA, MARIA C. ; FONSECA, DENISE M. ; KANASHIRO, ALEXANDRE ; Benevides, Luciana ; MEDINA, TIAGO S. ; DIAS, MURILO S. ; ANDRADE, WARRISON A. ; BONFÁ, GIULIANO ; SILVA, MARCONDES A. B. ; GOZZI, ALINE ; BORGES, MARCOS C. ; Gazzinelli, Ricardo T. ; Alves-Filho, José C. ; Cunha, Fernando Q. ; SILVA, JOÃO S. . Chronic Toxoplasma gondii Infection Exacerbates Secondary Polymicrobial Sepsis. Frontiers in Cellular and Infection Microbiology, v. 7, p. 116, 2017.
+
+22.
+Anatriello, Elen ; OLIVEIRA, CARLO JOSÉ FREIRE ; OLIVEIRA, NATHÁLIA BAPTISTA ; FISCH, ANDRESSA ; Milanezi, Cristiane Maria ; da Silva, João Santana ; DE MIRANDA-SANTOS, ISABEL KINNEY FERREIRA ; FERREIRA, Beatriz Rossetti . Interaction between saliva?s adenosine and tick parasitism: effects on feeding and reproduction. Parasites & Vectors, v. 10, p. 326, 2017.
+
+23.
+LIMA, MIKHAEL H. F. ; SACRAMENTO, LAIS A. ; QUIRINO, GUSTAVO F. S. ; FERREIRA, MARCELA D. ; Benevides, Luciana ; SANTANA, ALYNNE K. M. ; Cunha, Fernando Q. ; Almeida, Roque P. ; SILVA, JOÃO S. ; Carregaro, Vanessa . Leishmania infantum Parasites Subvert the Host Inflammatory Response through the Adenosine A2A Receptor to Promote the Establishment of Infection. Frontiers in Immunology, v. 8, p. 815, 2017.
+Citações:1|1
+
+24.
+TRISTÃO, FABRINE SALES MASSAFERA ; ROCHA, FERNANDA AGOSTINI ; CARLOS, DANIELA ; KETELUT-CARNEIRO, NATÁLIA ; SOUZA, CAMILA OLIVEIRA SILVA ; Milanezi, Cristiane Maria ; Silva, João Santana . Th17-Inducing Cytokines IL-6 and IL-23 Are Crucial for Granuloma Formation during Experimental Paracoccidioidomycosis. Frontiers in Immunology, v. 8, p. 949, 2017.
+
+25.
+HARTMANN, ANA PAULA ; DE CARVALHO, MARCELO RODRIGUES ; BERNARDES, LILIAN SIBELLE CAMPOS ; MORAES, MILENA HOEHR DE ; DE MELO, EDUARDO BORGES ; LOPES, CARLA DUQUE ; STEINDEL, MARIO ; da Silva, João Santana ; Carvalho, Ivone . Synthesis and 2D-QSAR studies of neolignan-based diaryl-tetrahydrofuran and -furan analogues with remarkable activity against Trypanosoma cruzi and assessment of the trypanothione reductase activity. EUROPEAN JOURNAL OF MEDICINAL CHEMISTRY, v. 140, p. 187-199, 2017.
+
+26.
+DE OLIVEIRA, CARINE ERVOLINO ; Gasparoto, Thais Helena ; PINHEIRO, CLAUDIA RAMOS ; AMÔR, NÁDIA GHINELLI ; NOGUEIRA, MARIA RENATA SALES ; KANENO, RAMON ; GARLET, Gustavo Pompermaier ; Lara, Vanessa Soares ; da Silva, João Santana ; Cavassani, Karen Angélica ; CAMPANELLI, Ana Paula . CCR5-dependent homing of T regulatory cells to the tumor microenvironment contributes to skin squamous cell carcinoma development. MOLECULAR CANCER THERAPEUTICS, v. 16, p. molcanther.034, 2017.
+
+27.
+Sesti-Costa, Renata ; FRANÇOZO, MARCELA CRISTINA SANTIAGO ; Silva, Grace Kelly ; PROENCA-MODENA, JOSÉ LUIZ ; Silva, João Santana . TLR3 is required for survival following Coxsackievirus B3 infection by driving T lymphocyte activation and polarization: The role of dendritic cells. PLoS One, v. 12, p. e0185819, 2017.
+
+28.
+GUIMARÃES, FRANCIELLE RODRIGUES ; SALES-CAMPOS, HELIOSWILTON ; NARDINI, VIVIANI ; DA COSTA, THIAGO ALVARES ; FONSECA, MONIQUE THAÍS COSTA ; JÚNIOR, VIRMONDES RODRIGUES ; SORGI, CARLOS ARTÉRIO ; da Silva, João Santana ; CHICA, JAVIER EMÍLIO LAZO ; FACCIOLI, LÚCIA HELENA ; DE BARROS CARDOSO, CRISTINA RIBEIRO . The inhibition of 5-lipoxygenase (5-LO) products leukotriene B4 (LTB 4 ) and cysteinyl leukotrienes (cysLTs) modulates the inflammatory response and improves cutaneous wound healing. CLINICAL IMMUNOLOGY, v. 182, p. 1, 2017.
+
+29.
+MEDINA, TIAGO SILVA ; OLIVEIRA, GABRIELA GONÇALVES ; SILVA, MARIA CLÁUDIA ; DAVID, BRUNA ARAÚJO ; Silva, Grace Kelly ; FONSECA, DENISE MORAIS ; Sesti-Costa, Renata ; FRADE, AMANDA FARAGE ; BARON, MONIQUE ANDRADE ; IANNI, BARBARA ; PEREIRA, ALEXANDRE COSTA ; CHEVILLARD, CHRISTOPHE ; CUNHA-NETO, EDÉCIO ; MARIN-NETO, JOSÉ ANTONIO ; Silva, João Santana . Ebi3 Prevents Trypanosoma cruzi-Induced Myocarditis by Dampening IFN-?-Driven Inflammation. Frontiers in Immunology, v. 8, p. 1213, 2017.
+
+30.
+KETELUT-CARNEIRO, NATÁLIA ; GHOSH, SREYA ; LEVITZ, STUART M ; FITZGERALD, KATHERINE A ; da Silva, João Santana . A Dectin-1-caspase-8 pathway licenses canonical caspase-1 inflammasome activation and IL-1? release in response to a pathogenic fungus. JOURNAL OF INFECTIOUS DISEASES, v. 2017, p. 1-28, 2017.
+
+31.
+PINHEIRO, CLAUDIA RAMOS ; COELHO, ANA LÚCIA ; DE OLIVEIRA, CARINE ERVOLINO ; Gasparoto, Thaís Helena ; GARLET, Gustavo Pompermaier ; Silva, João Santana ; Santos, Carlos Ferreira ; Cavassani, Karen Angélica ; HOGABOAM, CORY M. ; CAMPANELLI, Ana Paula . Recognition of Candida albicans by gingival fibroblasts: The role of TLR2, TLR4/CD14, and MyD88. CYTOKINE, v. 99, p. 1, 2017.
+
+32.
+DIAS-TEIXEIRA, KARINA LUIZA ; CALEGARI-SILVA, TERESA C. ; MEDINA, JORGE M. ; VIVARINI, ÁISLAN C. ; CAVALCANTI, ÁTILA ; TETEO, NATALY ; SANTANA, ALYNNE KAREN M. ; REAL, FERNANDO ; GOMES, CIRO M. ; PEREIRA, RENATA MEIRELLES SANTOS ; FASEL, NICOLAS ; SILVA, JOÃO S. ; AKTAS, BERTAL H. ; LOPES, ULISSES G. . Emerging Role for the PERK/eIF2?/ATF4 in Human Cutaneous Leishmaniasis. Scientific Reports, v. 7, p. 17074, 2017.
+
+33.
+Lima, Hayana Ramos ; Gasparoto, Thaís Helena ; de Souza Malaspina, Tatiana Salles ; MARQUES, VINÍCIUS RIZZO ; VICENTE, MARINA JURADO ; MARCOS, ELAINE CAMARINHA ; SOUZA, FABIANA CORVOLO ; NOGUEIRA, MARIA RENATA SALES ; BARRETO, JAISON ANTÔNIO ; GARLET, Gustavo Pompermaier ; SILVA, JOÃO SANTANA DA ; BRITO-DE-SOUZA, VÂNIA NIETO ; CAMPANELLI, Ana Paula . Immune Checkpoints in Leprosy: Immunotherapy As a Feasible Approach to Control Disease Progression. Frontiers in Immunology, v. 8, p. 1724, 2017.
+
+34.
+DE OLIVEIRA, LUCIANO FONSECA LEMOS ; ROMANO, MINNA MOREIRA DIAS ; DE CARVALHO, EDUARDO ELIAS VIEIRA ; MEJIA CABEZA, JORGE ; SALGADO, HÉLIO CESAR ; FAZAN JÚNIOR, RUBENS ; COSTA, RENATA SESTI ; da Silva, João Santana ; DE LOURDES HIGUCHI, MARIA ; Maciel, Benedito Carlos ; CUNHA'NETO, EDÉCIO ; MARIN'NETO, JOSÉ ANTÔNIO ; SIMÕES, MARCUS VINÍCIUS . Histopathological Correlates of Global and Segmental Left Ventricular Systolic Dysfunction in Experimental Chronic Chagas Cardiomyopathy. Journal of the American Heart Association, v. 5, p. e002786-2796, 2016.
+Citações:2|4
+
+35.
+COSTA, D. L. ; LIMA-JUNIOR, D. S. ; NASCIMENTO, M. S. ; SACRAMENTO, L. A. ; ALMEIDA, R. P. ; CARREGARO, V. ; Silva, J. S. . CCR2 signaling contributes to the differentiation of protective inflammatory dendritic cells in Leishmania braziliensis infection. Journal of Leukocyte Biology, v. 100, p. 1-10, 2016.
+Citações:2|2
+
+36.
+QUIRINO, GUSTAVO F. S. ; NASCIMENTO, MANUELA S. L. ; DAVOLI-FERREIRA, MARCELA ; SACRAMENTO, LAIS A. ; LIMA, MIKHAEL H. F. ; Almeida, Roque P. ; Carregaro, Vanessa ; Silva, João Santana . Interleukin-27 Mediates Susceptibility to Visceral Leishmaniasis by Suppressing the IL-17-Neutrophil Response. Infection and Immunity (Print), v. 84, p. IAI.00283-16, 2016.
+Citações:2|10
+
+37.
+COSTA, FREDERICO R. C. ; MOTA, CAROLINE M. ; SANTIAGO, FERNANDA M. ; SILVA, MURILO V. ; FERREIRA, MARCELA D. ; FONSECA, DENISE M. ; SILVA, JOÃO S. ; Mineo, José R. ; Mineo, Tiago W. P. . GITR Activation Positively Regulates Immune Responses against Toxoplasma gondii. Plos One, v. 11, p. e0152622, 2016.
+Citações:1|1
+
+38.
+COSTA, FREDERICO R.C. ; FRANÇOZO, MARCELA C.S. ; DE OLIVEIRA, GABRIELA G. ; IGNACIO, ALINE ; CASTOLDI, ANGELA ; Zamboni, Dario S. ; RAMOS, SIMONE G. ; CÂMARA, NIELS O. ; DE ZOETE, MARCEL R. ; PALM, NOAH W. ; FLAVELL, RICHARD A. ; SILVA, JOÃO S. ; CARLOS, DANIELA . Gut microbiota translocation to the pancreatic lymph nodes triggers NOD2 activation and contributes to T1D onset. The Journal of Experimental Medicine, v. 213, p. jem.20150744-1239, 2016.
+Citações:2|17
+
+39.
+TURATO, WALTER MIGUEL ; SALES-CAMPOS, HELIOSWILTON ; BRAGA, CAMILA BITU MORENO ; CUNHA, SELMA FREIRE CARVALHO ; SILVAH, JOSÉ HENRIQUE ; da Silva, João Santana ; MARCHINI, JULIO SERGIO ; DE BARROS CARDOSO, CRISTINA RIBEIRO . The impact of intestinal resection on the immune function of short bowel syndrome patients. Human Immunology, v. 2016, p. 1, 2016.
+Citações:1|1
+
+40.
+DIAS-TEIXEIRA, K. L. ; PEREIRA, R. M. ; Silva, J. S. ; FASEL, N. ; AKTAS, B. H. ; LOPES, U. G. . Unveiling the Role of the Integrated Endoplasmic Reticulum Stress Response in Leishmania Infection - Future Perspectives. Frontiers in Immunology (Online), v. 7, p. 1, 2016.
+
+41.
+DAVOLI-FERREIRA, MARCELA ; FONSECA, DENISE M. ; MOTA, CAROLINE M. ; DIAS, MURILO S. ; Lima-Junior, Djalma S. ; DA SILVA, MURILO V. ; QUIRINO, GUSTAVO F. S. ; Zamboni, Dario S. ; SILVA, JOÃO S. ; Mineo, Tiago W. P. . Nucleotide-binding oligomerization domain-containing protein 2 prompts potent inflammatory stimuli during Neospora caninum infection. Scientific Reports, v. 6, p. 29289, 2016.
+
+42.
+PAULA COSTA, GUILHERME DE ; LOPES, LAÍS ROQUETE ; SILVA, MARIA CLÁUDIA DA ; HORTA, ALINE LUCIANO ; PONTES, WASHINGTON MARTINS ; Milanezi, Cristiane M. ; GUEDES, PAULO MARCOS DA MATA ; LIMA, WANDERSON GERALDO DE ; Schulz, Richard ; SILVA, JOÃO SANTANA DA ; TALVANI, ANDRE . Doxycycline and Benznidazole Reduce the Profile of Th1, Th2, and Th17 Chemokines and Chemokine Receptors in Cardiac Tissue from Chronic -Infected Dogs. Mediators of Inflammation (Print), v. 2016, p. 1-11, 2016.
+Citações:4|6
+
+43.
+BERTOLINI, THAIS BARBOZA ; DE SOUZA, ALEXANDRE IGNACIO ; GEMBRE, ANA FLÁVIA ; PIÑEROS, ANNIE ROCIO ; de Queiroz Prado, Rafael ; Silva, João Santana ; RAMALHO, LEANDRA NAIRA ZAMBELLI ; BONATO, VÂNIA LUIZA DEPERON . Genetic background affects the expansion of macrophage subsets in the lungs of Mycobacterium tuberculosis-infected hosts. Immunology (Oxford. Print), v. 148, p. n/a-n/a, 2016.
+Citações:2|2
+
+44.
+Carregaro, Vanessa ; NAPIMOGA, MARCELO H. ; PERES, RAPHAEL S. ; Benevides, Luciana ; SACRAMENTO, LAÍS AMORIM ; PINTO, LARISSA G. ; GRESPAN, RENATA ; CUNHA, THIAGO M. ; SILVA, JOÃO SANTANA DA ; Cunha, Fernando Q. . Therapeutic Treatment of Arthritic Mice with 15-Deoxy - 12,14 -Prostaglandin J 2 (15d-PGJ 2 ) Ameliorates Disease through the Suppression of Th17 Cells and the Induction of CD4 + CD25 ? FOXP3 + Cells. Mediators of Inflammation (Print), v. 2016, p. 1-13, 2016.
+Citações:4|6
+
+45.
+TREVELIN, SILVIA C. ; CARLOS, DANIELA ; BERETTA, MATTEO ; DA SILVA, JOÃO S. ; Cunha, Fernando Q. . Diabetes Mellitus and Sepsis. Shock (Augusta, Ga.), v. 2016, p. 1, 2016.
+Citações:2|2
+
+46.
+MOTA, CAROLINE M. ; OLIVEIRA, ANA C. M. ; DAVOLI-FERREIRA, MARCELA ; SILVA, MURILO V. ; SANTIAGO, FERNANDA M. ; NADIPURAM, SANTHOSH M. ; VASHISHT, AJAY A. ; WOHLSCHLEGEL, JAMES A. ; BRADLEY, PETER J. ; SILVA, JOÃO S. ; Mineo, José R. ; Mineo, Tiago W. P. . Neospora caninum Activates p38 MAPK as an Evasion Mechanism against Innate Immunity. Frontiers in Microbiology (Online), v. 7, p. 1-14, 2016.
+Citações:7|7
+
+47.
+NASCIMENTO, MANUELA S. L. ; FERREIRA, MARCELA D. ; QUIRINO, GUSTAVO F. S. ; Maruyama, Sandra R. ; KRISHNASWAMY, JAYENDRA K. ; LIU, DONG ; BERLINK, JONILSON ; FONSECA, DENISE M. ; Zamboni, Dario S. ; Carregaro, Vanessa ; Almeida, Roque P. ; CUNHA, THIAGO M. ; EISENBARTH, STEPHANIE S. ; SILVA, JOÃO S. . NOD2-RIP2-mediated signalling contributes to shape adaptive immunity in visceral leishmaniasis. The Journal of Infectious Diseases, v. 2016, p. jiw446, 2016.
+
+48.
+PENHA FILHO, RAFAEL ANTONIO CASARIN ; DIAZ, SILVIA JULIANA ACELAS ; MEDINA, TIAGO DA SILVA ; CHANG, YUNG-FU ; da Silva, João Santana ; BERCHIERI JR., ANGELO . Evaluation of protective immune response against fowl typhoid in chickens vaccinated with the attenuated strain Salmonella Gallinarum -cobS-cbiA. Research in Veterinary Science, v. 107, p. 220-227, 2016.
+
+49.
+DIAS, FABRÍCIO C. ; MENDES-JUNIOR, CELSO T. ; SILVA, MARIA C. ; TRISTÃO, FABRINE S. M. ; Dellalibera-Joviliano, Renata ; MOREAU, PHILIPPE ; SOARES, EDSON G. ; MENEZES, JEAN G. ; Schmidt, André ; DANTAS, ROBERTO O. ; MARIN-NETO, JOSÉ A. ; SILVA, JOÃO S. ; DONADI, EDUARDO A. . Human Leucocyte Antigen-G (HLA-G) and Its Murine Functional Homolog Qa2 in the Trypanosoma cruzi Infection. Mediators of Inflammation (Print), v. 2015, p. 1-16, 2015.
+Citações:2
+
+50.
+DA COSTA, THIAGO ALVARES ; SILVA, MARCELO JOSÉ BARBOSA ; ALVES, POLYANNA MIRANDA ; CHICA, JAVIER EMÍLIO LAZO ; BARCELOS, EMILIO ZORZO ; GIANI, MAX ANTONIO ALVES ; GARLET, Gustavo Pompermaier ; da Silva, João Santana ; RODRIGUES JÚNIOR, VIRMONDES ; RODRIGUES, DENISE BERTULUCCI ROCHA ; CARDOSO, Cristina Ribeiro de Barros . Inflammation Biomarkers of Advanced Disease in Nongingival Tissues of Chronic Periodontitis Patients. Mediators of Inflammation (Print), v. 2015, p. 1-10, 2015.
+Citações:4|6
+
+51.
+Carregaro, Vanessa ; RIBEIRO, JOSÉ M. ; Valenzuela, Jesus G. ; SOUZA-JÚNIOR, DJALMA L. ; Costa, Diego L. ; OLIVEIRA, CARLO J. F. ; SACRAMENTO, LAÍS A. ; NASCIMENTO, MANUELA S. L. ; Milanezi, Cristiane M. ; Cunha, Fernando Q. ; SILVA, JOÃO S. . Nucleosides Present on Phlebotomine Saliva Induce Immunossuppression and Promote the Infection Establishment. PLoS Neglected Tropical Diseases (Online), v. 9, p. e0003600, 2015.
+Citações:3|8
+
+52.
+KETELUT-CARNEIRO, N. ; Silva, G. K. ; ROCHA, F. A. ; MILANEZI, C. M. ; CAVALCANTI-NETO, F. F. ; Zamboni, D. S. ; Silva, J. S. . IL-18 Triggered by the Nlrp3 Inflammasome Induces Host Innate Resistance in a Pulmonary Model of Fungal Infection. The Journal of Immunology (1950), v. 9, p. 4507-4517, 2015.
+Citações:7|20
+
+53.
+PERES, RAPHAEL SANCHES ; LIEW, FOO Y. ; TALBOT, JHIMMY ; Carregaro, Vanessa ; OLIVEIRA, RENE D. ; ALMEIDA, SERGIO L. ; FRANÇA, RAFAEL F. O. ; DONATE, PAULA B. ; PINTO, LARISSA G. ; FERREIRA, FLAVIA I. S. ; Costa, Diego L. ; DEMARQUE, DANIEL P. ; GOUVEA, DAYANA RUBIO ; LOPES, NORBERTO P. ; QUEIROZ, REGINA HELENA C. ; SILVA, JOAO SANTANA ; FIGUEIREDO, FLORENCIO ; ALVES-FILHO, JOSE CARLOS ; CUNHA, THIAGO M. ; Ferreira, Sérgio H. ; LOUZADA-JUNIOR, PAULO ; Cunha, Fernando Q. . Low expression of CD39 on regulatory T cells as a biomarker for resistance to methotrexate therapy in rheumatoid arthritis. Proceedings of the National Academy of Sciences of the United States of America, v. 112, p. 2509-2514, 2015.
+Citações:15|26
+
+54.
+Benevides, L. ; DA FONSECA, D. M. ; DONATE, P. B. ; TIEZZI, D. G. ; DE CARVALHO, D. D. ; DE ANDRADE, J. M. ; MARTINS, G. A. ; DA SILVA, J. S. . IL-17 promotes mammary tumor progression by changing the behavior of tumor cells and eliciting tumorigenic neutrophils recruitment. Cancer Research (Chicago, Ill.), v. 75, p. 3788-3789, 2015.
+Citações:15|11
+
+55.
+KIAN, DANIELLE ; LANCHEROS, CÉSAR ARMANDO CONTRERAS ; DAMIANI, IGOR ALEXANDRE CAMPOS ; FERNANDES, TAMIRIS ZANFORLIN OLMOS ; PINGE-FILHO, PHILENO ; SANTOS, MÁRCIA REGINA MACHADO DOS ; DA SILVEIRA, JOSÉ FRANCO ; NAKAMURA, CELSO VATARU ; SILVA, JOÃO SANTANA DA ; YAMADA-OGATTA, SUELI FUMIE ; YAMAUCHI, LUCY MEGUMI . Molecular Characterization of &lt;i&gt;Trypanosoma cruzi Tc8.2&lt;/i&gt; Gene Indicates Two Differential Locations for the Encoded Protein in Epimastigote and Trypomastigote Forms. Korean Journal of Parasitology (Print), v. 53, p. 483-488, 2015.
+
+56.
+DE ANDRADE, PETERSON ; GALO, OSWALDO A. ; CARVALHO, MARCELO R. ; LOPES, CARLA D. ; CARNEIRO, ZUMIRA A. ; Sesti-Costa, Renata ; DE MELO, EDUARDO BORGES ; SILVA, JOÃO S. ; Carvalho, Ivone . 1,2,3-Triazole-based analogue of benznidazole displays remarkable activity against Trypanosoma cruzi. Bioorganic & Medicinal Chemistry (Print), v. 23, p. 6815-6826, 2015.
+Citações:5|7
+
+57.
+Campo, Vanessa L. ; IVANOVA, IRINA M. ; Carvalho, Ivone ; LOPES, CARLA D. ; CARNEIRO, ZUMIRA A. ; SAALBACH, GERHARD ; Schenkman, Sergio ; da Silva, João Santana ; Nepogodiev, Sergey A. ; Field, Robert A. . Click chemistry oligomerisation of azido-alkyne-functionalised galactose accesses triazole-linked linear oligomers and macrocycles that inhibit Trypanosoma cruzi macrophage invasion. Tetrahedron (Oxford. Print), v. 71, p. 7344-7353, 2015.
+Citações:5|5
+
+58.
+LEITE, FÁBIO RENATO MANZOLLI ; DE AQUINO, SABRINA GARCIA ; GUIMARÃES, MORGANA RODRIGUES ; CIRELLI, JONI AUGUSTO ; Zamboni, Dario S. ; SILVA, JOÃO S. ; JUNIOR, CARLOS ROSSA . Relevance of the Myeloid Differentiation Factor 88 (MyD88) on RANKL, OPG, and Nod Expressions Induced by TLR and IL-1R Signaling in Bone Marrow Stromal Cells. Inflammation, v. 38, p. 1-8, 2015.
+Citações:4|4
+
+59.
+CARLOS, DANIELA ; YAOCHITE, JULIANA N. U. ; Rocha, Fernanda A. ; TOSO, VANINA D. ; MALMEGRIM, KELEN C. R. ; RAMOS, SIMONE G. ; JAMUR, MARIA C. ; OLIVER, CONSTANCE ; CAMARA, NIELS O. ; ANDRADE, MARCUS V. M. ; Cunha, Fernando Q. ; SILVA, JOÃO S. . Mast cells control insulitis and increase Treg cells to confer protection against STZ-induced type 1 diabetes in mice. European Journal of Immunology, v. 45, p. 2873-2885, 2015.
+Citações:5|4
+
+60.
+SACRAMENTO, LAÍS ; TREVELIN, SILVIA C. ; NASCIMENTO, MANUELA S. ; LIMA-JÙNIOR, DJALMA S. ; Costa, Diego L. ; Almeida, Roque P. ; Cunha, Fernando Q. ; SILVA, JOÃO S. ; Carregaro, Vanessa ; APPLETON, J. A. . Toll-Like Receptor 9 Signaling in Dendritic Cells Regulates Neutrophil Recruitment to Inflammatory Foci following Leishmania infantum Infection. Infection and Immunity, v. 83, p. 4604-4616, 2015.
+Citações:5|6
+
+61.
+PROKOPCZYK, IGOR M ; RIBEIRO, JEAN FR ; SARTORI, GERALDO R ; Sesti-Costa, Renata ; SILVA, JOÃO S ; FREITAS, RENATO F ; LEITÃO, ANDREI ; MONTANARI, CARLOS A . Integration of methods in cheminformatics and biocalorimetry for the design of trypanosomatid enzyme inhibitors. Future Medicinal Chemistry, v. 6, p. 17-33, 2014.
+Citações:2|2
+
+62.
+Gutierrez, Fredy RS ; Sesti-Costa, Renata ; Silva, Grace Kelly ; TRUJILLO, MARTHA L ; Guedes, Paulo MM ; SILVA, JOÃO S . Regulation of the immune response during infectious myocarditis. Expert Review of Cardiovascular Therapy, v. 12, p. 187-200, 2014.
+Citações:3
+
+63.
+SANCHES, TIAGO L. M. ; CUNHA, LARISSA D. ; Silva, Grace K. ; GUEDES, PAULO M. M. ; Silva, João Santana ; Zamboni, Dario S. . The Use of a Heterogeneously Controlled Mouse Population Reveals a Significant Correlation of Acute Phase Parasitemia with Mortality in Chagas Disease. Plos One, v. 9, p. e91640, 2014.
+Citações:3|3
+
+64.
+PEREIRA, MARISTELA SOARES SWERTS ; Rossi, Marcos A. ; CARDOSO, CRISTINA RIBEIRO ; da Silva, João Santana ; BEZERRA DA SILVA, LÉA ASSED ; KUGA, MILTON CARLOS ; FARIA, GISELE . Cellular and Molecular Tissue Response to Triple Antibiotic Intracanal Dressing. Journal of Endodontics, v. 40, p. 499-504, 2014.
+Citações:2|3
+
+65.
+SOUSA, NATÁLIA GUIMARÃES KALATZIS ; CARDOSO, Cristina Ribeiro de Barros ; SILVA, JOÃO SATANA DA ; KUGA, MILTON CARLOS ; TANOMARU-FILHO, MÁRIO ; FARIA, GISELE . Association of matrix metalloproteinase inducer (EMMPRIN) with the expression of matrix metalloproteinases -1, -2 and -9 during periapical lesion development. Archives of Oral Biology, v. 59, p. 944-953, 2014.
+Citações:5|6
+
+66.
+Belai, E. B. ; DE OLIVEIRA, C. E. ; Gasparoto, T. H. ; Ramos, R. N. ; Torres, S. A. ; Garlet, G. P. ; CAVASSANI, K. A. ; Silva, J. S. ; Campanelli, A. P. . PD-1 blockage delays murine squamous cell carcinoma development. Carcinogenesis (New York. Print), v. 35, p. 424-431, 2014.
+Citações:8|13
+
+67.
+KÜPPER, DANIEL SALGADO ; VALERA, FABIANA C. P. ; MALINSKY, RAFAEL ; Milanezi, Cristiane Maria ; SILVA, JOÃO S. ; TAMASHIRO, EDWIN ; ANSELMO-LIMA, WILMA T. . Expression of apoptosis mediators p53 and caspase 3, 7, and 9 in chronic rhinosinusitis with nasal polyposis. American Journal of Rhinology & Allergy (Print), v. 28, p. 187-191, 2014.
+Citações:2|3
+
+68.
+CORREA-COSTA, MATHEUS ; BRAGA, TÁRCIO TEODORO ; FELIZARDO, RAPHAEL JOSÉ FERREIRA ; ANDRADE-OLIVEIRA, VINÍCIUS ; PEREZ, KATIA REGINA ; CUCCOVIA, IOLANDA MIDEA ; HIYANE, MEIRE IOSHIE ; da Silva, João Santana ; Câmara, Niels Olsen Saraiva . Macrophage Trafficking as Key Mediator of Adenine-Induced Kidney Injury. Mediators of Inflammation (Print), v. 2014, p. 1-12, 2014.
+Citações:7|13
+
+69.
+Gasparoto, Thais Helena ; DE OLIVEIRA, CARINE ERVOLINO ; DE FREITAS, LUISA THOMAZINI ; PINHEIRO, CLAUDIA RAMOS ; HORI, JULIANA ISSA ; GARLET, Gustavo Pompermaier ; Cavassani, Karen Angélica ; SCHILLACI, ROXANA ; da Silva, João Santana ; ZAMBONI, DARIO SIMÕES ; CAMPANELLI, Ana Paula . Inflammasome Activation Is Critical to the Protective Immune Response during Chemically Induced Squamous Cell Carcinoma. Plos One, v. 9, p. e107170, 2014.
+Citações:3|1
+
+70.
+Sesti-Costa, Renata ; CARNEIRO, ZUMIRA A. ; SILVA, MARIA C. ; SANTOS, MAÍTA ; Silva, Grace K. ; MILANEZI, CRISTIANE ; DA SILVA, ROBERTO S. ; SILVA, JOÃO S. . Ruthenium Complex with Benznidazole and Nitric Oxide as a New Candidate for the Treatment of Chagas Disease. PLoS Neglected Tropical Diseases (Online), v. 8, p. e3207, 2014.
+Citações:3|6
+
+71.
+SACRAMENTO, LAÍS AMORIM ; Cunha, Fernando Q. ; DE ALMEIDA, ROQUE PACHECO ; da Silva, João Santana ; Carregaro, Vanessa . Protective Role of 5-Lipoxigenase during Leishmania infantum Infection Is Associated with Th17 Subset. BIOMED RES INT, v. 2014, p. 1-12, 2014.
+Citações:4|7
+
+72.
+BONFÁ, GIULIANO ; Benevides, Luciana ; SOUZA, MARIA DO CARMO ; FONSECA, DENISE MORAIS ; MINEO, TIAGO WILSON PATRIARCA ; ROSSI, MARCOS ANTÔNIO ; Silva, Neide Maria ; Silva, João Santana ; DE BARROS CARDOSO, CRISTINA RIBEIRO . CCR5 Controls Immune and Metabolic Functions during Toxoplasma gondii Infection. Plos One, v. 9, p. e104736, 2014.
+Citações:1|8
+
+73.
+CARNEIRO, ZUMIRA A. ; DA S. MAIA, PEDRO I. ; Sesti-Costa, Renata ; LOPES, CARLA D. ; PEREIRA, TATIANA A. ; Milanezi, Cristiane M. ; DA SILVA, MARCELO A. PEREIRA. ; LOPEZ, RENATA F. V. ; SILVA, JOÃO S. ; DEFLON, VICTOR M. . In Vitro and In Vivo Trypanocidal Activity of H2bdtc-Loaded Solid Lipid Nanoparticles. PLoS Neglected Tropical Diseases (Online), v. 8, p. e2847, 2014.
+Citações:5|3
+
+74.
+Gasparoto, Thaís Helena ; de Souza Malaspina, Tatiana Salles ; Damante, José Humberto ; DE MELLO, EDGARD FRANCO ; Ikoma, Maura Rosane Valério ; GARLET, Gustavo Pompermaier ; Costa, Maria Renata Sales Nogueira ; Cavassani, Karen Angélica ; da Silva, João Santana ; CAMPANELLI, Ana Paula . Regulatory T cells in the actinic cheilitis. Journal of Oral Pathology & Medicine, v. 43, p. 754-760, 2014.
+Citações:3|4
+
+75.
+NASCIMENTO, M. S. L. ; CARREGARO, V. ; LIMA-JUNIOR, D. S. ; COSTA, D. L. ; RYFFEL, B. ; DUTHIE, M. S. ; DE JESUS, A. ; DE ALMEIDA, R. P. ; DA SILVA, J. S. . Interleukin 17A Acts Synergistically With Interferon   to Promote Protection Against Leishmania infantum Infection. The Journal of Infectious Diseases, v. 211, p. 1015-1026, 2014.
+Citações:22|25
+
+76.
+FAUSTINO, L ; FONSECA, D M ; FLORSHEIM, E B ; RESENDE, R R ; LEPIQUE, A P ; FAQUIM-MAURO, E ; GOMES, E ; SILVA, J S ; YAGITA, H ; RUSSO, M . Tumor necrosis factor-related apoptosis-inducing ligand mediates the resolution of allergic airway inflammation induced by chronic allergen inhalation. Mucosal Immunology, v. 7, p. 1199-1208, 2014.
+Citações:4|7
+
+77.
+MALVESTIO, LYGIA M. ; CELES, MARA R.N. ; MILANEZI, CRISTIANE ; SILVA, JOÃO S. ; Jelicks, Linda A. ; TANOWITZ, HERBERT B. ; Rossi, Marcos A. ; Prado, Cibele M. . Role of dystrophin in acute Trypanosoma cruzi infection. Microbes and Infection, v. 16, p. 768-777, 2014.
+Citações:2|2
+
+78.
+JUNQUEIRA, GETÚLIO G. ; CARVALHO, MARCELO R. ; ANDRADE, PETERSON DE ; LOPES, CARLA D. ; CARNEIRO, ZUMIRA A. ; Sesti-Costa, Renata ; SILVA, JOÃO S. ; Carvalho, Ivone . Synthesis and Evaluation of Novel Galactosyl-triazolo-benzenesulfonamides Against. Journal of the Brazilian Chemical Society (Impresso), v. 25, p. 1872-1884, 2014.
+Citações:4|9
+
+79.
+COSTA, D. L. ; CARDOSO, T. M. ; QUEIROZ, A. ; MILANEZI, C. M. ; BACELLAR, O. ; Carvalho, E. M. ; Silva, J. S. . Tr-1-Like CD4+CD25-CD127-/lowFOXP3- Cells Are the Main Source of Interleukin 10 in Patients With Cutaneous Leishmaniasis Due to Leishmania braziliensis. The Journal of Infectious Diseases, v. 211, p. 708-718, 2014.
+Citações:6|6
+
+80.
+SALES-CAMPOS, HELIOSWILTON ; REIS DE SOUZA, PATRICIA ; CREMA PEGHINI, BETHANEA ; SANTANA DA SILVA, JOAO ; RIBEIRO CARDOSO, CRISTINA . An Overview of the Modulatory Effects of Oleic Acid in Health and Disease. Mini-Reviews in Medical Chemistry, v. 13, p. 201-210, 2013.
+Citações:50|46
+
+81.
+GODOI, DANNIELLE FERNANDES ; CARDOSO, CRISTINA RIBEIRO ; SILVA, MARCELO JOSÉ BARBOSA ; FERRAZ, DENISE BRUFATO ; PROVINCIATTO, PAULINE ROSSETTI ; CUNHA, FERNANDO DE QUEIRÓZ ; da Silva, João Santana ; VOLTARELLI, JÚLIO CÉSAR . Reappraisal of total body irradiation followed by bone marrow transplantation as a therapy for inflammatory bowel disease. Immunobiology (Jena. 1979), v. 218, p. 317-324, 2013.
+Citações:2|2
+
+82.
+SOUZA, SÉRGIO L. S. ; ANDRADE, PATRÍCIA F. ; SILVA, JOÃO S. ; TRISTÃO, FABRINE S. M. ; Rocha, Fernanda A. ; PALIOTO, DANIELA B. ; GRISI, MARCIO F. M. ; TABA, MÁRIO ; NOVAES, ARTHUR B. . Effects of Antimicrobial Photodynamic Therapy on Transforming Growth Factor- 1 Levels in the Gingival Crevicular Fluid. Photomedicine and Laser Surgery (Online), v. 31, p. 65-71, 2013.
+Citações:2|5
+
+83.
+Silva, Grace K. ; CUNHA, LARISSA D. ; Horta, Catarina V. ; SILVA, ALEXANDRE L. N. ; Gutierrez, Fredy R. S. ; SILVA, JOÃO S. ; Zamboni, Dario S. . A Parent-of-Origin Effect Determines the Susceptibility of a Non-Informative F1 Population to Trypanosoma cruzi Infection In Vivo. Plos One, v. 8, p. e56347, 2013.
+Citações:8|4
+
+84.
+FAUSTINO, L. ; FONSECA, D. M. D. ; TAKENAKA, M. C. ; MIROTTI, L. ; FLORSHEIM, E. B. ; GUERESCHI, M. G. ; Silva, J. S. ; BASSO, A. S. ; RUSSO, M. . Regulatory T Cells Migrate to Airways via CCR4 and Attenuate the Severity of Airway Allergic Inflammation. The Journal of Immunology (1950. Online), v. 190, p. 2614-2621, 2013.
+Citações:21|30
+
+85.
+MARTINS-TEIXEIRA, MARISTELA B. ; Campo, Vanessa L. ; BIONDO, MONICA ; Sesti-Costa, Renata ; CARNEIRO, ZUMIRA A. ; SILVA, JOÃO S. ; Carvalho, Ivone . ?-Selective glycosylation affords mucin-related GalNAc amino acids and diketopiperazines active on Trypanosoma cruzi. Bioorganic & Medicinal Chemistry (Print), v. 21, p. 1978-1987, 2013.
+Citações:5|5
+
+86.
+Carregaro, Vanessa ; COSTA, DIEGO LUIS ; BRODSKYN, Claudia ; BARRAL, ALDINA MARIA ; BARRAL-NETTO, MANUEL ; CUNHA, FERNANDO Q ; Silva, João Santana . Dual effect of Lutzomyia longipalpis saliva on Leishmania braziliensis infection is mediated by distinct saliva-induced cellular recruitment into BALB/c mice ear. BMC Microbiology (Online), v. 13, p. 102, 2013.
+Citações:11|12
+
+87.
+TRISTAO, F. S. M. ; ROCHA, F. A. ; MOREIRA, A. P. ; Cunha, F. Q. ; Rossi, M. A. ; SANTANA SILVA, J. . 5-lipoxygenase activity increases susceptibility to Paracoccidioides brasiliensis experimental infection. Infection and Immunity (Print), v. 81, p. 1256-1266, 2013.
+Citações:12|12
+
+88.
+MACÊDO, ARLINDO G ; CUNHA, JAIR P ; CARDOSO, THYAGO HS ; SILVA, MURILO V ; SANTIAGO, FERNANDA M ; SILVA, JOÃO S ; PIROVANI, CARLOS P ; SILVA, DEISE AO ; MINEO, JOSÉ R ; Mineo, Tiago WP . SAG2A protein from Toxoplasma gondii interacts with both innate and adaptive immune compartments of infected hosts. Parasites & Vectors, v. 6, p. 163, 2013.
+Citações:5|5
+
+89.
+SOARES, FABYANA A. ; Sesti-Costa, Renata ; da Silva, João Santana ; DE SOUZA, MARIA CECÍLIA B.V. ; FERREIRA, VITOR F. ; DA C. SANTOS, FERNANDA ; MONTEIRO, PATRICIA A.U. ; LEITÃO, ANDREI ; MONTANARI, CARLOS A. . Molecular design, synthesis and biological evaluation of 1,4-dihydro-4-oxoquinoline ribonucleosides as TcGAPDH inhibitors with trypanocidal activity. Bioorganic & Medicinal Chemistry Letters (Print), v. 23, p. 4597-4601, 2013.
+Citações:12|8
+
+90.
+CARLOS, D. ; Spiller, F. ; Souto, F. O. ; TREVELIN, S. C. ; BORGES, V. F. ; DE FREITAS, A. ; ALVES-FILHO, J. C. ; Silva, J. S. ; RYFFEL, B. ; Cunha, F. Q. . Histamine H2 Receptor Signaling in the Pathogenesis of Sepsis: Studies in a Murine Diabetes Model. The Journal of Immunology (1950), v. 191, p. 1373-1382, 2013.
+Citações:3|2
+
+91.
+LIMA-JUNIOR, DJALMA S ; COSTA, DIEGO L ; Carregaro, Vanessa ; CUNHA, LARISSA D ; SILVA, ALEXANDRE L N ; MINEO, TIAGO W P ; GUTIERREZ, FREDY R S ; BELLIO, MARIA ; BORTOLUCI, KARINA R ; FLAVELL, RICHARD A ; BOZZA, MARCELO T ; SILVA, JOÃO S ; Zamboni, Dario S . Inflammasome-derived IL-1? production induces nitric oxide-mediated resistance to Leishmania. Nature Medicine (Print), v. 19, p. 909-915, 2013.
+Citações:80|67
+
+92.
+CELES, MARA R. N. ; MALVESTIO, LYGIA M. ; SUADICANI, SYLVIA O. ; Prado, Cibele M. ; FIGUEIREDO, MARIA J. ; CAMPOS, ERICA C. ; FREITAS, ANA C. S. ; SPRAY, DAVID C. ; TANOWITZ, HERBERT B. ; DA SILVA, JOÃO S. ; Rossi, Marcos A. . Disruption of Calcium Homeostasis in Cardiomyocytes Underlies Cardiac Structural and Functional Changes in Severe Sepsis. Plos One, v. 8, p. e68809, 2013.
+Citações:13|16
+
+93.
+ANDRADE, PATRÍCIA F. ; Garlet, Gustavo P. ; SILVA, JOÃO S. ; FERNANDES, PATRÍCIA G. ; MILANEZI, CRISTIANE ; NOVAES, ARTHUR B. ; PALIOTO, DANIELA B. ; GRISI, MARCIO F.M. ; TABA, MÁRIO ; SOUZA, SÉRGIO L.S. . Adjunct effect of the antimicrobial photodynamic therapy to an association of non-surgical and surgical periodontal treatment in modulation of gene expression: A human study. Journal of Photochemistry and Photobiology. B, Biology, v. 126, p. 119-125, 2013.
+Citações:2|2
+
+94.
+TRISTÃO, F. S. M. ; PANAGIO, L. A. ; ROCHA, F. A. ; CAVASSANI, K. A. ; MOREIRA, A. P. ; Rossi, M. A. ; Silva, J. S. . B Cell-Deficient Mice Display Enhanced Susceptibility to Paracoccidioides brasiliensis Infection. Mycopathologia (1975. Print), v. 176, p. 1-10, 2013.
+Citações:2|3
+
+95.
+WIGGERS, HELTON J. ; ROCHA, JOSMAR R. ; FERNANDES, WILLIAM B. ; Sesti-Costa, Renata ; CARNEIRO, ZUMIRA A. ; CHELESKI, JULIANA ; DA SILVA, ALBÉRICO B. F. ; JULIANO, LUIZ ; CEZARI, MARIA H. S. ; SILVA, JOÃO S. ; MCKERROW, JAMES H. ; MONTANARI, CARLOS A. . Non-peptidic Cruzain Inhibitors with Trypanocidal Activity Discovered by Virtual Screening and In Vitro Assay. PLoS Neglected Tropical Diseases (Online), v. 7, p. e2370, 2013.
+Citações:20|25
+
+96.
+Silva, G. K. ; COSTA, R. S. ; SILVEIRA, T. N. ; CAETANO, B. C. ; Horta, C. V. ; GUTIERREZ, F. R. S. ; GUEDES, P. M. D. M. ; ANDRADE, W. A. ; DE NIZ, M. ; GAZZINELLI, R. T. ; Zamboni, D. S. ; Silva, J. S. . Apoptosis-Associated Speck-like Protein Containing a Caspase Recruitment Domain Inflammasomes Mediate IL-1  Response and Host Resistance to Trypanosoma cruzi Infection. The Journal of Immunology (1950), v. 191, p. 3373-3383, 2013.
+Citações:18|18
+
+97.
+ARAUJO, ESTER CB ; BARBOSA, BELLISA F ; COUTINHO, LOYANE B ; BARENCO, PAULO VC ; SOUSA, LUCIANA A ; MILANEZI, CRISTIANE M ; BONFÁ, GIULIANO ; Pavanelli, Wander R ; SILVA, JOÃO S ; FERRO, ELOISA AV ; SILVA, DEISE AO ; CUNHA-JUNIOR, JAIR P ; SILVA, NEIDE M . Heme oxygenase-1 activity is involved in the control of Toxoplasma gondii infection in the lung of BALB/c and C57BL/6 and in the small intestine of C57BL/6 mice. Veterinary Research, v. 44, p. 89, 2013.
+Citações:3|2
+
+98.
+TRISTAO, F.S.M. ; ROCHA, F.A. ; DIAS, F.C. ; ROSSI, M.A. ; Silva, J.S. . The left lung is preferentially targeted during experimental paracoccidioidomycosis in C57BL/6 mice. Brazilian journal of medical and biological research, v. 46, p. 839-843, 2013.
+Citações:2|2
+
+99.
+Benevides, Luciana ; Cardoso, Cristina R. ; Milanezi, Cristiane M. ; CASTRO-FILICE, LETÍCIA S. ; BARENCO, PAULO V. C. ; SOUSA, ROMULO O. ; RODRIGUES, ROSANGELA M. ; Mineo, José R. ; SILVA, JOÃO S. ; Silva, Neide M. . Toxoplasma gondii Soluble Tachyzoite Antigen Triggers Protective Mechanisms against Fatal Intestinal Pathology in Oral Infection of C57BL/6 Mice. Plos One, v. 8, p. e75138, 2013.
+Citações:3|6
+
+100.
+Costa, Diego L. ; GUIMARÃES, LUIZ H. ; CARDOSO, THIAGO M. ; QUEIROZ, ADRIANO ; LAGO, EDNALDO ; Roselino, Ana M. ; BACELLAR, OLÍVIA ; Carvalho, Edgar M. ; SILVA, JOÃO S. . Characterization of regulatory T cell (Treg) function in patients infected with Leishmania braziliensis. Human Immunology, v. 74, p. 1491-1500, 2013.
+Citações:10|9
+
+101.
+DIAS, FABRÍCIO C. ; MEDINA, TIAGO DA S. ; MENDES-JUNIOR, CELSO T. ; DANTAS, ROBERTO O. ; PISSETTI, CRISTINA W. ; RODRIGUES JUNIOR, VIRMONDES ; Dellalibera-Joviliano, Renata ; MARIN-NETO, JOSÉ A. ; Gutierrez, Fredy R. S. ; MOREAU, PHILIPPE ; SILVA, JOÃO S. ; DONADI, EDUARDO A. . Polymorphic Sites at the Immunoregulatory CTLA-4 Gene Are Associated with Chronic Chagas Disease and Its Clinical Manifestations. Plos One, v. 8, p. e78367, 2013.
+Citações:5|8
+
+102.
+CHAVEZ, J. H. ; FRANCA, R. F. O. ; OLIVEIRA, C. J. F. ; DE AQUINO, M. T. P. ; FARIAS, K. J. S. ; MACHADO, P. R. L. ; DE OLIVEIRA, T. F. M. ; YOKOSAWA, J. ; SOARES, E. G. ; DA SILVA, J. S. ; DA FONSECA, B. A. L. ; FIGUEIREDO, L. T. M. . Influence of the CCR-5/MIP-1   Axis in the Pathogenesis of Rocio Virus Encephalitis in a Mouse Model. The American Journal of Tropical Medicine and Hygiene, v. 89, p. 1013-1018, 2013.
+Citações:4|4
+
+103.
+VALERA, FABIANA ; KÜPPER, DANIEL S ; MALINSKY, RAFAEL ; MILANEZI, CRISTIANE ; SILVA, JOÃO S ; TAMASHIRO, EDWIN ; ANSELMO-LIMA, WILMA T . Apoptosis factors caspases and p53 and their impact in chronic rhinosinusitis with nasal polyposis. Clinical and Translational Allergy, v. 3, p. O20, 2013.
+
+104.
+SESTI-COSTA, R. ; Silva, G. K. ; PROENCA-MODENA, J. L. ; CARLOS, D. ; SILVA, M. L. ; Alves-Filho, J. C. ; ARRUDA, E. ; LIEW, F. Y. ; Silva, J. S. . The IL-33/ST2 Pathway Controls Coxsackievirus B5-Induced Experimental Pancreatitis. The Journal of Immunology (1950), v. 191, p. 283-292, 2013.
+Citações:19|11
+
+105.
+Benevides, Luciana ; Cardoso, Cristina R. B. ; TIEZZI, DANIEL G. ; MARANA, HEITOR R. C. ; ANDRADE, JURANDYR M. ; SILVA, JOÃO S. . Enrichment of regulatory T cells in invasive breast tumor correlates with the upregulation of IL-17A expression and invasiveness of the tumor. European Journal of Immunology, v. 43, p. 1518-1528, 2013.
+Citações:32|33
+
+106.
+RODRIGUES, ROSÂNGELA MARIA ; CARDOSO, CRISTINA RIBEIRO ; GONÇALVES, ANA LÚCIA RIBEIRO ; Silva, Neide Maria ; MASSA, VIRGÍNIA ; Alves, Ronaldo ; UETA, MARLENE TIDUKO ; Silva, João Santana ; COSTA-CRUZ, JULIA MARIA . Increased susceptibility to Strongyloides venezuelensis infection is related to the parasite load and absence of major histocompatibility complex (MHC) class II molecules. Experimental Parasitology, v. 135, p. 580-586, 2013.
+Citações:5|3
+
+107.
+Gutierrez, Fredy R.S. ; Pavanelli, Wander R. ; MEDINA, TIAGO S. ; Silva, Grace K. ; Mariano, Flávia S. ; Guedes, Paulo M.M. ; Mineo, Tiago W.P. ; Rossi, Marcos A. ; Cunha, Fernando Q. ; SILVA, JOÃO S. . Haeme oxygenase activity protects the host against excessive cardiac inflammation during experimental Trypanosoma cruzi infection. Microbes and Infection, v. 16, p. 28-39, 2013.
+Citações:3|3
+
+108.
+Prado, Cibele M. ; CELES, Mara Rúbia Nunes ; Erica c. Campos ; lygia m. Malvestio ; Silva, J. S. ; Jelicks, Linda A. ; TANOWITZ, H. B. ; Rossi, Marcos A. . Early dystrophin disruption in the pathogenesis of experimental chronic Chagas cardiomyopathy. Microbes and Infection, v. 14, p. 59-68, 2012.
+Citações:3|4
+
+109.
+ana c Zarpelon ; larissa G. Pinto ; CUNHA, T. M. ; Vieira, SM ; Carregaro, Vanessa ; Guilherme R. Souza ; Silva, J. S. ; FERREIRA, S. H. ; CUNHA, F Q ; VERRI JUNIOR, W. A. . Endothelin-1 induces neutrophil recruitment in adaptive inflammation via TNF and CXCL1/CXCR2 in mice. Canadian Journal of Physiology and Pharmacology (Print), v. 90, p. 187-199, 2012.
+Citações:14|16
+
+110.
+Rodrigues, Adele A. ; Saosa, Jasson S. S. ; da Silva, Grace K. ; Martins, Flávia A. ; da Silva, Aline A. ; Souza Neto, Cecílio P. da Silva ; Horta, Catarina V. ; Zamboni, Dario S. ; Silva, J. S. ; Ferro, Eloisa A. V. ; da Silva, Claudio V. . IFN- Plays a Unique Role in Protection against Low Virulent Trypanosoma cruzi Strain. PLoS Neglected Tropical Diseases (Online), v. 6, p. e1598, 2012.
+Citações:16|16
+
+111.
+CAMPO, V. L. ; SESTI-COSTA, R. ; Carneiro, Z. A. ; Silva, J. S. ; SCHENKMAN, S. ; CARVALHO, I. . Design, synthesis and the effect of 1,2,3-triazole sialylmimetic neoglycoconjugates on Trypanosoma cruzi and its cell surface trans-sialidase. Bioorganic & Medicinal Chemistry (Print), v. 20, p. 145-156, 2012.
+Citações:23|31
+
+112.
+Ramos, R. N. ; Oliveira, C. E. ; Gasparoto, T. H. ; Malaspina, T. S. d. S. ; Belai, E. B. ; CAVASSANI, K. A. ; Garlet, G. P. ; Silva, J. S. ; Campanelli, A. P. . CD25+ T cell depletion impairs murine squamous cell carcinoma development via modulation of antitumor immune responses. Carcinogenesis (New York. Print), v. 33, p. 902-909, 2012.
+Citações:9|12
+
+113.
+Guedes, Paulo Marcos Matta ; Gutierrez, Fredy Roberto Salazar ; Silva, Grace Kelly ; Dellalibera-Joviliano, Renata ; Rodrigues, Gerson Jhonatan ; Bendhack, Lusiane Maria ; RASSI JR, A. ; Rassi, A. ; Schmidt, André ; Maciel, Benedito Carlos ; Marin Neto, José Antonio ; Silva, J. S. . Deficient Regulatory T Cell Activity and Low Frequency of IL-17-Producing T Cells Correlate with the Extent of Cardiomyopathy in Human Chagas' Disease. Plos Neglected Tropical Diseases, v. 6, p. e1630, 2012.
+Citações:33|26
+
+114.
+Repeke, C. E. ; Cardoso, C. R. ; Claudino, M. ; Silveira, E. M. ; Trombone, A. P. F. ; Campanelli, A. P. ; Silva, J. S. ; Martins Jr., Walter ; Garlet, G. P. . Non-inflammatory destructive periodontal disease: a clinical, microbiological, immunological and genetic investigation. Journal of Applied Oral Science (Impresso), v. 20, p. 113-121, 2012.
+Citações:4|6
+
+115.
+Dellalibera-Joviliano, R. ; Joviliano, E. E. ; Silva, J. S. ; Evora, P. R. B. . Activation of cytokines corroborate with development of inflammation and autoimmunity in thromboangiitis obliterans patients. Clinical and Experimental Immunology (Print), v. 170, p. 28-35, 2012.
+Citações:7|11
+
+116.
+CAVALLARI, FRANSÉRGIO EMÍLIO ; VALERA, FABIANA CARDOSO PEREIRA ; GALLEGO, ALINE JORGE ; MALINSKY, RAFAEL ROSSELL ; KÜPPER, DANIEL SALGADO ; MILANEZI, CRISTIANE ; SILVA, JOÃO SANTANA DA ; TAMASHIRO, EDWIN ; ANSELMO-LIMA, WILMA TEREZINHA . Expression of RANTES, eotaxin-2, ICAM-1, LFA-1 and CCR-3 in chronic rhinosinusitis patients with nasal polyposis. Acta Cirúrgica Brasileira (Online), v. 27, p. 645-649, 2012.
+Citações:7|1|7
+
+117.
+Gasparoto, Thais Helena ; DE OLIVEIRA, CARINE ERVOLINO ; DE FREITAS, LUISA THOMAZINI ; PINHEIRO, CLAUDIA RAMOS ; RAMOS, RODRIGO NALIO ; DA SILVA, ANDRÉ LUIS ; GARLET, Gustavo Pompermaier ; da Silva, João Santana ; CAMPANELLI, Ana Paula . Inflammatory events during murine squamous cell carcinoma development. Journal of Inflammation (London. Online), v. 9, p. 46, 2012.
+Citações:6|10
+
+118.
+Sesti-Costa, Renata ; SILVA, JOÃO S ; Gutierrez, Fredy RS . Congenital Chagas disease: time to screen pregnant women?. Expert Review of Anti-Infective Therapy, v. 10, p. 1279-1282, 2012.
+Citações:3|3
+
+119.
+SALEHI, S. ; BANKOTI, R. ; Benevides, L. ; WILLEN, J. ; COUSE, M. ; Silva, J. S. ; DHALL, D. ; MEFFRE, E. ; TARGAN, S. ; MARTINS, G. A. . B Lymphocyte-Induced Maturation Protein-1 Contributes to Intestinal Mucosa Homeostasis by Limiting the Number of IL-17-Producing CD4+ T Cells. The Journal of Immunology (1950), v. 189, p. 5682-5693, 2012.
+Citações:15|15
+
+120.
+Tiezzi, Daniel Guimarães ; Valejo, Fernando Antonio Mourão ; Marana, Heitor Ricardo Cosinski ; Carrara, Hélio Humberto Angotti ; Benevides, Luciana ; Antonio, Heriton Marcelo Ribeiro ; Sicchieri, Renata Danielle ; Milanezi, Cristiane Maria ; SILVA, JOÃO SANTANA DA ; Andrade, Jurandyr Moreira . CD44+/CD24? cells and lymph node metastasis in stage I and II invasive ductal carcinoma of the breast. Medical Oncology (Northwood), v. 29, p. 1479-1485, 2012.
+Citações:9|9
+
+121.
+Matta Guedes, Paulo Marcos ; Gutierrez, Fredy Roberto Salazar ; Nascimento, Manuela Sales Lima ; Do-Valle-Matta, Maria Adelaide ; Silva, João Santana . Antiparasitical chemotherapy in Chagas? disease cardiomyopathy: current evidence. TM & IH. Tropical Medicine and International Health (Print), v. 17, p. 1057-1065, 2012.
+Citações:12|19
+
+122.
+Gonçalves, Denise ; de Queiroz Prado, Rafael ; Almeida Xavier, Eric ; Cristina de Oliveira, Natália ; da Matta Guedes, Paulo Marcos ; da Silva, João Santana ; MORAES FIGUEIREDO, LUIZ TADEU ; AQUINO, VICTOR HUGO . Imunocompetent Mice Model for Dengue Virus Infection. The Scientific World Journal, v. 2012, p. 1-12, 2012.
+Citações:5|4
+
+123.
+MALINSKY, RAFAEL ROSSELL ; VALERA, FABIANA C. P. ; CAVALLARI, FRANSÉRGIO EMÍLIO ; KÜPPER, DANIEL SALGADO ; MILANEZE, CRISTIANE ; SILVA, JOÃO S. ; TAMASHIRO, EDWIN ; ANSELMO-LIMA, WILMA T. . Matrix metalloproteinases and their impact on sinusal extension in chronic rhinosinusitis with nasal polyps. European Archives of Oto-Rhino-Laryngology, v. 270, p. 1345-1348, 2012.
+Citações:8|8
+
+124.
+YAOCHITE, JULIANA NAVARRO UEDA ; CALIARI-OLIVEIRA, CAROLINA ; DAVANSO, MARIANA RODRIGUES ; CARLOS, DANIELA ; RIBEIRO MALMEGRIM, KELEN CRISTINA ; RIBEIRO DE BARROS CARDOSO, CRISTINA ; RAMALHO, LEANDRA NAIRA ZAMBELLI ; PALMA, PATRICIA VIANNA BONINI ; SANTANA DA SILVA, JOÃO ; CUNHA, FERNANDO QUEIRÓZ ; COVAS, DIMAS TADEU ; VOLTARELLI, JÚLIO CÉSAR . Dynamic changes of the Th17/Tc17 and regulatory T cell populations interfere in the experimental autoimmune diabetes pathogenesis. Immunobiology (Jena. 1979), v. 218, p. 338-352, 2012.
+Citações:23|14
+
+125.
+da Fonseca, Denise Morais ; Trombone, Ana Paula Fávaro ; Repeke, Carlos Eduardo ; Avila-Campos, Mario Julio ; Coelho-Castelo, Arlete A. M. ; Silva, J. S. ; CAMPANELLI, Ana Paula ; Deperon Bonato, Vânia Luiza ; GARLET, Gustavo Pompermaier . Functional interferences in host inflammatory immune response by airway allergic inflammation restrain experimental periodontitis development in mice. Journal of Clinical Periodontology, v. 38, p. 131-141, 2011.
+Citações:3|4
+
+126.
+Ferreira Jr, S. B. ; Repeke, C. E. ; Raimundo, F. M. ; NUNES, I. S. ; Avila-Campos, M J ; Ferreira, B. R. ; Silva, J. S. ; Campanelli, A. P. ; Garlet, G. P. . CCR5 Mediates Pro-osteoclastic and Osteoclastogenic Leukocyte Chemoattraction. Journal of Dental Research, v. 90, p. 632-637, 2011.
+Citações:10|13
+
+127.
+Gutierrez, F. R. S. ; Mariano, Flávia S. ; Oliveira, Carlo JF ; Pavanelli, Wander R ; GUEDES, P. M. M. ; da Silva GK ; Campanelli, A. P. ; Milanezi, Cristiane M. ; Azuma, M. ; Honjo, T. ; Teixeira, Mauro M. ; ALIBERTI, J. C. S. ; Silva, J. S. . Regulation of Trypanosoma cruzi-Induced Myocarditis by Programmed Death Cell Receptor 1. Infection and Immunity (Print), v. 79, p. 1873-1881, 2011.
+Citações:17|18
+
+128.
+Gonçalves, R. B. ; Coletta, R. D. ; Silvério, K. G. ; Benevides, L. ; Casati, M. Z. ; Silva, J. S. ; Nociti, F. H. . Impact of smoking on inflammation: overview of molecular mechanisms. Inflammation Research (Printed ed.), v. 60, p. 409-424, 2011.
+Citações:62|68
+
+129.
+Oliveira, Carlo JF ; Sa-Nunes, A. ; Francischetti, I. M. B. ; Carregaro, Vanessa ; Anatriello, Elen ; Silva, J. S. ; de Miranda Santos, I. K. F. ; Ribeiro, J. M. C. ; Ferreira, Beatriz R. . Deconstructing Tick Saliva: NON-PROTEIN MOLECULES WITH POTENT IMMUNOMODULATORY PROPERTIES. The Journal of Biological Chemistry (Print), v. 286, p. 10960-10969, 2011.
+Citações:45|58
+
+130.
+Costa, Diego L. ; CARREGARO, V. ; LIMA JUNIOR, D. S. ; Silva, Neide M. ; Milanezi, Cristiane M. ; Cardoso, Cristina R. ; Giudice, Ângela ; de Jesus, Amélia R. ; Carvalho, Edgar M. ; Almeida, Roque P. ; Silva, J. S. . BALB/c Mice Infected with Antimony Treatment Refractory Isolate of Leishmania braziliensis Present Severe Lesions due to IL-4 Production. Plos Neglected Tropical Diseases, v. 5, p. e965, 2011.
+Citações:12|12
+
+131.
+Cavassani, Karen A. ; Tristao, Fabrine S. M. ; Oliveira, Leandro L. ; Rocha, Fernanda A. ; Vancim, Jaqueline O. ; MOREIRA, Ana Paula ; Campanelli, A. P. ; Panagio, Luciano A. ; Milanezi, Cristiane M. ; Martinez, R. ; Rossi, Marcos A. ; Silva, J. S. . Cell-Free Antigens from Paracoccidioides brasiliensis Drive IL-4 Production and Increase the Severity of Paracoccidioidomycosis. Plos One, v. 6, p. e21423, 2011.
+Citações:4|3
+
+132.
+Cardoso, C. R. ; Favoreto Jr., S. ; Oliveira, L.L. ; Vancim, J.O. ; Barban, B. Gisele ; Ferraz, D.B. ; Silva, J. S. . Oleic acid modulation of the immune response in wound healing: A new approach for skin repair. Immunobiology (Jena. 1979), v. 216, p. 409-415, 2011.
+Citações:29|45
+
+133.
+Guedes, Paulo MM ; Silva, Grace K ; Gutierrez, Fredy RS ; Silva, J. S. . Current status of Chagas disease chemotherapy. Expert Review of Anti-Infective Therapy, v. 9, p. 609-620, 2011.
+Citações:51|69
+
+134.
+Repeke, C. E. ; Ferreira Jr, S. B. ; Andreia Espinola Vieira ; Silveira, E. M. ; Avila-Campos, M. J. ; Silva, J. S. ; Santos, Carlos Ferreira ; Campanelli, A. P. ; Trombone, A. P. F. ; Garlet, G. P. . Dose-Response Met-RANTES Treatment of Experimental Periodontitis: A Narrow Edge between the Disease Severity Attenuation and Infection Control. Plos One, v. 6, p. e22526, 2011.
+Citações:17|21
+
+135.
+Souza Malaspina, Tatiana Salles ; Gasparoto, T. H. ; Costa, Maria Renata Sales Nogueira ; Melo, Edgard Jose Franco ; Ikoma, Maura Rosane Valério ; Damante, José Humberto ; Cavassani, Karen A. ; GARLET, Gustavo ; Silva, J. S. ; Campanelli, A. P. . Enhanced programmed death 1 (PD-1) and PD-1 ligand (PD-L1) expression in patients with actinic cheilitis and oral squamous cell carcinoma. Cancer Immunology and Immunotherapy, v. 60, p. 965-974, 2011.
+Citações:18|31
+
+136.
+Medina, Tiago S ; Costa, Sheyla PT ; Oliveira, Maria D ; Ventura, Ana M ; Souza, Jose M ; Gomes, T. F. ; Vallinoto, Antonio CR ; Povoa, Marinete M ; Silva, J. S. ; Cunha, Maristela G . Increased interleukin-10 and interferon-Î³ levels in Plasmodium vivax malaria suggest a reciprocal regulation which is not altered by IL-10 gene promoter polymorphism. Malaria Journal (Online), v. 10, p. 264, 2011.
+Citações:26|25
+
+137.
+CARREGARO, V. ; Sa-Nunes, A. ; CUNHA, T. M. ; GRESPAN, R. ; OLIVEIRA, C. J. F. ; Lima-Junior, D. S. ; COSTA, D. L. ; VERRI JUNIOR, W. A. ; MILANEZI, C. M. ; PHAM, V. M. ; Brand, D. D. ; VALENZUELA, J. G. ; Silva, J. S. ; Ribeiro, J. M. C. ; Cunha, F. Q. . Nucleosides from Phlebotomus papatasi Salivary Gland Ameliorate Murine Collagen-Induced Arthritis by Impairing Dendritic Cell Functions. The Journal of Immunology (1950), v. 187, p. 4347-4359, 2011.
+Citações:16|15
+
+138.
+Caetano, Braulia C. ; Biswas, Amlan ; Lima-Junior, Djalma S. ; Benevides, Luciana ; Mineo, Tiago W. P. ; Horta, Catarina V. ; Lee, Kyoung-Hee ; Silva, J. S. ; Gazzinelli, Ricardo T. ; Zamboni, Dario S. ; Kobayashi, Koichi S. . Intrinsic expression of Nod2 in CD4+ T lymphocytes is not necessary for the development of cell-mediated immunity and host resistance to Toxoplasma gondii. European Journal of Immunology, v. 41, p. 3627-3631, 2011.
+Citações:22|21
+
+139.
+Galante, Eva ; Campo, Vanessa L. ; Hill, Lionel ; Silva, JoÃ£o S. ; Sciuto, Sebastiano ; Nepogodiev, Sergey A. ; Sesti-Costa, Renata ; Field, Robert A. ; Carvalho, Ivone ; Geraci, Corrada ; Guedes, Paulo M.M. . Glycoclusters presenting lactose on calix[4]arene cores display trypanocidal activity. Tetrahedron (Oxford. Print), v. 67, p. 5902-5912, 2011.
+Citações:21|21
+
+140.
+Pérez, Ana Rosa ; Silva-Barbosa, Suse DAYSE ; Roggero, Eduardo ; Calmon-Hamaty, Flavia ; Villar, Silvina R. ; Gutierrez, Fredy R. ; Silva, João Santana ; Savino, Wilson ; Bottasso, Oscar . Immunoendocrinology of the Thymus in Chagas Disease. Neuroimmunomodulation, v. 18, p. 328-338, 2011.
+Citações:6|8
+
+141.
+Machado, Paulo R. ; Rosa, Maria Elisa A. ; Costa, Diego ; Mignac, Moema ; SILVA, JOÃO S. ; Schriefer, Albert ; Teixeira, Mauro M. ; Bacellar, Olivia ; Carvalho, Edgar M. . Reappraisal of the immunopathogenesis of disseminated leishmaniasis: in situ and systemic immune response. Transactions of the Royal Society of Tropical Medicine and Hygiene, v. 105, p. 438-444, 2011.
+Citações:22|23
+
+142.
+Garlet, G. P. ; Gioza, S. P. ; Silveira, E. M. ; Claudino, M. ; Santos, S. B. ; Avila-Campos, M. J. ; Martins, W. Jr. ; Cardoso, C. R. ; Trombone, A. P. F. ; Campanelli, A. P. ; Carvalho, E. M. ; Silva, J. S. . Association of Human T Lymphotropic Virus 1 Amplification of Periodontitis Severity with Altered Cytokine Expression in Response to a Standard Periodontopathogen Infection. Clinical Infectious Diseases, v. 50, p. e11-e18, 2010.
+Citações:15|17
+
+143.
+Mineo, Tiago W.P. ; Oliveira, Carlo J.F. ; Silva, Deise A.O. ; Oliveira, Leandro L. ; Abatepaulo, AntÃ´nio R. ; Ribeiro, DÃ¢maso P. ; Ferreira, Beatriz R. ; Mineo, JosÃ© R. ; Silva, J. S. . Neospora caninum excreted/secreted antigens trigger CC-chemokine receptor 5-dependent cell migration. International Journal for Parasitology, v. 40, p. 797-805, 2010.
+Citações:7|7
+
+144.
+Repeke, Carlos Eduardo ; Ferreira Jr., Samuel B. ; CLAUDINO, Marcela ; Silveira, Elcia Maria ; de Assis, Gerson Francisco ; Avila-Campos, Mario Julio ; Silva, J. S. ; GARLET, Gustavo Pompermaier . Evidences of the cooperative role of the chemokines CCL3, CCL4 and CCL5 and its receptors CCR1+ and CCR5+ in RANKL+ cell migration throughout experimental periodontitis in mice. Bone (New York, N.Y.), v. 46, p. 1122-1130, 2010.
+Citações:38|54
+
+145.
+Guedes, Paulo MM ; Oliveira, Fabiana S ; Gutierrez, Fredy RS ; Da Silva, Grace Kelly ; Rodrigues, Gerson Jhonatan ; Bendhack, Lusiane Maria ; Franco, Douglas W ; Do Valle Matta, Maria A ; Zamboni, Dario S ; Da Silva, Roberto Santana ; Silva, J. S. . Nitric oxide donor trans-[RuCl([15]aneN4)NO]2+ as a possible therapeutic approach for Chagas' disease. British Journal of Pharmacology, v. 160, p. 270-282, 2010.
+Citações:35|38
+
+146.
+Silva, Jean Jerley Nogueira ; Guedes, Paulo Marcos Matta ; Zottis, Aderson ; Balliano, Tatiane Luciano ; Nascimento Silva, Francisco Ordelei ; França Lopes, Luiz Gonzaga ; Ellena, Javier ; Oliva, Glaucius ; Andricopulo, Adriano Defini ; Franco, Douglas Wagner ; Silva, J. S. . Novel ruthenium complexes as potential drugs for Chagas's disease: enzyme inhibition and in vitro/in vivo trypanocidal activity. British Journal of Pharmacology, v. 160, p. 260-269, 2010.
+Citações:39|47
+
+147.
+Silva, G. K. ; Gutierrez, F. R. S. ; Guedes, P. M. M ; Horta, C. V. ; Cunha, L. D. ; Mineo, T. W. P. ; Santiago-Silva, J. ; Kobayashi, K. S. ; Flavell, R. A. ; Silva, J. S. ; Zamboni, D. S. . Cutting Edge: Nucleotide-Binding Oligomerization Domain 1-Dependent Responses Account for Murine Resistance against Trypanosoma cruzi Infection. The Journal of Immunology (1950), v. 184, p. 1148-1152, 2010.
+Citações:45|56
+
+148.
+Lima, Hayana Ramos ; Gelani, Valéria ; Fernandes, Ana Paula ; Gasparoto, Thaís Helena ; Torres, Sérgio Aparecido ; Santos, Carlos Ferreira ; GARLET, Gustavo Pompermaier ; Silva, J. S. ; CAMPANELLI, Ana Paula . The essential role of toll like receptor-4 in the control of Aggregatibacter actinomycetemcomitans infection in mice. Journal of Clinical Periodontology, v. 37, p. 248-254, 2010.
+Citações:17|24
+
+149.
+Guedes, P. M. M ; Gutierrez, Fredy R. S. ; MAIA, F. L. ; Milanezi, Cristiane M. ; da Silva GK ; Pavanelli, W. R. ; Silva, J. S. . IL-17 Produced during Trypanosoma cruzi Infection Plays a Central Role in Regulating Parasite-Induced Myocarditis. Plos Neglected Tropical Diseases, v. 4, p. e604, 2010.
+Citações:60|33
+
+150.
+Godoi, D F ; Cardoso, C R ; Ferraz, D B ; Provinciatto, P R ; CUNHA, F Q ; Silva, J. S. ; Voltarelli, J C . Hematopoietic SCT modulates gut inflammation in experimental inflammatory bowel disease. Bone Marrow Transplantation (Basingstoke), v. 45, p. 1562-1571, 2010.
+Citações:3|3
+
+151.
+Silva, Neide Maria ; Manzan, Renato Martins ; Carneiro, Wesley Pereira ; Milanezi, Cristiane Maria ; Silva, J. S. ; Ferro, Eloísa Amália Vieira ; Mineo, José Roberto . Toxoplasma gondii: the severity of toxoplasmic encephalitis in C57BL/6 mice is associated with increased ALCAM and VCAM-1 expression in the central nervous system and higher blood-brain barrier permeability. Experimental Parasitology, v. 126, p. 167-177, 2010.
+Citações:23|27
+
+152.
+Trombone, A P ; Claudino, M ; Colavite, P ; de Assis, G F ; Avila-Campos, M J ; Silva, J. S. ; Campanelli, A P ; Ibañez, O M ; De Franco, M ; Garlet, G P . Periodontitis and arthritis interaction in mice involves a shared hyper-inflammatory genotype and functional immunological interferences. Genes and Immunity, v. 11, p. 479-489, 2010.
+Citações:30|32
+
+153.
+Mineo, Tiago WP ; Oliveira, Carlo JF ; Gutierrez, Fredy RS ; Silva, J. S. . Recognition by toll-like receptor 2 induces antigen-presenting cell activation and Th1 programming during infection by Neospora caninum. Immunology and Cell Biology (Print), v. 88, p. 825-833, 2010.
+Citações:15|21
+
+154.
+Pavanelli, Wander R. ; Gutierrez, Fredy R.S. ; Mariano, Flávia S. ; Prado, Cibele M. ; FERREIRA, Beatriz Rossetti ; Teixeira, Mauro Martins ; Canetti, Cláudio ; Rossi, Marcos A. ; Cunha, Fernando Q. ; Silva, J. S. . 5-Lipoxygenase is a key determinant of acute myocardial inflammation and mortality during Trypanosoma cruzi infection. Microbes and Infection, v. 12, p. 587-597, 2010.
+Citações:22|24
+
+155.
+Dal-Secco, Daniela ; Freitas, Andressa ; Abreu, Monica A. ; Garlet, Thiago P. ; Rossi, Marcos A. ; Ferreira, Sérgio H. ; Silva, J. S. ; Alves-Filho, José C. ; Cunha, Fernando Q. . Reduction of ICAM-1 expression by carbon monoxide via soluble guanylate cyclase activation accounts for modulation of neutrophil migration. Naunyn-Schmiedeberg's Archives of Pharmacology, v. 381, p. 483-493, 2010.
+Citações:12|12
+
+156.
+Carvalho, Ivone ; Andrade, Peterson ; Campo, Vanessa L. ; Guedes, Paulo M.M. ; Sesti-Costa, Renata ; Silva, J. S. ; Schenkman, Sergio ; Dedola, Simone ; Hill, Lionel ; Rejzek, Martin ; Robert A. Field . `Click chemistry synthesis of a library of 1,2,3-triazole-substituted galactose derivatives and their evaluation against Trypanosoma cruzi and its cell surface trans-sialidase. Bioorganic & Medicinal Chemistry (Print), v. 18, p. 2412-2427, 2010.
+Citações:71|81
+
+157.
+CLAUDINO, Marcela ; Garlet, Thiago P. ; Cardoso, Cristina R. B. ; de Assis, Gerson F. ; Taga, Rumio ; Cunha, Fernando Q. ; Silva, J. S. ; Garlet, Gustavo P. . Down-regulation of expression of osteoblast and osteocyte markers in periodontal tissues associated with the spontaneous alveolar bone loss of interleukin-10 knockout mice. European Journal of Oral Sciences, v. 118, p. 19-28, 2010.
+Citações:16|20
+
+158.
+Silvério, Karina Gonzales ; Rodrigues, Thaisângela Lopes ; Coletta, Ricardo Dela ; Benevides, Luciana ; Silva, J. S. ; Casati, Márcio Zaffalon ; Sallum, Enilson Antônio ; Nociti, Francisco Humberto . Mesenchymal Stem Cell Properties of Periodontal Ligament Cells From Deciduous and Permanent Teeth. Journal of Periodontology (1970), v. 81, p. 1207-1215, 2010.
+Citações:39|37
+
+159.
+Verri, W. A. ; Souto, F. O. ; Vieira, S. M. ; Almeida, S. C. L. ; Fukada, S. Y. ; Xu, D. ; Alves-Filho, J. C. ; CUNHA, T. M. ; Guerrero, A. T. G. ; Mattos-Guimaraes, R. B. ; Oliveira, F. R. ; TEIXEIRA, M. M. ; Silva, J. S. ; McInnes, I. B. ; FERREIRA, S. H. ; Louzada-Junior, P. ; LIEW, F. Y. ; Cunha, F. Q. . IL-33 induces neutrophil migration in rheumatoid arthritis and is a target of anti-TNF therapy. Annals of the Rheumatic Diseases, v. 69, p. 1697-1703, 2010.
+Citações:114|131
+
+160.
+Oliveira, Carlo José F. ; Carvalho, Wanessa A. ; Garcia, Gustavo R. ; Gutierrez, Fredy R.S. ; de Miranda Santos, Isabel K.F. ; Silva, J. S. ; Ferreira, Beatriz R. . Tick saliva induces regulatory dendritic cells: MAP-kinases and Toll-like receptor-2 expression as potential targets. Veterinary Parasitology (Print), v. 167, p. 288-297, 2010.
+Citações:21|25
+
+161.
+Carvalho, Wanessa Araújo ; Franzin, Alessandra Mara ; Abatepaulo, Antônio Roberto Rodrigues ; de Oliveira, Carlo José Freire ; Moré, Daniela Dantas ; Silva, J. S. ; FERREIRA, Beatriz Rossetti ; de Miranda Santos, Isabel K. Ferreira . Modulation of cutaneous inflammation induced by ticks in contrasting phenotypes of infestation in bovines. Veterinary Parasitology (Print), v. 167, p. 260-273, 2010.
+Citações:12|11
+
+162.
+Gasparoto, Thaís Helena ; Souza Malaspina, Tatiana Salles ; Benevides, Luciana ; Melo, Edgard Jose Franco ; Costa, Maria Renata Sales Nogueira ; Damante, José Humberto ; Ikoma, Maura Rosane Valério ; GARLET, Gustavo Pompermaier ; Cavassani, Karen Angélica ; Silva, J. S. ; CAMPANELLI, Ana Paula . Patients with oral squamous cell carcinoma are characterized by increased frequency of suppressive regulatory T cells in the blood and tumor microenvironment. Cancer Immunology and Immunotherapy, v. 59, p. 819-828, 2010.
+Citações:40|34
+
+163.
+Anatriello, Elen ; Ribeiro, Jose M.C. ; de Miranda Santos, Isabel K.F. ; Brandao, Lucinda G. ; Anderson, Jennifer M. ; Valenzuela, Jesus G. ; Maruyama, Sandra R. ; Silva, J. S. ; Ferreira, Beatriz R. . An insight into the sialotranscriptome of the brown dog tick, Rhipicephalus sanguineus. BMC Genomics, v. 11, p. 450-466, 2010.
+Citações:43|51
+
+164.
+Garlet, Gustavo P. ; Cardoso, Cristina R. ; Mariano, Flavia S. ; CLAUDINO, Marcela ; de Assis, Gerson F. ; Campanelli, Ana P. ; Ávila-Campos, Mario J. ; Silva, J. S. . Regulatory T cells attenuate experimental periodontitis progression in mice. Journal of Clinical Periodontology, v. 37, p. 591-600, 2010.
+Citações:60|46
+
+165.
+Nascimento, Daniele C. ; Alves-Filho, José C. ; Sônego, Fabiane ; Fukada, Sandra Y. ; Pereira, Marcelo S. ; Benjamim, Claudia ; Zamboni, Dario S. ; Silva, J. S. ; Cunha, Fernando Q. . Role of regulatory T cells in long-term immune dysfunction associated with severe sepsis. Critical Care Medicine, v. 38, p. 1718-1725, 2010.
+Citações:44|52
+
+166.
+Christ, A. P. ; Rodriguez, D. ; Bortolatto, J. ; Borducchi, E. ; Keller, A. ; Mucida, D. ; Silva, J. S. ; LEITE, L. C. C. ; RUSSO, M. . Enhancement of Th1 Lung Immunity Induced by Recombinant Mycobacterium bovis Bacillus Calmette-Guerin Attenuates Airway Allergic Disease. American Journal of Respiratory Cell and Molecular Biology, v. 43, p. 243-252, 2010.
+Citações:11|11
+
+167.
+Campanelli, A. P. ; Brodskyn, Claudia I. ; Boaventura, Viviane S. ; Roselino, Ana M. ; Costa, Jackson ; Saldanha, Ana Cristina ; Rodrigues de Freitas, Luiz Antônio ; de Oliveira, Camila Indiani ; Barral-Netto, Manoel ; Silva, J. S. ; BARRAL, A. . Chemokines and chemokine receptors coordinate the inflammatory immune response in human cutaneous leishmaniasis. Human Immunology, v. 71, p. 1220-1227, 2010.
+Citações:10|10
+
+168.
+Boaventura, Viviane S. ; Santos, Claire S. ; Cardoso, Cristina R. ; de Andrade, José ; Dos Santos, Washington L. C. ; Clarêncio, Jorge ; Silva, J. S. ; Borges, Valeria M. ; Barral-Netto, Manoel ; Brodskyn, Claudia I. ; Barral, Aldina . Human mucosal leishmaniasis: Neutrophils infiltrate areas of tissue damage that express high levels of Th17-related cytokines. European Journal of Immunology, v. 40, p. 2830-2836, 2010.
+Citações:56|47
+
+169.
+Borges, Thiago J. ; Porto, Bárbara N. ; Teixeira, César A. ; Rodrigues, Marcelle ; Machado, Felipe D. ; Ornaghi, Ana Paula ; de Souza, Ana Paula D. ; Maito, Fabio ; Pavanelli, Wander R. ; Silva, J. S. ; Bonorino, Cristina . Prolonged Survival of Allografts Induced by Mycobacterial Hsp70 Is Dependent on CD4+CD25+ Regulatory T Cells. Plos One, v. 5, p. e14264, 2010.
+Citações:18|22
+
+170.
+Pereira, J. C. M. ; Carregaro, Vanessa ; Costa, Diego L. ; Silva, J. S. ; Cunha, F. Q. ; Franco, D. W. . Antileishmanial activity of ruthenium(II)tetraammine nitrosyl complexes?. European Journal of Medicinal Chemistry, v. 45, p. 4180-4187, 2010.
+Citações:26|25
+
+171.
+Guedes, Paulo M.M. ; Veloso, Vanja M. ; Talvani, André ; Diniz, Livia F. ; Caldas, Ivo S. ; Do-Valle-Matta, Maria A. ; Santiago-Silva, Juliana ; Chiari, Egler ; Galvão, Lucia M.C. ; Silva, J. S. ; BAHIA, M. T. . Increased type 1 chemokine expression in experimental Chagas disease correlates with cardiac pathology in Beagle dogs. Veterinary Immunology and Immunopathology (Print), v. 138, p. 106-113, 2010.
+Citações:20|24
+
+172.
+Coêlho, Zirlane Castelo B ; Teixeira, Maria Jania ; Mota, Erika Freitas ; Frutuoso, Mércia Sindeaux ; Silva, J. S. ; Barral, Aldina ; Barral-Netto, Manoel ; Pompeu, Margarida Maria L . In vitro initial immune response against Leishmania amazonensis infection is characterized by an increased production of IL-10 and IL-13. The Brazilian Journal of Infectious Diseases (Impresso), v. 14, p. 476-482, 2010.
+Citações:3|4
+
+173.
+Bolpetti, Aline ; Silva, J. S. ; Villa, Luisa L ; Lepique, Ana . Interleukin-10 production by tumor infiltrating macrophages plays a role in Human Papillomavirus 16 tumor growth. BMC Immunology (Online), v. 11, p. 27-39, 2010.
+Citações:32|38
+
+174.
+Tessaroli, V. ; Gasparoto, T. H. ; Lima, Hayana Ramos ; Figueira, E. A. ; Garlet, T. P. ; Torres, S. A. ; GARLET, Gustavo Pompermaier ; Silva, J. S. ; Campanelli, A. P. . Absence of TLR2 influences survival of neutrophils after infection with. Medical Mycology (Oxford. Print), v. 48, p. 129-140, 2010.
+Citações:16|19
+
+175.
+Gasparoto, T. H. ; Tessaroli, V. ; Garlet, T. P. ; Torres, S. A. ; GARLET, Gustavo Pompermaier ; Silva, J. S. ; Campanelli, A. P. . Absence of functional TLR4 impairs response of macrophages after Candida albicans infection. Medical Mycology (Oxford. Print), v. 48, p. 1009-1017, 2010.
+Citações:16|18
+
+176.
+MARANA, HEITOR R.C. ; TIEZZE, DANIEL G. ; DE ANDRADE, JURANDYR M. ; DA SILVA, JOÃO S. . HIF-1? and Locally Advanced Breast Cancer. The Breast Journal, v. 16, p. 569-570, 2010.
+Citações:1|1
+
+177.
+Trombone, A. P. F. ; Ferreira Jr, S. B. ; Raimundo, F. M. ; de Moura, K. C. R. ; Avila-Campos, M. J. ; Silva, J. S. ; Campanelli, A. P. ; De Franco, M. ; Garlet, G. P. . Experimental periodontitis in mice selected for maximal or minimal inflammatory reactions: increased inflammatory immune responsiveness drives increased alveolar bone loss without enhancing the control of periodontal infection. Journal of Periodontal Research, v. 44, p. 443-451, 2009.
+Citações:30|35
+
+178.
+Cardoso, C. R. ; Provinciatto, P. R. ; Godoi, D. F ; Ferreira, B. R. ; Teixeira, G. ; Rossi, M. A. ; Cunha, F. Q. ; Silva, J. S. . IL-4 regulates susceptibility to intestinal inflammation in murine food allergy. American Journal of Physiology: Gastrointestinal and Liver Physiology, v. 296, p. G593-G600, 2009.
+Citações:18|26
+
+179.
+Fukada, S. Y. ; Silva, T. A. ; Garlet, G. P. ; Rosa, A. L. ; Cunha, F. Q. ; Silva, J. S. . Factors involved in the T helper type 1 and type 2 cell commitment and osteoclast regulation in inflammatory apical diseases. Oral Microbiology and Immunology, v. 24, p. 25-31, 2009.
+Citações:45|52
+
+180.
+Cardoso, C. R. ; Garlet, G. P. ; Crippa, G. E. ; Rosa, A. L. ; Júnior, W. M. ; Rossi, M. A. ; Silva, J. S. . Evidence of the presence of T helper type 17 cells in chronic lesions of human periodontal disease. Oral Microbiology and Immunology, v. 24, p. 1-6, 2009.
+Citações:109|111
+
+181.
+Trombone, A. P. F. ; Cardoso, C. R. ; Repeke, C. E. ; Ferreira Jr, S. B. ; Martins, W. Jr. ; Campanelli, A. P. ; Avila-Campos, M. J. ; Trevilatto, P. C. ; Silva, J. S. ; Garlet, G. P. . Tumor necrosis factor-alpha ?308G/A single nucleotide polymorphism and red-complex periodontopathogens are independently associated with increased levels of tumor necrosis factor-? in diseased periodontal tissues. Journal of Periodontal Research, v. 44, p. 598-608, 2009.
+
+182.
+Livonesi, M. ; Rossi, M. A. ; Desouto, J. ; Campanelli, A. P. ; Desousa, R. ; Maffei, C. ; Ferreira, B. R. ; Martinez, R. ; Silva, J. S. . Inducible nitric oxide synthase-deficient mice show exacerbated inflammatory process and high production of both Th1 and Th2 cytokines during paracoccidioidomycosis. Microbes and Infection, v. 11, p. 123-132, 2009.
+Citações:13|14
+
+183.
+Trocolitorrecilhas, A. ; Tonelli, R. ; Pavanelli, W. R. ; DaSilva, J. ; Schumacher, R. ; DeSouza, W. ; Esilva, N. ; Dealmeidaabrahamsohn, I. ; Colli, W. ; Mansonalves, M. ; Silva, J. S. . Trypanosoma cruzi: parasite shed vesicles increase heart parasitism and generate an intense inflammatory response. Microbes and Infection, v. 11, p. 29-39, 2009.
+Citações:49|46
+
+184.
+Alves-Filho, J. C. ; Freitas, A ; Souto, F. O. ; Spiller, F. ; Paula-Neto, H. ; Silva, J. S. ; Gazzinelli, R. T. ; Teixeira, M. M. ; Ferreira, S. H. ; Cunha, F. Q. . Regulation of chemokine receptor by Toll-like receptor 2 is critical to neutrophil migration and resistance to polymicrobial sepsis. Proceedings of the National Academy of Sciences of the United States of America, v. 106, p. 4018-4023, 2009.
+Citações:119|117
+
+185.
+Faria, G. ; Cardoso, C. ; Larson, R. ; Rossi, M. A. ; Silva, J. S. . Chlorhexidine-induced apoptosis or necrosis in L929 fibroblasts: A role for endoplasmic reticulum stress. Toxicology and Applied Pharmacology, v. 234, p. 256-265, 2009.
+Citações:41|44
+
+186.
+Ribeiro, D. P. ; Freitas, M. M. P. ; Cardodo, M. R. D. ; Pajuaba, A. C. A. ; Silva, Neide M. ; Mineo, T. W. P. ; Silva, J. S. ; MINEO, J. R. . CpG-ODN combined with Neospora caninum lysate, but not with excreted-secreted antigen, enhances protection against infection in mice.. Vaccine (Guildford), v. 27, p. 2570-2579, 2009.
+Citações:18|21
+
+187.
+Gutierrez, F. R. S. ; Mineo, T. W. P. ; Pavanelli, W. R. ; Guedes, P. M. M ; Silva, J. S. . The effects of nitric oxide on the immune system during Trypanosoma cruzi infection. Memórias do Instituto Oswaldo Cruz (Impresso), v. 104, p. 236-45, 2009.
+Citações:45|5|59
+
+188.
+Vieira, SM ; Lemos, HP ; Grespan, R ; Napimoga, MH ; Dal-Secco, D ; Freitas, A ; Cunha, TM ; Verri Jr, WA ; Souza-Junior, DA ; Jamur, MC ; Fernandes, KS ; Oliver, C ; Silva, J. S. ; Teixeira, MM ; Cunha, FQ . A crucial role for TNF-? in mediating neutrophil influx induced by endogenously generated or exogenous chemokines, KC/CXCL1 and LIX/CXCL5. British Journal of Pharmacology, v. 158, p. 779-789, 2009.
+Citações:61|63
+
+189.
+Repeke, C. E. ; Trombone, A. P. F. ; Ferreira Jr, S. B. ; Cardoso, C. R. ; Silveira, E. M. ; Martins-Jr., W. ; Trevilatto, P. C. ; Silva, J. S. ; Campanelli, A. P. ; Garlet, G. P. . Strong and persistent microbial and inflammatory stimuli overcome the genetic predisposition to higher matrix metalloproteinase-1 (MMP-1) expression: a mechanistic explanation for the lack of association of MMP1-1607 single-nucleotide polymorphism genotypes with MMP-1 expression in chronic periodontitis lesions. Journal of Clinical Periodontology, v. 36, p. 726-738, 2009.
+Citações:19|25
+
+190.
+Silva, J. J. N. ; Pavanelli, W. R. ; Pereira, J. C. M. ; Silva, J. S. ; Franco, D. W. . Experimental Chemotherapy against Trypanosoma cruzi Infection Using Ruthenium Nitric Oxide Donors. Antimicrobial Agents and Chemotherapy (Print), v. 53, p. 4414-4421, 2009.
+Citações:26|35
+
+191.
+Gutierrez, F. R. S. ; Guedes, P. M. M ; Gazzinelli, R. T. ; Silva, J. S. . The role of parasite persistence in pathogenesis of Chagas heart disease. Parasite Immunology (Print), v. 31, p. 673-685, 2009.
+Citações:75|77
+
+192.
+Rodrigues, R. M. S. ; Silva, N. M. ; Gonçalves, A. L. R. ; Cardoso, C. R. ; Alves, R. ; Gonçalves, F. A. ; Beletti, M. E. ; Ueta, M. ; Silva, J. S. ; Costa-Cruz, J. M. . Major histocompatibility complex (MHC) class II but not MHC class I molecules are required for efficient control of Strongyloides venezuelensis infection in mice. Immunology (Oxford. Print), v. 128, p. e432-e441, 2009.
+Citações:6|11
+
+193.
+Figueira, E. A. ; deRezende, M. L. R. ; Torres, S. A. ; Garlet, G. P. ; Soares, L. V. ; Santos, C. F. ; Avila-Campos, M. J. ; Silva, J. S. ; Campanelli, A. P. . Inhibitory Signals Mediated by Programmed Death-1 Are Involved With T-Cell Function in Chronic Periodontitis. Journal of Periodontology (1970), v. 80, p. 1833-1844, 2009.
+Citações:4|6
+
+194.
+Mineo, T. W. P. ; Benevides, L. ; Silva, N. M. ; Silva, J. S. . Myeloid differentiation factor 88 is required for resistance to Neospora caninum infection. Veterinary Research (Print), v. 40, p. 32-44, 2009.
+Citações:12|10
+
+195.
+Gelani, V. ; Fernandes, A. P. ; Gasparoto, T. H. ; Garlet, T. P. ; Cestari, T. M. ; Lima, Hayana Ramos ; Ramos, Erivan Schnaider ; Malaspina, T. S. d. S. ; Santos, C. F. ; GARLET, Gustavo Pompermaier ; Silva, J. S. ; Campanelli, A. P. . The Role of Toll-Like Receptor 2 in the Recognition of Aggregatibacter actinomycetemcomitans. Journal of Periodontology (1970), v. 80, p. 2010-2019, 2009.
+Citações:20|25
+
+196.
+Crispim JC ; R. Costa ; SILVA, J. S. ; Mendes-Júnior CT ; Wastowski IJ ; SABER, L. T. S. ; DONADI, E. A. . Human leukocyte antigen-G expression after kidney transplantation is associated with a reduced incidence of rejection. Transplant Immunology, v. 18, p. 361-367, 2008.
+Citações:42|51
+
+197.
+Oliveira CJ ; CAVASSANI, K. A. ; MORÉ, D. D. ; Garlet, G. P. ; ALIBERTI, J. C. S. ; SILVA, J. S. ; FERREIRA, Beatriz Rossetti . Tick saliva inhibits the chemotactic function of MIP-1alpha and selectively impairs chemotaxis of immature dendritic cells by down-regulating cell-surface CCR5.. International Journal for Parasitology, v. 38, p. 705-716, 2008.
+Citações:25|25
+
+198.
+FERNANDES, K. S. S. ; Neto EH ; Britto MM ; SILVA, J. S. ; CUNHA, F Q ; Barja-Fidalgo C . Detrimental role of endogenous nitric oxide in host defence against Sporothrix schenckii.. Immunology (Oxford. Print), v. 123, p. 469-479, 2008.
+Citações:22|26
+
+199.
+CARDOSO, Cristina Ribeiro de Barros ; Teixeira G ; Provinciatto PR ; GODOI, D. F. ; FERREIRA, Beatriz Rossetti ; MILANEZI, C. M. ; Ferraz DB ; Rossi, M. A. ; CUNHA, F Q ; SILVA, J. S. . Modulation of mucosal immunity in a murine model of food-induced intestinal inflammation.. Clinical and Experimental Allergy (Print), v. 38, p. 338-349, 2008.
+Citações:33
+
+200.
+ MOREIRA, Ana Paula ; CAVASSANI, K. A. ; F. S. M. Tristão ; CAMPANELLI, Ana Paula ; MARTINEZ, Roberto ; Rossi, M. A. ; Silva, J. S. . CCR5-Dependent Regulatory T Cell Migration Mediates Fungal Survival and Severe Immunosuppression. The Journal of Immunology (1950), v. 180, p. 3049-3056, 2008.
+Citações:56|57
+
+201.
+Mukherjee, S. ; Nagajyothi, F. ; Mukhopadhyay, A. ; Machado, F. ; Belbin, T. J. ; Campos, C. A. ; Campos, A. C. ; Guan, F. ; Albanese, C. ; Jelicks, L. A. ; Silva, J. S. ; Lisanti, M. P. . Alterations in myocardial gene expression associated with experimental Trypanosoma cruzi infection. Genomics (San Diego), v. 91, p. 423-432, 2008.
+Citações:12|14
+
+202.
+Garlet TP ; Coelho U. ; Repeke CE ; SILVA, J. S. ; Cunha FD ; GARLET, Gustavo Pompermaier . Differential expression of osteoblast and osteoclast chemmoatractants in compression and tension sides during orthodontic movement.. Cytokine (Philadelphia), v. 42, p. 330-335, 2008.
+Citações:56|61
+
+203.
+Garlet, Gustavo P. ; Cardoso, Cristina R.B. ; Campanelli, Ana P. ; Garlet, Thiago P. ; Avila-Campos, Mario J. ; Cunha, Fernando Q. ; Silva, J. S. . The essential role of IFN-Î³ in the control of lethal Aggregatibacter actinomycetemcomitans infection in mice. Microbes and Infection, v. 10, p. 489-496, 2008.
+Citações:45|48
+
+204.
+CARREGARO, V. ; VALENZUELA, J. G. ; CUNHA, T. M. ; VERRI JUNIOR, W. A. ; Grespan R ; Matsumura G ; RIBEIRO, J. M. ; Elnaiem DE ; SILVA, J. S. ; CUNHA, F Q . Phlebotomine salivas inhibit immune inflammation-induced neutrophil migration vian autocrine DC-derived PGE2/IL-10 sequencial pathway.. Journal of Leukocyte Biology, v. 84, p. 104-114, 2008.
+Citações:21|18
+
+205.
+Crippa GE ; Beloti MM ; CARDOSO, Cristina Ribeiro de Barros ; SILVA, J. S. ; A. L. Rosa . Effect of growth hormone on in vitro osteogenesis and gene expression of human osteoblastic cells is donor-age-dependent.. Journal of Cellular Biochemistry, v. 104, p. 369-376, 2008.
+Citações:4|4
+
+206.
+Marianol FS ; GUTIERREZ, F. R. S. ; PAVANELLI, W. R. ; MILANEZI, C. M. ; CAVASSANI, K. A. ; MOREIRA, Ana Paula ; Ferreira BR ; CUNHA, F Q ; CARDOSO, Cristina Ribeiro de Barros ; SILVA, J. S. . The involvement of CD4(+)CD25(+) T cells in the acute phase of Trypanosoma cruzi infection.. Microbes and Infection, v. 10, p. 825-833, 2008.
+Citações:47|54
+
+207.
+LIVONESI, M. C. ; SOUTO, J. T. ; CAMPANELLI, Ana Paula ; MAFFEI, C. M. L. ; MARTINEZ, Roberto ; Rossi, M. A. ; SILVA, J. S. . Deficiency of IL-12p40 subunit determines severe paracoccidioidomycosis in mice.. Medical Mycology (Oxford. Online), v. 46, p. 637-646, 2008.
+Citações:16|17
+
+208.
+PANAGIO, L. A. ; MOREIRA, Ana Paula ; PEREIRA, M. S. F. ; CAVASSANI, K. A. ; MILANEZI, C. M. ; Rossi, M. A. ; SILVA, J. S. . Role of Interleukin (IL)-18 in experimental paracoccidioidomycosis.. Medical Mycology (Oxford. Online), v. 46, p. 435-442, 2008.
+Citações:3|4
+
+209.
+Claudino, M. ; Trombone, A. P. F. ; CARDOSO, Cristina Ribeiro de Barros ; Ferreira-Jr, S. B. ; Martins-Jr., W. ; ASSIS, G. F. ; Santos, C. F. ; Trevilatto, P. C. ; Campanelli, A. P. ; Silva, J. S. ; Garlet, G. P. . The broad effects of the functional IL-10 promoter-592 polymorphism: modulation of IL-10, TIMP-3, and OPG expression and their association with periodontal disease outcome. Journal of Leukocyte Biology, v. 84, p. 1565-1573, 2008.
+Citações:39|44
+
+210.
+Cardoso, C. R. ; Provinciatto, P. R. ; GODOI, D. F. ; Vieira, T. S. ; Ferreira, B. R. ; Teixeira, G. ; Rossi, M. A. ; Cunha, F. Q. ; Silva, J. S. . B cells are involved in the modulation of pathogenic gut immune response in food-allergic enteropathy. Clinical and Experimental Immunology, v. 154, p. 153-161, 2008.
+Citações:4|6
+
+211.
+Benevides, L. ; MILANEZI, C. M. ; YAMAUCHI, L. M. ; BENJAMIM, C. F. ; Silva, J. S. ; Silva, N. M. . CCR2 Receptor Is Essential to Activate Microbicidal Mechanisms to Control Toxoplasma gondii Infection in the Central Nervous System. The American Journal of Pathology, v. 173, p. 741-751, 2008.
+Citações:20|20
+
+212.
+MACHADO, F ; SOUTO, J ; ROSSI, M ; ESPER, L ; TANOWITZ, H ; ALIBERTI, J ; Silva, J. S. . Nitric oxide synthase-2 modulates chemokine production by Trypanosoma cruzi-infected cardiac myocytes. Microbes and Infection, v. 10, p. 1558-1566, 2008.
+Citações:38|39
+
+213.
+Fukada, S.Y. ; Silva, T.A. ; Saconato, I.F. ; Garlet, G.P. ; Avila-Campos, M.J. ; Silva, J. S. ; Cunha, F.Q. . iNOS -derived Nitric Oxide Modulates Infection-stimulated Bone Loss. Journal of Dental Research, v. 87, p. 1155-1159, 2008.
+Citações:32|35
+
+214.
+GONCALVES, A ; RODRIGUES, R ; SILVA, N ; GONCALVES, F ; CARDOSO, C ; BELETTI, M ; UETA, M ; Silva, J. S. ; COSTACRUZ, J . Immunolocalization and pathological alterations following Strongyloides venezuelensis infection in the lungs and the intestine of MHC class I or II deficient mice. Veterinary Parasitology (Print), v. 158, p. 319-328, 2008.
+Citações:4|7
+
+215.
+Ferreira, S. B. ; Trombone, A. P. F. ; Repeke, C. E. ; Cardoso, C. R. ; Martins, W. ; Santos, C. F. ; Trevilatto, P. C. ; Avila-Campos, M. J. ; Campanelli, A. P. ; Silva, J. S. ; Garlet, G. P. . An Interleukin-1  (IL-1 ) Single-Nucleotide Polymorphism at Position 3954 and Red Complex Periodontopathogens Independently and Additively Modulate the Levels of IL-1  in Diseased Periodontal Tissues. Infection and Immunity (Print), v. 76, p. 3725-3734, 2008.
+Citações:38|44
+
+216.
+Gutierrez, Fredy  ; Lalu, Manoj  ; Mariano, Flávia  ; Milanezi, Cristiane  ; Cena, Jonathan ; Gerlach, Raquel  ; Santos, Jose  ; Torres Dueñas, Diego ; Cunha, Fernando  ; Schulz, Richard ; Silva, J. S. . Increased Activities of Cardiac Matrix Metalloproteinases Matrix Metalloproteinase (MMP) 2 and MMP 9 Are Associated with Mortality during the Acute Phase of Experimental. The Journal of Infectious Diseases, v. 197, p. 1468-1476, 2008.
+Citações:44|62
+
+217.
+Silva, Jean Jerley Nogueira ; PAVANELLI, W. R. ; GUTIERREZ, F. R. S. ; Alves Lima, Francisco Chagas ; Ferreira da Silva, AlbeÌ rico Borges ; Silva, J. S. ; FRANCO, D. W. . Complexation of the anti- Trypanosoma cruzi Drug Benznidazole Improves Solubility and Efficacy. Journal of Medicinal Chemistry, v. 51, p. 4104-4114, 2008.
+Citações:38|49
+
+218.
+Carvalho, Wanessa Araújo ; BECHARA, GERVASIO HENRIQUE ; Moré, Daniela Dantas ; FERREIRA, Beatriz Rossetti ; da Silva, João Santana ; de Miranda Santos, Isabel K. Ferreira . Rhipicephalus (Boophilus) microplus: Distinct acute phase proteins vary during infestations according to the genetic composition of the bovine hosts, Bos taurus and Bos indicus. Experimental Parasitology, v. 118, p. 587-591, 2008.
+Citações:12|11
+
+219.
+CARDOSO, Cristina Ribeiro de Barros ; Garlet, G.P. ; MOREIRA, Ana Paula ; VERRI JUNIOR, W. A. ; Rossi, M. A. ; SILVA, J. S. . Characterization of CD4+CD25+ natural regulatory T cells in the inflammatory infiltrate of human chronic periodontitis.. Journal of Leukocyte Biology, v. 84, p. 311-318, 2008.
+Citações:56|75
+
+220.
+Garlet, G.P. ; CARDOSO, Cristina Ribeiro de Barros ; CAMPANELLI, Ana Paula ; FERREIRA, Beatriz Rossetti ; ÁVILACAMPOS, M. J. ; CUNHA, F Q ; SILVA, J. S. . The dual role of p55 tumour necrosis factor-alpha receptor in Actinobacillus actinomycetemcomitans-induced experimental periodontitis: host protection and tissue destruction.. Clinical and Experimental Immunology, v. 147, p. 128-138, 2007.
+Citações:92|89
+
+221.
+Roffê, E. ; Souza, A.L.S. ; Machado, P.P. ; Barcelos, L.S. ; Romanha, A.J. ; Mariano, F.S. ; Silva, J. S. ; Machado, C.R. ; Tanowitz, H.B. ; Teixeira, M.M. . Endothelin-1 receptors play a minor role in the protection against acute Trypanosoma cruzi infection in mice. Brazilian Journal of Medical and Biological Research on line, v. 40, p. 391-399, 2007.
+Citações:2|3
+
+222.
+Silva, T.A. ; Garlet, G.P. ; Fukada, S.Y. ; Silva, J. S. ; Cunha, F.Q. . Chemokines in Oral Inflammatory Diseases: Apical Periodontitis and Periodontal Disease. Journal of Dental Research, v. 86, p. 306-319, 2007.
+Citações:152|178
+
+223.
+FARIA, G ; CELES, Mara Rúbia Nunes ; De Rossi A ; Silva LA ; SILVA, J. S. ; Rossi MA . Evaluation of chlorhexidine toxicity injected in the paw of mice and added to cultured l929 fibroblasts. Journal of Endodontics, v. 33, p. 715-722, 2007.
+Citações:24|33
+
+224.
+Silva JJ ; Osakabe AL ; PAVANELLI, W. R. ; SILVA, J. S. ; FRANCO, D. W. . In vitro and in vivo antiproliferative and trypanocidal activities of ruthenium NO donors.. British Journal of Pharmacology, v. 152, p. 112-121, 2007.
+Citações:46|46
+
+225.
+Frauenschuh A ; Power CA ; Deruaz M ; FERREIRA, Beatriz Rossetti ; SILVA, J. S. ; TEIXEIRA, M. M. ; Dias JM ; Wells TN ; Proudfoot AE . Molecular Cloning and Characterization of a Highly Selective Chemokine-binding Protein from the Tick Rhipicephalus sanguineus.. The Journal of Biological Chemistry, v. 282, p. 27250-27258, 2007.
+Citações:66|66
+
+226.
+Farias, Alessandro S. ; de la Hoz, Cristiane ; Castro, Fabiano R. ; Oliveira, Elaine C. ; Ribeiro dos Reis, Jose R. ; Silva, J. S. ; Langone, Francesco ; Santos, Leonilda M.B. . Nitric Oxide and TNF&alpha; Effects in Experimental Autoimmune Encephalomyelitis Demyelination. Neuroimmunomodulation, v. 14, p. 32-38, 2007.
+Citações:24|26
+
+227.
+Silverio- Ruiz KG ; Garlet, G.P. ; SILVA, J. S. ; CICARELLI, R. M. B. ; Valentini SR ; Junior CR . Opposite effects of bFGF and TGF-beta on collagen metabolism by human periodontal ligament fibroblasts.. Cytokine (Philadelphia), v. 39, p. 130-137, 2007.
+Citações:1|32
+
+228.
+Garlet TP ; Coelho U. ; SILVA, J. S. ; Garlet, G.P. . Cytokine expression pattern in compression and tension sides of the periodontal ligament during orthodontic tooth movement in humans.. European Journal of Oral Sciences, v. 115, p. 355-362, 2007.
+Citações:93|124
+
+229.
+YAMAUCHI, LUCY M. ; Aliberti, Júlio C. ; BARUFFI, MARCELO D. ; PORTELA, RICARDO W. ; Rossi, Marcos A. ; Gazzinelli, Ricardo T. ; Mineo, José R. ; SILVA, JOÃO S. . The binding of CCL2 to the surface of Trypanosoma cruzi induces chemo-attraction and morphogenesis. Microbes and Infection, v. 9, p. 111-118, 2007.
+Citações:6|8
+
+230.
+Garlet, G. P. ; Cardoso, C. R. ; Silva, T. A. ; Ferreira, B. R. ; Ávila-Campos, M. J. ; Cunha, F. Q. ; Silva, J. S. . Cytokine pattern determines the progression of experimental periodontal disease induced by Actinobacillus actinomycetemcomitans through the modulation of MMPs, RANKL, and their physiological inhibitors. Oral Microbiology and Immunology, v. 21, p. 12-20, 2006.
+Citações:107|123
+
+231.
+TEIXEIRA, C. R. ; CAVASSANI, K. A. ; GOMES, R. ; Teixeira M. J. ; ROQUEBARREIRA, M. ; Cavada B. S. ; SILVA, J. S. ; BARRAL, Aldina Maria Prado ; BARRAL NETO, M. . Potential of KM+ lectin in immunization against Leishmania amazonensis infection. Vaccine (Guildford), v. 24, p. 3001-3008, 2006.
+Citações:35|28
+
+232.
+CAMPANELLI, Ana Paula ; ROSELINO, A. M. F. ; CAVASSANI, K. A. ; PEREIRA, M. S. F. ; MORTARA, R. ; BRODSKYN, Claudia ; GONÇALVES, H. S. ; BELKAID, Y. ; BARRAL NETO, M. ; SILVA, J. S. . CD4+CD25+ T cells in skin lesions of patients with cutaneous leishmaniasis exhibit phenotypic and functional characteristics of natural regulatory T cells. The Journal of Infectious Diseases, v. 193, p. 1313-1322, 2006.
+Citações:113|127
+
+233.
+CRUZ, D. A. M. ; SILVA, J. S. ; COTTADEALMEIDA, V. ; SAVINO, W. . Altered thymocyte migration during experimental acute Trypanosoma cruzi infection: combined role of fibronectin and the chemokines CXCL12 and CCL4. European Journal of Immunology, v. 36, p. 1486-1493, 2006.
+Citações:26|33
+
+234.
+RAMOS, C. D. L. ; FERNANDES, K. S. S. ; CANETTI, C. A. ; TEIXEIRA, M. M. ; SILVA, J. S. ; CUNHA, F Q . Neutrophil recruitment in immunized mice depends on MIP-2 inducing the sequential release of MIP-1a and LTB4. European Journal of Immunology, v. 36, p. 2025-2034, 2006.
+Citações:34|43
+
+235.
+MORENO, S. ; ALVES-FILHO, J. C. ; RIOS-SANTOS, F. ; SILVA, J. S. ; FERREIRA, S. H. ; CUNHA, F Q ; TEIXEIRA, M. M. . Signaling via Platelet-Activating Factor Receptors Accounts for the Impairment of Neutrophil Migration in Polymicrobial Sepsis. The Journal of Immunology (1950), v. 177, p. 1264-1271, 2006.
+Citações:38|40
+
+236.
+MACCHETTI, A. H. ; MARANA, H. C. ; SILVA, J. S. ; ANDRADE, J. M. ; RIBEIRO-SILVA, A. ; BIGHETTI, S. . Tumor-Infiltrating CD4+ T Lynphocytes in Early Breast Cancer Reflect Lymph Node Involvement. Clinics (São Paulo), v. 61, p. 203-208, 2006.
+Citações:32
+
+237.
+MORENO, S. ; ALVES-FILHO, J. C. ; ALFAYA, T. M. ; SILVA, J. S. ; FERREIRA, S. H. ; LIEW, F. Y. . IL-12, but Not IL-18, Is Critical to Neutrophil Activation and Resistance to Polymicrobial Sepsis Induced by Cecal Ligation and Puncture. The Journal of Immunology (1950), v. 177, p. 3218-3224, 2006.
+Citações:49|58
+
+238.
+Garlet, G.P. ; CARDOSO, Cristina Ribeiro de Barros ; CAMPANELLI, Ana Paula ; MARTINS JR, W. ; SILVA, J. S. . Expression of suppressors of cytokine signaling in diseased periodontal tissues: a stop signal for disease progression?. Journal of Periodontal Research, v. 41, p. 580-584, 2006.
+Citações:36|38
+
+239.
+CAVASSANI, K. A. ; CAMPANELLI, Ana Paula ; MOREIRA, Ana Paula ; VANCIM, J. O. ; VITALI, L. H. ; MAMEDE, R. C. M. ; MARTINEZ, Roberto ; SILVA, J. S. . Systemic and Local Characterization of Regulatory T Cells in a Chronic Fungal Infection in Humans. The Journal of Immunology (1950), v. 177, p. 5811-5818, 2006.
+Citações:77|86
+
+240.
+MOREIRA, Ana Paula ; CAMPANELI, Ana Paula ; CAVASSANI, Karen ; SOUTO, J. T. ; FERREIRA, Beatriz Rossetti ; MARTINEZ, Roberto ; Rossi, M. A. ; SILVA, J. S. . Intercellular adhesion molecule-1 is required for the early formation of granulomas and participates in the resistance of mice to the infection with the fungus Paracoccidioides brasiliensis.. The American Journal of Pathology, v. 169, p. 1270-1281, 2006.
+Citações:9|11
+
+241.
+DAL SECCO, DANIELA ; MOREIRA, ANA P. ; Freitas, Andressa ; SILVA, JOÃO S. ; Rossi, Marcos A. ; Ferreira, Sérgio H. ; Cunha, Fernando Q. . Nitric oxide inhibits neutrophil migration by a mechanism dependent on ICAM-1: Role of soluble guanylate cyclase. Nitric Oxide (Print), v. 15, p. 77-86, 2006.
+Citações:56|58
+
+242.
+CAVASSANI, K. A. ; ALIBERTI, J. C. S. ; DIAS, A. V. R. ; SILVA, J. S. ; FERREIRA, Beatriz Rossetti . Tick saliva inhibits differentiation, maturation, and function of murine bone-marrow-derived dendritic cells. Immunology (Oxford), Inglaterra, v. 114, p. 235-245, 2005.
+Citações:55|49
+
+243.
+MACHADO, F S ; KOYAMA, N. S. ; CARREGARO, V. ; FERREIRA, Beatriz Rossetti ; MILANEZI, C. M. ; TEIXEIRA, M. M. ; Rossi, M. A. ; SILVA, J. S. . CCR5 plays a critical role in the development of myocarditis and host protection in mice infected with Trypanosoma cruzi. The Journal of Infectious Diseases, v. 191, p. 627-636, 2005.
+Citações:75|81
+
+244.
+Silva, T. A. ; LARA, V S ; Silva, J. S. ; OLIVEIRA, S H P ; BUTLER, W T ; CUNHA, F Q . Macrophages and Mast Cells Control the Neutrophil Migration Induced by Dentin Proteins. Journal of Dental Research, J Dent Res, v. 84, p. 79-83, 2005.
+Citações:12|15
+
+245.
+CUNHA, T. M. ; Verri Jr, WA ; Silva, J. S. ; POOLE, S. ; Cunha, F. Q. ; Ferreira, S. H. . A cascade of cytokines mediates mechanical inflammatory hypernociception in mice. Proceedings of the National Academy of Sciences of the United States of America (Online), USA, v. 102, p. 1755-1760, 2005.
+Citações:304|354
+
+246.
+Teixeira, M. J. ; FERNANDES, J. D. ; TEIXEIRA, C. R. ; ANDRADE, B. B. ; Pompeu, M. L. ; Silva, J. S. ; Brodskyn, C. I. ; Barral-Netto, M. ; BARRAL, A. . Distinct Leishmania braziliensis Isolates Induce Different Paces of Chemokine Expression Patterns. Infection and Immunity (Print), USA, v. 73, p. 1191-1195, 2005.
+Citações:34|32
+
+247.
+RAMOS, C. L. ; CANETTI, C. A. ; SOUTO, J. T. ; SILVA, J. S. ; FERREIRA, S. H. ; CUNHA, F Q . Mip-1a acting on the CCR1 receptor mediates neutrophil migration in immune inflammation via sequential release on TNF-a and LTB4. Journal of Leukocyte Biology, USA, v. 78, p. 167-177, 2005.
+Citações:81|89
+
+248.
+Garlet, G.P. ; ÁVILACAMPOS, M. J. ; MILANEZI, C. M. ; FERREIRA, Beatriz Rossetti ; SILVA, J. S. . Actinobacillus actinomycetemcomitans-induced periodontal disease in mice: patterns of cytokine, chemikine, and chemikine receptors expression and leukocyte migration. Microbes and Infection, v. 7, p. 738-747, 2005.
+Citações:53|60
+
+249.
+SOUZA, A. C. ; MACHADO, F S ; CELES, Mara Rúbia Nunes ; FARIA, G ; ROCHA, L B ; SILVA, J. S. ; Rossi, M. A. . Mitochondrial damage as an early event of monensin-induced cell injury in cultured fibroblasts L929.. Journal of Veterinary Medicine. Series A, Blackwell Verlag, Berlin, v. 52, n.5, p. 230-237, 2005.
+Citações:16|23
+
+250.
+CARNIO, E C ; STABILE, A M ; BATALHÃO, M E ; SILVA, J. S. ; RODRIGUES, J A ; BRANCO, L G S ; MAGDER, S . Vasopressin release during endotoxaemic shock in mice lacking inducible nitric oxide synthase.. European Journal of Applied Physiology, v. 450, p. 390-394, 2005.
+Citações:23|27
+
+251.
+MONTEIRO, M C ; NOGUEIRA, L G ; SOUZA, A A A ; RIBEIRO, J M C ; SILVA, J. S. ; CUNHA, F Q . Effect of salivary gland extract of Leishmania vector, Lutzomyia longipalpis, on leukocyte migration in OVA-induced immune peritonitis.. European Journal of Immunology, Alemanha, v. 35, p. 2424-2433, 2005.
+Citações:10|13
+
+252.
+MICHELIN, M A ; SILVA, J. S. ; CUNHA, F Q . Inducible cyclooxygenase released prostaglandin mediates immunosuppression in acute phase of experimental Trypanosoma cruzi infection.. Experimental Parasitology, Eua, v. 111, p. 71-79, 2005.
+Citações:30|30
+
+253.
+Cunha-Neto, Edecio ; Dzau, Victor J. ; Allen, Paul D. ; Stamatiou, Dimitri ; Benvenutti, Luiz ; Higuchi, M. Lourdes ; Koyama, Natalia S. ; Silva, J. S. ; Kalil, Jorge ; Liew, Choong-Chin . Cardiac Gene Expression Profiling Provides Evidence for Cytokinopathy as a Molecular Mechanism in Chagas' Disease Cardiomyopathy. The American Journal of Pathology (Print), Boston, MA, v. 167, n.2, p. 305-313, 2005.
+Citações:64|66
+
+254.
+SILVA, T A ; Garlet, G.P. ; LARA, V S ; SILVA, J. S. ; CUNHA, F Q . Differential expression of chemokines and chemokine receptors in inflammatory periapical diseases.. Oral Microbiology and Immunology, Blackwell Munksgaard, v. 20, p. 310-316, 2005.
+Citações:44|49
+
+255.
+GOMES, Juliana A S ; BAHIAOLIVEIRA, Lilian M G ; ROCHA, Manoel Otávio C ; BUSEK, Solange C U ; TEIXEIRA, Mauro M ; SILVA, J. S. ; CORREAOLIVEIRA, Rodrigo . Type 1 Chemokine Receptor Expression in Chagas´Disease Correlates with Morbidity in Cardiac Patients. Infection and Immunity, v. 73, n.12, p. 7960-7966, 2005.
+Citações:57|67
+
+256.
+TEIXEIRA, C. R. ; Teixeira M. J. ; GOMES, R. B. B. ; SANTOS, C. S. ; ANDRADE, B. B. ; RAFAELE-NETTO, ; SILVA, J. S. ; GUGLIELMOTTI, A. ; MIRANDA, J. C. ; BARRAL, Aldina Maria Prado . Saliva from Lutzomyia longipalpis Induces CC Chemokine Ligand 2/Monocyte Chemoattractant Protein-1 Expression and Macrophage Recruitment. The Journal of Immunology (1950), EUA, v. 175, p. 8346-8353, 2005.
+Citações:40|44
+
+257.
+Garlet, G.P. ; MARTINS JR, W. ; FERREIRA, Beatriz Rossetti ; SILVA, J. S. . Matrix metalloproteinases, their physiological inhibitors and osteoclast factors are differentially regulated by the cytokine profile in human periodontal disease.. Journal of Clinical Periodontology, USA, v. 31, n.8, p. 671-679, 2004.
+Citações:122|137
+
+258.
+SECCO, D. ; PARON, J. ; OLIVEIRA, S. H. P. ; FERREIRA, S. H. ; SILVA, J. S. ; CUNHA, F Q . Neutrophil migration in inflammation: nitric oxide inhibits rolling, adhesion and induces apoptosis.. Nitric Oxide. Biology and Chemistry, v. 9, p. 153-164, 2004.
+Citações:51|93
+
+259.
+ Arantes, Rosa M.E. ; Marche, Homero H.F. ; Bahia, Maria T. ; Cunha, Fernando Q. ; Rossi, Marcos A. ; Silva, J. S. . Interferon- -Induced Nitric Oxide Causes Intrinsic Intestinal Denervation in Trypanosoma cruzi-Infected Mice. The American Journal of Pathology (Print), v. 164, n.4, p. 1361-1368, 2004.
+Citações:36|35
+
+260.
+RIAL, A. ; LENS, D. ; BETANCOR, L. ; BENKIEL, H. ; SILVA, J. S. ; CHABALGOITY, J. A. . Intranasal immunization with a colloid-formulated bacterial extract induces an acute inflammatory response in the lungs and elicits specific immune responses.. Infection and Immunity, v. 72, n.5, p. 2679-2688, 2004.
+Citações:12|11
+
+261.
+MICHAILOWSKY, V. ; CELES, Mara Rúbia Nunes ; MARINO, A. P. M. P. ; SILVA, A. A. ; VIEIRA, L. Q. ; Rossi, M. A. ; GAZZINELLI, R. T. ; LANNESVIEIRA, J. ; SILVA, J. S. . Intercellular Adhesion Molecule 1 Deficiency Leads to Impaired Recruitment of T Lymphocytes and Enhanced Host Susceptibility to Infection with Trypanosoma cruzi. The Journal of Immunology (1950), USA, v. 173, p. 463-470, 2004.
+Citações:25|25
+
+262.
+SILVA, T A ; LARA, V S ; SILVA, J. S. ; Garlet, G.P. ; BUTLER, W. T. ; CUNHA, F Q . Dentin Sialoprotein and Phosphoprotein Induce Neutrophil Recruitment: A Mechanism Dependent on IL-1beta, TNF-alpha, and CXC Chemokines.. Calcified Tissue International, USA, v. 74, p. 532-541, 2004.
+Citações:19|20
+
+263.
+MARTINS, G. A. ; TADOKORO, C. E. ; SILVA, J. S. ; RIZZO, L. V. . CTLA-4 Blockage Increases Resistance to Infection with the Intracellular Protozoan Trypanosoma cruzi. The Journal of Immunology (1950), v. 172, p. 4893-4901, 2004.
+Citações:28|30
+
+264.
+Indiani de Oliveira, Camila ; Teixeira, Maria Jania ; Teixeira, Clarissa Romero ; Ramos de Jesus, JoÃ­lson ; Bomura Rosato, AndrÃ©a ; Silva, J. S. ; Brodskyn, ClÃ¡udia ; Barral-Netto, Manoel ; Barral, Aldina . Leishmania braziliensis isolates differing at the genome level display distinctive features in BALB/c mice. Microbes and Infection, Paris, v. 6, p. 977-984, 2004.
+Citações:18|31
+
+265.
+MARTINS, G. A. ; CAMPANELLI, Ana Paula ; SILVA, R. B. ; TADOKORO, C. E. ; RUSSO, M. ; CUNHA, F Q ; RIZZO, L. V. ; SILVA, J. S. . CD28 is required for T cell activation and IFN-gamma production by CD4+ and CD8+ T cells in response to Trypanosoma cruzi infection. Microbes and Infection, França, v. 6, p. 1133-1144, 2004.
+Citações:13|14
+
+266.
+SANTOS, I. K. F. M. ; VALENZUELA, J. G. ; RIBEIRO, J M C ; CASTRO, M. ; COSTA, J. N. ; COSTA, A. M. ; Silva, E. R ; REGO NETO, O. ; ROCHA, C. ; DAFFRE, S. ; Ferreira, B. R. ; Silva, J. S. ; SZABÓ, M. P. ; BECHARA, G. H. . Gene Discovery in Boophilus microplus , the Cattle Tick: The Transcriptomes of Ovaries, Salivary Glands, and Hemocytes. Annals of the New York Academy of Sciences, v. 1026, p. 242-246, 2004.
+Citações:34|34
+
+267.
+Garlet, G.P. ; MARTINS JR, W. ; FERREIRA, Beatriz Rossetti ; MILANEZI, C. M. ; SILVA, J. S. . Patterns of chemokines and chemokine receptors expression in different forms of human periodontal disease.. Journal of Periodontal Research, USA, v. 38, p. 210-217, 2003.
+Citações:147|169
+
+268.
+CAMPANELLI, Ana Paula ; MARTINS, G. A. ; SOUTO, J. T. ; PEREIRA, M. S. F. ; LIVONESI, M. C. ; MARTINEZ, Roberto ; SILVA, J. S. . Fas/Fas ligand (CD95/CD95L) and cytotoxic T-Lymphocite antigen-4 (CTLA-4) engagement mediate the T cell unresponsiveness in patients with Parcoccidioidomycosis. The Journal of Infectious Diseases, USA, v. 187, p. 1496-1505, 2003.
+Citações:24|27
+
+269.
+Campos-Neto, A. ; SUFFIA, I. ; CAVASSANI, K. A. ; JEN, S. ; GREESON, K. ; OVENDALE, P. ; Silva, J. S. ; Reed, S. G. ; SKEIKY, Y. A. W. . Cloning and Characterization of a Gene Encoding an Immunoglobulin-Binding Receptor on the Cell Surface of Some Members of the Family Trypanosomatidae. Infection and Immunity (Print), USA, v. 71, p. 5065-5076, 2003.
+Citações:7|7
+
+270.
+FERREIRA, Beatriz Rossetti ; SZABÓ, M. P. ; CAVASSANI, K. A. ; BECHARA, G. H. ; SILVA, J. S. . Antigens from Rhipicephalus sanguineus ticks elicit potent cell-mediated immune responses in resistant but not in susceptible animals.. Veterinary Parasitology, USA, v. 115, p. 35-48, 2003.
+Citações:22|25
+
+271.
+Souto, Janeusa T. ; Aliberti, Júlio C. ; Campanelli, Ana P. ; Livonesi, Márcia C. ; Maffei, Cláudia M.L. ; Ferreira, Beatriz R. ; Travassos, Luiz R. ; MARTINEZ, Roberto ; Rossi, Marcos A. ; Silva, J. S. . Chemokine Production and Leukocyte Recruitment to the Lungs of Paracoccidioides brasiliensis-Infected Mice Is Modulated by Interferon- . The American Journal of Pathology (Print), v. 163, p. 583-590, 2003.
+Citações:41|47
+
+272.
+GARNICA, M. R. ; SOUTO, J. T. ; SILVA, J. S. ; ANDRADE JR, H. F. . Stromal cell-derived factor-1 production by spleen cells is affected by nitic oxide in protective immunity against blood-stage. Immunology Letters, v. 89, p. 133-142, 2003.
+Citações:5|6
+
+273.
+Talvani, André ; Santana, Gilcinea ; Barcelos, Lucíola S ; Ishii, Satoshi ; Shimizu, Takao ; Romanha, Álvaro J ; Silva, J. S. ; Soares, Milena B.P ; TEIXEIRA, Mauro M . Experimental Trypanosoma cruzi infection in platelet-activating factor receptor-deficient mice. Microbes and Infection, USA, v. 5, p. 789-796, 2003.
+Citações:18|22
+
+274.
+SILVA, JOAO S. The role of nitric oxide in the pathogenesis of Chagas disease. Frontiers in Bioscience, v. 8, p. s314-325, 2003.
+Citações:50|72
+
+275.
+TALVANI, A. ; MACHADO, F S ; SANTANA, G. C. ; KLEIN, A. ; BARCELOS, L. ; SILVA, J. S. ; TEIXEIRA, M. M. . Leukotriene B4 induces nitric oxide synthesis in Trypanosoma cruzi-infected murine macrophages and mediates resistance to infection.. Infection and Immunity, USA, v. 70, n.8, p. 4247-4253, 2002.
+Citações:56|56
+
+276.
+SAVINO, W. ; MENDESDACRUZ, D. A. ; SILVA, J. S. ; DARDENNE, M. ; COTTADEALMEIDA, V. . Intrathymic T-cell migration: a combinatorial interplay of extracellular matrix and chemokines?. Trends in Immunology, USA, v. 23, n.6, p. 305-313, 2002.
+Citações:97|107
+
+277.
+TEIXEIRA, M. M. ; GAZZINELLI, R. T. ; SILVA, J. S. . Chemokines, inflammation and Trypanosoma cruzi infection.. Trends in Parasitology, USA, v. 18, n.6, p. 262-265, 2002.
+Citações:147|162
+
+278.
+BENJAMIM, C. F. ; SILVA, J. S. ; FORTES, Z. B. ; OLIVEIRA, M. A. ; FERREIRA, S. H. ; CUNHA, F Q . Inhibition of leukocyte rolling by nitric oxide during sepsis leads to reduced migration of active microbicidal neutrophils.. Infection and Immunity, USA, v. 70, n.7, p. 3602-3610, 2002.
+Citações:83|99
+
+279.
+COELHO, P. S. ; KLEIN, A. ; TALVANI, A. ; COUTINHO, S. F. ; TAKEUCHI, O. ; AKIRA, S. ; SILVA, J. S. ; CANIZZARO, H. ; GAZZINELLI, R. T. ; TEIXEIRA, M. M. . Glycosylphosphatidylinositol-anchored mucin-like glycoproteins isolated from Trypanosoma cruzi trypomastigotes induce in vivo leukocyte recruitment dependent on MCP-1 production by IFN-gama-primed-macrophages.. Journal of Leukocyte Biology, USA, v. 71, p. 837-844, 2002.
+Citações:57|73
+
+280.
+CROSARAALBERTO, D. P. ; DARINI, A. L. C. ; INOUE, R. Y. ; SILVA, J. S. ; FERREIRA, S. H. ; CUNHA, F Q . Involvement of NO in the failure of neutrophil migration in sepsis induced by Staphylococcus aureus.. British Journal of Pharmacology, USA, v. 136, p. 645-658, 2002.
+Citações:41|47
+
+281.
+BRAND, G. D. ; LEITE, J. R. S. A. ; SILVA, L. P. ; ALBUQUERQUE, S. ; PRATES, M. V. ; AZEVEDO, R. B. ; CARREGARO, V. ; SILVA, J. S. ; SÁ, V. C. L. ; BRANDÃO, R. A. ; BLOCH JR, C. . Dermaseptins from Phyllomedusa oreades and Phyllomedusa distincta: Anti-Trypanosoma cruzi activity without citotoxicity to mammalian cells.. The Journal of Biological Chemistry, v. 277, n.51, p. 49332-49340, 2002.
+Citações:73|74
+
+282.
+ROMANHA, ALVARO J. ; ALVES, ROSANA O. ; MURTA, SILVANE M. F. ; SILVA, JOÃO S. ; ROPERT, CATHERINE ; GAZZINELLI, RICARDO T. . Experimental Chemotherapy against Trypanosoma cruzi Infection: Essential Role of Endogenous Interferon-? in Mediating Parasitologic Cure. JOURNAL OF INFECTIOUS DISEASES, v. 186, p. 823-828, 2002.
+Citações:38|41
+
+283.
+MARTINS, G. A. ; PETKOVA, S. B. ; MACHADO, F S ; KISIS, R. N. ; WEISS, L. M. ; WITTNER, M. ; TANOWITZ, H. B. ; SILVA, J. S. . Fas-FasL interaction modulates nitric oxid production in Trypanosoma cruzi-infected mice.. Immunology (Oxford), USA, v. 103, p. 122-129, 2001.
+Citações:30|30
+
+284.
+ ALIBERTI, J. C. S. ; SOUTO, J. T. ; MARINO, A. P. M. P. ; LANNESVIEIRA, J. ; TEIXEIRA, M. M. ; FARBER, J. ; GAZZINELLI, R. T. ; SILVA, J. S. . Modulation of Chemokine Production and Inflammatory Responses in Interferon-?- and Tumor Necrosis Factor-R1-Deficient Mice during Trypanosoma cruzi Infection. The American Journal of Pathology (Print), USA, v. 158, n.4, p. 1433-1440, 2001.
+Citações:93|97
+
+285.
+PANUNTOCASTELO, A. ; SOUZA, M. A. ; ROQUEBARREIRA, M. ; SILVA, J. S. . KM+, a lectin from Artocarpus integrifolia, induces IL-12 p40 production by macrophages and switches from type 2 to type 1 cell-mediated immunity against Leishmania major antigens, resulting in BALB/c mice resistance to infection.. Glycobiology (Oxford), USA, v. 11, n.12, p. 1035-1042, 2001.
+Citações:40|39
+
+286.
+CANETTI, C. A. ; SILVA, J. S. ; FERREIRA, S. H. ; CUNHA, F Q . Tumor necrosis factor-alpha and leukotriene B4 mediate the neutrophil migration in immune inflamation.. British Journal of Pharmacology, USA, v. 134, n.8, p. 1619-1628, 2001.
+Citações:68|72
+
+287.
+SOUTO, J. T. ; FIGUEIREDO, F. ; FURLANETTO, A. ; PFEFFER, K. ; Rossi, M. A. ; SILVA, J. S. . TNF-alpha and IFN-gamma determine resistance to Paracoccidiodis brasiliensis infection in mice.. Am J Pathol, USA, v. 156, p. 1811-1820, 2000.
+
+288.
+MARANA, H. C. ; SILVA, J. S. ; ANDRADE, J. M. ; BIGHETTI, S. . Reduced immunologic cell performance as a prognostic parameter for advanced cervical cancer. International Journal of Gynecological Cancer, USA, v. 10, p. 67-73, 2000.
+Citações:4|4
+
+289.
+MARANA, H. C. ; SILVA, J. S. ; ANDRADE, J. M. . NK Cell Activity in the Presence of IL-12 Is a Prognostic Assay to Neoadjuvant Chemotherapy in Cervical Cancer. Gynecologic Oncology (Print), USA, v. 78, p. 318-323, 2000.
+Citações:4|14
+
+290.
+TALVANI, A. ; ALIBERTI, J. C. S. ; MICHAILOWSKY, V. ; SANTOS, P. V. A. ; MURTA, S. M. F. ; ROMANHA, A. J. ; ALMEIDA, I. C. ; FARBER, J. ; LANNESVIEIRA, J. ; SILVA, J. S. ; GAZZINELLI, R. T. . Kinetics of cytokine genes expression in experimental chagasic cardiomyopathy: a direct correlation between levels of tissue parasitism and chemokine mRNA expression during infection with Trypanosoma cruzi.. Microbes and Infection, França, v. 2, p. 851-866, 2000.
+Citações:119|131
+
+291.
+ MACHADO, F S ; MARTINS, G. A. ; ALIBERTI, J. C. S. ; MESTRINER, F. A. C. ; CUNHA, F Q ; SILVA, J. S. . Trypanosoma cruzi-Infected Cardiomyocytes Produce Chemokines and Cytokines That Trigger Potent Nitric Oxide-Dependent Trypanocidal Activity. Circulation (New York, N.Y.), USA, v. 102, p. 3003-3008, 2000.
+Citações:142|142
+
+292.
+Souto, Janeusa T. ; FIGUEIREDO, FLORÊNCIO ; FURLANETTO, ALESSANDRA ; PFEFFER, KLAUS ; Rossi, Marcos A. ; SILVA, JOÃO S. . Interferon-? and Tumor Necrosis Factor-? Determine Resistance to Paracoccidioides brasiliensis Infection in Mice. The American Journal of Pathology (Print), v. 156, p. 1811-1820, 2000.
+Citações:105|113
+
+293.
+FERREIRA, Beatriz Rossetti ; SILVA, J. S. . Successive tick infestation selectively promotes a Th2 cytokine profile in C3H/HeJ mice.. Immunology (Oxford), USA, v. 96, n.3, p. 434-439, 1999.
+Citações:95|97
+
+294.
+ALBUQUERQUE, D. A. ; MARTINS, G. A. ; CAMPOS-NETO ; SILVA, J. S. . The adjuvant effect of jacalin on the mouse humoral immune response to trinitrophenyl and Trypanosoma cruzi. Immunology Letters, Estados Unidos, v. 68, p. 375-381, 1999.
+Citações:9|13
+
+295.
+MARTINS, G. A. ; VIEIRA, L. Q. ; CUNHA, F Q ; SILVA, J. S. . Gamma interferon modulates CD-95 Fas and CD95 Fas-L expression and nitric oxide-induced apoptosis during the acute phase of experimental Trypanosoma cruzi infection. Infection and Immunity, v. 67, p. 3864-3871, 1999.
+
+296.
+ALIBERTI, J. C. S. ; MACHADO, F S ; GAZZINELLI, R. T. ; TEIXEIRA, M. M. ; SILVA, J. S. . Platelet activating factor (PAF) induces nitric oxide synthesis in Trypanosoma cruzi infected macrophages and mediates resistance to parasite infection in mice. Infection and Immunity, v. 67, p. 2810-2814, 1999.
+Citações:33|31
+
+297.
+ ALIBERTI, J. C. S. ; MACHADO, F S ; SOUTO, J. T. ; CAMPANELLI, Ana Paula ; TEIXEIRA, M. M. ; GAZZINELLI, R. T. ; SILVA, J. S. . Trypanosoma cruzi-induced by chemokines triggers nitric oxide production by murine macrophages.. Infection and Immunity, v. 67, p. 4819-4826, 1999.
+Citações:119|124
+
+298.
+GARCIA, S. B. ; PAULA, J. S. ; GIOVANNETTI, G. S. ; ZENHA, F. ; RAMALHO, E. M. ; ZUCOLOTO, S. ; SILVA, J. S. ; CUNHA, F Q . Nitric oxide is involved in the lesions of the peripheral autonomic neurons observed in the acute phase of experimental Trypanosoma cruzi infection.. Parasite Immunology, v. 93, p. 191-197, 1999.
+Citações:39|40
+
+299.
+SABER, L. T. S. ; ALIBERTI, J. C. S. ; SILVA, J. S. ; Rossi, M. A. ; FERRAZ, A. S. . Chemokines profile during allogeneic heart transplant rejection. Transplantation Proceedings, USA, v. 31, p. 2978-2981, 1999.
+Citações:3
+
+300.
+ALIBERTI, J. C. S. ; MACHADO, F S ; SOUTO, J. T. ; CAMPANELLI, Ana Paula ; TEIXEIRA, M. M. ; GAZZINELLI, R. T. ; SILVA, J. S. . Beta-chemokines enhance parasite uptake and promote nitric oxide-dependent microbiostatic activity in murine inflammatory macrophages infected with Trypanosoma cruzi. Infection and Immunity, v. 67, p. 4819-4826, 1999.
+Citações:119|124
+
+301.
+SILVA, J. S.; ALIBERTI, J. C. S. ; MARTINS, G. A. ; SOUZA, G. E. P. ; SOUTO, J. T. ; PADUA, M. A. . The role of IL-12 in experimental Trypanosoma cruzi infection. Brazilian Journal of Medical and Biological Research (Impresso), v. 31, p. 111-115, 1998.
+Citações:30|12|31
+
+302.
+CAMARGO, M. M. ; MARTINS, Q. ; ALIBERTI, G. A. ; TALVANI, A. ; SILVA, J. S. ; GAZZINELLI, R. T. . Induction of cell-mediated immunity during early stages of infection with intracellular protozoa. Brazilian Journal of Medical and Biological Research (Impresso), v. 31, p. 89-104, 1998.
+Citações:23|18|28
+
+303.
+RODRIGUES-JR ; SILVA, J. S. ; CAMPOS-NETO . Transforming growth factor-beta and immunosuppression in experimental visceral leismaniasis. Infect. Immun. 66:1233-1236.. Infection and Immunity, v. 66, p. 1233-1236, 1998.
+
+304.
+FERREIRA, Beatriz Rossetti ; SILVA, J. S. . Saliva of Rhipicephalus sanguineus tick impars T cell proliferation and IFN-g-induced macrophage microbicidal activity. Veterinary Immunology and Immunopathology, v. 64, p. 279-293, 1998.
+Citações:69|70
+
+305.
+MARTINS, G. A. ; CARDOSO, M. A. G. ; ALIBERTI, J. C. S. ; SILVA, J. S. . Nitric oxide-induced apoptosis cell death in the acute phase of Trypanosoma cruzi infection in mice. Immunology Letters, v. 63, p. 113-120, 1998.
+Citações:76|79
+
+306.
+MARTINS, G. A. ; SILVA, J. S. . Trypanosoma cruzi induces CD95 (FAS) expression and apoptosis in normal murine splenocytes.. The Immunologist, v. Supp 1, p. 305, 1998.
+
+307.
+SILVA, J. S.; ALIBERTI, J. C. S. ; DIASBARUFFI, M. ; TEIXEIRA, M. M. ; GAZZINELLI, R. T. . The beta chemokine JE/MCP-1 mediates in vivo chemotaxis of T. cruzi amastigote forms. The Immulologist, v. Suppl, p. 416, 1998.
+
+308.
+MARANA, H. R. ; ANDRADE, J. M. ; MARTINS, G. ; SILVA, J S ; SALA, M. ; CUNHA, S. . A morphometric study of maternal smoking on apoptosis in the syncytiotrophoblast.. BJOG-AN INTERNATIONAL JOURNAL OF OBSTETRICS AND GYNAECOLOGY, v. 61, p. 21-27, 1998.
+Citações:29
+
+309.
+TALVANI, A. ; RIBEIRO, C. S. ; ALIBERTI, J. C. S. ; ALVESDOSSANTOS, P. V. ; FARBER, J. ; LANNESVIEIRA, J. ; SILVA, J. S. ; GAZZINELLI, R. T. . Chemokine gene expression in Trypanosoma cruzi infected in mice. Memórias do Instituto Oswaldo Cruz, v. 92, p. 59-60, 1997.
+
+310.
+CARDOSO, M. A. G. ; MARTINS, G. A. ; ALIBERTI, J. C. S. ; SILVA, J. S. . Relacao hospedeiro parasita na doenca de Chagas. Medicina, v. 28, p. 284-303, 1996.
+
+311.
+MARANA, H. C. ; ANDRADE, J. M. ; SILVA, J. S. . Natural killer cells and interleukin-12 in advanced cervical cancer patients under neoadjuvante chemoterapy. Brasilian Journal of Medical and Biological Research, v. 29, p. 473-477, 1996.
+
+312.
+ALIBERTI, J. C. S. ; CARDOSO, M. A. G. ; MARTINS, G. A. ; GAZZINELLI, R. T. ; VIEIRA, L. Q. ; SILVA, J. S. . IL-12 mediates resistance to Trypanosoma cruzi in mice and is produced by murine macrophages in response to live trypomastigotes. Infection and Immunity, v. 64, p. 1961-1967, 1996.
+
+313.
+SALES, V. S. F. ; SAWAN, F. M. ; WATANABE, M. A. E. ; SILVA, J. S. ; VOLTARELLI, J. C. ; LUCCA ; L, F. . In Vitro transfer of cellular immunity to synthetic peptides of HIV-1 to human lymphocytes with exogenous RNA. Memórias do Instituto Oswaldo Cruz (Impresso), v. 91, p. 349-350, 1996.
+Citações:3|2
+
+314.
+SILVA, J. S.; SARTI, S. J. ; S, S. J. ; SANTOS, D. S. ; SANTOS, R. R. ; Rossi, M. A. ; BASTOS, J. K. ; LEITÃO-FILHO ; F, H. ; ABREU, J. E. ; GASPAR, M. E. ; LOPES, W. . Quimioprofilaxia da doença de Chagas: bloqueio da transmissão transfusional por produtos naturais. Revista Brasileira de Farmacognosia (Impresso), v. 5, p. 113-141, 1996.
+
+315.
+BARRAL-NETTO ; SILVA, J. S. ; BARRAL, A. ; GRABSTEIN, K. H. ; REED, S. R. . Up-regulation of T helper 2 and down-regulation of T helper 1 cytokines during murine retrovirus-induced immunodeficiency syndrome enhances susceptibility of a resistant mouse strain of Leishmania amazonensis. American Journal of Pathology, v. 146, p. 635-642, 1995.
+
+316.
+SILVA, J. S.; VESPA, G. N. R. ; CARDOSO, M. A. G. ; ALIBERTI, J. C. S. ; CUNHA, F Q . TNF-alpha mediates resistance to Trypanosoma cruzi in mice by inducing nitric oxide production in infected IFN-gamma-activated macrophages. Infection and immunity, v. 63, p. 4862-4867, 1995.
+
+317.
+CARDILLO, F. ; VOLTARELLI, J. C. ; REED, S. R. ; SILVA, J. S. . Regulation of Trypanosoma cruzi infections by IFN-g and IL-10: The role of NK cells. Infection and Immunity, v. 64, p. 128-134, 1995.
+
+318.
+VESPA, G. N. R. ; SILVA, J. S. . Oxido nitrico NO: producao e significado fisiologico durante as infeccoes. Revista de Patologia Tropical, v. 23, p. 1-23, 1994.
+
+319.
+VESPA, G. N. R. ; CUNHA, F Q ; SILVA, J. S. . Nitric oxide is involved in control of Trypanosoma cruzi-induced parasitemia and directly kill the parasite in vitro. Infection and Immunity, v. 62, p. 5177-5182, 1994.
+
+320.
+REED, S. R. ; BROWNELL, C. E. ; RUSSO, D. M. ; SILVA, J. S. ; GRABSTEIN, K. H. ; MORRISSEY, P. J. . IL-10 mediates susceptibility to Trypanosoma cruzi infection. Journal of Immunology, v. 153, p. 3135-3140, 1994.
+Citações:1
+
+321.
+SILVA, J. S.; BARRAL-NETTO ; REED, S. R. . Aggravation of both Trypanosoma cruzi and murine leukemia virus by concomitant infections. American Journal of Tropical Medicie and Hygiene, v. 49, p. 589-597, 1993.
+Citações:15
+
+322.
+REZKALLAH, T. ; C, S. A. M. V. ; SILVA, J. S. ; SARTORI, A. ; MENDES, R. P. ; MARQUES, A. A. ; PERAÇOLI, M. T. S. . Interleukin-2 in Paracoccodiodomycosis. Revista argentina de Micologia, v. 15, p. 59-63, 1993.
+
+323.
+RODRIGUES, V. ; SILVA, J. S. ; CAMPOS NETO, . The absence of cellular immunity in visceral leishmaniasis is caused by a selective inability of Leishmania donovani infected macrophage to prime T cells. Parasite immunology, v. 14, p. 49-58, 1992.
+
+324.
+SANTOS, R. R. ; Rossi, M. A. ; LAUS, J. L. ; SILVA, J. S. ; SAVINO, W. ; MENGEL, J. O. . Anti-CD4 abrogates rejection and reestablises long-term tolerance to syngeneic newbor hearts grafted in mice chronically infected with T. cruzi. Journal of Experimental Medicine, v. 175, p. 29-39, 1992.
+
+325.
+SILVA, J. S.; MORRISSEY, P. J. ; GRABSTEIN, K. H. ; MOHLER, K. ; ANDERSON, D. ; REED, S. R. . IL-10 and IFN-gamma regulation of experimental Trypanosoma cruzi infection.. Journal of Experimental Medicine, v. 175, p. 169-174, 1992.
+
+326.
+REED, S. R. ; SILVA, J. S. ; HO, J. L. ; KOEHLER, J. K. ; RUSSO, D. M. ; PIHL, D. L. ; COOMBS, R. W. . Cytokine activation of human macrophages infected with HIV-1 to inhibit intracellular protozoa. Journal of Acquired Immune Deficiency Syndrome, v. 5, p. 666-675, 1992.
+Citações:16
+
+327.
+SILVA, J. S.; FERRIOLI FILHO, F. ; KANESIRO, M. M. ; SANTOS, S. C. ; PINTO, C. N. ; GILBERT, B. ; RIBEIRO, F. W. ; PINTO, A. A. . Evaluation of some organic compounds on bloodstream forms of Trypanosoma cruzi. Memórias do Instituto Oswaldo Cruz (Impresso), v. 87, p. 345-351, 1992.
+Citações:4|5
+
+328.
+MENGEL, J. O. ; DARÉ, L. ; DARÉ, G. M. ; DELGADO, M. ; NOMIZO, A. ; SILVA, J. S. ; CAMPOSNETO, A. . An activeted murine B cell lymphoma line (A-20) produces a fator-like activity with is functionally related to humam IL-12/NKSF. European Journal of Immunology, v. 22, p. 3173-3178, 1992.
+Citações:24|19
+
+329.
+SILVA, J. S.; REED, S. R. . Interferon-gamma in Trypanosoma cruzi infection In: Anti-infective aplications of interferon-gamma.. Ed Marcel Decker Ink, v. 1, p. 137-158, 1992.
+
+330.
+SILVA, J. S.; TWARDZIK, D. R. ; REED, S. R. . Regulation of Trypanosoma cruzi infection in vitro and in vivo by transforming growth factor-beta. Journal of Experimental Medicine, v. 174, p. 539-545, 1991.
+
+331.
+SILVA, J. S.; Rossi, M. A. . Intensification of acute T. cruzi myocarditis in BALB/c mice pretreated with low doses of cyclophosphamide or gamma irradiation. J. Exp. Pathol, v. 71, p. 33-39, 1990.
+
+332.
+ALESSI, A. C. ; SANTOS, R. R. ; SILVA, J. S. . Immunosuppression by peritoneal BCG-induced granulomas in mice. Brasilian J. Med. Biol. Res., v. 274, p. 263-274, 1990.
+
+333.
+SOUZA, S. C. ; TAKAHASI, C. S. ; SILVA, J. S. . Evaluation of the mutagenic potential of antichagasic drug Bochagan in healthy and chagasic rodents.. Mutation Research, v. 259, p. 139-145, 1990.
+
+334.
+Rossi, M. A. ; SILVA, J. S. . Permeability alteration of the sarcolemal membrane, particularly at the site of macrophage contact, in experimental chronic Trypanosoma cruzi myocardites in mice. Intern. J.Exp. Pathol., v. 71, p. 545-555, 1990.
+
+335.
+SAVINO, W. ; SILVA, J. S. ; BARBOSA, S. D. S. ; SANTOS, R. R. . Anti-thymic cell autoantibodies in human and murine chronic Chagas disease. EOS J. Immunol. Immunopharmacol, v. 10, p. 204-205, 1990.
+Citações:2
+
+336.
+PINTO, A. A. ; FERREIRA, V. F. ; CAPELA, R. S. ; GILBERT, B. ; PINTO, M. C. F. R. ; SILVA, J. S. . Activity of some naphtoquinones on blood stream forms of Trypanosoma cruzi. Trans. R. S. Trop. Med. Hyg., v. 81, p. 609-610, 1987.
+
+337.
+CARDOSO, Cristina Ribeiro de Barros ; Provinciatto PR ; GODOI, D. F. ; FERREIRA, Beatriz Rossetti ; MILANEZI, C. M. ; Ferraz DB ; ROSSI, Marcos Antonio ; CUNHA, F Q ; SILVA, J. S. . Modulation of the anti-myocardium cell immune response in the chronic forms of human chagas disease. REv. Assoc. Med. Minas Gerais, v. 35, p. 7-16, 1984.
+
+338.
+VOLTARELLI, J. C. ; FALCÃO, R. P. ; SILVA, J. S. . Antibody dependent cellular cytotoxicity in human chronic Chagas disease. Parasite Immunology, v. 5, p. 377-384, 1983.
+
+339.
+SANTOS, R. R. ; SIMÕES, J. C. ; SILVA, J. S. ; MARTINS, A. C. P. . Doenca de Chagas experimental: Imunopatologia de coracões normais transplantados em ratos isogênicos chagásicos crônicos.. Revista Goiana de Medicina, v. 27, p. 35-51, 1981.
+
+340.
+SANTOS, R. R. ; SILVA, J. S. . Doenca de Chagas: Resposta imune humoral e celular. Revista Goiana de Medicina, v. 26:, p. 115-123, 1980.

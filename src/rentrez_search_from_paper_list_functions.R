@@ -1,7 +1,7 @@
 library(data.table)
 
 
-corpus <- fread("data/example_papers.txt")
+#corpus <- fread("data/example_papers.txt")
 
 
 #' Given a corpus of texts, in the example format
@@ -19,14 +19,14 @@ extract_titles <- function(corpus){
   title <- strsplit(end_info, split = "\\. ")[[1]][1]
   title_vector <- c(title_vector,title)
   }
-  
+  # Some of them are not exact titles. These will be removed. 
+  title_vector <- title_vector[nchar(title_vector)>60]
   return(title_vector)
 }
 
-title_vector <- extract_titles(corpus)
+#title_vector <- extract_titles(corpus)
 
-# Some of them are not exact titles. These will be removed. 
-title_vector <- title_vector[nchar(title_vector)>50]
+
 
 
 
@@ -44,25 +44,32 @@ get_abstracts_from_titles <- function(title_vector){
   message("Searching abstracts via rentrez")
   for (i in title_vector){
     print(i)
-    id <- rentrez::entrez_search(db="pubmed", term=i)$ids
-    
-    xml <- rentrez::entrez_fetch(db="pubmed", id = id, rettype = 'xml')
-    x <- read_xml(xml)
-    
-    uh <- xml_find_all(x, ".//Abstract")
-    abs_list[[i]] <-     xml_text(uh)
-    
-    # This chunk will remove all texts that come after the abstract,
-    # which sometimes come together for open pubs
-    abs_list <- lapply(abs_list, `[[`, 1)
-    
+    if (i !=""){
+      id <- rentrez::entrez_search(db="pubmed", term=i)$ids
+      
+      if (length(id) != 0) {
+        xml <- rentrez::entrez_fetch(db="pubmed", id = id, rettype = 'xml')
+        x <- read_xml(xml)
+        
+        uh <- xml_find_all(x, ".//Abstract")
+        
+        if (length(xml_text(uh)) > 0){
+          abs_list[[i]] <-     xml_text(uh)
+        }
+
+        # This chunk will remove all texts that come after the abstract,
+        # which sometimes come together for open pubs
+        abs_list <- lapply(abs_list, `[[`, 1)
+        
+      }
+    }
   }
   return(abs_list)
   
 }
 
 
-abs_list <- get_abstracts_from_titles(title_vector)
+#abs_list <- get_abstracts_from_titles(title_vector)
 
 
 # In the end, we want to have a bag of words with the terms most
@@ -72,12 +79,14 @@ abs_list <- get_abstracts_from_titles(title_vector)
 #' get bag of words from abstract list
 #' @param abs_list A list of abstracts
 #' @param stemming A boolean to decide if you want stemming or not. Defaults to false. 
+#' @param min_times Minimal number of occurrences for a word to be considered. Defaults to five
 #' @return A dataframe with the bag of words for this corpus
 
 library(tidytext)
 library(stringr)
 library(corpus)
-get_bag_of_words_from_abs_list <- function(abs_list, stemming  = FALSE){
+library(dplyr)
+get_bag_of_words_from_abs_list <- function(abs_list, stemming  = FALSE, min_times = 5){
   df <- as.data.frame(unlist(abs_list))
   colnames(df) <- "Abstracts"
   
@@ -96,7 +105,7 @@ get_bag_of_words_from_abs_list <- function(abs_list, stemming  = FALSE){
   if(!stemming){
     bag_nostem <- bag %>%
       count(word, sort = TRUE) %>%
-      filter(n >= 5) %>% # filter for words used 5 or more times
+      filter(n >= min_times) %>% # filter for words used 5 or more times
       arrange(desc(n))
     return(bag_nostem)
   } else {
@@ -113,4 +122,4 @@ get_bag_of_words_from_abs_list <- function(abs_list, stemming  = FALSE){
 }
 
 
-bag_of_words <- get_bag_of_words_from_abs_list(abs_list)
+#bag_of_words <- get_bag_of_words_from_abs_list(abs_list)

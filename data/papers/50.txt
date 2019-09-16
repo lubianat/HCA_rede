@@ -1,0 +1,274 @@
+1.
+GUEDES, RAFAEL LUCAS MUNIZ ; RODRIGUES, CARLA MONADELI FILGUEIRA ; Coatnoan, Nicolas ; Cosson, Alain ; CADIOLI, FABIANO ANTONIO ; GARCIA, HERAKLES ANTONIO ; GERBER, ALEXANDRA LEHMKUHL ; MACHADO, ROSANGELA ZACARIAS ; MINOPRIO, PAOLA MARCELLA CAMARGO ; TEIXEIRA, MARTA MARIA GERALDES ; DE VASCONCELOS, ANA TEREZA RIBEIRO . A comparative in silico linear B-cell epitope prediction and characterization for South American and African Trypanosoma vivax strains. GENOMICS, v. 18, p. 30126-30135, 2018.
+
+2.
+AMARAL, PATRICIA DE AGUIAR ; AUTHEMAN, DELPHINE ; DE MELO, GUILHERME DIAS ; GOUAULT, NICOLAS ; CUPIF, JEAN-FRANÇOIS ; Goyard, Sophie ; DUTRA, PATRICIA ; Coatnoan, Nicolas ; Cosson, Alain ; MONET, DAMIEN ; SAUL, FREDERICK ; HAOUZ, AHMED ; URIAC, PHILIPPE ; BLONDEL, ARNAUD ; Minoprio, Paola . Designed mono- and di-covalent inhibitors trap modeled functional motions for Trypanosoma cruzi proline racemase in crystallography. PLoS Neglected Tropical Diseases, v. 12, p. e0006853, 2018.
+
+3.
+MELO, GUILHERME D. ; Goyard, Sophie ; LECOEUR, HERVÉ ; ROUAULT, ELINE ; PESCHER, PASCALE ; FIETTE, LAURENCE ; BOISSONNAS, ALEXANDRE ; Minoprio, Paola ; LANG, THIERRY . New insights into experimental visceral leishmaniasis: Real-time in vivo imaging of Leishmania donovani virulence. PLoS Neglected Tropical Diseases, v. 11, p. e0005924, 2017.
+
+4.
+MELO, GUILHERME D. ; Goyard, Sophie ; FIETTE, LAURENCE ; BOISSONNAS, ALEXANDRE ; COMBADIERE, CHRISTOPHE ; MACHADO, GISELE F. ; Minoprio, Paola ; LANG, THIERRY . Unveiling Cerebral Leishmaniasis: parasites and brain inflammation in Leishmania donovani infected mice. Scientific Reports, v. 7, p. 8454-8467, 2017.
+
+5.
+ROUAULT, ELINE ; LECOEUR, HERVÉ ; MERIEM, ASMA BEN ; Minoprio, Paola ; Goyard, Sophie ; LANG, THIERRY . Imaging visceral leishmaniasis in real time with golden hamster model: Monitoring the parasite burden and hamster transcripts to further characterize the immunological responses of the host. PARASITOLOGY INTERNATIONAL, v. 66, p. 933-939, 2017.
+
+6.
+JACKSON, ANDREW P. ; Goyard, Sophie ; XIA, DONG ; FOTH, BERNARDO J. ; SANDERS, MANDY ; WASTLING, JONATHAN M. ; Minoprio, Paola ; BERRIMAN, MATTHEW . Global Gene Expression Profiling through the Complete Life Cycle of Trypanosoma vivax. PLoS Neglected Tropical Diseases, v. 9, p. e0003975, 2015.
+
+7.
+CABALLERO, ZULEIMA C ; COSTA-MARTINS, ANDRE G ; FERREIRA, ROBSON C ; PEREIRA ALVES, JOÃO MARCELO ; SERRANO, MYRNA G ; CAMARGO, ERNEY P ; BUCK, GREGORY A ; Minoprio, Paola ; GERALDES TEIXEIRA, MARTA M . Phylogenetic and syntenic data support a single horizontal transference to a Trypanosoma ancestor of a prokaryotic proline racemase implicated in parasite evasion from host defences. Parasites & Vectors, v. 8, p. 8222, 2015.
+Citações:4|5
+
+8.
+GOYARD, S. ; DUTRA, P. LOURENÇO ; DEOLINDO, P. ; AUTHEMAN, D. ; D'ARCHIVIO, S. ; MINOPRIO, P. . In vivo imaging of trypanosomes for a better assessment of host-parasite relationships and drug efficacy. PARASITOLOGY INTERNATIONAL, v. 63, p. 260-268, 2014.
+Citações:8|8
+
+9.
+Berneman, Armand ; MONTOUT, LORY ; Goyard, Sophie ; Chamond, Nathalie ; Cosson, Alain ; D?ARCHIVIO, SIMON ; GOUAULT, NICOLAS ; URIAC, PHILIPPE ; BLONDEL, ARNAUD ; Minoprio, Paola . Combined Approaches for Drug Design Points the Way to Novel Proline Racemase Inhibitor Candidates to Fight Chagas? Disease. PLoS One, v. 8, p. e60955, 2013.
+
+10.
+D'Archivio, Simon ; Cosson, Alain ; Medina, Mathieu ; LANG, THIERRY ; Minoprio, Paola ; Goyard, Sophie . Non-Invasive In Vivo Study of the Trypanosoma vivax Infectious Process Consolidates the Brain Commitment in Late Infections. PLoS Neglected Tropical Diseases, v. 7, p. e1976, 2013.
+
+11.
+D'Archivio, Simon ; Medina, Mathieu ; Cosson, Alain ; Chamond, Nathalie ; ROTUREAU, BRICE ; Minoprio, Paola ; Goyard, Sophie . Genetic Engineering of Trypanosoma (Dutonella) vivax and In Vitro Differentiation under Axenic Conditions. PLoS Neglected Tropical Diseases, v. 5, p. e1461, 2011.
+
+12.
+CONTI, PAOLA ; TAMBORINI, LUCIA ; PINTO, ANDREA ; BLONDEL, ARNAUD ; Minoprio, Paola ; MOZZARELLI, ANDREA ; DE MICHELI, CARLO . Drug Discovery Targeting Amino Acid Racemases. CHEMICAL REVIEWS, v. 111, p. 6919-6946, 2011.
+
+13.
+Cosson, Alain ; Blom-Potar, Marie Christine ; Jouvion, Grégory ; D'Archivio, Simon ; Medina, Mathieu ; Droin-Bergère, Sabrina ; Huerre, Michel ; Goyard, Sophie ; Minoprio, Paola . Trypanosoma vivax Infections: Pushing Ahead with Mouse Models for the Study of Nagana. I. Parasitological, Hematological and Pathological Parameters. Plos Neglected Tropical Diseases, v. 4, p. e792, 2010.
+Citações:14|20
+
+14.
+OLIVIERI, B. P. ; Vasconcellos, R. ; NÓBREGA, A. ; MINOPRIO, P. ; KAVERI, S. V. ; ARAÚJO-JORGE, T. C. . Intravenous immunoglobulin increases survival time in the acute phase of experimental Chagas disease. Parasite Immunology (Print), v. 32, p. 464-469, 2010.
+Citações:5|6
+
+15.
+Blom-Potar, Marie Christine ; Chamond, Nathalie ; Cosson, Alain ; Jouvion, Grégory ; Droin-Bergère, Sabrina ; Huerre, Michel ; Minoprio, Paola . Trypanosoma vivax Infections: Pushing Ahead with Mouse Models for the Study of Nagana. II. Immunobiological Dysfunctions. Plos Neglected Tropical Diseases, v. 4, p. e793, 2010.
+Citações:10|10
+
+16.
+Berneman, Armand ; Alves-Ferreira, Marcelo ; Coatnoan, Nicolas ; Chamond, Nathalie ; Minoprio, Paola . Medium/High Throughput D-Amino Acid Oxidase Colorimetric Method for Determination of D-Amino Acids. Application for Amino Acid Racemases. Journal of Microbial & Biochemical Technology, v. 02, p. 139-146, 2010.
+Citações:3
+
+17.
+Coatnoan, Nicolas ; Berneman, Armand ; Chamond, Nathalie ; Minoprio, Paola . Proline racemases: insights into Trypanosoma cruzi peptides containing D-proline. Memórias do Instituto Oswaldo Cruz (Impresso), v. 104, p. 295-300, 2009.
+Citações:9|5|15
+
+18.
+Chamond, Nathalie ; Cosson, Alain ; Coatnoan, Nicolas ; Minoprio, Paola . Proline racemases are conserved mitogens: Characterization of a Trypanosoma vivax proline racemase?. Molecular and Biochemical Parasitology (Print), v. 165, p. 170-179, 2009.
+Citações:16|17
+
+19.
+Lopes Coutinho, L. ; Ferreira, M.A. ; Cosson, A. ; Batista, M.M. ; Jaen Batista, D.G. ; MINOPRIO, P. ; Degrave, W.M. ; Berneman, A. ; Correia Soeiro, M.N. . Inhibition of Trypanosoma cruzi proline racemase affects host-parasite interactions and the oputcome of in vitro infection. Memórias do Instituto Oswaldo Cruz (Impresso), v. 104, p. 1055-1062, 2009.
+Citações:12|14
+
+20.
+Goytia, Maira ; Chamond, Nathalie ; Cosson, Alain ; Coatnoan, Nicolas ; Hermant, Daniel ; Berneman, Armand ; Minoprio, Paola . Molecular and Structural Discrimination of Proline Racemase and Hydroxyproline-2-Epimerase from Nosocomial and Bacterial Pathogens. Plos One, v. 2, p. e885, 2007.
+Citações:22|23
+
+21.
+ Buschiazzo, A. ; Goytia, Maira ; Schaeffer, F. ; Degrave, Wim ; Shepard, W. ; Grégoire, C. ; Chamond, N. ; Cosson,A. ; Berneman, A. ; Coatnoan, N. ; Alzari, P. ; MINOPRIO, P. . Crystal structure, catalytic mechanism, and mitogenic properties of Trypanosoma cruzi proline racemase. Proceedings of the National Academy of Sciences of the United States of America, v. 103, p. 1705-1710, 2006.
+Citações:60|65
+
+22.
+Chamond, Nathalie ; Goytia, Maira ; Coatnoan, Nicolas ; Barale, Jean-Christophe ; Cosson, Alain ; Degrave, Wim M. ; Minoprio, Paola . Trypanosoma cruzi proline racemases are involved in parasite differentiation and infectivity. Molecular Microbiology (Print), v. 58, p. 46-60, 2005.
+Citações:34|35
+
+23.
+Chamond, N. ; Grégoire, C. ; Coatnoan, N. ; Rougeot, C. ; Freitas Junior, L.H. ; da Silveira, JF ; Degrave, W.M. ; MINOPRIO, P. . Biochemical Characterization of Proline Racemases from the Human Protozoan Parasite Trypanosoma cruzi and Definition of Putative Protein Signatures. The Journal of Biological Chemistry (Print), v. 278, p. 15484-15494, 2003.
+Citações:45|48
+
+24.
+Chamond, N. ; Coatnoan, N. ; MINOPRIO, P. . Immunotherapy of Trypanosoma Cruzi Infections. Current Drug Targets-Immune, Endocrine & Metabolic Disorders, v. 2, p. 247-254, 2002.
+Citações:12
+
+25.
+Waghabi, M. C. ; Coutinho, C. M. L. M. ; Soeiro, M. N. C. ; Pereira, M. C. S. ; Feige, J.-J. ; Keramidas, M. ; Cosson, A. ; MINOPRIO, P. ; Van Leuven, F. ; Araujo-Jorge, T. C. . Increased Trypanosoma cruzi Invasion and Heart Fibrosis Associated with High Transforming Growth Factor   Levels in Mice Deficient in  2-Macroglobulin. Infection and Immunity (Print), v. 70, p. 5115-5123, 2002.
+Citações:34|35
+
+26.
+MINOPRIO, P.. Parasite polyclonal activators: new targets for vaccination approaches?. International Journal for Parasitology, v. 31, p. 587-590, 2001.
+Citações:49|56
+
+27.
+Lima, Eduardo Cesar Santos ; Vasconcellos, R. ; Reina-San-Martín, B ; Fesel, C. ; Cordeiro Da Silva, A. ; Berneman, A. ; Cosson,A. ; Coutinho, A. ; MINOPRIO, P. . Significant association between the skewed natural antibody repertoire of xid mice and resistance to Trypanosoma cruzi infection.. European Journal of Immunology (Internet), v. 31, p. 634-645, 2001.
+Citações:19|20
+
+28.
+ Reina-San-Martín, Bernardo ; Degrave, Wim ; Rougeot, Catherine ; Cosson, Alain ; Chamond, Nathalie ; Cordeiro-da-Silva, Anabela ; Arala-Chaves, Mario ; Coutinho, Antonio ; Minoprio, Paola . A B-cell mitogen from a pathogenic trypanosome is a eukaryotic proline-racemase.. Nature Medicine (Print), v. 8, p. 890-897, 2000.
+Citações:90|103
+
+29.
+Sato, ; Minoprio, ; Avrameas, ; Ternynck, . Changes in the cytokine profile of lupus-prone mice (NZB/NZW)F1 induced by Plasmodium chabaudi and their implications in the reversal of clinical symptoms. Clinical and Experimental Immunology (Print), v. 119, p. 333-339, 2000.
+Citações:12|13
+
+30.
+ Reina-San-Martín, B ; Cosson,A. ; MINOPRIO, P. . Lymphocyte Polyclonal Activation: A Pitfall for Vaccine Design against Infectious Agents. Parasitology Today (Regular ed. Print) (Cessou em 2000. Cont. ISSN 1471-4922 Trends in Parasitology), v. 16, p. 62-67, 2000.
+Citações:66|78
+
+31.
+Montes, ; Zuniga, ; Minoprio, ; Vottero-Cima, ; Gruppi, . A Trypanosoma cruzi Alkaline Antigen Induces Polyclonal B-Cell Activation of Normal Murine Spleen Cells by T-Cell-Independent, BCR-Directed Stimulation. Scandinavian Journal of Immunology (Print), v. 50, p. 159-166, 1999.
+Citações:12|12
+
+32.
+GAUBERT, S. ; VIANA DA COSTA, A. ; MAURAGE, C.A. ; Lima, Eduardo Cesar Santos ; FONTAINE, J. ; LAFITTE ; MINOPRIO, P. ; Capron, A. ; GRZYCH, J.M. . X-linked immunodeficiency affects the outcome of Schistosoma mansoni infection in the murine model.. Parasite Immunology (Print), v. 21, p. 89-101, 1999.
+Citações:24|30
+
+33.
+Gomes, Yara M. ; Abath, Frederico G. ; NAKASAKA, M. ; MINOPRIO, P. ; Vouldoukis, Ioannis ; Monjour, Loic . Partial protection of mice against Trypanosoma cruzi after immunizing with TcY 72 antigenic preparation.. Memórias do Instituto Oswaldo Cruz (Impresso), v. 94, p. 167-172, 1999.
+Citações:3|3
+
+34.
+MOREAU, M.F. ; THIBAUT, J.L. ; BEN MILED, L. ; CHAUSSEPIED, M. ; DAVIS, W. ; MINOPRIO, P. ; LANGSLEY, G. . Theoleria annulata - induced leukocyte transformation and CD5-positive macrophage and B-cells.. Infection and Immunity (Print), v. 67, p. 6678-6682, 1999.
+Citações:32|35
+
+35.
+Cordeiro Da Silva, A. ; Espinoza, A. G. ; TaibiP, A. ; Ouaissi, A. ; MINOPRIO, P. . A 24 000 MW Trypanosoma cruzi antigen is a B-cell activator. Immunology (Oxford. Print), v. 94, p. 189-196, 1998.
+Citações:28|29
+
+36.
+Cordeiro Da Silva, A. ; Espinoza, A. G. ; TaibiP, A. ; Ouaissi, A. ; MINOPRIO, P. . A 24 kDa Trypanosoma cruzi antigen is a B cell activator.. Immunology (Oxford. Print), v. 94, p. 189-196, 1998.
+Citações:28|29
+
+37.
+Lima, Eduardo Cesar Santos ; GARCIA, I. ; Vlcentelli, Marie-Heléne ; MINOPRIO, P. . Evidence for a protective role of tumor necrosis factor in the acute phase of Trypanosoma cruzi infection in mice.. Infection and Immunity (Print), v. 65, p. 457-465, 1997.
+
+38.
+Silva, Anabela Cordeiro da ; Lima, Eduardo Cesar Santos ; Vlcentelli, Marie-Heléne ; Minoprio, Paola . V 6-bearing T cells are involved in resistance to infection in XID mice. International Immunology (Print), v. 8, p. 1213-1219, 1996.
+Citações:7|10
+
+39.
+Gueirard, P. ; MINOPRIO, P. ; Guiso, N. . Intranasal inoculation of Bordetella bronchiseptica in mice induces long lasting antibody immune responses.. Scandinavian Journal of Immunology (Print), v. 43, p. 181-192, 1996.
+Citações:30|28
+
+40.
+Lima, Eduardo Cesar Santos ; MINOPRIO, P. . Chagas' disease is attenuated in mice lacking gd - T cells.. Infection and Immunity (Print), v. 64, p. 215-221, 1996.
+
+41.
+Lima, M. Regina D'Imperio ; ALVAREZ, J.M. ; FURTADO, G.C. ; Kipnis, T.L. ; COUTINHO, A. ; MINOPRIO, P. . Ig-isotype patterns of polyclonal and para site-specific B cell responses to Plasmodium chabaudi chabaudi correlate with IFN- and IL-4 interleukin production and CD45RB expression by CD4+ spleen cells.. Scandinavian Journal of Immunology (Print), v. 43, p. 263-270, 1996.
+Citações:20|24
+
+42.
+RUSSO, M. ; STAROBINAS, N. ; GARIBALDI MARCONDES, M.C. ; MINOPRIO, P. ; HONTEBEYRIE-JOSKOWICZ, M. . The influence of T cell subsets on Trypanosoma cruzi multiplication in different organs.. Immunology Letters, v. 49, p. 163-168, 1996.
+Citações:12|14
+
+43.
+JUNGMAN, P. ; FREITAS, A. ; Bandeira, A. ; Coutinho, A. ; MINOPRIO, P. . Murine Acariasis. II. Immunological dysfunction and evidence for chronic activation of Th2 lymphocytes.. Scandinavian Journal of Immunology (Print), v. 43, p. 604-612, 1996.
+Citações:19|23
+
+44.
+CASTRO, A. G. ; SILVA, R. A. ; MINOPRIO, P. ; APPELBERG, R. . In Vivo Evidence for a Non-T Cell Origin of Interleukin-5. Scandinavian Journal of Immunology (Print), v. 41, p. 288-292, 1995.
+Citações:5|6
+
+45.
+CASTRO, A. G. ; MINOPRIO, P. ; APPELBERG, R. . The relative impact of bacterial virulence and host genetic background on cytokine expression during Mycobacterium avium infection of mice.. Immunology (Oxford. Print), v. 85, p. 556-561, 1995.
+Citações:19|20
+
+46.
+SATO, M. ; MINOPRIO, P. ; AVRAMEAS, S. ; TERNINCK, T. . Defects in the regulation of anti-DNA antibody production in aged lupus-prone (NZB x NZW) F1 mice : analysis of T cell cytokine synthesis.. Immunology (Oxford. Print), v. 85, p. 26-32, 1995.
+Citações:16|18
+
+47.
+Leite-de-Moraes, Maria do Carmo ; Coutinho, Antonio ; Hontebeyrle-Joskowicz, Mirellle ; Minoprio, Paola ; Eisen, Harvey ; Bandeira, Antonio . Skewed V TCR repertoire of CD8 T cells in murine infection. International Immunology (Print), v. 6, p. 387-392, 1994.
+Citações:17|22
+
+48.
+CHEIKH, MARCIA CURY ; DUTRA, H.S. ; MINOPRIO, P. ; BOROJEVIC, R. . Increase of B lymphocyte numbers and activity during experimental murine schistosomiasis mansoni.. Brazilian Journal of Medical and Biological Research (Impresso), v. 27, p. 1605-1617, 1994.
+Citações:11|13
+
+49.
+Leite-de-Moraes, Maria do Carmo ; MINOPRIO, P. ; DY, M. ; DARDENNE, M. ; SAVINO, W. ; HONTEBEYRIE-JOSKOWICZ, M. . Endogenous IL-10 and IFN-g production controls thymic cell proliferation in mice acutely infected by Trypanosoma cruzi.. Scandinavian Journal of Immunology (Print), v. 39, p. 51-58, 1994.
+Citações:14|19
+
+50.
+ECKWALANGA, M. ; MARUSSIG, M. ; DIAS TAVARES, M. ; BOUANGA, J.C. ; HULIER, E. ; PAVLOVITCH, J.H. ; MINOPRIO, P. ; PORTNOI, D. ; RENIA, L. ; MAZIER, D. . Murine AIDS protects mice against experimental cerebral malaria : down regulation by IL-10 of a Th1 CD4+ mediated pathology.. Proceedings of the National Academy of Sciences of the United States of America, v. 91, p. 8097-8101, 1994.
+Citações:49|54
+
+51.
+APPELBERG, R. ; CASTRO, A. G. ; Pedrosa, J. ; MINOPRIO, P. . Role of Interleukine 6 in the induction of protective T cells during mycobacterial infections in mice.. Immunology (Oxford. Print), v. 82, p. 361-364, 1994.
+
+52.
+APPELBERG, R. ; CASTRO, A. G. ; Pedrosa, J. ; SILVA, R. A. ; ORME, I. ; MINOPRIO, P. . Role of gamma-Interferon and Tumour necrosis fctor alpha during T-cell-independent and dependent phases of Mycobacterim avium infection.. Infection and Immunity (Print), v. 62, p. 3962-3971, 1994.
+
+53.
+MINOPRIO, P.; CHEIKH, MARCIA CURY ; MURPHY, E. ; HONTEBEYRIE-JOSKOWICZ, M. ; COFFMAN, R. ; COUTINHO, A. ; O'GARRA, A. . Xid-associated resistance to experimental Chagas'disease in g-IFN-dependent.. The Journal of Immunology (1950), v. 151, p. 4200-4208, 1993.
+Citações:75|77
+
+54.
+Arala-Chaves, Mario ; Lima, M. Regina D'Imperio ; Coutinho, Antonio ; Penna-Rossi, Claudia ; Minoprio, Paola . V-region-related and -unrelated immunosupression accompanying infections. Memórias do Instituto Oswaldo Cruz (Impresso), v. 87, p. 35-41, 1992.
+Citações:6|5
+
+55.
+El Cheikh, M. ; Hontebeyrie-Joskowicz, M. ; Coutinho, Antonio ; Minoprio, Paola . CD5 B Cells.. Annals of the New York Academy of Sciences, v. 651, p. 557-563, 1992.
+Citações:10
+
+56.
+ MINOPRIO, P.; Coutinho, A. ; Spinella, S. ; Hontebeyrie-Joskowicz, M. . Xid immunodeficiency imparts increased parasite clearance and resitance to pathology in experimental Chagas'disease. International Immunology (Print), v. 3, p. 427-433, 1991.
+Citações:71|65
+
+57.
+MINOPRIO, P.. Chagas'disease : CD5 B-cell dependent Th2-pathology ?. Research in Immunology, v. 142, p. 125-126, 1991.
+Citações:11|14
+
+58.
+STAROBINAS, N. ; RUSSO, M. ; MINOPRIO, P. ; HONTEBEYRIE-JOSKOWICZ, M. . Is TNAalpha involved in early susceptibility of T. cruzi-infected C3H/HeJ mice ?. Research in Immunology, v. 142, p. 117-122, 1991.
+Citações:39|40
+
+59.
+RUSSO, M. ; STAROBINAS, N. ; RIBEIRO-DOS-SANTOS, R. ; MINOPRIO, P. ; EISEN, H. ; HONTEBEYRIE-JOSKOWICZ, M. . Susceptible mice present higher macrophage activation than resistant mice during infections with myotropic strains of Trypanosoma cruzi. Parasite Immunology (Print), v. 11, p. 385-395, 1989.
+Citações:42|40
+
+60.
+MINOPRIO, P.; Bandeira, A. ; PEREIRA, P. ; Santos, Mota T. ; Coutinho, A. . Preferential expansion of Ly-1 B and CD4 CD8 T cells in the polyclonal lymphocyte responses to murine infection. International Immunology (Print), v. 1, p. 176-184, 1989.
+Citações:58
+
+61.
+ MINOPRIO, P.; ITOHARA, S. ; HEUSSER, C. ; TONEGAWA, S. ; COUTINHO, A. . Immunobiology of murine Trypanosoma cruzi infection : predominance of parasite nonspecific reponses and activation of TCRI (??) T cells.. Immunological Reviews, v. 112, p. 183-207, 1989.
+Citações:148|135
+
+62.
+AIDA, Y. ; MIYASAKA, M. ; OKADA, K. ; ONUMA, M. ; KOGURA, S. ; SUZUKI, M. ; MINOPRIO, P. ; LEVY, D. ; IKAWA, Y. . Further phenotypic characterization of target cells for bovine leukemia virus experimental infection in sheep.. American Journal of Veterinary Research, v. 50, p. 1946-1951, 1989.
+Citações:30|30
+
+63.
+MINOPRIO, P.; ANDRADE, L. ; LEMBEZAT, M.P. ; OZAKI, L.S. ; COUTINHO, A. . Indiscriminate representation of VH-gene families in the murine B lymphocyte responses to Trypanosoma cruzi.. The Journal of Immunology (1950), v. 142, p. 4017-4021, 1989.
+Citações:25|21
+
+64.
+Russo, Momtchilo ; Minoprio, Paola ; Coutinho, Antonio ; Hontebeyrie-Joskowicz, Mireille . Depletion of L3t4+ T lymphocytes during acute Trypanosoma cruzi infection abolish macrophage and B lymphocyte activation but not tissue inflammatory reaction. Memórias do Instituto Oswaldo Cruz (Impresso), v. 83, p. 527-538, 1988.
+Citações:7
+
+65.
+MINOPRIO, P.; Coutinho, A. . Lymphocyte subpopulations and clonal repertoires participate in immune response to acute T. cruzi infection. Memórias do Instituto Oswaldo Cruz (Impresso), v. 83, p. 356-359, 1988.
+
+66.
+MINOPRIO, P.; BURLEN, O. ; PEREIRA, P. ; GUILBERT, B. ; ANDRADE, L. ; HONTEBEYRIE-JOSKOWICZ, M. ; COUTINHO, A. . Most B Cells in Acute Trypanosoma cruzi Infection Lack Parasite Specificity. Scandinavian Journal of Immunology (Print), v. 28, p. 553-561, 1988.
+Citações:76|72
+
+67.
+RUSSO, M. ; STAROBINAS, N. ; MINOPRIO, P. ; Coutinho, A. ; HONTEBEYRIE-JOSKOWICZ, M. . Parasitic load increases and myocardial inflammation decreases in Trypanosoma cruzi-infected mice after inactivation of helper cells.. Research in Immunology, v. 139, p. 225-235, 1988.
+
+68.
+MINOPRIO, P.; EISEN, H. ; Joskovicz, M. ; PEREIRA, P. ; Coutinho, A. . Suppression of polyclonal antibody production in Trypanosoma cruzi infected mice by tratment with anti-L3T4 antibodies.. The Journal of Immunology (1950), v. 139, p. 545-550, 1987.
+Citações:82|56
+
+69.
+MINOPRIO, P.; COUTINHO, A. ; Joskovicz, M. ; D'IMPERIO LIMA, R. ; EISEN, H. . Polyclonal lymphocyte responses to murine Trypanosoma cruzi infection. II. Cytotoxic T lymphocytes.. Scandinavian Journal of Immunology (Print), v. 24, p. 669-679, 1986.
+Citações:58|51
+
+70.
+MINOPRIO, P.; EISEN, H. ; Forni, L ; D'IMPERIO LIMA, R. ; Joskovicz, M. ; Coutinho, A. . Polyclonal lymphocyte responses to murine Trypanosoma cruzi infection. I. Quantitation of both T and B cell responses.. Scandinavian Journal of Immunology (Print), v. 24, p. 661-668, 1986.
+Citações:148|134
+
+71.
+D'IMPERIO LIMA, R. ; EISEN, H. ; MINOPRIO, P. ; Joskovicz, M. ; Coutinho, A. . Persistence of polyclonal B cell activation with undetectable parasitemia in late stages of experimental Chagas'disease.. The Journal of Immunology (1950), v. 137, p. 353-356, 1986.
+Citações:49|56
+
+72.
+Kipnis, T.L. ; MINOPRIO, P. ; Luchetti, A.O. ; Rassi, A. ; Dias da Silva, W. . Estudo immunobiopatologico de cepas de Trypanosoma cruzi recém isoladas de pacientes na fase aguda da Doença de Chagas.. Revista da Sociedade Brasileira de Medicina Tropical (Impresso), v. 16, p. 175-183, 1983.
+
+73.
+CAPRON, M ; Carlier, Y. ; Nzeyamana, H. ; MINOPRIO, P. ; Santoro, F. ; Selin, B. ; Capron, A. . In vitro study of immunological events in human and experimental Schistosomiasis. II : Relationship between cytotoxic antibodies and circulating Schistosoma antigens.. Parasite Immunology (Print), v. 2, p. 223-235, 1980.
+Citações:16|6

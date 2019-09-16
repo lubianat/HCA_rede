@@ -1,0 +1,373 @@
+1.
+PEREIRA, P. H. S. ; TESSARIN-ALMEIDA, G. ; LOPES, K. V. G. ; LIMA, W. R. ; PEREIRA, L. B. ; MEISSNER, K. A. ; WRENGER, C. ; RAFAELLO, A. ; RIZZUTO, R. ; POZZAN, TULLIO ; GARCIA, C. R. S. . Melatonin activates FIS 1, DYN 1, and DYN 2 Plasmodium falciparum related-genes for mitochondria fission: Mitoemerald- GFP as a tool to visualize mitochondria structure. JOURNAL OF PINEAL RESEARCH, v. 66, p. e12484, 2019.
+
+2.
+PECENIN, M. F. ; BORGES-PEREIRA, LUCAS ; LEVANO-GARCIA, J. ; Budu, A ; ALVES, E. ; Mikoshiba K ; Thomas A ; GARCIA, CELIA R. S. . Blocking IP3 signal transduction pathways inhibits melatonin-induced Ca2+ signals and impairs P. falciparum development and proliferation in erythrocytes.. CELL CALCIUM, v. 72, p. 81-90, 2018.
+
+3.
+PEREIRA, PEDRO H. SCARPELLI ; CURRA, CHIARA ; GARCIA, CELIA R. S. . Ubiquitin Proteasome System as a Potential Drug Target for Malaria. CURRENT TOPICS IN MEDICINAL CHEMISTRY, v. 18, p. 1-6, 2018.
+
+4.
+AGUIAR, ANNA CAROLINE CAMPOS ; PANCIERA, MICHELE ; SANTOS, ERIC FRANCISCO SIMÃO DOS ; SINGH, MANEESH KUMAR ; GARCIA, MARIANA LOPES ; DE SOUZA, GUILHERME EDUARDO ; NAKABASHI, MYNA ; COSTA, JOSÉ LUIZ ; GARCIA, CÉLIA R.S. ; OLIVA, GLAUCIUS ; CORREIA, CARLOS ROQUE DUARTE ; GUIDO, RAFAEL VICTORIO CARVALHO . Discovery of Marinoquinolines as Potent and Fast-Acting Plasmodium falciparum Inhibitors with In Vivo Activity. JOURNAL OF MEDICINAL CHEMISTRY, v. 12, p. 5547-5568, 2018.
+
+5.
+LEE, ANDREW H. ; DHINGRA, SATISH K. ; LEWIS, IAN A. ; SINGH, MANEESH K. ; SIRIWARDANA, AMILA ; DALAL, SEEMA ; RUBIANO, KELLY ; KLEIN, MATTHIAS S. ; BASKA, KATELYNN S. ; KRISHNA, SANJEEV ; KLEMBA, MICHAEL ; ROEPE, PAUL D. ; LLINÁS, MANUEL ; GARCIA, CELIA R. S. ; FIDOCK, DAVID A. . Evidence for Regulation of Hemoglobin Metabolism and Intracellular Ionic Flux by the Plasmodium falciparum Chloroquine Resistance Transporter. Scientific Reports, v. 8, p. 1-13, 2018.
+
+6.
+SIDEN-KIAMOS, INGA ; PACE, TOMASINO ; KLONIZAKIS, ANTONIOS ; NARDINI, MARCO ; GARCIA, CELIA R.S. ; CURRÀ, CHIARA . Identification of Plasmodium berghei Oocyst Rupture Protein 2 (ORP2) domains involved in sporozoite egress from the oocyst. INTERNATIONAL JOURNAL FOR PARASITOLOGY, v. 7519, p. 30247-30249, 2018.
+
+7.
+Célia R. S. Garcia; ALVES, E ; PEREIRA, P. H. S. ; Barlett PJ ; Thomas A ; MIKOSHIBA, K ; PLATTNER, H. ; SIBLEY, L. D. . InsP3 Signaling in Apicomplexan Parasites. Current Topics in Medicinal Chemistry (Print), v. 17, p. 1-1, 2017.
+Citações:2|4
+
+8.
+PEREIRA, L. B. ; MEISSNER, K. A. ; WRENGER, C. ; GARCIA, CELIA R.S. . Plasmodium falciparum GFP-E-NTPDase expression at the intraerythrocytic development stages and its inhibition blocks RBCs invasion by the human malaria parasite. Purinergic Signalling, v. 17, p. 1-11, 2017.
+
+9.
+SODERO, A. C. R. ; ABRAHIM-VIEIRA, B. ; TORRES, P. H. M. ; PASCUTTI, P. G. ; GARCIA, C. R. S. ; FERREIRA, V. F. ; ROCHA, D. R. ; FERREIRA, S. B. ; SILVA-JR, F. P. . Insights into cytochrome bc1 complex binding mode of antimalarial 2-hydroxi-1,4-naphthoquinones through molecular modelling. MEMORIAS DO INSTITUTO OSWALDO CRUZ, v. 112, p. 299-308, 2017.
+
+10.
+MORAES, MIRIAM S. ; BUDU, ALEXANDRE ; SINGH, MANEESH K. ; BORGES-PEREIRA, LUCAS ; Levano-Garcia, Julio ; CURRÀ, CHIARA ; PICCI, LEONARDO ; PACE, TOMASINO ; PONZI, MARTA ; POZZAN, TULLIO ; GARCIA, CÉLIA R. S. . Plasmodium falciparum GPCR-like receptor SR25 mediates extracellular K+ sensing coupled to Ca2+ signaling and stress survival. Scientific Reports, v. 7, p. 1-13, 2017.
+Citações:2
+
+11.
+AGUIAR, A. C. ; SOUSA, L. R. F. ; GARCIA, C. R. S. ; OLIVA, G. ; GUIDO, RAFAEL V. C. . New Molecular Targets and Strategies for Antimalarial Discovery. CURRENT MEDICINAL CHEMISTRY, v. 26, p. 1-21, 2017.
+
+12.
+REZENDE LIMA, WÂNIA ; CORREA MARTINS, DAVID ; SIMÔNIO PARREIRA, KLEBER ; SCARPELLI, PEDRO ; SANTOS DE MORAES, MIRIAM ; TOPALIS, PANTELIS ; FUMIO HASHIMOTO, RONALDO ; R. S. GARCIA, CÉLIA . Genome-wide analysis of the human malaria parasite Plasmodium falciparum transcription factor PfNF-YB shows interaction with a CCAAT motif. Oncotarget, v. 8, p. 113987-114001, 2017.
+
+13.
+Wu Y. ; Cruz, L. N ; SZESTAK, T. ; LAING, G. ; MOLYNEUX, G. R. ; GARCIA, CELIA R. S. ; Craig A. . An external sensing system in Plasmodium falciparum infected erythrocytes. Malaria Journal (Online), v. 15, p. 1-15, 2016.
+Citações:1|1
+
+14.
+Alves, Eduardo ; MALUF, FERNANDO V. ; BUENO, VÂNIA B. ; GUIDO, RAFAEL V. C. ; OLIVA, GLAUCIUS ; SINGH, MANEESH ; SCARPELLI, PEDRO ; COSTA, FAHYME ; SARTORELLO, ROBSON ; CATALANI, LUIZ H. ; BRADY, DECLAN ; TEWARI, RITA ; GARCIA, CELIA R. S. . Biliverdin targets enolase and eukaryotic initiation factor 2 (eIF2?) to reduce the growth of intraerythrocytic development of the malaria parasite Plasmodium falciparum. Scientific Reports, v. 6, p. 22093, 2016.
+Citações:3|3
+
+15.
+GONÇALVES, FLÁVIA ; DE MORAES, MÍRIAM SANTOS ; FERREIRA, LORRAINE BRAGA ; CARREIRA, ANA CLÁUDIA OLIVEIRA ; KOSSUGUE, PATRÍCIA MAYUMI ; BOARO, LETÍCIA CRISTINA CIDREIRA ; BENTINI, RICARDO ; GARCIA, CÉLIA REGINA DA SILVA ; SOGAYAR, MARI CLEIDE ; ARANA-CHAVEZ, VICTOR ELIAS ; CATALANI, LUIZ HENRIQUE . Combination of Bioactive Polymeric Membranes and Stem Cells for Periodontal Regeneration: In Vitro and In Vivo Analyses. Plos One, v. 11, p. e0152412, 2016.
+Citações:5|4
+
+16.
+CRUZ, LAURA N. ; WU, YANG ; Ulrich, Henning ; CRAIG, ALISTER G. ; GARCIA, CÉLIA R.S. . Tumor necrosis factor reduces Plasmodium falciparum growth and activates calcium signaling in human malaria parasites. Biochimica et Biophysica Acta. G, General Subjects (Print), v. 7, p. 1489-1497, 2016.
+Citações:6|5
+
+17.
+LIMA, W. R. ; TESSARIN-ALMEIDA, G. ; ROZANSKI, A. ; PARREIRA, K. S. ; MORAES, M. S. ; MARTINS, D. C. ; HASHIMOTO, R. F. ; GALANTE, P. A. F. ; GARCIA, CELIA R.S. . Signaling transcript profile of the asexual intraerythrocytic development cycle of Plasmodium falciparum induced by melatonin and cAMP. Genes & Cancer, v. 7, p. 323-339, 2016.
+Citações:1
+
+18.
+CURRÀ, CHIARA ; GESSMANN, RENATE ; PACE, TOMASINO ; PICCI, LEONARDO ; PERUZZI, GIULIA ; VARAMOGIANNI-MAMATSI, VASSILIKI ; SPANOS, LEFTERIS ; GARCIA, CÉLIA R. S. ; SPACCAPELO, ROBERTA ; PONZI, MARTA ; SIDEN-KIAMOS, INGA . Release of Plasmodium sporozoites requires proteins with histone-fold dimerization domains. Nature Communications, v. 7, p. 13846, 2016.
+Citações:2|2
+
+19.
+SILVA, G. N. S. ; MARIA, N. R. G. ; SCHUCK, D. C. ; CRUZ, L. N. ; MORAES, M. S. ; NAKABASHI, M. ; GOSMANN, G. ; GARCIA, C. R. S. ; GNOATTO, S. C. B. . Investigation of anti-malarial activity, cytotoxicity and action mechanism of piperazine derivatives of betulinic acid. TM & IH. Tropical Medicine and International Health (Print), v. 20, p. 29, 2015.
+Citações:4|4
+
+20.
+DEDA, DAIANA ; BUDU, ALEXANDRE ; CRUZ, LAURA ; ARAKI, KOITI ; GARCIA, CELIA . Strategies for Development of Antimalarials Based on Encapsulated Porphyrin Derivatives. Mini-Reviews in Medical Chemistry, v. 14, p. 1055-1071, 2015.
+Citações:2|1
+
+21.
+Pinto, M. E. ; BATISTA JUNIOR, J. M. ; KOEBACH, J. ; GAUR, P. ; SHARMA, A. ; NAKABASHI, M. ; CILLI, E. ; GIESEL, G. ; VERLI, H. ; GRUBER, C. ; BLANCH, E. ; TAVARES, J. ; SILVA, M. ; GARCIA, C. R. S. ; BOLZANI, V. S. . Ribifolin, an Orbitide from Jatropha ribifolia , and Its Potential Antimalarial Activity. Journal of Natural Products (Print), v. 78, p. 374-380, 2015.
+Citações:2|3
+
+22.
+Alves, Eduardo ; IGLESIAS, BERNARDO A. ; DEDA, DAIANA K. ; BUDU, ALEXANDRE ; MATIAS, TIAGO A. ; BUENO, VÂNIA B. ; MALUF, FERNANDO V. ; GUIDO, RAFAEL V.C. ; OLIVA, GLAUCIUS ; CATALANI, LUIZ H. ; ARAKI, KOITI ; GARCIA, CELIA R.S. . Encapsulation of metalloporphyrins improves their capacity to block the viability of the human malaria parasite Plasmodium falciparum. Nanomedicine, v. 11, p. 351-358, 2015.
+Citações:5|2
+
+23.
+BORGES-PEREIRA, LUCAS ; BUDU, ALEXANDRE ; MCKNIGHT, CIARA A. ; MOORE, CHRISTINA A. ; VELLA, STEPHEN A. ; HORTUA TRIANA, MIRYAM A. ; LIU, JING ; GARCIA, CELIA R. S. ; PACE, DOUGLAS A. ; MORENO, SILVIA N. J. . Calcium Signaling Throughout the Toxoplasma gondii Lytic Cycle. A Study Using Genetically Encoded Calcium Indicators. The Journal of Biological Chemistry (Print), v. 15, p. jbc.M115.652511, 2015.
+Citações:5|12
+
+24.
+Alves, Eduardo ; IGLESIAS, BERNARDO ; DEDA, DAIANA ; BUDU, ALEXANDRE ; MATIAS, TIAGO ; BUENO, VANIA ; MALUF, FERNANDO ; GUIDO, RAFAEL ; OLIVA, GLAUCIUS ; CATALANI, LUIZ ; ARAKI, KOITI ; DA SILVA GARCIA, CELIA REGINA . REPLY to Nanomedicine: NMB, 2015; 11:1035. Nanomedicine, v. 11, p. 1036-1037, 2015.
+
+25.
+LAVOGINA, D. ; Budu, A ; ENKVIST, E. ; HOPP, C. S. ; BAKER, D. A. ; LANGSLEY, G. ; GARCIA, C. R. S. ; URI, A. . Targeting Plasmodium falciparum protein kinases with adenosine analogue-oligoarginine conjugates. Experimental Parasitology, v. 138, p. 55-62, 2014.
+Citações:3|4
+
+26.
+Shuck, Desiree C. ; Jordão, A. K. ; Nakabashi, M ; Cunha, A. C. ; FERREIRA, V. F. ; Garcia, Celia RS . Synthetic indole and melatonin derivatives exhibit antimalarial activity on the cell cycle of the human malaria parasite Plasmodium falciparum. European Journal of Medicinal Chemistry, v. 78, p. 375-382, 2014.
+Citações:9|12
+
+27.
+PIVATTO, M. ; BACCINI, L. ; SHARMA, A. ; NAKABASHI, M. ; DANUELLO, A. ; JUNIOR, C. ; GARCIA, C. R. S. ; BOLZANI, V. S. . Antimalarial Activity of Piperidine Alkaloids from Senna spectabilis and Semisynthetic Derivatives. Journal of the Brazilian Chemical Society (Impresso), p. 1900, 2014.
+Citações:1|3
+
+28.
+PEREIRA, L. B. ; CAMPOS, B. R. K. L. ; GARCIA, C. R. S. . The GCaMP3 - a GFP-based Calcium Sensor for Imaging Calcium Dynamics in the Human Malaria Parasite Plasmodium falciparum. METHODSX, v. 1, p. 151, 2014.
+Citações:3
+
+29.
+KOYAMA, F. C. ; Azevedo M. F. ; Budu, A ; CHAKRABARTI, D ; GARCIA, C. R. S. . Melatonin-induced a temporal up-regulation of gene expression related to ubiquitin/proteasome system (UPS) in the human malaria parasite Plasmodium falciparum. International Journal of Molecular Sciences (Online), v. 15, p. 22320, 2014.
+Citações:4|4
+
+30.
+LIMA, W. R. ; Moraes M. ; ALVES, E ; Azevedo M. F. ; Passos D. O. ; GARCIA, C. R. S. . The PfNF-YB transcription factor is a downstream target of melatonin and cAMP signalling in the human malaria parasite Plasmodium falciparum. Journal of Pineal Research, v. 54, p. 145-153, 2013.
+Citações:5|5
+
+31.
+SHARMA, A. ; SANTOS, I. O. ; GAUR, P. ; FERREIRA, V. F. ; GARCIA, C. R. S. ; ROCHA, D. R. . Addition of Thiols to o-Quinone Methide: New 2-Hydroxy-3-phenylsulfanylmethyl[1,4]naphthoquinones and Their Activity Against the Human Malaria Parasite Plasmodium falciparum (3D7). European Journal of Medicinal Chemistry, v. 59, p. 48-53, 2013.
+Citações:26|40
+
+32.
+SILVA, G. N. S. ; MARIA, N. R. G. ; SCHUCK, D. C. ; CRUZ, L. N. ; MORAES, M. S. ; NAKABASHI, M. ; GRAEBIN, C. ; GOSMANN, G. ; GARCIA, C. R. S. ; GNOATTO, S. C. B. . Two series of new semisynthetic triterpene derivatives: differences in anti-malarial activity, cytotoxicity and mechanism of action. Malaria Journal (Online), v. 12, p. 89, 2013.
+Citações:6|12
+
+33.
+LIMA, W. R. ; HOLDER, A. A. ; GARCIA, C. R. S. . Melatonin Signaling and Its Modulation of PfNF-YB Transcription Factor Expression in Plasmodium falciparum. International Journal of Molecular Sciences (Online), v. 14, p. 13704-13718, 2013.
+Citações:5|5
+
+34.
+SCHUCK, D. C. ; FERREIRA, S. B. ; CRUZ, L. N. ; ROCHA, D. R. ; Moraes M. ; NAKABASHI, M. ; ROZENTHAL, P. J. ; FERREIRA, V. F. ; GARCIA, C. R. S. . Biological evaluation of hydroxynaphthoquinones as anti-malarials. Malaria Journal (Online), v. 12, p. 234, 2013.
+Citações:17|22
+
+35.
+KOYAMA, F. C. ; CARVALHO, T. L. ; ALVES, E. ; SILVA, H. B. ; AZEVEDO, M. F. ; HEMERLY, A. S. ; GARCIA, C. R. S. . The Structurally-Related Auxin and Melatonin Tryptophan-Derivatives and their Roles in Arabidopsis thaliana and in the Human Malaria Parasite Plasmodium falciparum. The Journal of Eukaryotic Microbiology, v. 80, p. 646-651, 2013.
+Citações:10|20
+
+36.
+BAGNARESI, P ; Nakabashi, M ; Thomas A ; Reiter, R ; GARCIA, C. R. S. . The role of melatonin on parasite biology. Molecular and Biochemical Parasitology (Print), v. 181, p. 1-6, 2012.
+Citações:8|14
+
+37.
+KOYAMA, F ; Ribeiro, RY ; Levano-Garcia, Julio ; Azevedo MF ; CHAKRABARTI, D ; GARCIA, C. R. S. . Ubiquitin Proteasome System and the atypical kinase PfPK7 are involved in melatonin signaling in Plasmodium falciparum. Journal of Pineal Research, v. 53, p. 147-153, 2012.
+Citações:7|11
+
+38.
+Cruz, L. N ; Juliano, Maria A. ; Budu, A ; Juliano, L ; Holder T. ; Blackman M. ; GARCIA, C. R. S. . Extracellular ATP triggers proteolysis and cytosolic Ca2+ rise in Plasmodium berghei and Plasmodium yoelii malaria parasites. Malaria Journal (Online), v. 11, p. 69, 2012.
+Citações:11|18
+
+39.
+Budu, A ; GARCIA, C. R. S. . Generation of second messengers in Plasmodium. Microbes and Infection, v. 14, p. 787-795, 2012.
+Citações:6|5
+
+40.
+Cruz, L. N ; Wu Y. ; Craig A. ; GARCIA, C. R. S. . Signal transduction in Plasmodium-Red Blood Cells interactions and in cytoadherence. Anais da Academia Brasileira de Ciências (Impresso), v. 84, p. 555-572, 2012.
+Citações:5|8
+
+41.
+BURROWS, M. C. ; ZAMARION, V. M. ; FILIPPIN-MONTEIRO, F. B. ; Shuck, Desiree C. ; TOMA, H. E. ; CAMPA, A. ; GARCIA, C. R. S. ; CATALANI, L. H. . Hybrid scaffolds built from PET and collagen as a model for vascular graft architecture. Macromolecular Bioscience (Print), v. 12, p. 1660-1670, 2012.
+Citações:16|13
+
+42.
+INNOCENTE, A. M. ; SILVA, G. N. S. ; Cruz, L. N ; Moraes M. ; Nakabashi, M ; SONNET, P. ; GOSMANN, G. ; Garcia, Célia RS ; GNOATTO, S. C. B. . Synthesis and antiplasmodial activity of betulinic acid and ursolic acid analogues. Molecules (Basel. Online), v. 10, p. 12003-12014, 2012.
+Citações:23|29
+
+43.
+GARCIA, C. R. S.; PARODI, A. J. ; OLIVA, G. . Growing Latin American Science. Science (New York, N.Y.: Online), v. 338, p. 1127-1127, 2012.
+Citações:3|3
+
+44.
+Canepa G. ; Degese MS ; Budu, A ; GARCIA, C. R. S. ; Buscaglia CA . Involvement of Trypomastigote Small Surface Antigen (TSSA) in Trypanosoma cruzi invasion of mammalian cells.. Biochemical Journal (London. 1984), v. 444, p. 211-218, 2012.
+Citações:13|18
+
+45.
+GAZARINI, ML ; Beraldo FH ; ALMEIDA, FM ; Bootman, M. ; SILVA, A. M. ; GARCIA, C. R. S. . Melatonin triggers PKA activation in the rodent malaria parasite Plasmodium chabaudi. Journal of Pineal Research, v. 50, p. 64-70, 2011.
+Citações:15|19
+
+46.
+ALVES, E ; Barlett PJ ; GARCIA, C. R. S. ; Thomas A . Melatonin and IP3-induced Ca2+ release from intracellular stores in the malaria parasite Plasmodium falciparum within infected red blood cells. The Journal of Biological Chemistry (Print), v. 13, p. 1-11, 2011.
+Citações:37|37
+
+47.
+Schuck, Desirée Cigaran ; Ribeiro, Ramira Yuri ; Nery, Arthur A. ; Ulrich, Henning ; Garcia, Célia R. S. ; GARCIA, C. R. S. . Flow cytometry as a tool for analyzing changes in Plasmodium falciparum cell cycle following treatment with indol compounds. Cytometry. Part A, v. 79A, p. 959-964, 2011.
+Citações:17|14
+
+48.
+Benaim, G ; Garcia, Celia Regina S. . Targeting calcium homeostasis as the therapy of Chagas? disease and leishmaniasis. TROP BIOMED, v. 28, p. 471-481, 2011.
+Citações:7|21
+
+49.
+SARTORELLO, R ; Budu, A ; BAGNARESI, P ; Fernandes CH ; Sato PM ; BUENO, V. ; Fontes MR ; Oliveira PL ; Silva GP ; Alves SV ; Netto LES ; CATALANI, L. H. ; GARCIA, C. R. S. . In vivo uptake of a heme-analogue Zn-Protoporphyrin IX by the human malaria parasite P. falciparum ? infected red blood cells. Cell Biology International, v. 34, p. 859-865, 2010.
+Citações:12|12
+
+50.
+Cruz, L. N ; Guerra, M ; Kruglov, E ; Mennone, A ; GARCIA, C. R. S. ; Chen, J ; Nathanson, MH . Regulation of multidrug resistance-associated protein 2 by calcium signaling in mouse liver. Hepatology (Baltimore, Md.), v. 52, p. 327-337, 2010.
+Citações:27|21
+
+51.
+Levano-Garcia, Julio ; Dluzewski, Anton R. ; Markus, Regina P. ; Garcia, Celia Regina S. . Purinergic signalling is involved in the malaria parasite Plasmodium falciparum invasion to red blood cells. Purinergic Signalling (Print), v. 6, p. 365-372, 2010.
+Citações:21|27
+
+52.
+da Cruz, Laura Nogueira ; Alves, Eduardo ; Leal, Mônica Teixeira ; Juliano, Maria A. ; Rosenthal, Philip J. ; Juliano, Luiz ; Garcia, Celia R.S. ; GARCIA, C. R. S. . FRET peptides reveal differential proteolytic activation in intraerythrocytic stages of the malaria parasites Plasmodium berghei and Plasmodium yoelii. International Journal for Parasitology, v. 41, p. 363-372, 2010.
+Citações:2|9
+
+53.
+BAGNARESI, P ; ALVES, E ; SILVA, H. B. ; EPIPHANIO, S. ; MOTA, M. M. ; GARCIA, C. R. S. . Unlike the synchronous Plasmodium falciparum and P. chabaudi infection, the P. berghei and P. yoelli asynchronous infections are not affected by melatonin.. International Journal of General Medicine, v. 2, p. 47-55, 2009.
+Citações:21
+
+54.
+KOYAMA, F ; CHAKRABARTI, D ; GARCIA, C. R. S. . Molecular machinery of signal transduction and cell cycle regulation in Plasmodium.. Molecular and Biochemical Parasitology (Print), v. 165, p. 2-7, 2009.
+Citações:29|37
+
+55.
+ARANHA CAMARGO, LM ; OLIVEIRA, S ; BASANO, S ; GARCIA, C. R. S. . Antimalarials and the fight against malaria in Brazil. Therapeutics and Clinical Risk Management (Cessou em 2008. Cont. ISSN 1178-203X Therapeutics and Clinical Risk Management (Online)), v. 5, p. 311-317, 2009.
+Citações:15
+
+56.
+GARCIA, C. R. S.. Molecular and cellular approaches to understanding pathogen host interactions in neglected diseases. Current Opinion in Microbiology, v. 12, p. 392-393, 2009.
+
+57.
+SARTORELLO, R ; Amaya, MJ ; Nathanson, MH ; GARCIA, C. R. S. . The Plasmodium receptor for activated c kinase protein inhibits Ca2+ signaling in mammalian cells. Biochemical and Biophysical Research Communications (Print), v. 389, p. 586-592, 2009.
+Citações:13|12
+
+58.
+ MADEIRA, L. ; GALANTE, P. A. F. ; Budu, A ; Azevedo MF ; Malnic B ; GARCIA, C. R. S. . Genome-wide Detection of Serpentine Receptor-Like Proteins in Malaria Parasites. Plos One, v. 3, p. e1889, 2008.
+Citações:20|19
+
+59.
+BAGNARESI, P ; Markus RP ; Hotta CT ; POZZAN, T ; GARCIA, C. R. S. . Desynchronizing Plasmodium cell cycle increases chloroquine protection at suboptimal doses. The Open Parasitology Journal, v. 2, p. 55-58, 2008.
+
+60.
+GARCIA, C. R. S.; Azevedo MF ; Wunderlich G ; Budu, A ; YOUNG, J. ; BANNISTER, L. . Plasmodium in the Postgenomic Era: New Insights into the Molecular Cell Biology of Malaria Parasites. INT REV CEL MOL BIO, v. 766, p. 85-156, 2008.
+Citações:46|33|51
+
+61.
+BAGNARESI, P ; RODRIGUES, M. T. ; GARCIA, C. R. S. . Calcium signaling in lizards Red Blood Cells. Comparative Biochemistry and Physiology. A, Molecular & Integrative Physiology, v. 147, p. 779-787, 2007.
+Citações:4|7
+
+62.
+Budu, A ; Peres R. ; BUENO, V. ; CATALANI, L. H. ; GARCIA, C. R. S. . N(1)-acetyl-N(2)-formyl-5-methoxykynuramine modulates the cell cycle of malaria parasites. Journal of Pineal Research, v. 42, p. 261-266, 2007.
+Citações:33|33
+
+63.
+GAZARINI, ML ; SIGOLO, C. A. ; Markus RP ; Thomas A ; GARCIA, C. R. S. . Antimalarial drugs disrupt íon homeostasis in malarial parasites. Memórias do Instituto Oswaldo Cruz (Impresso), v. 102, p. 329-334, 2007.
+Citações:12|14
+
+64.
+Kumar KA ; GARCIA, C. R. S. ; Chandran V, ; Van Rooijen N, ; Winzeler E ; NUSSENSWEIG, V. . Exposure of Plasmodium sporozoites to the intracellular concentration of potassium enhances infectivity and suppresses cell passage activity. Molecular and Biochemical Parasitology (Print), v. 156, p. 32-40, 2007.
+Citações:30|34
+
+65.
+Beraldo FH ; Mikoshiba K ; GARCIA, C. R. S. . Human malarial parasite, Plasmodium falciparum, displays capacitative calcium entry: 2-aminoethyl diphenylborinate blocks the signal transduction pathway of melatonin action on the P. falciparum cell cycle. Journal of Pineal Research, v. 43, p. 360-364, 2007.
+Citações:34|37
+
+66.
+Beraldo, Flávio H ; GARCIA, C. R. S. . Divergent calcium signaling in RBCs from Tropidurus torquatus (Squamata Tropiduridae) strengthen classification in lizard evolution. BMC Physiology (Online), v. 7, p. 7, 2007.
+Citações:2
+
+67.
+FARIAS, SL ; MELO, R ; HIRATA, Y ; JULIANO, Maria ; Juliano, L ; GARCIA, C. R. S. . Cystein protease actvity elicited by Ca2+ stimulus in Plasmodium.. Molecular and Biochemical Parasitology (Print), Estados Unidos, v. 141, p. 71-79, 2005.
+Citações:30|32
+
+68.
+Beraldo FH ; GARCIA, C. R. S. . Products of tryptophan catabolism induce Ca2+ release and modulate the cell cycle of Plasmodium falciparum malaria parasites. Journal of Pineal Research, Estados Unidos, v. 39, n.impress, p. 224-230, 2005.
+Citações:36|40
+
+69.
+ Beraldo, F. H. ; ALMEIDA, FM ; SILVA, A. M. ; GARCIA, C. R. S. . Cyclic AMP and calcium interplay as second messengers in melatonin-dependent regulation of Plasmodium falciparum cell cycle. The Journal of Cell Biology, v. 170, n.in press, p. 551-557, 2005.
+Citações:70|87
+
+70.
+GARCIA, C. R. S.. Desafios da Fisiologia Celular na era pós-genômica. Ciência e Cultura (SBPC), v. 56, n.1, p. 5-5, 2004.
+
+71.
+SARTORELLO, R ; GARCIA, C. R. S. . Activation of a P2y4-like purinoceptor triggers an increase in cytosolic [Ca2+] in the red blood cells of the lizard Ameiva ameiva (Squamata teiidae). Brazilian Journal of Medical and Biological Research (Impresso), v. 38, p. 5-10, 2004.
+Citações:4|5|8
+
+72.
+GAZARINI, ML ; GARCIA, C. R. S. . The malaria parasite mitochondrion senses cytosolic Ca2+ fluctuations. Biochemical and Biophysical Research Communications (Print), v. 321, p. 138-144, 2004.
+Citações:40|45
+
+73.
+VAROTTI, F ; Beraldo FH ; GAZARINI, ML ; GARCIA, C. R. S. . Plasmodium falciparum malaria parasites display a THG-sensitive Ca2+ pool. Cell Calcium (Edinburgh), Inglaterra, v. 33, p. 137-144, 2003.
+Citações:43|50
+
+74.
+ Gazarini, M. L. ; Thomas A ; POZZAN, T ; GARCIA, C. R. S. . Calcium signaling in a low calcium environment: how the intracellular malaria parasite solves the problem. The Journal of Cell Biology, Estados Unidos, v. 161, p. 103-110, 2003.
+Citações:94|100
+
+75.
+MADEIRA, L. ; DEMARCO, R ; GAZARINI, ML ; VERJOVSKI-ALMEIDA, S. ; GARCIA, C. R. S. . Human Malaria parasites display a receptor for activated c kinase (RACK) ortholog. Biochemical and Biophysical Research Communications (Print), Estados Unidos, v. 306, n.4, p. 995-1001, 2003.
+Citações:21|22
+
+76.
+GAZARINI, ML ; GARCIA, C. R. S. . Interruption of the blood-stage cycle of the malaria parasite Plasmodium chabaudi by protein tyrosine kinase. Brazilian Journal of Medical and Biological Research (Impresso), Brasil, v. 36, n.11, p. 1465-1469, 2003.
+Citações:16|22
+
+77.
+Hotta CT ; Markus RP ; GARCIA, C. R. S. . Melatonin and N-acetyl serotonin cross the red blood cell membrane and evoke calcium mobilization in malarial parasites. Brazilian Journal of Medical and Biological Research (Impresso), Brasil, v. 36, n.11, p. 1583-1587, 2003.
+Citações:28|28
+
+78.
+FERREIRA, Z ; GARCIA, C. R. S. ; SPRAY, DC ; Markus RP . P2Y1 Receptor Activation Enhances the Rate of Rat Pinealocyte-Induced Extracellular Acidification via a Calcium-Dependent Mechanism. Pharmacology, v. 69, p. 33-37, 2003.
+Citações:7|9
+
+79.
+Beraldo FH ; SARTORELLO, R ; GAZARINI, ML ; CALDEIRA, W. ; GARCIA, C. R. S. . Red blood cells of the lizards Ameiva ameiva (Squamata, Teiidae) display multiple mechanisms to control cytosolic calcium. Cell Calcium (Edinburgh), Inglaterra, v. 31, n.2, p. 79-87, 2002.
+Citações:7|8
+
+80.
+GARCIA, C. R. S.; Markus, R. P. ; MADEIRA, L. . Tertian and Quartan Fevers: Temporal Regulation in Malarial Infection. Journal of Biological Rhythms, Estados Unidos, v. 16, n.5, p. 436-443, 2001.
+Citações:32|37
+
+81.
+Beraldo FH ; SARTORELLO, R ; LANARI, R. ; GARCIA, C. R. S. . Signal transduction in red blood cells of the lizards Ameiva ameiva and Tupinambis merianae (Squamata, Teiidae). Cell Calcium (Edinburgh), Inglaterra, v. 29, n.6, p. 439-445, 2001.
+Citações:12|14
+
+82.
+MASCIO, P. ; DEWEZ, B. ; GARCIA, C. R. S. . Ghost protein damage by peroxinitrito and its protection by melatonin. Brazilian Journal of Medical and Biological Research (Impresso), Brasil, v. 33, p. 11-17, 2000.
+Citações:16|18
+
+83.
+ Hotta CT ; GAZARINI, ML ; Beraldo FH ; VAROTTI, F ; LOPES, C ; Markus RP ; POZZAN, T ; GARCIA, C. R. S. . Calcium-dependent modulation by melatonin of the circadian rythms in malaria parasites. Nature Cell Biology, v. 2, p. 466-468, 2000.
+Citações:93|100
+
+84.
+GARCIA, C. R. S.. Calcium Homeostasis and Signaling in the Blood-stage Malaria Parasite. Parasitology Today (Regular ed. Print) (Cessou em 2000. Cont. ISSN 1471-4922 Trends in Parasitology), v. 15, n.12, p. 488-491, 1999.
+Citações:41|48
+
+85.
+Passos AP ; GARCIA, C. R. S. . Inositol 1,4,5-trisphosphate induced Ca2+ release from chloroquin sensitive and insensitive intracellular stores in the intraerythrocytic stage of the malaria parasite P. chabaudi. Biochemical and Biophysical Research Communications (Print), Estados Unidos, v. 245, p. 155-160, 1998.
+Citações:55|57
+
+86.
+GARCIA, C. R. S.; ANN, S. E. ; TAVARES, E. S. ; DLUZEWSKI, A. ; MASON, W. T. ; Beraldo FH . Acidic calcium pools in intraerythrocytic malaria parasites. European Journal of Cell Biology (Print), Inglaterra, v. 75, p. 133-138, 1998.
+Citações:42|45
+
+87.
+GARCIA, C. R. S.; TAKEUCHI, M. ; YOSHIKA, K. ; MYAMOTO, H. . Imaging Plasmodium falciparum-infected ghost and parasite by atomic force microscopy. Journal of Structural Biology, Estados Unidos, v. 119, p. 92-98, 1997.
+Citações:26|30
+
+88.
+Passos AP ; GARCIA, C. R. S. . Characterization of Ca2+ transport activity associated with a non-mitochondrial calcium pool in the rodent malaria parasite P. chabaudi. Biochemistry and Molecular Biology International, Austrália, v. 42, p. 919-925, 1997.
+Citações:27
+
+89.
+DLUZEWSKI, A. ; GARCIA, C. R. S. . Inhibition of invasion and intraerythrocytic development ofPlasmodium falciparum by kinase inhibitors. Experientia, Estados Unidos, v. 52, p. 621-623, 1996.
+Citações:43|50
+
+90.
+ GARCIA, C. R. S.; DLUZEWSKI, A. ; CATALANI, L. H. ; BURTING, R. ; HOYLAND, J. ; MASON, W. T. . Calcium homeostasis in intraerythrocytic malaria parasites. European Journal of Cell Biology (Print), v. 71, p. 409-413, 1996.
+Citações:46|49
+
+91.
+WAY, M. ; SANDERS, M. ; Garcia, Célia RS ; SAKAI, J. ; MATSUDAIRA, P. . Sequence and domain organization of scruin, an actin-cross-linking protein in the acrosomal process of Limulus sperm. The Journal of Cell Biology, Estados Unidos, v. 128, p. 51-60, 1995.
+Citações:62|56
+
+92.
+GARCIA, C. R. S.; ABRAHAMSON, P. . A megadalton protein (Pc2500) is present during the intraerythrocytic development of P. chabaudi. Biochemistry and Molecular Biology International, Austrália, v. 36, p. 983-989, 1995.
+Citações:1|2
+
+93.
+GARCIA, C. R. S.; AMARAL JR, J. A. ; VERJOVSKI-ALMEIDA, S. . Dissociation of F-actin induced by hidrostatic pressure. European Journal of Biochemistry (Print) (Cessou em 2004. Cont. ISSN 1742-464X The FEBS Journal (Print)), Inglaterra, v. 209, p. 1005-1011, 1992.
+Citações:25|21
+
+94.
+GARCIA, C. R. S.; COAN, C. ; VERJOVSKI-ALMEIDA, S. . Interaction of spin labeled nucleotides with sarcoplasmic reticulum ATPase. Biochemistry (Easton), Estados Unidos, v. 27, p. 5923-5927, 1988.
+Citações:8|6
+
+95.
+GARCIA, C. R. S.; COAN, C. ; VERJOVSKI-ALMEIDA, S. . Utilization of arylazido ATP by sarcoplasmic reticulum ATPase in the absence of calcium. The Journal of Biological Chemistry, Estados Unidos, v. 263, p. 1861-1867, 1988.
+Citações:5|7
+
+96.
+VERJOVSKI-ALMEIDA, S. ; CARVALHO-ALVES, P. C. ; GARCIA, C. R. S. ; FERREIRA, S. T. . Probing the ATP binding sites of the calcium ATPase from sarcoplasmic reticulum by photoaffinity labeling.. Biophysical Journal (Print), v. 49, p. 108-109, 1986.
+Citações:1
+
+97.
+CARVALHO-ALVES, P. C. ; GARCIA, C. R. S. ; VERJOVSKI-ALMEIDA, S. . Stoichiometric photolabeling of two distinct low and high affinity nucleotide sites in sarcoplasmic reticulum ATPase. The Journal of Biological Chemistry (Print), Estados Unidos, v. 260, p. 4282-4287, 1984.
+Citações:25|11

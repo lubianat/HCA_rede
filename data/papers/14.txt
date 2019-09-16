@@ -1,0 +1,122 @@
+1.
+Pena DA ; PACHECO, D. M. ; Oliveira, Paulo S L ; ALVES, MARIA JULIA MANSO ; Schechtman, Deborah . Generating Conformation-Specific Polyclonal and Monoclonal Anti-Protein Kinase C Antibodies and Anti-Active State Specific PKC Antibodies. Current Protocols in Chemical Biology, v. 1, p. e42, 2018.
+
+2.
+PENA, D. A. ; DUARTE, M. L. ; PRAMIO, D. T. ; DEVI, LAKSHMI A. ; Schechtman, D. . Exploring Morphine-Triggered PKC-Targets and Their Interaction with Signaling Pathways Leading to Pain via TrkA. Proteomes, v. 6, p. 39, 2018.
+
+3.
+TEIXEIRA, FELIPE R. ; MANFIOLLI, ADRIANA O. ; VIEIRA, NICHELLE ANTUNES ; MEDEIROS, ANA CARLA ; COELHO, PRISCILA DE O. ; SANTIAGO GUIMARÃES, DIMITRIUS ; Schechtman, Deborah ; GOMES, MARCELO D. . FBXO25 regulates MAPK signaling pathway through inhibition of ERK1/2 phosphorylation. ARCHIVES OF BIOCHEMISTRY AND BIOPHYSICS, v. 621, p. 38-45, 2017.
+
+4.
+QVIT, NIR ; Schechtman, Deborah ; PEÑA, DARLENE APARECIDA ; Berti, Denise Aparecida ; SOARES, CHRISLAINE OLIVEIRA ; MIAO, QIANQIAN ; LIANG, LIYING (ANNIE) ; BARON, LAUREN A. ; TEH-POOT, CHRISTIAN ; MARTÍNEZ-VEGA, PEDRO ; RAMIREZ-SIERRA, MARIA JESUS ; CHURCHILL, ERIC ; CUNNINGHAM, ANNA D. ; MALKOVSKIY, ANDREY V. ; FEDERSPIEL, NANCY A. ; GOZZO, FABIO CESAR ; TORRECILHAS, ANA CLAUDIA ; MANSO ALVES, MARIA JULIA ; JARDIM, ARMANDO ; MOMAR, NDAO ; DUMONTEIL, ERIC ; MOCHLY-ROSEN, DARIA . Scaffold Proteins LACK and TRACK as Potential Drug Targets in Kinetoplastid Parasites: Development of Inhibitors. International Journal for Parasitology: Drugs and Drug Resistance, v. 6, p. 74-84, 2016.
+Citações:1|2
+
+5.
+PENA, DARLENE APARECIDA ; ANDRADE, VICTOR PIANA DE ; SILVA, GABRIELA ÁVILA FERNANDES ; NEVES, JOSÉ IVANILDO ; OLIVEIRA, PAULO SERGIO LOPES DE ; ALVES, MARIA JULIA MANSO ; DEVI, LAKSHMI A. ; Schechtman, Deborah . Rational design and validation of an anti-protein kinase C active-state specific antibody based on conformational changes. Scientific Reports, v. 6, p. 22114, 2016.
+Citações:3
+
+6.
+ de Oliveira, P. S. L. ; FERRAZ, F. A. N. ; PENA, D. A. ; PRAMIO, D. T. ; MORAIS, F. A. ; Schechtman, D. . Revisiting protein kinase-substrate interactions: Toward therapeutic development. Science Signaling, v. 9, p. re3-re3, 2016.
+Citações:4|7
+
+7.
+OLIVEIRA, KATIA C. ; CARVALHO, MARIANA L. P. ; BONATTO, JOSÉ MATHEUS C. ; Schechtman, Debora ; VERJOVSKI-ALMEIDA, SERGIO . Human TNF-? induces differential protein phosphorylation in Schistosoma mansoni adult male worms. Parasitology Research (1987. Internet), v. 115, p. 817-828, 2015.
+Citações:2|2
+
+8.
+DUARTE, M. L. ; PENA, D. A. ; NUNES FERRAZ, F. A. ; BERTI, D. A. ; PASCHOAL SOBREIRA, T. J. ; COSTA-JUNIOR, H. M. ; ABDEL BAQUI, M. M. ; DISATNIK, M.-H. ; Xavier-Neto, J. ; LOPES DE OLIVEIRA, P. S. ; Schechtman, D. . Protein folding creates structure-based, noncontiguous consensus phosphorylation motifs recognized by kinases. Science Signaling, v. 7, p. ra105-ra105, 2014.
+Citações:10|18
+
+9.
+GARAVELLO, NICOLE MILARÉ ; PENA, DARLENE APARECIDA ; BONATTO, JOSÉ MATHEUS CAMARGO ; Duarte, Mariana Lemos ; Costa-Junior, Helio Miranda ; SCHUMACHER, ROBERT IVAN ; FORTI, FABIO LUIS ; Schechtman, Deborah . Activation of Protein Kinase C delta by ??RACK peptide promotes embryonic stem cell proliferation through ERK 1/2. Journal of Proteomics (Print), v. 94, p. 497-512, 2013.
+Citações:4|4
+
+10.
+BUDAS, G. ; COSTA-JUNIOR, H.M. ; FERREIRA, J. C. B. ; Ferreira AT ; Perales J ; KRIEGER JE ; MOCHLY-ROSEN, D ; Schechtman, Deborah . Identification of PKC Targets During Cardiac Ischemic Injury. Circulation Journal, v. 76, p. 1476-1485, 2012.
+Citações:18|18
+
+11.
+Santos, Aline M ; Schechtman, Deborah ; Cardoso, Alisson C ; Clemente, Carolina F M Z ; Silva, Júlio C ; Fioramonte, Mariana ; Pereira, Michelle B M ; Marin, Talita M ; Oliveira, Paulo S L ; Figueira, Ana Carolina M ; Oliveira, Saulo H P ; Torriani, Íris L ; Gozzo, Fábio C ; Neto, José Xavier ; Franchini, Kleber G . FERM domain interaction with myosin negatively regulates FAK in cardiomyocyte hypertrophy. Nature Chemical Biology, v. 8, p. 102-110, 2011.
+Citações:10|10
+
+12.
+Azambuja, A. P. ; Portillo-Sanchez, V. ; Rodrigues, M. V. ; Omae, S. V. ; SCHECHTMAN, D. ; Strauss, B. E. ; Costanzi-Strauss, E. ; Krieger, J. E. ; Perez-Pomares, J. M. ; Xavier-Neto, J. . Retinoic Acid and VEGF Delay Smooth Muscle Relative to Endothelial Differentiation to Coordinate Inner and Outer Coronary Vessel Wall Morphogenesis. Circulation Research, v. 107, p. 204-216, 2010.
+Citações:19|25
+
+13.
+Costa-Junior, Helio Miranda ; Garavello, Nicole Milare? ; Duarte, Mariana Lemos ; Berti, Denise Aparecida ; Glaser, Talita ; Andrade, Alexander de ; Labate, Carlos A. ; Ferreira, Andre? Teixeira da Silva ; Perales, Jonas Enrique Aguilar ; Xavier-Neto, Jose? ; Krieger, Jose? Eduardo ; Schechtman, Deborah . Phosphoproteomics Profiling Suggests a Role for Nuclear ??PKC in Transcription Processes of Undifferentiated Murine Embryonic Stem Cells. Journal of Proteome Research (Print), v. 9, p. 6191-6206, 2010.
+
+14.
+SOBREIRA, T. J. P. ; MARLETAZ, F. ; SIMOES-COSTA, M. ; SCHECHTMAN, D. ; Pereira, A. C. ; BRUNET, F. ; SWEENEY, S. ; PANI, A. ; ARONOWICZ, J. ; LOWE, C. J. ; DAVIDSON, B. ; LAUDET, V. ; BRONNER, M. ; de Oliveira, P. S. L. ; SCHUBERT, M. ; Xavier-Neto, J. . Structural shifts of aldehyde dehydrogenase enzymes were instrumental for the early evolution of retinoid-dependent axial patterning in metazoans. Proceedings of the National Academy of Sciences of the United States of America, v. 108, p. 226-231, 2010.
+Citações:24|27
+
+15.
+Costa-Junior, Helio Miranda ; Suetsugu, Mariana J. ; KRIEGER, José Eduardo ; SCHECHTMAN, D. . Specific modulation of protein kinase activity via small peptides. Regulatory Peptides, v. 153, p. 11-18, 2009.
+Citações:6|7
+
+16.
+KHEIFETS, V. ; BRIGHT, R ; INAGAKI, K ; SCHECHTMAN, D. ; MOCHLY-ROSEN, D . Protein Kinase C   ( PKC)-Annexin V Interaction: A REQUIRED STEP IN  PKC TRANSLOCATION AND FUNCTION. The Journal of Biological Chemistry (Print), Estados Unidos, v. 281, n.32, p. 23218-23226, 2006.
+Citações:41|45
+
+17.
+SOUROUJON, M. C. ; YAO, L. ; CHEN, H. ; ENDEMANN, G. ; KHANER, H. ; GEERAERT, V. ; SCHECHTMAN, D. ; GORDON, A. S. ; DIAMOND, I. ; MOCHLYROSEN, D. . State-specific monoclonal antibodies identify an intermediate state in epsilon protein kinase C activation.. The Journal of Biological Chemistry (Print), v. 23, n.279, p. 17617-17624, 2004.
+Citações:10|11
+
+18.
+ SCHECHTMAN, D.; CRASKE, M. L. ; KHEIFETS, V. ; MEYER, T. ; SCHECHTMAN, J. ; MOCHLYROSEN, D. . A critical intramolecular interaction for protein kinase C epsilon translocation. The Journal of Biological Chemistry (Print), v. 16, n.279, p. 15831-15840, 2004.
+Citações:40|46
+
+19.
+ENDEMANN, G. ; SCHECHTMAN, D. ; MOCHLYROSEN, D. . Cytotoxicity of pEGFP vector is due to residues encoded by the multiple cloning site.. Analytical Biochemistry (Print), v. 15, n.313, p. 345-347, 2003.
+Citações:7|8
+
+20.
+SCHECHTMAN, D.; MOCHLY-ROSEN, D. . Isozyme specific inhibitors and activators of PKC.. Methods In Enzymology, v. 345, p. 470-489, 2002.
+
+21.
+SCHECHTMAN, D.; WINNEN, R. ; TARRAB-HAZDAI, R. ; RAM, D. ; SHINDER, V. ; GREVELDING, C. ; KUNZ, W. ; ARNON, R. . Expression and immunolocalization of the 14-3-3 protein of Schistosoma mansoni. Parasitology (London), v. 123, n.6, p. 573-582, 2001.
+Citações:20|21
+
+22.
+ SCHECHTMAN, D.; MOCHLY-ROSEN, D. . Adaptor proteins in protein kinase C-mediated signal transduction.. Oncogene (Basingstoke), v. 20, n.44, p. 6339-6347, 2001.
+Citações:249|259
+
+23.
+SCHECHTMAN, D.; TARRAB-HAZDAI, R. ; ARNON, R. . The 14-3-3 protein as a vaccine candidate against schistosomiasis. Parasite Immunology (Print), v. 4, p. 213-217, 2001.
+Citações:36|41
+
+24.
+MOCHLYROSEN, D. ; FAGIN, J. A. ; KNAUF, J. A. ; NIKIROV, Y. ; LIRON, T. ; SCHECHTMAN, D. . Spontaneous occurrence of an inhibitor of protein kinase C localization in a thyroid cancer cell line: role in thyroid tumorigenisis.. Advances In Enzyme Regulation, v. 41, p. 87-97, 2001.
+
+25.
+CHEN, L. ; HAHN, H. ; WU, G. ; CHEN, C. ; LIRON, T. ; SCHECHTMAN, D. ; CAVALLARO, G. ; BANCI, L. ; GUO, Y. ; BOLLI, R. ; DORNII, G. W. ; MOCHLYROSEN, D. . Opposing Cardioprotective Actions and parallel hypertrophic effects of PKC and PKC.. Proceedings of the National Academy of Sciences of the United States of America, v. 25, n.98, p. 11114-11119, 2001.
+Citações:388|422
+
+26.
+TARRAB-HAZDAI, R. ; SCHECHTMAN, D. ; LOWELL, G. ; PIRAK, E. ; ARNON, R. . Proteosome delivery of a protective 9B-antigen against Schistosoma mansoni. International Journal of Immunopharmacology, v. 21, n.3, p. 205-218, 1999.
+Citações:8|7
+
+27.
+BENYEDIDIA, T. ; TARRAB-HAZDAI, R. ; SCHECHTMAN, D. ; ARNON, R. . Intranasal administration of synthetic recombinant peptide-based vaccine protects mice against infection by Schistosoma mansoni.. Infection and Immunity, v. 67, n.9, p. 4360-4366, 1999.
+
+28.
+TARRAB-HAZDAI, R. ; SCHECHTMAN, D. ; ARNON, R. . Synthesis and characterization of a protective peptide-based vaccine against Schistosoma mansoni.. Infection and Immunity, v. 66, n.9, p. 4526-4530, 1998.
+
+29.
+TARRAB-HAZDAI, R. ; CAMACHO, M. ; MENDELOVIC, F. ; SCHECHTMAN, D. . An association between activity of the Na/K-pump and resistance of Schistosoma mansoni towards complement-mediated killing.. Parasite Immunology, v. 19, p. 395-400, 1997.
+Citações:7|7
+
+30.
+SCHECHTMAN, D.; RAM, D. ; TARRAB-HAZDAI, R. ; ARNON, R. ; SCHECHTER, I. . Stage-specific expression of the mRNA encoding a 14-3-3 protein during the life cycle of Schistosoma mansoni.. Molecular and Biochemical Parasitology, v. 73, n.1-2, p. 275-278, 1995.
+Citações:23|23
+
+31.
+PETTER, R. ; ROSENBLATT, S. ; SCHECHTMAN, D. ; WELLEMS, T. ; MIRELMAN, D. . Electrophoretic Karyotype and Linkage groups of Entamoeba histolytica: Differences between pathogenic and nonpathogenic isolates. Infection and Immunity, v. 61, n.8, p. 3574-3577, 1993.
+Citações:18|17
+
+32.
+BARCINSKI, M. A. ; SCHECHTMAN, D. ; QUINTAO, L. G. ; COSTA, D. A. ; SOARES, L. R. B. ; MOREIRA, M. E. C. ; CHARLAB, R. . Granulocyte Macrophage Colony Stimulating Factor Increases the Infectivity of Leishmania (leishmania) amazonensis. Protecting Promastigotes from Heat Shock Induced Death.. Infection and Immunity, v. 60, n.9, p. 3523-35237, 1992.
+Citações:38|37
+
+33.
+CHARLAB, R. ; BLAINEAU, C. ; SCHECHTMAN, D. ; BARCINSKI, M. A. . Granulocyte-Macrophage Colony Stimulating Factor is a Growth Factor for Promastigotes of Leishmania mexicana amazonensis.. Journal of Protozoology, v. 37, n.352, 1990.

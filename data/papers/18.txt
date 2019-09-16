@@ -1,0 +1,455 @@
+1.
+Dias-Neto, E.. A non-functional galanin receptor-2 in a multiple sclerosis patient. PHARMACOGENOMICS JOURNAL, v. 19, p. 72-82, 2019.
+
+2.
+CAROLLO, EMANUELA ; PARIS, BIANCA ; SAMUEL, PRIYA ; PANTAZI, PASCHALIA ; BARTELLI, THAIS FERNANDA ; Dias-Neto, Emmanuel ; BROOKS, SUSAN ANN ; PINK, RYAN CHARLES ; CARTER, DAVID RAUL FRANCISCO . Detecting ovarian cancer using extracellular vesicles: progress and possibilities. BIOCHEMICAL SOCIETY TRANSACTIONS, v. 47, p. BST20180286-304, 2019.
+
+3.
+PIZZI, MELISSA POOL ; BARTELLI, THAIS FERNANDA ; PELOSOF, ADRIANE GRAICER ; CARIOCA-FREITAS, HELANO ; BEGNAMI, MARIA DIRLEI ; DE ABRANTES, LAIS LIE SENDA ; SZTOKFISZ, CLAUDIA ; VALIERIS, RENAN ; KNEBEL, FRANCIELE HINTERHOLZ ; VAZ COELHO, LUIZ GONZAGA ; DA COSTA JR, WILSON LUIZ ; COIMBRA, FELIPE JF ; DA SILVA, ISRAEL TOJAL ; DE AMORIM, MARIA GALLI ; Nunes, Diana Noronha ; Dias-Neto, Emmanuel . Identification of DNA mutations in gastric washes from gastric adenocarcinoma patients: possible implications for liquid biopsies and patient follow-up. INTERNATIONAL JOURNAL OF CANCER, v. 145, p. 1090-1098, 2019.
+
+4.
+THOMAS, ANDREW MALTEZ MANGHI, PAOLO ASNICAR, FRANCESCO PASOLLI, EDOARDO ARMANINI, FEDERICA ZOLFO, MORENO BEGHINI, FRANCESCO MANARA, SERENA KARCHER, NICOLAI POZZI, CHIARA GANDINI, SARA SERRANO, DAVIDE TARALLO, SONIA FRANCAVILLA, ANTONIO GALLO, GAETANO TROMPETTO, MARIO FERRERO, GIULIO MIZUTANI, SAYAKA SHIROMA, HIROTSUGU SHIBA, SATOSHI SHIBATA, TATSUHIRO YACHIDA, SHINICHI YAMADA, TAKUJI WIRBEL, JAKOB SCHROTZ-KING, PETRA , et al. ; Metagenomic analysis of colorectal cancer datasets identifies cross-cohort microbial diagnostic signatures and a link with choline degradation. NATURE MEDICINE, v. 25, p. 667-678, 2019.
+
+5.
+DE ASSUMPÇÃO, PAULO PIMENTEL ; ARAÚJO, TAÍSSA MAÍRA THOMAZ ; DE ASSUMPÇÃO, PAULA BARAÚNA ; BARRA, WILLIAMS FERNANDES ; KHAYAT, ANDRÉ SALIM ; ASSUMPÇÃO, CAROLINA BARAÚNA ; ISHAK, GERALDO ; Nunes, Diana Noronha ; Dias-Neto, Emmanuel ; COELHO, LUIZ GONZAGA VAZ . Suicide journey of H. pylori through gastric carcinogenesis: the role of non-H. pylori microbiome and potential consequences for clinical practice. EUROPEAN JOURNAL OF CLINICAL MICROBIOLOGY & INFECTIOUS DISEASES, v. 38, p. 1591-1597, 2019.
+
+6.
+GALLI DE AMORIM, MARIA ; BRANCO, GABRIELA ; VALIERIS, RENAN ; TARCITANO, EMILIO ; TOJAL DA SILVA, ISRAEL ; FERREIRA DE ARAÚJO, LUIZA ; NORONHA NUNES, DIANA ; Dias-Neto, Emmanuel . The impact of HER2 overexpression on the miRNA and circRNA transcriptomes in two breast cell lines and their vesicles. PHARMACOGENOMICS, v. 20, p. 493-502, 2019.
+
+7.
+CURADO, MARIA PAULA ; SILVA, DIEGO RODRIGUES MENDONÇA E ; OLIVEIRA, MAX MOURA DE ; SOARES, FERNANDO ; BEGNAMI, MARIA DIRLEI ; COIMBRA, FELIPE JOSÉ FERNANDEZ ; ASSUMPÇÃO, PAULO PIMENTEL DE ; DE SANT?ANA, ROSANE OLIVEIRA ; DEMACHKI, SAMIA ; Dias-Neto, Emmanuel . Disparities in Epidemiological Profile of Gastric Adenocarcinoma in Selected Cities of Brazil. Asian Pacific Journal of Cancer Prevention, v. 20, p. 2253-2258, 2019.
+
+8.
+RAMIREZ, MARCEL I. ; AMORIM, MARIA G. ; GADELHA, CATARINA ; MILIC, IVANA ; WELSH, JOSHUA A. ; FREITAS, VANESSA M. ; NAWAZ, MUHAMMAD ; AKBAR, NAVEED ; COUCH, YVONNE ; MAKIN, LAURA ; COOKE, FIONA ; VETTORE, ANDRE L. ; BATISTA, PATRICIA X. ; FREEZOR, ROBERTA ; PEZUK, JULIA A. ; ROSA-FERNANDES, LÍVIA ; CARREIRA, ANA CLAUDIA O. ; DEVITT, ANDREW ; JACOBS, LAURA ; SILVA, ISRAEL T. ; COAKLEY, GILLIAN ; Nunes, Diana N. ; CARTER, DAVE ; PALMISANO, GIUSEPPE ; Dias-Neto, Emmanuel . Technical challenges of working with extracellular vesicles. Nanoscale, v. 10, p. 881-906, 2018.
+
+9.
+ROSALES, RAFAEL A. ; DRUMMOND, RODRIGO D. ; VALIERIS, RENAN ; Dias-Neto, Emmanuel ; DA SILVA, ISRAEL T. . signeR: an empirical Bayesian approach to mutational signature discovery. BIOINFORMATICS, v. 33, p. 8-16, 2017.
+
+10.
+TEIXEIRA, ANDRE A ; MARCHIÒ, SERENA ; DIAS'NETO, EMMANUEL ; NUNES, DIANA N ; DA SILVA, ISRAEL T ; CHACKERIAN, BRYCE ; BARRY, MARC ; LAUER, RICHARD C ; GIORDANO, RICARDO J ; SIDMAN, RICHARD L ; WHEELER, COSETTE M ; CAVENEE, WEBSTER K ; Pasqualini, Renata ; Arap, Wadih . Going viral? Linking the etiology of human prostate cancer to the PCA3 long noncoding RNA and oncogenic viruses. EMBO Molecular Medicine, v. 9, p. e201708072, 2017.
+
+11.
+MENDES, EDUARDO ; ACETTURI, BEATRIZ G. ; THOMAS, ANDREW M. ; MARTINS, FLAVIANO DOS S. ; CRISMA, AMANDA R. ; MURATA, GILSON ; BRAGA, TÁRCIO T. ; CAMÂRA, NIELS O. S. ; FRANCO, ADRIANA L. DOS S. ; Setubal, João C. ; RIBEIRO, WILLIAN R. ; VALDUGA, CLAUDETE J. ; CURI, RUI ; Dias-Neto, Emmanuel ; TAVARES-DE-LIMA, WOTHAN ; FERREIRA, CAROLINE M. . Prophylactic Supplementation of Bifidobacterium longum 51A Protects Mice from Ovariectomy-Induced Exacerbated Allergic Airway Inflammation and Airway Hyperresponsiveness. Frontiers in Microbiology, v. 8, p. 1732, 2017.
+
+12.
+AMORIM, MARIA G. ; VALIERIS, RENAN ; DRUMMOND, RODRIGO D. ; PIZZI, MELISSA P. ; FREITAS, VANESSA M. ; SINIGAGLIA-COIMBRA, RITA ; CALIN, GEORGE A. ; Pasqualini, Renata ; Arap, Wadih ; SILVA, ISRAEL T. ; Dias-Neto, Emmanuel ; Nunes, Diana N. . A total transcriptome profiling method for plasma-derived extracellular vesicles: applications for liquid biopsies. Scientific Reports, v. 7, p. 14395, 2017.
+Citações:1|1
+
+13.
+GARCIA-ROSA, SHEILA ; DE AMORIM, MARIA GALLI ; VALIERIS, RENAN ; MARQUES, VANESSA DACCACH ; LORENZI, JULIO CESAR CETRULO ; TOLLER, VANIA BALARDIN ; DO OLIVAL, GUILHERME SCIASCIA ; DA SILVA JÚNIOR, WILSON ARAÚJO ; DA SILVA, ISRAEL TOJAL ; BARREIRA, AMILTON ANTUNES ; Nunes, Diana Noronha ; Dias-Neto, Emmanuel . Exome sequencing of multiple-sclerosis patients and their unaffected first-degree relatives. BMC RESEARCH NOTES, v. 10, p. 735, 2017.
+
+14.
+MURY, FÁBIO B. ; DA SILVA, WEBER C. ; BARBOSA, NÁDIA R. ; Mendes, Camila T. ; BONINI, JULIANA S. ; SARKIS, JORGE EDUARDO SOUZA ; CAMMAROTA, MARTIN ; IZQUIERDO, IVAN ; Gattaz, Wagner F. ; Dias-Neto, Emmanuel . Lithium activates brain phospholipase A2 and improves memory in rats: implications for Alzheimer?s disease. EUROPEAN ARCHIVES OF PSYCHIATRY AND CLINICAL NEUROSCIENCE, v. 266, p. 607-618, 2016.
+Citações:2
+
+15.
+DOBROFF, ANDREY S. D?ANGELO, SARA ECKHARDT, BEDRICH L. FERRARA, FORTUNATO STAQUICINI, DANIELA I. CARDÓ-VILA, MARINA STAQUICINI, FERNANDA I. Nunes, Diana N. KIM, KISU DRIESSEN, WOUTER H. P. HAJITOU, AMIN LOMO, LESLEY C. BARRY, MARC KRISHNAMURTHY, SAVITRI SAHIN, AYSEGUL WOODWARD, WENDY A. PROSSNITZ, ERIC R. ANDERSON, ROBIN L. Dias-Neto, Emmanuel BROWN-GLABERMAN, URSA A. ROYCE, MELANIE E. UENO, NAOTO T. CRISTOFANILLI, MASSIMO HORTOBAGYI, GABRIEL N. MARCHIÒ, SERENA , et al. ; Towards a transcriptome-based theranostic platform for unfavorable breast cancer phenotypes. PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA, v. 113, p. 12780-12785, 2016.
+Citações:2|3
+
+16.
+Ferreira, Elisa Napolitano ; BARROS, BRUNA DURÃES FIGUEIREDO ; DE SOUZA, JORGE ESTEFANO ; ALMEIDA, RENAN VALIERIS ; TORREZAN, GIOVANA TARDIN ; GARCIA, SHEILA ; KREPISCHI, ANA CRISTINA VICTORINO ; MELLO, CELSO ABDON LOPES DE ; CUNHA, ISABELA WERNECK DA ; PINTO, CLÓVIS ANTONIO LOPES ; SOARES, FERNANDO AUGUSTO ; Dias-Neto, Emmanuel ; LOPES, ADEMAR ; DE SOUZA, SANDRO JOSÉ ; Carraro, Dirce Maria . A genomic case study of desmoplastic small round cell tumor: comprehensive analysis reveals insights into potential therapeutic targets and development of a monitoring tool for a rare and aggressive disease. HUMAN GENOMICS (ONLINE), v. 10, p. 36, 2016.
+
+17.
+THOMAS, ANDREW M. ; JESUS, ELIANE C. ; LOPES, ADEMAR ; AGUIAR, SAMUEL ; BEGNAMI, MARIA D. ; ROCHA, RAFAEL M. ; CARPINETTI, PAOLA AVELAR ; CAMARGO, ANAMARIA A. ; HOFFMANN, CHRISTIAN ; FREITAS, HELANO C. ; SILVA, ISRAEL T. ; Nunes, Diana N. ; Setubal, João C. ; Dias-Neto, Emmanuel . Tissue-Associated Bacterial Alterations in Rectal Carcinoma Patients Revealed by 16S rRNA Community Profiling. Frontiers in Cellular and Infection Microbiology, v. 6, p. 179, 2016.
+
+18.
+Nunes, Diana N. ; Dias-Neto, Emmanuel ; CARDÓ-VILA, MARINA ; EDWARDS, JULIANNA K. ; DOBROFF, ANDREY S. ; Giordano, Ricardo J. ; MANDELIN, JAMI ; BRENTANI, HELENA P. ; HASSELGREN, CATRIN ; YAO, VIRGINIA J. ; MARCHIÒ, SERENA ; PEREIRA, CARLOS A. B. ; Passetti, Fabio ; CALIN, GEORGE A. ; SIDMAN, RICHARD L. ; Arap, Wadih ; Pasqualini, Renata . Synchronous down-modulation of miR-17 family members is an early causative event in the retinal angiogenic switch. Proceedings of the National Academy of Sciences of the United States of America, v. 150, p. 201500008, 2015.
+Citações:3|3
+
+19.
+Ferreira, Elisa Napolitano ; DE CAMPOS MOLINA, GUSTAVO ; Puga, Renato David ; NAGAI, MARIA APARECIDA ; CAMPOS, ANTÔNIO HUGO JOSÉ FROES MARQUES ; GUIMARÃES, GUSTAVO CARDOSO ; NUNES, D. N. ; Pasqualini, Renata ; ARAPD, WADIH ; Brentani, Helena ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; BRENTANI, RICARDO R. ; Carraro, Dirce Maria . Linear mRNA amplification approach for RNAseq from limited amount of RNA. Gene (Amsterdam), v. 15, p. 00364, 2015.
+Citações:1|1
+
+20.
+SALAMEH, AHMAD LEE, ALESSANDRO K. CARDÓ-VILA, MARINA Nunes, Diana N. EFSTATHIOU, ELENI STAQUICINI, FERNANDA I. DOBROFF, ANDREY S. MARCHIÒ, SERENA NAVONE, NORA M. HOSOYA, HITOMI LAUER, RICHARD C. WEN, SIJIN SALMERON, CAROLINA C. HOANG, ANH NEWSHAM, IRENE LIMA, LEANDRO A. CARRARO, DIRCE M. OLIVIERO, SALVATORE KOLONIN, MIKHAIL G. SIDMAN, RICHARD L. DO, KIM-ANH TRONCOSO, PATRICIA LOGOTHETIS, CHRISTOPHER J. BRENTANI, RICARDO R. CALIN, GEORGE A. , et al. ; PRUNE2 is a human prostate cancer suppressor regulated by the intronic long noncoding RNA. Proceedings of the National Academy of Sciences of the United States of America, v. xx, p. 201507882, 2015.
+Citações:30|65
+
+21.
+GAMA, MARCO A. S. ; RAPOSO, NÁDIA R. B. ; MURY, FÁBIO B. ; LOPES, FERNANDO C. F. ; Dias-Neto, Emmanuel ; TALIB, LEDA L. ; Gattaz, Wagner F. . Conjugated linoleic acid-enriched butter improved memory and up-regulated phospholipase A2 encoding-genes in rat brain tissue. Journal of Neural Transmission, v. xx, p. x, 2015.
+Citações:7|8
+
+22.
+ESPÍRITO-SANTO, MARIA CRISTINA CARVALHO ; ALVARADO-MORA, MÓNICA VIVIANA ; PINTO, PEDRO LUIZ SILVA ; SANCHEZ, MARIA CARMEN ARROYO ; Dias-Neto, Emmanuel ; CASTILHO, VERA LÚCIA PAGLIUSI ; GONÇALVES, ELENICE MESSIAS DO NASCIMENTO ; CHIEFFI, PEDRO PAULO ; LUNA, EXPEDITO JOSÉ DE ALBUQUERQUE ; PINHO, JOÃO RENATO REBELLO ; CARRILHO, FLAIR JOSÉ ; GRYSCHEK, RONALDO CESAR BORGES . Comparative Study of the Accuracy of Different Techniques for the Laboratory Diagnosis of Schistosomiasis Mansoni in Areas of Low Endemicity in Barra Mansa City, Rio de Janeiro State, Brazil. Biomed Research International, v. 2015, p. 1-16, 2015.
+Citações:2|4
+
+23.
+AMORIM, MARIA ; FERNANDES, GUSTAVO ; OLIVEIRA, PAULO ; Martins-de-Souza, Daniel ; Dias-Neto, Emmanuel ; NUNES, DIANA . The overexpression of a single oncogene (ERBB2/HER2) alters the proteomic landscape of extracellular vesicles. Proteomics (Weinheim. Print), v. 14, p. 1472-1479, 2014.
+Citações:8|14
+
+24.
+THOMAS, ANDREW ; GLEBER-NETTO, FREDERICO ; FERNANDES, GUSTAVO ; AMORIM, MARIA ; BARBOSA, LUISA ; FRANCISCO, ANA ; GUERRA DE ANDRADE, ARTHUR ; SETUBAL, JOÃO ; KOWALSKI, LUIZ ; NUNES, DIANA ; Dias-Neto, Emmanuel . Alcohol and tobacco consumption affects bacterial richness in oral cavity mucosa biofilms. BMC Microbiology (Online), v. 14, p. 250, 2014.
+Citações:3|15
+
+25.
+DO ESPÍRITO SANTO, MARIA CRISTINA CARVALHO ; ALVARADO-MORA, MÓNICA VIVIANA ; SILVA PINTO, PEDRO LUIZ ; DE BRITO, THALES ; DE SOUZA BOTELHO, LÍVIA ; HEATH, ASHLEY RICHARD ; DE AMORIM, MARIA GALLI ; Dias-Neto, Emmanuel ; CHIEFFI, PEDRO PAULO ; REBELLO PINHO, JOÃO RENATO ; CARRILHO, FLAIR JOSÉ ; DE ALBUQUERQUE LUNA, EXPEDITO JOSÉ ; GRYSCHEK, RONALDO CESAR BORGES . Detection of Schistosoma mansoni infection by TaqMan® real-time PCR in a hamster model. Experimental Parasitology, v. 143, p. 83-89, 2014.
+Citações:6|7
+
+26.
+ESPÍRITO-SANTO, MARIA CRISTINA CARVALHO ; ALVARADO-MORA, MÓNICA VIVIANA ; Dias-Neto, Emmanuel ; BOTELHO-LIMA, LÍVIA SOUZA ; MOREIRA, JOÃO PAULO ; AMORIM, MARIA ; PINTO, PEDRO LUIZ SILVA ; HEATH, ASHLEY R ; CASTILHO, VERA LÚCIA PAGLIUSI ; GONÇALVES, ELENICE MESSIAS DO NASCIMENTO ; LUNA, EXPEDITO JOSÉ DE ALBUQUERQUE ; CARRILHO, FLAIR JOSÉ ; PINHO, JOÃO RENATO REBELLO ; GRYSCHEK, RONALDO CESAR BORGES . Evaluation of real-time PCR assay to detect Schistosoma mansoni infections in a low endemic setting. BMC Infectious Diseases (Online), v. 14, p. 558, 2014.
+Citações:5|6
+
+27.
+Tavares, Raphael ; Dias-Neto, Emmanuel ; Oliveira, Paulo Sergio Lopes ; Renaud, Gabriel ; Ferreira, Carlos G. ; Passetti, Fabio . Identical sequence patterns in the ends of exons and introns of human protein-coding genes. Computational Biology and Chemistry (Print), v. 36, p. 55-61, 2012.
+Citações:1|1
+
+28.
+Dias-Neto, Emmanuel; Gattaz, Wagner F. . Da arte de fazer ciência e de comer jabuticabas: uma homenagem ao Prof. Dr. Ricardo Renzo Brentani. Revista de Psiquiatria Clínica (São Paulo. Impresso), v. 39, p. 1-4, 2012.
+
+29.
+Leschziner, Guy D. ; Coffey, Alison J. ; Andrew, Toby ; Gregorio, Sheila P. ; Dias-Neto, Emmanuel ; Calafato, Maria ; Bentley, David R. ; Kinton, Lucy ; Sander, Josemir W. ; Johnson, Michael R. . Q8IYL2 is a candidate gene for the familial epilepsy syndrome of Partial Epilepsy with Pericentral Spikes (PEPS). Epilepsy Research, v. 96, p. 109-115, 2011.
+
+30.
+Carraro, Dirce Maria ; Ferreira, Elisa Napolitano ; Molina, Gustavo de Campos ; Puga, Renato David ; Abrantes, Eduardo Fernandes ; Ekhardt, Bedrich L. ; Nunes, Diana Noronha ; Brentani, Maria Mitzi ; Arap, Wadih ; Pasqualini, Renata ; Brentani, Helena ; Dias-Neto, Emmanuel ; Brentani, Ricardo Renzo . Poly (A)+ Transcriptome Assessment of ERBB2-Induced Alterations in Breast Cell Lines. Plos One, v. 6, p. e21022, 2011.
+Citações:11|13
+
+31.
+Boing, A. F. ; Antunes, J. L. F. ; de Carvalho, M. B. ; de Gois Filho, J. F. ; Dias-Neto, Emmanuel ; Kowalski, L. P. ; Michaluart, P. ; Eluf-Neto, J. ; Boffetta, P. ; Wunsch-Filho, V. . How much do smoking and alcohol consumption explain socioeconomic inequalities in head and neck cancer risk?. Journal of Epidemiology and Community Health (1979), v. 65, p. 709-714, 2011.
+Citações:14|24
+
+32.
+Rocha, Sérgio de Figueiredo ; Dias-Neto, Emmanuel ; Gattaz, Wagner Farid . Ansiedade na performance musical: tradução, adaptação e validação do Kenny Music Performance Anxiety Inventory (K-MPAI) para a língua portuguesa. Revista de Psiquiatria Clínica (São Paulo. Impresso), v. 38, p. 217-221, 2011.
+Citações:4|7
+
+33.
+Staquicini, F. I. ALMEIDA, N. F. Cardo-Vila, M. Kolonin, M. G. Trepel, M. Edwards, J. K. Nunes, D. N. Sergeeva, A. Efstathiou, E. Sun, J. ALMEIDA, N. F. Tu, S.-M. Botz, G. H. Wallace, M. J. O'Connell, D. J. Krajewski, S. Gershenwald, J. E. Molldrem, J. J. Flamm, A. L. Koivunen, E. Pentz, R. D. DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E SETUBAL, J. C. Cahill, D. J. Troncoso, P. , et al. ; Vascular ligand-receptor mapping by direct combinatorial selection in cancer patients. Proceedings of the National Academy of Sciences of the United States of America, v. 108, p. 1-6, 2011.
+Citações:31|38
+
+34.
+Martins-de-Souza, Daniel; Dias-Neto, Emmanuel ; Schmitt, Andrea ; Falkai, Peter ; Gormanns, Philipp ; Maccarrone, Giuseppina ; Turck, Christoph W. ; Gattaz, Wagner F. . Proteome analysis of schizophrenia brain tissue. The World Journal of Biological Psychiatry, v. 11, p. 110-120, 2010.
+Citações:61|64
+
+35.
+Sebollela, Adriano ; Freitas-Corrêa, Léo ; Oliveira, Fábio F. ; Mendes, Camila T. ; Wasilewska-Sampaio, Ana Paula ; Camacho-Pereira, Juliana ; Galina, Antonio ; Brentani, Helena ; Passetti, Fabio ; Felice, Fernanda G. ; Dias-Neto, Emmanuel ; Ferreira, Sérgio T. . Expression Profile of Rat Hippocampal Neurons Treated with the Neuroprotective Compound 2,4-Dinitrophenol: Up-Regulation of cAMP Signaling Genes. Neurotoxicity Research, v. 18, p. 112-123, 2010.
+Citações:5|8
+
+36.
+Rodrigues-Lisoni, Flavia C ; Peitl, Paulo ; Vidotto, Alessandra ; Polachini, Giovana M ; Maniglia, Jose V ; Carmona-Raphe, Juliana ; Cunha, Bianca R ; Henrique, Tiago ; Souza, Caique F ; Teixeira, Rodrigo AP ; Fukuyama, Erica E ; Michaluart, Pedro ; de Carvalho, Marcos B ; Oliani, Sonia M ; Gencapo, Head and Neck Genome Project ; Tajara, Eloiza H ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E . Genomics and proteomics approaches to the study of cancer-stroma interactions. BMC Medical Genomics, v. 3, p. 14, 2010.
+Citações:19|16
+
+37.
+Staquicini, F. I. ; Dias-Neto, E. ; Li, J. ; Snyder, E. Y. ; Sidman, R. L. ; Pasqualini, R. ; Arap, W. . Discovery of a functional protein complex of netrin-4, laminin  1 chain, and integrin  6 1 in mouse neural stem cells. PNAS. Proceedings of the National Academy of Sciences of the United States of America, v. 106, p. 2903-2908, 2009.
+Citações:53|53
+
+38.
+Estrela, Rita de Cassia ; Ribeiro, Fabio S ; Barroso, Paulo F ; Tuyama, Mari ; Gregório, Sheila P ; Dias-Neto, Emmanuel ; Struchiner, Cláudio J ; Suarez-kurtz, Guilherme . polymorphisms and the concentrations of lopinavir and ritonavir in blood, semen and saliva of HIV-infected men under antiretroviral therapy. Pharmacogenomics (London), v. 10, p. 311-318, 2009.
+Citações:23|23
+
+39.
+GREGORIO, S ; SALLET, P ; DO, K ; LIN, E ; GATTAZ, W ; DIASNETO, E . Polymorphisms in genes involved in neurodevelopment may be associated with altered brain morphology in schizophrenia: Preliminary evidence. Psychiatry Research, v. 165, p. 1-9, 2009.
+Citações:36|39
+
+40.
+Martins-de-Souza, Daniel; Gattaz, Wagner F. ; Schmitt, Andrea ; Rewerts, Christiane ; Marangoni, Sérgio ; Novello, José C. ; Maccarrone, Giuseppina ; Turck, Christoph W. ; Dias-Neto, Emmanuel . Alterations in oligodendrocyte proteins, calcium homeostasis and new potential markers in schizophrenia anterior temporal lobe are revealed by shotgun proteome analysis. Journal of Neural Transmission, v. 116, p. 275-289, 2009.
+Citações:85|96
+
+41.
+Martins-de-Souza, Daniel; Gattaz, Wagner F ; Schmitt, Andrea ; Novello, José C ; Marangoni, Sérgio ; Turck, Christoph W ; Dias-Neto, Emmanuel . Proteome analysis of schizophrenia patients Wernicke's area reveals an energy metabolism dysregulation. BMC Psychiatry (Online), v. 9, p. 17, 2009.
+Citações:79|90
+
+42.
+Mendes, Camila Teixeira ; Mury, Fábio Borges ; Sá Moreira, Eloísa ; Alberto, Fernando Lopes ; Forlenza, Orestes Vicente ; Dias-Neto, Emmanuel ; Gattaz, Wagner Farid . Lithium reduces Gsk3b mRNA levels: implications for Alzheimer Disease. European Archives of Psychiatry and Clinical Neuroscience, v. 259, p. 16-22, 2009.
+Citações:45|49
+
+43.
+Martins-de-Souza, Daniel; Gattaz, Wagner F. ; Schmitt, Andrea ; Rewerts, Christiane ; Maccarrone, Giuseppina ; Dias-Neto, Emmanuel ; Turck, Christoph W. . Prefrontal cortex shotgun proteome analysis reveals altered calcium homeostasis and immune system imbalance in schizophrenia. European Archives of Psychiatry and Clinical Neuroscience, v. 259, p. 151-163, 2009.
+Citações:97|120
+
+44.
+Dias-Neto, Emmanuel; Nunes, Diana N. ; Giordano, Ricardo J. ; Sun, Jessica ; Botz, Gregory H. ; Yang, Kuan ; Setubal, João C. ; Pasqualini, Renata ; Arap, Wadih . Next-Generation Phage Display: Integrating and Comparing Available Molecular Tools to Enable Cost-Effective High-Throughput Analysis. Plos One, v. 4, p. e8338, 2009.
+Citações:76|74
+
+45.
+Almeida, Carolina R ; BAYER-SANTOS, E. ; Bayer-Santos, Ethel ; Maia, AntÃ´nio AM ; Ojopi, Elida PB ; DÃ¡vila, Alberto MR ; Ferreira, Henrique B ; Grisard, Edmundo C ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; Sperandio, MaÃ­sa M ; Rodrigues, Juliana B ; Wagner, Glauber ; Sincero, ThaÃ­s CM ; Rotava, Gianinna ; Zaha, Arnaldo ; Stoco, Patricia H ; Tyler, Kevin M . Transcriptome analysis of Taenia solium cysticerci using Open Reading Frame ESTs (ORESTES). Parasites & Vectors, v. 2, p. 35, 2009.
+Citações:10|17
+
+46.
+ESTRELA, R. C. ; RIBEIRO, F. S. ; Carvalho, RS ; Gregorio SP ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; Struchiner, CJ ; Suarez-Kurtz, G . Distribution of ABCB1 polymorphisms among Brazilians: impact of population admixture.. Pharmacogenomics (London), v. 9, p. 267-276, 2008.
+Citações:24|27
+
+47.
+OZAWA, M ; ZURITA, A ; DIASNETO, E ; NUNES, D ; SIDMAN, R ; GELOVANI, J ; ARAP, W ; PASQUALINI, R . Beyond Receptor Expression Levels: The Relevance of Target Accessibility in Ligand-Directed Pharmacodelivery Systems. Trends in Cardiovascular Medicine, v. 18, p. 126-133, 2008.
+Citações:32|36
+
+48.
+McKay, Stephanie D ; Schnabel, Robert D ; Murdoch, Brenda M ; Matukumalli, Lakshmi K ; Aerts, Jan ; Coppieters, Wouter ; Crews, Denny ; Neto, Emmanuel ; Gill, Clare A ; Gao, Chuan ; Mannen, Hideyuki ; Wang, Zhiquan ; Van Tassell, Curt P ; Williams, John L ; Taylor, Jeremy F ; Moore, Stephen S . An assessment of population structure in eight breeds of cattle using a whole genome SNP panel. BMC Genetics (Online), v. 9, p. 37, 2008.
+Citações:51|63
+
+49.
+MARTINSDESOUZA, D ; GATTAZ, W ; SCHMITT, A ; MACCARRONE, G ; HUNYADIGULYAS, E ; EBERLIN, M ; SOUZA, G ; MARANGONI, S ; NOVELLO, J ; TURCK, C . Proteomic analysis of dorsolateral prefrontal cortex indicates the involvement of cytoskeleton, oligodendrocyte, energy metabolism and new potential markers in schizophrenia. Journal of Psychiatric Research, p. 999, 2008.
+Citações:88|81
+
+50.
+Alves, V A F ; Nonogaki, S ; Cury, P M ; Wünsch-Filho, V ; de Carvalho, M B ; Michaluart-Júnior, P ; Moyses, R A ; Curioni, O A ; Figueiredo, D L A ; Scapulatempo-Neto, C ; Parra, E R ; Polachini, G M ; Silistino-Souza, R ; Oliani, S M ; Silva-Júnior, W A ; Nobrega, F G ; Tajara, E H ; Zago, M A . Annexin A1 subcellular expression in laryngeal squamous cell carcinoma. Histopathology, v. 53, p. 715-727, 2008.
+Citações:15|17
+
+51.
+Guimarães, P E M ; Fridman, C ; Gregório, S P ; Kalil, É M ; Cristante, A F ; Teixeira, W G J ; Rodrigues, C J ; Costa, M C R ; Gattaz, W F ; Barros, T E P ; Oliveira, P S L ; Dias-Neto, E . DNA polymorphisms as tools for spinal cord injury research. Spinal Cord, v. 47, p. 171-175, 2008.
+Citações:5|7
+
+52.
+Perini, JA ; Struchiner, CJ ; Silva-Assunção, E ; Santana, ISC ; Rangel, F ; Ojopi, EB ; Dias-Neto, E ; Suarez-Kurtz, G . Pharmacogenetics of Warfarin: Development of a Dosing Algorithm for Brazilian Patients. Clinical Pharmacology and Therapeutics, v. 84, p. 722-728, 2008.
+Citações:70|82
+
+53.
+Martins-de-Souza, Daniel; Gattaz, Wagner F. ; Schmitt, Andrea ; Rewerts, Christiane ; Maccarrone, Giuseppina ; Dias-Neto, Emmanuel ; Turck, Christoph W. . Proteome analysis of human dorsolateral prefrontal cortex using shotgun mass spectrometry. Journal of Separation Science, v. 31, p. 3122-3126, 2008.
+Citações:11|12
+
+54.
+Silveira, Nelson JF ; Varuzza, Leonardo ; Machado-Lima, Ariane ; Lauretto, Marcelo S ; Pinheiro, Daniel G ; Rodrigues, Rodrigo V ; Severino, Patricia ; Nobrega, Francisco G ; Gencapo, Head and Neck Genome Project ; Silva Jr, Wilson A ; de B Pereira, Carlos A ; Tajara, Eloiza H ; Dias-Neto, E . Searching for molecular markers in head and neck squamous cell carcinomas (HNSCC) by statistical and bioinformatic analysis of larynx-derived SAGE libraries, v. 1, p. 56, 2008.
+Citações:13|14
+
+55.
+MARTINS-DE-SOUZA, D. ; Oliveira, BM ; FARIAS, A. S. ; HORIUCHI, R. S. O. ; DOMINGUES, C. C. ; MARANGONI, S. ; GATTAZ, W. F. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; NOVELLO, J. C. . The use of ASB-14 in combination with CHAPS for the solubilization of human brain proteins for two-dimensional gel electrophoresis. Briefings in Functional Genomics, v. 6, p. 70-75, 2007.
+Citações:39
+
+56.
+Ojopi E ; OLIVEIRA, P. S. ; NUNES, D. N. ; PAQUOLA, A. C. M. ; MARCO, R. ; Gregorio SP ; AIRES, K. A. ; MENCK, C. F. M. ; LEITE, L. C. C. ; ALMEIDA, S. V. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E . A quantitative view of the transcriptome of Schistosoma mansoni adult-worms using SAGE. BMC Genomics, v. 8, p. 186, 2007.
+Citações:26|27
+
+57.
+MAIA, R. M. ; VALENTE, V. ; Araujo DD ; CUNHA, M. A. ; SOUSA, J. F. ; SILVAJUNIOR, W. ; MA, Z. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; SOUZA, S. J. ; SIMPSON, A. J. ; RAMOS, R. G. P. ; ESPREAFICO, E. ; LARSON, M. L. P. . Identification of unannotated exons of low abundant transcripts from Drosophila melanogaster and cloning of a new serine protease gene upregulated upon injury. BMC Genomics, v. 8, p. 249, 2007.
+Citações:6|6
+
+58.
+CARDOSO, C. C. ; MARTINEZ, A.N. ; GUIMARAES, P. E. ; MENDES, C.T. ; de OLIVEIRA, R. B. ; PACHECO, A. G. ; TELES, R. M. ; Illarramendi, X. ; SAMPAIO, E. P. ; SARNO, E. N. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; MORAES, M. O. . Ninjurin 1 asp110ala single nucleotide polymorphism is associated with protection in leprosy nerve damage.. Journal of Neuroimmunology, v. 190, p. 131-138, 2007.
+Citações:13|14
+
+59.
+MCKAY, S. D. ; SCHNABEL, R. D. ; MURDOCH, B. M. ; MATUKUMALLI, L. K. ; AERTS, J. ; COPPIETERS, W. ; CREWS, D. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; GILL, C. A. ; GAO, C. ; MANNEN, H. ; STOTHARD, P. ; WANG, Z. ; TASSELL, C. P. V. ; MOORE, S. S. . Whole genome linkage disequilibrium maps in cattle.. BMC Genetics (Online), v. 8, p. 74, 2007.
+Citações:102|110
+
+60.
+SEBOLLELA, A. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; Ferreira, S.T. . Interrogating global gene expression in rat neuronal cultures using SAGE. NEUROTOXICITY RESEARCH, v. 12, p. 209-214, 2007.
+
+61.
+Lockyer AE ; Spinks JN ; Walker AJ ; KANE, R. ; Noble LR ; ROLLINSON, D. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; Jones CS . Biomphalaria glabrata transcriptome: Identification of cell-signaling, transcriptional control and immune related genes from open reading frame expressed sequence tags (ORESTES). Developmental and Comparative Immunology, v. 31, p. 763-782, 2007.
+Citações:34|40
+
+62.
+ALMEIDA, C. R. ; Ojopi, E. P. ; NUNES, C. M. ; MACHADO, L. R. ; TAKAYANAGUI, O. M. ; LIVRAMENTO, J. A. ; ABRAHAM, R. ; GATTAZ, W. F. ; VAZ, A. J. ; Dias-Neto, E. . Taenia solium DNA is present in the cerebrospinal fluid of neurocysticercosis patients and can be used for diagnosis. European Archives of Psychiatry and Clinical Neuroscience, Alemanha, v. 256, p. 307-310, 2006.
+Citações:26|35
+
+63.
+GUIMARAES, G. S. ; LATINI, F. R. ; CAMACHO, C. ; MACIEL, R. M. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; CERUTTI, J. M. . Identification of candidates for tumor-specific alternative splicing in the thyroid. Genes, Chromosomes & Cancer, v. 45, p. 540-553, 2006.
+Citações:10|12
+
+64.
+OLIVEIRA, F. M. ; SILVA, I. C. ; RUMJANEK, F. D. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; GUIMARAES, P. E. ; ALMEIDA, S. V. ; LOVERDE, P. T. ; STROS, M. ; FANTAPPIE, M. R. . cDNAs, genomic organization and DNA binding properties of HMGB1 proteins from the human blood flukes Schistosoma mansoni and Schistosoma japonicum. Gene (Amsterdam), v. 377, p. 33-45, 2006.
+Citações:16|17
+
+65.
+Gregorio SP ; GATTAZ, W. F. ; TAVARES, H. ; KIELING, C. ; TIMM, S. ; WANG, A. G. ; RASMUSSEN, H. B. ; WERGE, T. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E . Analysis of coding-polymorphisms in NOTCH-related genes reveals NUMBL poly-glutamine repeat to be associated with schizophrenia in Brazilian and Danish subjects. Schizophrenia Research, v. 88, p. 275-282, 2006.
+Citações:12|12
+
+66.
+DISCH, J. ; CALIGIORNE, R. B. ; MACIEL, F. ; OLIVEIRA, M. ; ORSINI, M. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; RABELLO, A. L. T. . Single step duplex kDNA-PCR for detection of Leishmania donovani complex in human peripheral blood samples. Diagnostic Microbiology and Infectious Disease, v. 56, p. 395-400, 2006.
+Citações:10|12
+
+67.
+DORELLA, F. ; FACHIN, M. S. ; BILLAUT, A. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; SORAVITO, C. ; OLIVEIRA, S. C. ; MEYER, R. ; MIYOSHI, A. ; AZEVEDO, V. A. . Construction and partial characterization of a Corynebacterium pseudotuberculosis bacterial artificial chromosome library through genomic survey sequencing. Genetics and Molecular Research (Online), v. 5, p. 653-663, 2006.
+Citações:5|8
+
+68.
+Gregorio SP ; MURY, F. B. ; Ojopi E ; SALLET, P. C. ; MORENO, D. H. ; YACUBIAN, J. ; TAVARES, H. ; SANTOS, F. R. ; GATTAZ, W. F. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E . Nogo CAA 3´UTR Insertion polymorphism is not associated with Schizophrenia nor with Bipolar Disorder. Schizophrenia Research, v. 75, p. 5-9, 2005.
+Citações:16|16
+
+69.
+REIS, E. M. ; Ojopi E ; ALBERTO, F. L. ; RAHAL, P. ; TSUKUMO, F. ; MANCINI, U. ; GUIMARAES, G. S. ; THOMPSON, G. M. ; CAMACHO, C. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E . Large-scale transcriptome analyses reveal new genetic marker candidates of head, neck and thyroid cancer. CANCER RESEARCH, v. 65, p. 1693-1699, 2005.
+Citações:45|43
+
+70.
+Ojopi, Elida P. Benquique ; Gregorio, Sheila Passos ; Guimarães, Pedro Edson Moreira ; Fridman, Cintia ; Dias Neto, Emmanuel . O genoma humano e as perspectivas para o estudo da esquizofrenia. Revista de Psiquiatria Clínica, Brasil, v. 31, p. 9-18, 2004.
+Citações:12|2
+
+71.
+Fridman, Cintia ; Gregório, Sheila P. ; Dias Neto, Emmanuel ; Ojopi, Élida P. Benquique . Alterações genéticas na doença de Alzheimer. Revista de Psiquiatria Clínica, Brasil, v. 31, p. 19-25, 2004.
+Citações:18|6
+
+72.
+Ojopi, Elida P. Benquique ; Bertoncini, Alexandre Bruno ; Dias Neto, Emmanuel . Apolipoproteína E e a doença de Alzheimer. Revista de Psiquiatria Clínica, Brasil, v. 31, p. 26-33, 2004.
+Citações:4
+
+73.
+VERJOVSKIALMEIDA, S ; LEITE, L ; DIASNETO, E ; MENCK, C ; WILSON, R . Schistosome transcriptome: insights and perspectives for functional genomics. Trends in Parasitology, Inglaterra, v. 20, p. 304-308, 2004.
+Citações:40|43
+
+74.
+SILVA, I. D. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; VILLANOVA, F. E. ; YAMAMOTO, L. ; BACARAT, E. C. ; LIMA, G. R. ; GEBRIM, L. H. . Tamoxifen Down-Regulates CaMKII messenger RNA levels in normal human breast tissue. Clinical and Experimental Obstetrics & Gynecology, v. 31, p. 204-208, 2004.
+Citações:2
+
+75.
+NUNES, F. M. ; VALENTE, V. ; SOUSA, J. F. ; CUNHA, M. A. ; PINHEIRO, D. G. ; MAIA, R. M. ; ARAUJO, D. D. ; COSTA, M. C. R. ; MARTINS, W. K. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E . The use of Open Reading frame ESTs (ORESTES) for analysis of the honey bee transcriptome.. BMC GENOMICS, v. 5, p. 84-96, 2004.
+Citações:23|19
+
+76.
+Dias Neto, Emmanuel. Genoma, genética e psiquiatria. Revista de Psiquiatria Clínica, v. 31, p. 7-7, 2004.
+
+77.
+DEMARCO, R. ; KOWALTOWSKI, A. T. ; MACHADO, A. A. ; SOARES, M. B. ; GARGIONI, C. ; KAWANO, T. ; RODRIGUES, V. ; MADEIRA, A. M. B. N. ; WILSON, R. A. ; MENCK, C. F. M. ; SETUBAL, J. C. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; LEITE, L. C. C. ; VERJOVSKI-ALMEIDA, S. . Saci-1, -2, and -3 and Perere, Four Novel Retrotransposons with High Transcriptional Activities from the Human Parasite Schistosoma mansoni. Journal of Virology (Print), v. 78, p. 2967-2978, 2004.
+Citações:43|42
+
+78.
+Fridman, Cintia ; Ojopi, ?lida P. B. ; Greg?rio, Sheila P. ; Ikenaga, Elisa H. ; Moreno, Doris H. ; Demetrio, Frederico N. ; Guimar?es, Pedro E. M. ; Vallada, Homero P. ; Gattaz, Wagner F. ; Dias Neto, Emmanuel . Association of a new polymorphism in ALOX12 gene with bipolar disorder. European Archives of Psychiatry and Clinical Neuroscience, Inglaterra, v. 253, p. 40-43, 2003.
+Citações:22|23
+
+79.
+ SAMAIA, H. P. ; CAMARGO, A. A. ; CABALLERO, O. L. ; SILVA, A. M. ; SILVAJUNIOR, W. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; SIMPSON, A. J. ; JONGENEEL, C. V. ; Ojopi E . The generation and utilization of a cancer-oriented representation of the human transcriptome by using expressed sequence tags. PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA, v. 100, p. 13418-13423, 2003.
+Citações:74|88
+
+80.
+ ALMEIDA, S. V. ; MARCO, R. ; MARTINS, E. ; GUIMARAES, P. E. ; Ojopi E ; PAQUOLA, A. C. M. ; Gregorio SP ; WILSON, R. A. ; REIS, E. M. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E . Transcriptome analysis of the acoelomate human parasite Schistosoma mansoni. NATURE GENETICS, v. 35, n.2, p. 148-157, 2003.
+Citações:346|362
+
+81.
+PONTES, L. A. ; GARCIA, M. C. ; KATZ, N. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; RABELLO, A. L. T. . Comparison of a PCR assay and the Kato-Katz technique for diagnosing Schistosoma mansoni infection. American Journal of Tropical Medicine and Hygiene, v. 68, n.6, p. 652-656, 2003.
+Citações:82|93
+
+82.
+PONTES, L. A. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; RABELLO, A. L. T. . PCR detection of Schistosoma mansoni DNA in human serum and feces. American Journal of Tropical Medicine and Hygiene, v. 66, p. 157-162, 2002.
+Citações:107|113
+
+83.
+RODRIGUES, N. B. ; COURA FILHO, P. ; SOUZA, C. P. ; PASSOS, L. K. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; ROMANHA, A. J. . Populational structure of Schistosoma mansoni assessed by DNA microsatellites. INTERNATIONAL JOURNAL FOR PARASITOLOGY, Estados Unidos, v. 32, p. 843-851, 2002.
+Citações:33|35
+
+84.
+RABELLO, A. L. T. ; PONTES, L. A. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E . Recent advances in the diagnosis of Schistosoma infection: the detection of parasite DNA. Memórias do Instituto Oswaldo Cruz, v. 100, n.Suppl., p. 171-172, 2002.
+Citações:27|7|29
+
+85.
+SILVAJUNIOR, W. ; COSTA, M. C. R. ; VALENTE, V. ; SOUSA, J. F. ; LARSON, M. L. P. ; ESPREAFICO, E. ; MONTEIRO, E. ; HOLANDA, A. J. ; SIMPSON, A. J. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E . PCR template preparation for capillary DNA sequencing. BIOTECHNIQUES, v. 30, p. 537-542, 2001.
+Citações:14|12
+
+86.
+LOPES, L. F. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; LORAND-METZE, I. ; LATORRE, M. R. D. ; SIMPSON, A. J. . Analysis of Vgamma/Jbeta trans-rearrangements in paediatric patients undergoing chemotherapy. BRITISH JOURNAL OF HAEMATOLOGY, v. 113, p. 1001-1008, 2001.
+Citações:4|6
+
+87.
+CAMARGO, A. A. ; NUNES, D. N. ; SAMAIA, H. P. ; COLLINS, V. ; SIMPSON, A. J. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E . Molecular characterization of DDX26, a human DEAD-box RNA helicase, located on chromosome 7p12. Brazilian Journal of Medical and Biological Research, Brazil, v. 34, p. 1237-1245, 2001.
+Citações:1|1
+
+88.
+CAMARGO, A. A. SAMAIA, H. P. B. DIAS-NETO, E. SIMAO, D. F. MIGOTTO, I. A. BRIONES, M. R. S. COSTA, F. F. APARECIDA NAGAI, M. VERJOVSKI-ALMEIDA, S. DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ANDRADE, L. E. C. CARRER, H. EL-DORRY, H. F. A. ESPREAFICO, E. M. HABR-GAMA, A. GIANNELLA-NETO, D. GOLDMAN, G. H. GRUBER, A. HACKEL, C. KIMURA, E. T. MACIEL, R. M. B. MARIE, S. K. N. MARTINS, E. A. L. NOBREGA, M. P. PACO-LARSON, M. L. , et al. ; The contribution of 700,000 ORF sequence tags to the definition of the human transcriptome. PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA (ONLINE), v. 98, p. 12103-12108, 2001.
+Citações:94|99
+
+89.
+ DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E; CORREA, R. G. ; ALMEIDA, S. V. ; BRIONES, M. R. ; NAGAI, M. A. ; SILVAJUNIOR, W. ; MA, Z. ; BORDIN, S. ; COSTA, F. F. ; GOLDMAN, G. H. ; CARVALHO, A. F. ; MATSUKUMA, A. ; BAIA, G. S. ; SIMPSON, D. H. ; BURNSTEIN, A. ; OLIVEIRA, P. S. ; BUCHER, P. ; JONGENEEL, C. V. ; O'HARE, M. ; SOARES, F. ; BRENTANI, R. R. ; REIS, L. F. ; SOUZA, S. J. ; SIMPSON, A. J. . Shotgun sequencing of the human transcriptome with ORF expressed sequence tags. PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA, v. 97, n.7, p. 3491-3496, 2000.
+Citações:65|137
+
+90.
+ SIMPSON, A. J. ; REINACH, F. C. ; Arruda, P ; BAIA, G. S. ; BRIONES, M. R. ; COSTA, F. F. ; CAMARGO, A. A. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; GOLDMAN, G. H. ; MATSUKUMA, A. . The genome sequence of the plant pathogen Xylella fastidiosa. NATURE, Reino-Unido, v. 406, p. 151-157, 2000.
+Citações:548|564
+
+91.
+SOUZA, S. J. ; CAMARGO, A. A. ; BRIONES, M. R. ; COSTA, F. F. ; NAGAI, M. A. ; ALMEIDA, S. V. ; OLIVEIRA, P. S. ; BRENTANI, R. R. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; SIMPSON, A. J. . Identification of human chromosome 22 transcribed sequences with ORF expressed sequence tags. PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA, Estados Unidos, v. 97, p. 12690-12693, 2000.
+Citações:43|47
+
+92.
+RODRIGUES, C. V. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; PINHEIRO, L. E. L. . A variation of simple repeat sequence in the promoter region of the bovine growth hormone (bGH) gene in beef cattle is similar to water buffalo. JOURNAL OF ANIMAL BREEDING AND GENETICS, v. 116, n.1, p. 15-19, 1999.
+Citações:5|5
+
+93.
+SPATZ, L. ; VIDIGAL, T. H. ; CALDEIRA, R. L. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; CAPPA, S. M. G. ; CARVALHO, O. S. . Study of B tenagophila tenagophila, B. t. guaibensis and B. occidentallis by PCR amplification and restriction enzyme digestion of the ribosomal intergenic spacer regions.. JOURNAL OF MOLLUSCAN STUDIES, v. 65, p. 143-149, 1999.
+
+94.
+DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E; CALIGIORNE, R. B. ; RESENDE, M. A. ; AZEVEDO, V. A. . Dematiaceous fungal pathogens: analysis of ribosomal DNA gene polymorphism by polymerase chain reaction-restriction fragment length polymorphism. MYCOSES, v. 42, n.11-12, p. 609-614, 1999.
+Citações:21|24
+
+95.
+RODRIGUES, C. V. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; GUIMARÃES, S. E. ; PINHEIRO, L. E. L. . Identification of a novel polymorphism in the promoter region of the bovine growth hormone. ANIMAL GENETICS, v. 29, p. 63-72, 1998.
+
+96.
+SPATZ, L. ; VIDIGAL, T. H. ; CALDEIRA, R. L. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; CAPPA, S. M. G. ; CARVALHO, O. S. . Molecular study of similar Biomphalaria species. MEMORIAS DO INSTITUTO OSWALDO CRUZ, v. 93, p. 169-170, 1998.
+Citações:3|12|2
+
+97.
+VIDIGAL, T. H. ; SPATZ, L. ; NUNES, D. N. ; SIMPSON, A. J. ; CARVALHO, O. S. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E . Biomphalaria spp: identification of the intermediate snail hosts of S. mansoni by PCR amplification and restriction enzyme digestion of the ribosomal RNA gene intergenic spacer. Experimental Parasitology, v. 89, p. 180-187, 1998.
+Citações:37|40
+
+98.
+VIDIGAL, T. H. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; SPATZ, L. ; NUNES, D. N. ; PIRES, E. C. ; SIMPSON, A. J. ; CARVALHO, O. S. . Genetic variability and identification of the intermediate snail hosts of Schistosoma mansoni. MEMORIAS DO INSTITUTO OSWALDO CRUZ, v. 93, p. 103-110, 1998.
+Citações:7|15
+
+99.
+ROCHA, M. A. ; BARBOSA, E. F. ; GUIMARÃES, S. E. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; GOUVEIA, A. M. . A high sensitivity-nested PCR assay for BHV-1 detection in semen of naturally infected bulls. VETERINARY MICROBIOLOGY, v. 63, p. 1-11, 1998.
+Citações:26|30
+
+100.
+DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E; HARROP, R. ; CORREAOLIVEIRA, R. ; WILSON, R. A. ; PENA, S. D. ; SIMPSON, A. J. . Minilibraries constructed from cDNA generated by arbitrarily primed RT-PCR: an alternative to normalized libraries for the generation of ESTs from nanogram quantities of mRNA. GENE, v. 186, p. 135-142, 1997.
+Citações:23|36
+
+101.
+DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E; PASSOS, L. K. ; VIDIGAL, T. H. ; PENA, S. D. ; SIMPSON, A. J. ; DUTRA, W. O. ; SOUZA, C. P. ; PARRA, J. . PCR Amplification of the Mitochondrial DNA Minisatellite Region to Detect Schistosoma mansoni Infection in Biomphalaria glabrata Snails. JOURNAL OF PARASITOLOGY, v. 83, p. 395-359, 1997.
+Citações:34|38
+
+102.
+DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E; CABALLERO, O. L. ; VIDIGAL, T. H. ; PENA, S. D. ; SIMPSON, A. J. . Partially Degraded DNA of Parasitological Interest Serves as an Adequate Template for the Production of Random Amplified Polymorphic DNAs (RAPDs). JOURNAL OF PARASITOLOGY, v. 83, p. 753-755, 1997.
+
+103.
+DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E; RAHAL, P. ; MOURA, R. P. ; CABALLERO, O. L. ; VILLA, L. L. ; SIMPSON, A. J. . DNA ligation quality control by competitive PCR. Trends in Genetics, v. 12, p. 341-342, 1996.
+Citações:3|3
+
+104.
+DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E; HARROP, R. ; CORREAOLIVEIRA, R. ; PENA, S. D. ; WILSON, R. A. ; SIMPSON, A. J. . The schistosome genome project: RNA arbitrarily primed- PCR allows the accelerated generation of expressed sequence tags. MEMORIAS DO INSTITUTO OSWALDO CRUZ, v. 91, p. 655-657, 1996.
+Citações:7|6|8
+
+105.
+ARAÚJO, N. ; PASSOS, L. K. ; SIMPSON, A. J. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; PEREIRA, T. R. ; CERUTTI JÚNIOR, C. ; CARVALHO, F. E. ; DIETZE, R. ; KATZ, N. . Suscetibilidade aos agentes quimioterápicos de isolados de Schistosoma mansoni oriundos de pacientes tratados com oxamniquine e praziquantel e não curados. SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL. REVISTA, v. 29, p. 467-476, 1996.
+Citações:9
+
+106.
+VIDIGAL, T. H. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; SIMPSON, A. J. ; CARVALHO, O. S. . A low stringency polymerase chain reaction approach to the identification of Biomphalaria glabrata and B. tenagophila, intermediate snail hosts of Schistosoma mansoni in Brazil. MEMORIAS DO INSTITUTO OSWALDO CRUZ, v. 91, p. 739-744, 1996.
+Citações:14|48|19
+
+107.
+SIMPSON, A. J. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; VIDIGAL, T. H. ; CARVALHO, O. S. ; PENA, H. B. ; PENA, S. D. . DNA polymorphism of schistosomes and their snail hosts. MEMORIAS DO INSTITUTO OSWALDO CRUZ, v. 90, n.2, p. 211-213, 1995.
+Citações:11|12|15
+
+108.
+OLIVEIRA, M. A. ; CABALLERO, O. L. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; KHOURI, M. C. ; ROMANHA, A. J. ; HARTSHEERL, R. J. ; SIMPSON, A. J. . The use of non-denaturing silver stained polyacrylamide gel analysis of the PCR products for the differential diagnosis of leptospira interrogans infection. Diagnostic Microbiology and Infectious Disease, v. 22, p. 343-348, 1995.
+Citações:10|10
+
+109.
+KAUKAS, A. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; SIMPSON, A. J. ; SOUTHGATE, V. ; ROLLINSON, D. . A phylogenetic analysis of schistosoma haematobium group species based on randomly amplified polymorphic dna. INTERNATIONAL JOURNAL FOR PARASITOLOGY, v. 24, n.2, p. 285-290, 1994.
+Citações:27
+
+110.
+CABALLERO, O. L. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; KHOURI, M. C. ; ROMANHA, A. J. ; SIMPSON, A. J. . Low-stringency PCR [ls-PCR] with diagnostically useful primers for identification of Leptospira serovars. JOURNAL OF CLINICAL MICROBIOLOGY, v. 32, n.5, p. 1369-1372, 1994.
+Citações:13|25
+
+111.
+PENA, S. D. ; VAGO, A. R. ; MARCO, L. ; REINACH, F. C. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; SIMPSON, A. J. . Sequence-specific gene signatures can be obtained by PCR with single specific primers at low stringency [LSSP-PCR]. PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA, v. 91, p. 1946-1949, 1994.
+Citações:58|54
+
+112.
+CABALLERO, O. L. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; ROMANHA, A. J. ; SIMPSON, A. J. . Low-stringency PCR provides an internal control for negative results in PCR-based diagnosis.. GENOME RESEARCH, v. 3, p. 305-307, 1994.
+
+113.
+VIDIGAL, T. H. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; CARVALHO, O. S. ; SIMPSON, A. J. . Biomphalaria glabrata: extensive genetic variation in brazilian isolates revealed by random amplified polymorphic DNA analysis. Experimental Parasitology, v. 79, p. 187-194, 1994.
+Citações:57|57
+
+114.
+SANGUINETTI, C. J. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; SIMPSON, A. J. . Rapid silver staining and recovery of PCR products separated on polyacrylamide gels. BIOTECHNIQUES, v. 17, p. 914-921, 1994.
+
+115.
+DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E; SOUZA, C. P. ; ROLLINSON, D. ; KATZ, N. ; SIMPSON, A. J. . The random amplification of polymorphic DNA allows the identification of strains and species of schistosome. MOLECULAR AND BIOCHEMICAL PARASITOLOGY, v. 57, n.1, p. 83-88, 1993.
+Citações:76|81
+
+116.
+DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E; SANTOS, F. R. ; PENA, S. D. ; SIMPSON, A. J. . Sex determination by low stringency PCR (LS-PCR). NUCLEIC ACIDS RESEARCH, v. 21, n.3, p. 763-764, 1993.
+Citações:21|28
+
+117.
+RABELLO, A. L. T. ; GARCIA, M. M. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; KATZ, N. . Dot-dye-immunoassay and dot-ELISA for the serological differentiation of acute and chronic schistosomiasis mansoni using keyhole limpet haemocyanin as antigen. TRANSACTIONS OF THE ROYAL SOCIETY OF TROPICAL MEDICINE AND HYGIENE, v. 87, p. 279-281, 1993.
+Citações:20|20
+
+118.
+JOHNSTON, D. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; SIMPSON, A. J. ; ROLLINSON, D. . Opening the can of worms: Molecular analysis of schistosome populations. Parasitology Today (Regular ed. Print) (Cessou em 2000. Cont. ISSN 1471-4922 Trends in Parasitology), v. 9, n.8, p. 286-291, 1993.
+
+119.
+STEINDEL, M. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; MENEZES, C. L. ; ROMANHA, A. J. ; SIMPSON, A. J. . Random amplified polymorphic DNA analysis of Trypanosoma cruzi strains. MOLECULAR AND BIOCHEMICAL PARASITOLOGY, v. 60, n.1, p. 71-79, 1993.
+Citações:109|113
+
+120.
+RABELLO, A. L. T. ; DIAS NETO, E., Neto ED, Dias-Neto, E, Diasneto E ; GARCIA, M. M. ; KATZ, N. . Dot-dye-immunoassay for the diagnosis of schistosomiasis mansoni. MEMORIAS DO INSTITUTO OSWALDO CRUZ, v. 87, n.2, p. 187-190, 1992.
+Citações:9|6|3

@@ -1,0 +1,162 @@
+1.
+ MATTEUCCI, KELY C. ; PEREIRA, GUSTAVO J. S. ; WEINLICH, RICARDO ; BORTOLUCI, KARINA R. . Frontline Science: Autophagy is a cell autonomous effector mechanism mediated by NLRP3 to control infection. JOURNAL OF LEUKOCYTE BIOLOGY, v. 1, p. HI1118-461R, 2019.
+
+2.
+PACHECO, ALINE L. ; VICENTINI, GABRIELLA ; MATTEUCCI, KELY C. ; RIBEIRO, RAFAELA ROSA ; WEINLICH, RICARDO ; BORTOLUCI, KARINA R. . The impairment in the NLRP3-induced NO secretion renders astrocytes highly permissive to T. cruzi replication. JOURNAL OF LEUKOCYTE BIOLOGY, v. 1, p. 4AB1118-416RR, 2019.
+
+3.
+Amarante-Mendes, GP ; ADJEMIAN, S. ; BRANCO, L. ; Zaneti, L ; WENLICH, R ; Bortoluci, KR . Pattern Recognition Receptors and the Host Cell Death Molecular Machinery. Frontiers in Immunology, v. 9, p. fimmu.2018.0237, 2018.
+
+4.
+Rodrigues-Junior, D. ; Biassi, TP ; Carlin, V ; Buri, MV ; TORRECILHAS, A. C. ; Bortoluci, KR ; Vettore, AL . OIP5 expression sensitize glioblastoma cells to lomustine treatment. JOURNAL OF MOLECULAR NEUROSCIENCE, v. v, p. 1-7, 2018.
+
+5.
+ Buzzo, CL ; MEDINA, T. ; BRANCO, L. ; Lage, S. ; FERREIRA, LC ; Amarante-Mendes, GP ; HOTTIGER, M. ; De CARVALHO, D. D. ; Bortoluci, KR . Epigenetic regulation of nitric oxide synthase 2, inducible (Nos2) by NLRC4 inflammasomes involves PARP1 cleavage. Scientific Reports, v. 7, p. 41686, 2017.
+
+6.
+FOGUER, KAREN ; BRAGA, MARINA DE SOUZA ; PERON, JEAN PIERRE SCHATZMANN ; BORTOLUCI, KARINA RAMALHO ; BELLINI, MARIA HELENA . Endostatin gene therapy inhibits intratumoral macrophage M2 polarization. Biomedicine & Pharmacotherapy, v. 79, p. 102-111, 2016.
+Citações:2|3
+
+7.
+Ersching, E ; Basso, Alexandre Salgado ; Kalich, Vera ; Bortoluci, KR ; Rodrigues, M M . 'A Human Trypanosome Suppresses CD8+ T Cell Priming by Dendritic Cells Through the Induction of Immune Regulatory CD4+ Foxp3+ T Cells' (. PLoS Pathogens (Online), v. v, p. 1005698, 2016.
+Citações:1|2
+
+8.
+Cassado, A ; D´império Lima, M R ; BORTOLUCI, K. R. . Revisiting Mouse Peritoneal Macrophages: Heterogeneity, Development, and Function. Frontiers in Immunology (Online), v. 6, p. 225, 2015.
+Citações:4|38
+
+9.
+Lage, S. ; LONGO, C. ; Boccia, T ; BRANCO, L. ; Buzzo, CL ; BORTOLUCI, K. R. . Emerging concepts about NAIP/NLRC4 in?ammasomes. Frontiers in Immunology (Online), v. 5, p. 309, 2014.
+Citações:18|27
+
+10.
+ÁLVAREZ, JOSÉ M. ; FONSECA, RAISSA ; BORGES DA SILVA, HENRIQUE ; MARINHO, CLÁUDIO R. F. ; BORTOLUCI, KARINA R. ; SARDINHA, LUIZ R. ; EPIPHANIO, SABRINA ; D'IMPÉRIO LIMA, MARIA REGINA . Chagas Disease: Still Many Unsolved Issues. Mediators of Inflammation (Print), v. 2014, p. 1-9, 2014.
+Citações:5|13
+
+11.
+AMARAL, EDUARDO P. ; RIBEIRO, SIMONE C. M. ; LANES, VERÔNICA R. ; ALMEIDA, FABRÍCIO M. ; DE ANDRADE, MARCELLE R. M. ; BOMFIM, CAIO CESAR BARBOSA ; SALLES, ÉRIKA M. ; BORTOLUCI, KARINA R. ; COUTINHO-SILVA, ROBSON ; HIRATA, MARIO H. ; ALVAREZ, JOSÉ M. ; LASUNSKAIA, ELENA B. ; D'IMPÉRIO-LIMA, MARIA REGINA . Pulmonary Infection with Hypervirulent Mycobacteria Reveals a Crucial Role for the P2X7 Receptor in Aggressive Forms of Tuberculosis. PLoS Pathogens (Online), v. 10, p. e1004188, 2014.
+Citações:16|36
+
+12.
+LAGE, SILVIA L. ; AMARANTE-MENDES, GUSTAVO P. ; BORTOLUCI, KARINA R. . Evaluation of pyroptosis in macrophages using cytosolic delivery of purified flagellin. Methods (San Diego, Calif., Print), v. 02, p. S1046-2023(13), 2013.
+Citações:6|6
+
+13.
+GOMES, M. T. R. ; CAMPOS, P. C. ; OLIVEIRA, F. S. ; CORSETTI, P. P. ; BORTOLUCI, K. R. ; CUNHA, L. D. ; ZAMBONI, D. S. ; OLIVEIRA, S. C. . Critical Role of ASC Inflammasomes and Bacterial Type IV Secretion System in Caspase-1 Activation and Host Innate Resistance to Brucella abortus Infection. The Journal of Immunology (1950), v. 190, p. 3629-3638, 2013.
+Citações:29|37
+
+14.
+LIMA-JUNIOR, DJALMA S ; COSTA, DIEGO L ; CARREGARO, VANESSA ; CUNHA, LARISSA D ; SILVA, ALEXANDRE L N ; MINEO, TIAGO W P ; GUTIERREZ, FREDY R S ; BELLIO, MARIA ; BORTOLUCI, KARINA R ; FLAVELL, RICHARD A ; BOZZA, MARCELO T ; SILVA, JOÃO S ; ZAMBONI, DARIO S . Inflammasome-derived IL-1? production induces nitric oxide-mediated resistance to Leishmania. Nature Medicine (Print), v. 6, p. 3221, 2013.
+Citações:80|67
+
+15.
+ LAGE, SILVIA L. ; Buzzo, CL ; Amaral, E. P. ; Matteucci, KC ; MASSIS, L ; ICIMOTO, M. Y. ; CARMONA, A. K. ; D'IMPERIO LIMA, M. R. ; Rodrigues, M M ; FERREIRA, L. C. S. ; Amarante-Mendes, GP ; Bortoluci, KR . Cytosolic flagellin-induced lysosomal pathway regulates inflammasome-dependent and -independent macrophage responses. Proceedings of the National Academy of Sciences of the United States of America, p. E3321-E3330, 2013.
+Citações:13|14
+
+16.
+ GONÇALVES, VIRGINIA M. ; MATTEUCCI, KELY C. ; BUZZO, CARINA L. ; MIOLLO, BRUNA H. ; FERRANTE, DANNY ; TORRECILHAS, ANA C. ; RODRIGUES, MAURICIO M. ; ALVAREZ, JOSE M. ; BORTOLUCI, KARINA R. . NLRP3 Controls Trypanosoma cruzi Infection through a Caspase-1-Dependent IL-1R-Independent NO Production. PLoS Neglected Tropical Diseases (Online), v. 7, p. e2469, 2013.
+Citações:22|22
+
+17.
+ZAGO, C ; Bortoluci, KR ; SARDINHA, Luiz ; CASTILLO, S. ; PRETEL, F. ; Freitas do Rosário, AP ; Hyiane, M ; Muxel, S ; Rodriguez Málaga, S ; Abrahamsohn, I ; Alvarez, JM ; D?império Lima, MR . Anti-IL-2 Treatment Impairs the Expansion of Treg Cell Population during Acute Malaria and Enhances the Th1 Cell Response at the Chronic Disease. Plos One, v. 7, p. e29894, 2012.
+Citações:7|3
+
+18.
+Vasconcelos, JR ; Bruna-Romero, O ; Dominguez, MR ; Ersching, E ; Alencar, BCG ; Machado, AV ; Gazzinelli RT ; Bortoluci, KR ; Amarante-Mendes, GP ; Lopes MF ; Rodrigues, M M . Pathogen-Induced Proapoptotic Phenotype and High CD95 (Fas) Expression Accompany a Suboptimal CD8+ T-Cell Response: Reversal by Adenoviral Vaccine. PLoS Pathogens (Online), v. 8, p. e1002699, 2012.
+Citações:24|23
+
+19.
+Klionsky DJ ; Bortoluci, KR ; 1269 others . Guidelines for the use and interpretation of assays for monitoring autophagy. Autophagy (Georgetown, TX), v. 8, p. 445-544, 2012.
+Citações:1551|1702
+
+20.
+ISHIZUKA, E. K. ; FERREIRA, M. J. ; GRUND, L. Z. ; COUTINHO, E. M. M. ; KOMEGAE, E. N. ; Cassado, A ; LOPES-FERREIRA, M. ; LIMA, C. ; Bortoluci, KR . Role of interplay between IL-4 and IFN-? in the in regulating M1 macrophage polarization induced by Nattectin. International Immunopharmacology (Print), v. 14, p. 513-522, 2012.
+Citações:12|17
+
+21.
+Faustino, Lucas ; MUCIDA, Daniel ; Keller, Alexandre Castro ; Demengeot, Jocelyne ; BORTOLUCI, KARINA ; Sardinha, Luiz Roberto ; Carla Takenaka, Maisa ; Basso, Alexandre Salgado ; Faria, Ana Maria Caetano ; Russo, Momtchilo . Regulatory T Cells Accumulate in the Lung Allergic Inflammation and Efficiently Suppress T-Cell Proliferation but Not Th2 Cytokine Production. Clinical & Developmental Immunology (Print), v. 2012, p. 1-13, 2012.
+Citações:13|20
+
+22.
+Cassado, A ; Albuquerque, JAT ; Sardinha, LR ; Buzzo, CL ; FAUSTINO, L ; Nascimento, R ; Goshn, E ; D?império Lima, MR ; Alvarez JM ; Bortoluci, KR . Cellular renewal and improvement of local cell effector activity in peritoneal cavity in response to. Plos One, v. 6, p. e22141, 2011.
+Citações:5|16
+
+23.
+Bortoluci, KR; Medzhitov, R . Control of infection by pyroptosis and autophagy: role of TLR and NLR. Cellular and Molecular Life Sciences (Electronic ed.), v. 67, p. 1643-1651, 2010.
+Citações:52|77
+
+24.
+Amarante-Mendes, GP ; Bortoluci, KR ; Bozza, P. ; Chammas, R. ; VIOLA, J. . Paradise revealed: first-class science rocked by the sound of the waves.. Cell Death and Differentiation, v. 17, p. 1368-1372, 2010.
+Citações:1|1
+
+25.
+ Buzzo, CL ; Campopiano, JC ; MASSIS, L ; Lage, S. ; Cassado, A ; Leme-Souza, R. ; Dias da Cunha, L ; RUSSO, M. ; Zamboni, DS ; Amarante-Mendes, GP ; Bortoluci, KR . A Novel Pathway for Inducible Nitric-oxide Synthase Activation through Inflammasomes. Journal of Biological Chemistry (Online), v. 285, p. 32087-32095, 2010.
+Citações:25|23
+
+26.
+GHOSN, E. E. B. ; CASSADO, A. A. ; GOVONI, G. R. ; FUKUHARA, T. ; YANG, Y. ; MONACK, D. M. ; BORTOLUCI, K. R. ; ALMEIDA, S. R. ; HERZENBERG, L. A. ; HERZENBERG, L. A. . Two physically, functionally, and developmentally distinct peritoneal macrophage subsets. PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA, v. 107, p. 2568-2573, 2010.
+Citações:159|137
+
+27.
+Marinho, C R F ; Apaza, LN ; Bortoluci, KR ; Bombeiro, AL ; Bucci, D ; Grisotto, MG ; Sardinha, LR ; Lira, S. ; D´império Lima, M R ; Alvarez JM . Infection by the Sylvio X10/4 clone of Trypanosoma cruzi: relevance of a low-virulence model of Chagas' disease. Microbes and Infection, v. 11, p. 1037-1045, 2009.
+Citações:12|13
+
+28.
+Bortoluci, KR; WENLICH, R ; CHEHAB, C ; SEREZANI, Henrique ; ULBRICH, Axel ; PETERS-GOLDEN, M. ; RUSSO, M. ; AMARANTE-MENDES, GP. . TLR4/MYD88-dependent, LPS-induced synthesis of PGE2 by macrophages or dendritic cells prevents anti-CD3-mediated CD95L upregulation in T cells. Cell Death and Differentiation, v. 15, p. 1901-1909, 2008.
+Citações:20|16
+
+29.
+BORTOLATTO, J ; BORDUCCHI, E. ; RODRIGUEZ, D. ; KELLER, A. ; Faquim-Mauro E ; Bortoluci, KR ; MUCIDA, Daniel ; CHRIST, A. P. ; SCHNYDER, B. ; Ryffel B ; RUSSO, M. . Toll-like receptor 4 agonists adsorbed to aluminium hydroxide adjuvant attenuate ovalbumin-specific allergic airway disease: role of MyD88 adaptor molecule and interleukin-12/interferon-Î³ axis. Clinical and Experimental Allergy (Print), v. 38, p. 1668-1679, 2008.
+Citações:35|44
+
+30.
+Marinho, C.R.F. ; Apaza, LN ; Santos, RM ; Bortoluci, KR ; Bombeiro, AL ; Bucci, DZ ; Sardinha, LR ; D?império Lima, MR ; Alvarez, JM . IFN-g, but not nitric oxide or specific IgG, is essential for the in vivo control of lowvirulence Sylvio X10/4 Trypanosoma cruzi parasites. Scandinavian Journal of Immunology (Print), v. 66, p. 297-308, 2007.
+Citações:25|25
+
+31.
+BASTOS, KARINA R.B.; BARBOZA, RENATO ; SARDINHA, Luiz ; Russo, Momtchilo ; ALVAREZ, JOSÉ M. ; LIMA, MARIA REGINA D'IMPÉRIO . Role of Endogenous IFN-? in Macrophage Programming Induced by IL-12 and IL-18. Journal of Interferon & Cytokine Research, v. 27, p. 399-410, 2007.
+Citações:30|29
+
+32.
+FERREIRA, KAREN SPADARI ; BASTOS, KARINA RAMALHO ; Russo, Momtchilo ; ALMEIDA, SANDRO ROGERIO . Interaction between Paracoccidioides brasiliensis and Pulmonary Dendritic Cells Induces Interleukin-10 Production and Toll-Like Receptor-2 Expression: Possible Mechanisms of Susceptibility. The Journal of Infectious Diseases, v. 196, p. 1108-1115, 2007.
+Citações:37|42
+
+33.
+ROSA, DANIELA SANTORO ; BASTOS, KARINA R. ; BARGIERI, DANIEL YOUSSEF ; TZELEPIS, FANNY ; NOMIZO, AURO ; Russo, Momtchilo ; SOARES, IRENE S. ; RODRIGUES, MAURICIO M. . Role of interferon-? during CpG oligodeoxynucleotide-adjuvanted immunization with recombinant proteins. Vaccine (Guildford), v. 25, p. 6007-6017, 2007.
+Citações:3|4
+
+34.
+SARDINHA, L. R. ; ELIAS, R. M. ; MOSCA, T. ; BASTOS, K. R. B. ; MARINHO, C. R. F. ; D'IMPERIO LIMA, M. R. ; ALVAREZ, J. M. . Contribution of NK, NK T,    T, and    T Cells to the Gamma Interferon Response Required for Liver Protection against Trypanosoma cruzi. Infection and Immunity (Print), v. 74, p. 2031-2042, 2006.
+Citações:30|33
+
+35.
+ELIAS, Rosa Maria ; Sardinha, LR ; BASTOS, K. R. B. ; ZAGO, C ; da Silva, A P ; ALVAREZ, JM ; LIMA, MR . Role of CD28 in polyclonal and specific T and B cell responses required for protection against blood stage malaria. The Journal of Immunology (1950), v. 174, n.2, p. 790-799, 2005.
+Citações:21|21
+
+36.
+BASTOS, KARINA R. B.; DE DEUS VIEIRA DE MORAES, LUCIANA ; ZAGO, CLAUDIA A. ; MARINHO, CLAUDIO R. F. ; Russo, Momtchilo ; ALVAREZ, JOSE M. M. ; D'IMPERIO LIMA, MARIA R. . Analysis of the activation profile of dendritic cells derived from the bone marrow of interleukin-12/interleukin-23-deficient mice. Immunology (Oxford. Print), v. 114, p. 499-506, 2005.
+Citações:10|10
+
+37.
+Bortoluci, K.R., BASTOS, K.R.B. ou Bastos, K.R.; Marinho, C R F ; Bucci, D ; Dagli, ML ; Grisotto, MG ; Sardinha, LR ; Baptista, C ; Gonçalves, CP ; LIMA, MR ; ALVAREZ, JM . Pathology Affects Different Organs in Two Mouse Strains Chronically Infected by a Trypanosoma cruzi Clone: a Model for Genetic Studies of Chagas' Disease. Infection and Immunity (Print), v. 72, n.4, p. 2350-2357, 2004.
+Citações:31|35
+
+38.
+MARINHO, CLAUDIO R. F. ; BASTOS, KARINA R. B. ; SARDINHA, LUIZ R. ; GRISOTTO, MARCOS G. ; D'IMPÉRIO LIMA, MARIA REGINA ; ALVAREZ, JOSE M. . CHALLENGE OF TRYPANOSOMA CRUZI CHRONICALLY INFECTED MICE WITH TRYPOMASTIGOTES ACTIVATES THE IMMUNE SYSTEM AND REDUCES SUBPATENT PARASITEMIA LEVELS. The Journal of Parasitology, v. 90, p. 516-523, 2004.
+Citações:9|9
+
+39.
+BASTOS, KARINA R.B.; MARINHO, CLAUDIO R.F. ; BARBOZA, RENATO ; Russo, Momtchilo ; ÁLVAREZ, JOSÉ M. ; D?IMPÉRIO LIMA, MARIA REGINA . What kind of message does IL-12/IL-23 bring to macrophages and dendritic cells?. Microbes and Infection, v. 6, p. 630-636, 2004.
+Citações:45|51
+
+40.
+BASTOS, K. R. B.; ALVAREZ, JM ; Marinho, C.R.F. ; Rizzo, LV ; LIMA, MR . Macrophages from IL-12p40-deficient mice have a bias toward the M2 activation profile.. JOURNAL OF LEUKOCYTE BIOLOGY, v. 71, p. 271-278, 2002.
+Citações:55|56
+
+41.
+BASTOS, KARINA R.B.; BARBOZA, RENATO ; ELIAS, ROSA M. ; SARDINHA, LUIZ R. ; GRISOTTO, MARCOS G. ; MARINHO, CLÁUDIO R.F. ; AMARANTE-MENDES, GUSTAVO P. ; ALVAREZ, JOSÉ M. ; LIMA, MARIA REGINA D'IMPÉRIO . Impaired Macrophage Responses May Contribute to Exacerbation of Blood-Stage Plasmodium chabaudi chabaudi Malaria in Interleukin-12-Deficient Mice. Journal of Interferon & Cytokine Research, v. 22, p. 1191-1199, 2002.
+Citações:15|16
+
+42.
+Bortoluci, K.R., BASTOS, K.R.B. ou Bastos, K.R.; ALVAREZ, JM ; Marinho, C R F ; Rizzo, LV ; LIMA, MR . Susceptibility of the different developmental stages of the asexual (schizogonic) erythrocyte cycle of Plasmodium chabaudi chabaudi to hyperimmune serum, immunoglobulin (Ig)G1, IgG2a and F(ab')2 fragments. Parasite Immunology, v. 23, p. 587-597, 2001.
+Citações:21|22

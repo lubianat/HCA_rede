@@ -1,0 +1,256 @@
+1.
+RAMOS, TAIANE COELHO ; BALARDIN, JOANA BISOL ; SATO, João Ricardo ; Fujita, André . Abnormal Cortico-Cerebellar Functional Connectivity in Autism Spectrum Disorder. FRONTIERS IN SYSTEMS NEUROSCIENCE, v. 12, p. 74, 2019.
+
+2.
+MACHADO, R. A. C. ; SCHNEIDER, H. ; DEOCESANO-PEREIRA, C. ; LICHTENSTEIN, F. ; ANDRADE, F. ; FUJITA, A ; TROMBETTA-LIMA, M. ; WELLER, M. ; BOWMAN-COLIN, C. ; SOGAYAR, M. C. . CHD7 promotes glioblastoma cell motility and invasiveness through transcriptional modulation of an invasion signature.. Scientific Reports, v. 9, p. 3952, 2019.
+
+3.
+RACHED, M. R. ; COELHO, V. ; MARIN, M. L. C. ; PINCERATO, K. ; FUJITA, A ; KALIL, J. E. ; ABRAO, M. S. . HLA-G is upregulated in advanced endometriosis. European Journal of Obstetrics & Gynecology and Reproductive Biology, v. 235, p. 36-41, 2019.
+
+4.
+MARTINS, LARISSA A. ; MALOSSI, CAMILA D. ; GALLETTI, MARIA F. B. DE M. ; RIBEIRO, JOSÉ M. ; Fujita, André ; ESTEVES, ELIANE ; COSTA, FRANCISCO B. ; LABRUNA, MARCELO B. ; DAFFRE, SIRLEI ; FOGAÇA, ANDRÉA C. . The Transcriptome of the Salivary Glands of Amblyomma aureolatum Reveals the Antimicrobial Peptide Microplusin as an Important Factor for the Tick Protection Against Rickettsia rickettsii Infection. Frontiers in Physiology, v. 10, p. 529, 2019.
+
+5.
+MONTEIRO, A. C. ; MUENZNER, J. ; ANDRADE, F. ; RIUS, F. E. ; OSTALECKI, C. ; GEPPERT, C. ; AGAIMY, A. ; HARTMANN, A. ; FUJITA, A ; SCHNEIDER-STOCK, R. ; JASIULIONIS, M. G. . Gene expression and promoter methylation of angiogenic and lymphangiogenic factors as prognostic markers in melanoma. Molecular Oncology, v. 1, p. 1, 2019.
+
+6.
+JARDIM, V. C. ; SANTOS, S. S. ; FUJITA, A ; BUCKERIDGE, M. . BioNetStat: A Tool for Biological Networks Differential Analysis. Frontiers in Genetics, v. 10, p. 594, 2019.
+
+7.
+BANDO ; IAMASHITA ; SILVA ; COSTA ; ABE ; BERTONHA ; GUTH ; Fujita ; MOREIRA-FILHO . Dynamic Gene Network Analysis of Caco-2 Cell Response to Shiga Toxin-Producing Escherichia coli-Associated Hemolytic-Uremic Syndrome. Microorganisms, v. 7, p. 195-217, 2019.
+
+8.
+GUZMAN, G. E. C. ; VIDAL, M. C. ; SATO, J. R. ; FUJITA, A . Identification of alterations associated with age in the clustering structure of functional brain networks. PLoS One, v. 13, p. e0195906, 2018.
+
+9.
+NARDELLI, TARLLIZA ROMANNA ; VANZELA, EMERIELLE CRISTINA ; BENEDICTO, KELI CRISTINA ; BROZZI, FLORA ; Fujita, André ; CARDOZO, ALESSANDRA K. ; EIZIRIK, DÉCIO ; BOSCHERO, ANTONIO CARLOS ; ORTIS, FERNANDA . Prolactin protects against cytokine-induced beta cell death by NFkB and JNK inhibition. JOURNAL OF MOLECULAR ENDOCRINOLOGY, v. 61, p. JME-16-0257-36, 2018.
+
+10.
+LOBBA, A. R. M. ; CARREIRA, A. C. O. ; CERQUEIRA, O. L. D. ; FUJITA, A ; DEOCESANO-PEREIRA, C. ; OSORIO, C. A. B. ; SOARES, F. A. ; RAMESHWAR, P. ; SOGAYAR, M. C. . High CD90 (THY-1) expression positively correlates with cell transformation and worse prognosis in basal-like breast cancer tumors. PLoS One, v. 13, p. e0199254, 2018.
+
+11.
+Sato, Joao Ricardo ; VIDAL, MACIEL ; DE SIQUEIRA SANTOS, SUZANA ; MASSIRER, Katlin Brauer ; Fujita, Andre . Complex network measures in Autism Spectrum Disorders. IEEE-ACM Transactions on Computational Biology and Bioinformatics, v. 15, p. 1-1, 2018.
+Citações:3
+
+12.
+VIDAL, MACIEL C. ; Sato, João R. ; BALARDIN, JOANA B. ; TAKAHASHI, DANIEL Y. ; Fujita, André . ANOCVA in R: A Software to Compare Clusters between Groups and Its Application to the Study of Autism Spectrum Disorder. Frontiers in Neuroscience, v. 11, p. 1, 2017.
+
+13.
+Fujita, André; VIDAL, MACIEL C. ; TAKAHASHI, DANIEL Y. . A Statistical Method to Distinguish Functional Brain Networks. Frontiers in Neuroscience, v. 11, p. 1, 2017.
+Citações:2|3
+
+14.
+RIBEIRO, A. H. ; LOTUFO, P. ; FUJITA, A ; GOULART, A. ; CHOR, D. ; MILL, J. G. ; BENSENOR, I. ; SANTOS, I. S. . Association Between Short-Term Systolic Blood Pressure Variability and Carotid Intima-Media Thickness in ELSA-Brasil Baseline. AMERICAN JOURNAL OF HYPERTENSION, v. 1, p. 1, 2017.
+
+15.
+MARTINS, L. A. ; GALLETII, M. F. B. M. ; RIBEIRO, J. M. ; FUJITA, A ; COSTA, F. B. ; BRUNA, M. B. ; DAFFRE, S. ; FOGACA, A. C. . The Distinct Transcriptional Response of the Midgut of Amblyomma sculptum and Amblyomma aureolatum Ticks to Rickettsia rickettsii Correlates to Their Differences in Susceptibility to Infection. Frontiers in Cellular and Infection Microbiology, v. 7, p. 129, 2017.
+
+16.
+ESTEVES, E. ; MARUYAMA, S. R. ; SAKUMA, R. ; FUJITA, A ; MARTINS, L. A. ; RIGHI, A. A. ; COSTA, F. B. ; PALMISANO, G. ; LABRUNA, M. B. ; SA-NUNES, A. ; RIBEIRO, J. M. ; FOGACA, A. C. . Analysis of the Salivary Gland Transcriptome of Unfed and Partially Fed Amblyomma sculptum Ticks and Descriptive Proteome of the Saliva. Frontiers in Cellular and Infection Microbiology, v. 7, p. 476, 2017.
+
+17.
+BANDO, S. Y. ; IAMASHITA, P. ; GUTH, B. E. ; SANTOS, L. F. ; FUJITA, A ; ABE, C. M. ; FERREIRA, L. R. ; MOREIRA-FILHO, C. A. . A hemolytic-uremic syndrome-associated strain O113:H21 Shiga toxin-producing Escherichia coli specifically expresses a transcriptional module containing dicA and is related to gene network dysregulation in Caco-2 cells. PLoS One, v. 12, p. e0189613, 2017.
+
+18.
+SATO, J. R. ; BALARDIN, J. ; VIDAL, M. C. ; FUJITA, A . Identification of segregated regions in the functional brain connectome of autistic patients by a combination of fuzzy spectral clustering and entropy analysis. Journal of Psychiatry & Neuroscience, v. 41, p. 124-132, 2016.
+Citações:1|2
+
+19.
+FONSECA, M. ; RODRIGUES, A. C. ; CEZAR, L. ; FUJITA, A ; SORIANO, F. ; STEINER, A. . Spontaneous hypothermia in human sepsis is a transient, self-limiting and non-terminal response. Journal of Applied Physiology, v. 1, p. 1, 2016.
+Citações:4|4
+
+20.
+KINKER, GABRIELA SARTI ; THOMAS, ANDREW MALTEZ ; CARVALHO, VINICIUS JARDIM ; LIMA, FELIPE PRATA ; Fujita, André . Deletion and low expression of NFKBIA are associated with poor prognosis in lower-grade glioma patients. Scientific Reports, v. 6, p. 24160, 2016.
+
+21.
+GALLETTI, MARIA FERNANDA B. M. ; Fujita, André ; ROSA, RAFAEL D. ; MARTINS, LARISSA A. ; SOARES, HERBERT S. ; LABRUNA, MARCELO B. ; DAFFRE, SIRLEI ; FOGAÇA, ANDRÉA C. . Virulence genes of Rickettsia rickettsii are differentially modulated by either temperature upshift or blood-feeding in tick midgut and salivary glands. Parasites & Vectors, v. 9, p. 331, 2016.
+Citações:2|2
+
+22.
+Fujita, André; TAKAHASHI, DANIEL YASUMASA ; BALARDIN, JOANA BISOL ; VIDAL, MACIEL CALEBE ; SATO, João Ricardo . Correlation between graphs with an application to brain network analysis. Computational Statistics & Data Analysis (Print), p. 76-92, 2016.
+
+23.
+ALEXANDRINO, P. ; MENDONCA, T. ; BAUTISTA, L. ; CHERIX, J. ; LOZANO-SAKALAUSKAS, G. ; FUJITA, A. ; RAMOS FILHO, E. ; LONG, P. ; PADILLA, G. ; TACIRO, M. ; GOMEZ, J. G. ; SILVA, L. . Draft Genome Sequence of the Polyhydroxyalkanoate-producing Bacterium Burkholderia sacchari LMG 19450 Isolated from Brazilian Sugarcane Plantation Soil. Genome Announcements, v. 3, p. e00313-15, 2015.
+
+24.
+NAKATA, A. ; YOSHIDA, R. ; YAMAGUCHI, R. ; YAMAUCHI, M. ; Tamada, Y. ; Fujita, André ; Imoto, S. ; Shimamura, T. ; HIGUCHI, T. ; NOMURA, M. ; KIMURA, T. ; NOKIHARA, H. ; HIGASHIYAMA, M. ; KONDOH, K. ; NISHIHARA, H. ; TOJO, A. ; YANO, S. ; MIYANO, S. ; GOTOH, N. . Elevated beta-catenin pathway as a novel target for patients with resistance to EGF receptor targeting drugs. Scientific Reports, v. 5, p. 13076, 2015.
+Citações:4|11
+
+25.
+SANTOS, S. S. ; GALATRO, T. F. A. ; WATANABE, R. A. ; SHINJO, Sueli Mieko Oba ; MARIE, Suely Kazue Nagahashi ; FUJITA, A. . CoGA: an R package to identify differentially co-expressed gene sets by analyzing the graph spectra. Plos One, v. 10, p. 1-17, 2015.
+Citações:1|5
+
+26.
+GOMES, LUCIANA R. ; Fujita, André ; MOTT, JONI D. ; SOARES, FERNANDO A. ; LABRIOLA, LETICIA ; SOGAYAR, MARI C. . RECK is not an independent prognostic marker for breast cancer. BMC Cancer (Online), v. 15, p. 1, 2015.
+Citações:2|5
+
+27.
+MOLINA, E. ; Fujita, André ; SOGAYAR, Mari Cleide ; DEMASI, Marcos Angelo A. . A quantitative and humane tail bleeding assay for efficacy evaluation of antihaemophilic factors in haemophilia A mice. Haemophilia (Oxford. Print), v. 20, p. 392-398, 2014.
+
+28.
+RODRIGUES, A. C. ; MACHADO, B. S. ; FLORENCE, G. ; HAMAD, A. P. ; SAKAMOTO, A. C. ; Fujita, Andre ; BACCALA, L. A. ; AMARO JR, E. ; SAMESHIMA, K. . Brain network dynamics characterization in epiletic seizures. The European Physical Journal. Special Topics, v. 223, p. 2933-2941, 2014.
+Citações:3|6
+
+29.
+MACIEL, C. ; Fujita, Andre ; GUERONI, D. I. ; RAMOS, A. D. ; CAPURRO, M. L. ; SA-NUNES, A. . Evans blue as a simple method to discriminate mosquitoes feeding choice on small laboratory animals. Plos One, v. 9, p. e110551, 2014.
+Citações:1|1
+
+30.
+AZEVEDO, H. ; Fujita, André ; BANDO, S. Y. ; IAMASHITA, P. ; MOREIRA-FILHO, C. A. . Transcriptional network analysis reveals that AT1 and AT2 Angiotensin II receptors are both involved in the regulation of genes essential for glioma progression. Plos One, v. 9, p. e110934, 2014.
+Citações:5|5
+
+31.
+Fujita, André; TAKAHASHI, DANIEL Y. ; PATRIOTA, ALEXANDRE G. ; Sato, João R. . A non-parametric statistical test to compare clusters with applications in functional magnetic resonance imaging data. Statistics in Medicine (Print), v. 33, p. 4949-4962, 2014.
+Citações:1|2
+
+32.
+SATO, João Ricardo ; TAKAHASHI, DANIEL YASUMASA ; Hoexter, Marcelo Queiroz ; MASSIRER, Katlin Brauer ; Fujita, André . Measuring network's entropy in ADHD: A new approach to investigate neuropsychiatric disorders. Neuroimage (Orlando, Fla. Print), v. 77, p. 44-51, 2013.
+Citações:8|8
+
+33.
+GALLETII, M. F. B. M. ; Fujita, Andre ; NISHIYAMA-JR., M. Y. ; MALOSSI, C. D. ; PINTER, A. ; SOARES, J. F. ; DAFFRE, S. ; LABRUNA, M. B. ; FOGACA, A. C. . Natural Blood Feeding and Temperature Shift Modulate the Global Transcriptional Profile of Rickettsia rickettsii Infecting Its Tick Vector. Plos One, v. 8, p. e77388, 2013.
+Citações:7|13
+
+34.
+HALCSIK, E. ; FORNI, M. F. ; FUJITA, A. ; VERANO-BRAGA, T. ; JENSEN, O. N. ; SOGAYAR, M. C. . New insights in osteogenic differentiation revealed by mass spectrometric assessment of phosphorylated substrates in murine skin mesenchymal cells. BMC Cell Biology (Online), v. 14, p. 47, 2013.
+Citações:5|5
+
+35.
+Fujita, André; TAKAHASHI, DANIEL Y. ; PATRIOTA, ALEXANDRE G. . A non-parametric method to estimate the number of clusters. Computational Statistics & Data Analysis (Print), v. 73, p. 27-39, 2013.
+Citações:11|17
+
+36.
+DE SIQUEIRA SANTOS, S. ; TAKAHASHI, D. Y. ; NAKATA, A. ; FUJITA, A. . A comparative study of statistical methods used to identify dependencies between gene expression signals. Briefings in Bioinformatics, v. 15, p. 906-918, 2013.
+Citações:4|11
+
+37.
+KOJIMA, KANAME ; Imoto, Seiya ; Yamaguchi, Rui ; Fujita, André ; Yamauchi, Mai ; Gotoh, Noriko ; Miyano, Satoru . Identifying regulational alterations in gene regulatory networks by state space representation of vector autoregressive models and variational annealing. BMC Genomics, v. 13, p. S6, 2012.
+Citações:3|12
+
+38.
+Sato, João Ricardo ; FUJITA, A. ; Hoexter, Marcelo Queiroz ; Rohde, Luis Augusto . Evaluation of Pattern Recognition and Feature Extraction Methods in ADHD Prediction. Frontiers in Systems Neuroscience, v. 6, p. 1, 2012.
+Citações:20
+
+39.
+FUJITA, A; SEVERINO, P. ; Kojima K ; SATO, João Ricardo ; PATRIOTA, A. G. ; Miyano, Satoru . Functional clustering of time series gene expression data by Granger causality. BMC Systems Biology, v. 6, p. 137, 2012.
+Citações:3|6
+
+40.
+ TAKAHASHI, D. Y. ; SATO, João Ricardo ; FERREIRA, Carlos Eduardo ; FUJITA, A . Discriminating Different Classes of Biological Networks by Analyzing the Graphs Spectra Distribution. Plos One, v. 7, p. e49949, 2012.
+Citações:10|12
+
+41.
+Nagasaki, M. ; FUJITA, A. ; SEKIYA, Y. ; SAITO, A. ; IKEDA, E. ; LI, C. ; Miyano, S. . XiP: a computational environment to create, extend and share workflows. Bioinformatics (Oxford. Print), v. 29, p. 137-139, 2012.
+Citações:3|3
+
+42.
+FUJITA, A; Sato, J. R. ; Demasi, Marcos Almeida ; Yamaguchi, R. ; Shimamura, T. ; FERREIRA, Carlos Eduardo ; Sogayar, Mari C ; Miyano, S. . Inferring contagion in regulatory networks. IEEE/ACM Transactions on Computational Biology and Bioinformatics (Print), v. 8, p. 570-576, 2011.
+
+43.
+Kasparek, Tomas ; Thomaz, Carlos Eduardo ; Sato, Joao Ricardo ; Schwarz, Daniel ; Janousova, Eva ; Marecek, Radek ; Prikryl, Radovan ; Vanicek, Jiri ; Fujita, Andre ; Ceskova, Eva . Maximum-uncertainty linear discrimination analysis of first-episode schizophrenia subjects. Psychiatry Research. Neuroimaging (Print), v. 191, p. 174-181, 2011.
+Citações:21|24
+
+44.
+Nagasaki, M. ; SAITO, A. ; FUJITA, A. ; Tremmel, G. ; Ueno, K. ; IKEDA, E. ; Jeong, E. ; Miyano, S. . Systems biology model repository for macrophage pathway simulation. Bioinformatics (Oxford. Print), v. 27, p. 1591-1593, 2011.
+Citações:2|4
+
+45.
+VALENZUELA, Juan Carlos B. ; FUJITA, A ; HALCSIK, E. ; GRANJEIRO, J. M. ; SOGAYAR, Mari Cleide . Unveiling novel genes upregulated by both rhBMP2 and rhBMP7 during early osteoblastic transdifferentiation of C2C12 cells. BMC Research Notes, v. 4, p. 370, 2011.
+Citações:16
+
+46.
+Fujita, André; SATO, João Ricardo ; KOJIMA, KANAME ; GOMES, LUCIANA RODRIGUES ; NAGASAKI, MASAO ; SOGAYAR, Mari Cleide ; Miyano, Satoru . IDENTIFICATION OF GRANGER CAUSALITY BETWEEN GENE SETS. Journal of Bioinformatics and Computational Biology (Print), v. 08, p. 679, 2010.
+Citações:10
+
+47.
+Shimamura, T. ; Imoto, S. ; Nagasaki, M. ; YAMAUCHI, M. ; Yamaguchi, Rui ; FUJITA, A. ; Tamada, Y. ; GOTOH, N. ; Miyano, Satoru . Collocation-based sparse estimation for constructing dynamic gene networks. Genome Informatics, v. 24, p. 164-178, 2010.
+
+48.
+FUJITA, A.; Nagasaki, M. ; Imoto, S. ; SAITO, A. ; IKEDA, E. ; Shimamura, T. ; Yamaguchi, Rui ; HAYASHIZAKI, Y. ; Miyano, Satoru . Comparison of gene expression profiles produced by CAGE, illumina microarray and Real Time RT-PCR.. Genome Informatics, v. 24, p. 56-68, 2010.
+
+49.
+Sato, João R. ; Fujita, André ; Cardoso, Elisson F. ; Thomaz, Carlos E. ; Brammer, Michael J. ; Amaro Jr., Edson . Analyzing the connectivity between regions of interest: An approach based on cluster Granger causality for fMRI data analysis. NeuroImage (Orlando), v. 52, p. 1444-1455, 2010.
+Citações:24|29
+
+50.
+FUJITA, A; SEVERINO, P. ; Sato, Joao R ; Miyano, Satoru . Granger causality in systems biology: modeling gene networks in time series microarray data using vector autoregressive models. Lecture Notes in Computer Science, v. 6268, p. 13-24, 2010.
+Citações:4
+
+51.
+FUJITA, A.; Kojima, K. ; PATRIOTA, A. G. ; Sato, J. R. ; SEVERINO, P. ; Miyano, S. . A fast and robust statistical test based on Likelihood ratio with Bartlett correction to identify Granger causality between gene sets. Bioinformatics (Oxford. Print), v. 26, p. 2349-2351, 2010.
+Citações:5|5
+
+52.
+NIIDA, A. ; Imoto, S. ; Yamaguchi, R. ; Nagasaki, M. ; FUJITA, A. ; Shimamura, T. ; Miyano, S. . Model-free unsupervised gene set screening based on information enrichment in expression profiles. Bioinformatics (Oxford. Print), v. 26, p. 3090-3097, 2010.
+
+53.
+Fujita, André; SATO, João Ricardo ; DEMASI, MARCOS ANGELO ALMEIDA ; SOGAYAR, Mari Cleide ; FERREIRA, Carlos Eduardo ; Miyano, Satoru . COMPARING PEARSON, SPEARMAN AND HOEFFDING'S D MEASURE FOR GENE EXPRESSION ASSOCIATION ANALYSIS. Journal of Bioinformatics and Computational Biology, v. 07, p. 663, 2009.
+Citações:19
+
+54.
+SATO, João Ricardo ; Fujita, André ; Thomaz, Carlos Eduardo ; Martin, Maria da Graça Morais ; Mourão-Miranda, Janaina ; Brammer, Michael John ; Junior, Edson Amaro . Evaluating SVM and MLDA in the extraction of discriminant regions for mental state prediction. NeuroImage (Orlando), v. 46, p. 105-114, 2009.
+Citações:28|28
+
+55.
+Shimamura, T. ; Imoto, S. ; Yamaguchi, Rui ; FUJITA, A ; Nagasaki, M. ; Miyano, Satoru . Recursive regularization for inferring gene networks from time-course gene expression profiles. BMC Systems Biology, v. 3, p. 41, 2009.
+Citações:22|35
+
+56.
+FUJITA, A; SATO, João Ricardo ; SILVA, F. H. L. ; GALVAO, M. C. ; SOGAYAR, Mari Cleide ; Miyano, Satoru . Quality control and reproducibility in DNA microarray experiments. Genome Informatics, v. 23, p. 21-31, 2009.
+Citações:1
+
+57.
+Fujita, Andre; Patriota, Alexandre G ; Sato, Joao R ; Miyano, Satoru . The impact of measurement errors in the identification of regulatory networks.. BMC Bioinformatics, v. 10, p. 412, 2009.
+Citações:7|11
+
+58.
+FUJITA, A.; SATO, João Ricardo ; FESTA, Fernanda ; GOMES, L. R. ; SHINJO, Sueli Mieko Oba ; MARIE, Suely Kazue Nagahashi ; FERREIRA, Carlos Eduardo ; SOGAYAR, Mari Cleide . Identification of Col6a1 as a differentially expressed gene in human astrocytomas. Genetics and Molecular Research, v. 7, p. 371-378, 2008.
+Citações:13|13
+
+59.
+SATO, João Ricardo ; da Graça Morais Martin, Maria ; Fujita, André ; Mourão-Miranda, Janaina ; Brammer, Michael John ; Amaro, Edson . An fMRI normative database for connectivity networks using one-class support vector machines. Human Brain Mapping, v. 30, p. 1068-1076, 2008.
+Citações:12|17
+
+60.
+Fujita, André; SATO, João Ricardo ; GARAY-MALPARTIDA, HUMBERTO MIGUEL ; SOGAYAR, Mari Cleide ; FERREIRA, Carlos Eduardo ; Miyano, Satoru . MODELING NONLINEAR GENE REGULATORY NETWORKS FROM TIME SERIES GENE EXPRESSION DATA. Journal of Bioinformatics and Computational Biology (Print), v. 06, p. 961, 2008.
+Citações:17
+
+61.
+Kojima K ; FUJITA, A. ; Shimamura, T. ; Imoto, S. ; Miyano, Satoru . Estimation of nonlinear gene regulatory networks via L1 regularized NVAR from time series gene expression data. Genome Informatics, v. 20, p. 37-51, 2008.
+Citações:5
+
+62.
+Hatanaka, Y. ; Nagasaki, M. ; Yamaguchi, Rui ; Obayashi, T. ; Numata, K. ; FUJITA, A. ; Shimamura, T. ; Tamada, Y. ; Imoto, S. ; Kinoshita, K. ; Nakai, K. ; Miyano, Satoru . A novel strategy to search conserved transcriptional factor binding sites among coexpressing genes in human. Genome Informatics, v. 20, p. 212-221, 2008.
+Citações:5
+
+63.
+SATO, J ; THOMAZ, C ; CARDOSO, E ; FUJITA, A ; MARTIN, M ; AMAROJR, E . Hyperplane navigation: A method to set individual scores in fMRI group datasets. NeuroImage (Orlando), v. 42, p. 1473-1480, 2008.
+Citações:22|24
+
+64.
+Fujita, Andre; Gomes, Luciana R ; Sato, Joao R ; Yamaguchi, Rui ; Thomaz, Carlos E ; Sogayar, Mari C ; Miyano, Satoru . Multivariate gene expression analysis reveals functional connectivity changes between normal/tumoral prostates. BMC Systems Biology, v. 2, p. 106, 2008.
+Citações:14|15
+
+65.
+SATO, João Ricardo ; FUJITA, A. ; AMARO JR, Edson ; MIRANDA, Janaína Mourão ; MORETTIN, Pedro Alberto ; BRAMMER, Michael J . DWT-CEM: An algorithm for scale-temporal clustering in fMRI. Biological Cybernetics, v. 97, p. 33-45, 2007.
+Citações:5|5
+
+66.
+FUJITA, A.; SATO, João Ricardo ; MALPARTIDA, Humberto Miguel Garay ; MORETTIN, Pedro Alberto ; SOGAYAR, Mari Cleide ; FERREIRA, Carlos Eduardo . Time-varying modeling of gene expression regulatory networks using the wavelet dynamic vector autoregressive method. Bioinformatics (Oxford. Print), v. 23, p. 1623/13-1630, 2007.
+Citações:33|45
+
+67.
+ FUJITA, A.; SATO, João Ricardo ; MALPARTIDA, Humberto Miguel Garay ; Yamaguchi, Rui ; Miyano, Satoru ; SOGAYAR, Mari Cleide ; FERREIRA, Carlos Eduardo . Modeling gene expression regulatory networks with the sparse vector autoregressive model. BMC Systems Biology, v. 1, p. 39, 2007.
+Citações:41|47
+
+68.
+FUJITA, A.; SATO, João Ricardo ; FERREIRA, Carlos Eduardo ; SOGAYAR, Mari Cleide . GEDI: a user-friendly toolbox for analysis of large-scale gene expression data. BMC Bioinformatics, v. 8, p. 457, 2007.
+Citações:5|8
+
+69.
+FUJITA, A.; SATO, João Ricardo ; RODRIGUES, Leonardo de Oliveira ; FERREIRA, Carlos Eduardo ; SOGAYAR, Mari Cleide . Evaluating different methods of microarray data normalization. BMC Bioinformatics, v. 7, p. 0/469, 2006.
+Citações:123|128
+
+70.
+FUJITA, A.; MASSIRER, Katlin Brauer ; DURHAM, Alan Mitchell ; FERREIRA, Carlos Eduardo ; SOGAYAR, Mari Cleide . The GATO gene annotation tool for research laboratories.. Brazilian Journal of Medical and Biological Research, v. 38, n.11, p. 1571-1574, 2005.
+Citações:1

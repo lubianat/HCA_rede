@@ -1,0 +1,64 @@
+1.
+PICCIRILLO, ERIKA ; ALEGRIA, THIAGO G. P. ; DISCOLA, KAREN F. ; CUSSIOL, JOSÉ R. R. ; DOMINGOS, RENATO M. ; DE OLIVEIRA, MARCOS A. ; REZENDE, LEANDRO DE ; NETTO, LUIS E. S. ; AMARAL, ANTONIA T-DO . Structural insights on the efficient catalysis of hydroperoxide reduction by Ohr: Crystallographic and molecular dynamics approaches. PLoS One, v. 13, p. e0196918, 2018.
+
+2.
+ LIU, YI ; Cussiol, José Renato ; DIBITETTO, DIEGO ; SIMS, JENNIE RAE ; TWAYANA, SHYAM ; WEISS, ROBERT SAMUEL ; FREIRE, RAIMUNDO ; MARINI, FEDERICA ; PELLICIOLI, ACHILLE ; SMOLKA, MARCUS BUSTAMANTE . TOPBP1 plays a conserved role in homologous recombination DNA repair through the coordinated recruitment of 53BP1. JOURNAL OF CELL BIOLOGY, v. 216, p. 623-639, 2017.
+
+3.
+ Cussiol, José R.; DIBITETTO, DIEGO ; PELLICIOLI, ACHILLE ; SMOLKA, MARCUS B. . Slx4 scaffolding in homologous recombination and checkpoint control: lessons from yeast. CHROMOSOMA, v. 126, p. 45-58, 2016.
+
+4.
+ALEGRIA, THIAGO G. P. ; MEIRELES, DIOGO A. ; CUSSIOL, JOSÉ R. R. ; HUGO, MARTÍN ; TRUJILLO, MADIA ; de Oliveira, Marcos Antonio ; MIYAMOTO, SAYURI ; QUEIROZ, RAPHAEL F. ; VALADARES, NAPOLEÃO FONSECA ; GARRATT, RICHARD C. ; RADI, RAFAEL ; DI MASCIO, PAOLO ; AUGUSTO, OHARA ; NETTO, LUIS E. S. . Ohr plays a central role in bacterial responses against fatty acid hydroperoxides and peroxynitrite. Proceedings of the National Academy of Sciences of the United States of America (Online), v. 114, p. E132-E141, 2016.
+Citações:4|6
+
+5.
+ BASTOS DE OLIVEIRA, FRANCISCO MEIRELLES ; KIM, DONGSUNG ; CUSSIOL, JOSÉ RENATO ; DAS, JISHNU ; JEONG, MIN CHEOL ; DOERFLER, LILLIAN ; SCHMIDT, KRISTINA HILDEGARD ; YU, HAIYUAN ; SMOLKA, MARCUS BUSTAMANTE . Phosphoproteomics Reveals Distinct Modes of Mec1/ATR Signaling during DNA Replication. Molecular Cell, v. 57, p. 1124-1132, 2015.
+Citações:15|18
+
+6.
+LEMKE, LAURA SIMONI ; CHURA-CHAMBI, ROSA MARIA ; RODRIGUES, DANIELLA ; CUSSIOL, JOSE RENATO ROSA ; MALAVASI, NATALIA VALLEJO ; ALEGRIA, THIAGO GERONIMO PIRES ; Netto, Luis Eduardo Soares ; MORGANTI, LIGIA . Investigation on solubilization protocols in the refolding of the thioredoxin TsnC from Xylella fastidiosa by high hydrostatic pressure approach. Protein Expression and Purification (Print), v. 106, p. 72-77, 2015.
+Citações:1|1
+
+7.
+APPOLINÁRIO, PATRICIA POSTILIONE ; MEDINAS, DANILO BILCHES ; CHAVES-FILHO, ADRIANO B. ; GENARO-MATTOS, THIAGO C. ; Cussiol, José Renato Rosa ; Netto, Luis Eduardo Soares ; AUGUSTO, OHARA ; MIYAMOTO, SAYURI . Oligomerization of Cu,Zn-Superoxide Dismutase (SOD1) by Docosahexaenoic Acid and Its Hydroperoxides In Vitro: Aggregation Dependence on Fatty Acid Unsaturation and Thiols. Plos One, v. 10, p. e0125146, 2015.
+Citações:1|1
+
+8.
+ Cussiol, J. R.; JABLONOWSKI, C. M. ; YIMIT, A. ; BROWN, G. W. ; SMOLKA, M. B. . Dampening DNA damage checkpoint signalling via coordinated BRCT domain interactions. The EMBO Journal, v. 34, p. 1704-1717, 2015.
+Citações:12|8
+
+9.
+BALINT, A. ; KIM, T. ; GALLO, D. ; Cussiol, J. R. ; BASTOS DE OLIVEIRA, F. M. ; YIMIT, A. ; OU, J. ; NAKATO, R. ; GUREVICH, A. ; SHIRAHIGE, K. ; SMOLKA, M. B. ; ZHANG, Z. ; BROWN, G. W. . Assembly of Slx4 signaling complexes behind DNA replication forks. The EMBO Journal, v. 34, p. 2182-2197, 2015.
+Citações:8|15
+
+10.
+ JABLONOWSKI, C. M. ; Cussiol, J. R. ; OBERLY, S. ; YIMIT, A. ; BALINT, A. ; KIM, T. ; ZHANG, Z. ; BROWN, G. W. ; SMOLKA, M. B. . Termination of Replication Stress Signaling via Concerted Action of the Slx4 Scaffold and the PP4 Phosphatase. Genetics (Austin, Tex.), v. 201, p. 937-949, 2015.
+Citações:4|5
+
+11.
+HORTA, B. B. ; Oliveira, M. A. d. ; DISCOLA, K. F. ; CUSSIOL, J. R. R. ; Netto, L. E. S. . Structural and biochemical characterization of peroxiredoxin Q beta from Xylella fastidiosa: catalytic mechanism and high reactivity. The Journal of Biological Chemistry (Print), v. 285, p. 16051-16065, 2010.
+Citações:18|27
+
+12.
+CUSSIOL, J. R. R.; ALEGRIA, T. G. P. ; SZWEDA, L. I. ; Netto, L. E. S. . Ohr (organic hydroperoxide resistance protein) possesses a previously undescribed activity: Lipoyl-dependent peroxidase. The Journal of Biological Chemistry (Print), v. 285, p. 21943-21950, 2010.
+Citações:26|34
+
+13.
+Discola, Karen Fulan ; de Oliveira, Marcos Antonio ; CUSSIOL, J. R. R. ; Monteiro, Gisele ; Bárcena, José Antonio ; Porras, Pablo ; Padilla, C. Alicia ; Guimarães, Beatriz Gomes ; Netto, Luis Eduardo Soares . Structural Aspects of the Distinct Biochemical Properties of Glutaredoxin 1 and Glutaredoxin 2 from Saccharomyces cerevisiae. Journal of Molecular Biology, v. 385, p. 889-901, 2009.
+Citações:48|52
+
+14.
+Netto, Luis Eduardo Soares ; de Oliveira, Marcos Antonio ; Monteiro, Gisele ; Demasi, Ana Paula Dias ; Cussiol, José Renato Rosa ; Discola, Karen Fulan ; Demasi, Marilene ; Silva, Gustavo Monteiro ; Alves, Simone Vidigal ; Faria, Victor Genu . Reactive cysteine in proteins: Protein folding, antioxidant defense, redox signaling and more?. Comparative Biochemistry and Physiology. C, Toxicology & Pharmacology, v. 146, p. 180-193, 2007.
+Citações:61|62
+
+15.
+OLIVEIRA, M. A. ; GUIMARAES, B. G. ; CUSSIOL, J. R. R. ; MEDRANO, F. J. ; GOZZO, F. C. ; Netto, L.E.S. . Structural insights into enzyme-substrate interaction and characterization of enzymatic intermediates of organic hydroperoxide resistance protein from Xylella fastidiosa.. Journal of Molecular Biology, v. 359, p. 433-445, 2006.
+Citações:17|17
+
+16.
+de Oliveira, Marcos Antonio ; Netto, Luis EduardoSoares ; Medrano, Francisco Javier ; Barbosa, João AlexandreRibeiroGonçalves ; Alves, Simone Vidigal ; Cussiol, José RenatoRosa ; Guimarães, Beatriz Gomes . Crystallization and preliminary X-ray diffraction analysis of an oxidized state of Ohr from Xylella fastidiosa. Acta Crystallographica. Section D, Biological Crystallography, v. 60, p. 337-339, 2004.
+Citações:3|4
+
+17.
+CUSSIOL, J. R. R.; Alves, S.V. ; OLIVEIRA, M. A. ; Netto, L.E.S. . Organic Hydroperoxide Resistance Gene Encodes a Thiol-dependent Peroxidase. The Journal of Biological Chemistry (Print), v. 278, p. 11570-11578, 2003.
+Citações:54|52

@@ -1,0 +1,107 @@
+1.
+REYES, ALEJANDRO ; P. ALVES, JOÃO MARCELO ; Durham, Alan Mitchell ; Gruber, Arthur . Use of profile hidden Markov models in viral discovery: current insights. Advances in Genomics and Genetics, v. Volume 7, p. 29-45, 2017.
+
+2.
+ALVES, JOÃO M. P. ; DE OLIVEIRA, ANDRÉ L. ; SANDBERG, TATIANA O. M. ; MORENO-GALLEGO, JAIME L. ; DE TOLEDO, MARCELO A. F. ; DE MOURA, ELISABETH M. M. ; OLIVEIRA, LILIANE S. ; Durham, Alan M. ; MEHNERT, DOLORES U. ; ZANOTTO, PAOLO M. DE A. ; REYES, ALEJANDRO ; Gruber, Arthur . GenSeed-HMM: A Tool for Progressive Assembly Using Profile HMMs as Seeds and its Application in Alpavirinae Viral Discovery from Metagenomic Data. Frontiers in Microbiology (Online), v. 7, p. 00269, 2016.
+Citações:2|2
+
+3.
+SEVERINO, PATRICIA ; OLIVEIRA, LILIANE SANTANA ; ANDREGHETTO, FLÁVIA MAZIERO ; TORRES, NATALIA ; CURIONI, OTÁVIO ; CURY, PATRICIA MALUF ; TOPORCOV, TATIANA NATASHA ; Paschoal, Alexandre Rossi ; Durham, Alan Mitchell . Small RNAs in metastatic and non-metastatic oral squamous cell carcinoma. BMC Medical Genomics, v. 8, p. 1-15, 2015.
+Citações:3|8
+
+4.
+SEVERINO, PATRICIA ; OLIVEIRA, LILIANE SANTANA ; ANDREGHETTO, FLAVIA MAZIERO ; TORRES, NATALIA ; CURIONI, OTAVIO ; CURY, P. M. ; TOPORCOV, TATIANA NATASHA ; PASCHOAL, ALEXANDRE ROSSI ; DURHAM, A. M. . Abstract 3983: MicroRNAs and other small RNA molecules expressed in metastatic and non-metastatic oral squamous cell carcinoma. CANCER RESEARCH, v. 75, p. 3983-3983, 2015.
+
+5.
+RANGEL, L. T. ; Novaes, J. ; DURHAM, A. M. ; MADEIRA, A. M. B. N. ; GRUBER, A. . The Eimeria Transcript DB: an integrated resource for annotated transcripts of protozoan parasites of the genus Eimeria. DATABASE-OXFORD, v. 2013, p. bat006-bat006, 2013.
+Citações:3|2
+
+6.
+SEVERINO, PATRICIA ; OLIVEIRA, LILIANE ; TORRES, NATALIA ; ANDREGHETTO, FLAVIA ; DE FATIMA GUARIZO KLINGBEIL, MARIA ; MOYSES, RAQUEL ; WÜNSCH-FILHO, VICTOR ; NUNES, FABIO ; MATHOR, MONICA ; PASCHOAL, ALEXANDRE ; DURHAM, ALAN . High-throughput sequencing of small RNA transcriptomes reveals critical biological features targeted by microRNAs in cell models used for squamous cell cancer research. BMC Genomics, v. 14, p. 735, 2013.
+Citações:7|8
+
+7.
+KASHIWABARA, ANDRÉ YOSHIAKI ; BONADIO, ÍGOR ; ONUCHIC, VITOR ; AMADO, FELIPE ; MATHIAS, RAFAEL ; Durham, Alan Mitchell . ToPS: A Framework to Manipulate Probabilistic Models of Sequence Data. PLOS Computational Biology (Online), v. 9, p. e1003234, 2013.
+
+8.
+ Paschoal, Alexandre Rossi ; Maracaja-Coutinho, Vinicius ; Setubal, João Carlos ; Simões, Zilá Luz Paulino ; Verjovski-Almeida, Sergio ; Durham, Alan Mitchell . Non-coding transcription characterization and annotation: A guide and web resource for non-coding RNA databases. RNA BIOL, v. 9, p. 274-282, 2012.
+Citações:7|9
+
+9.
+Novaes, Jeniffer ; RANGEL, L. T. L. D. ; FERRO, M. ; Abe, Ricardo Y. ; Manha, Alessandra P.S. ; de Mello, Joana C.M. ; Varuzza, Leonardo ; DURHAM, A. M. ; Madeira, Alda Maria B.N. ; Gruber, Arthur . A comparative transcriptome analysis reveals expression profiles conserved across three Eimeria spp. of domestic fowl and associated with multiple developmental stages. International Journal for Parasitology, v. 42, p. 39-48, 2012.
+Citações:14|14
+
+10.
+ MACHADO-LIMA, A. ; KASHIWABARA, A. Y. ; DURHAM, A. M. . Decreasing the number of false positives in sequence classification. BMC Genomics, v. 11, p. S7, 2010.
+Citações:1|3
+
+11.
+DURHAM, A. M.; ARAUJO, F.M. ; MACHADO-LIMA, A. ; TEIXEIRA, R. ; OLIVEIRA, G. . Sequence and structural analysis of the 5- noncoding region of hepatitis C virus in patients with chronic infection. Journal of Medical Virology, v. 81, p. 1212-1219, 2009.
+Citações:2|2
+
+12.
+DURHAM, A. M.; LIMA, K. ; VIANA-NIERO, C. ; da Silva RABELLO, M. C. ; L.R.MARSOLA, ; LEAO, S. C. . Molecular Characterization of Mycobacterium massiliense and Mycobacterium bolletii in Isolates Collected from Outbreaks of Infections after Laparoscopic Surgeries and Cosmetic Procedures. Journal of Clinical Microbiology (Print), v. 46, p. 850-855, 2008.
+Citações:97|99
+
+13.
+DURHAM, A. M.; Chimara, E. ; FERRAZOLI, L. ; UEKY, S. Y. M. ; MARTINS, M. C. ; ARBEIT, R. D. ; LEAO, S. C. . Reliable identification of mycobacterial species by PCR-restriction enzyme analysis (PRA)-hsp65 in a reference laboratory and elaboration of a sequence-based extended algorithm of PRA-hsp65 patterns. BMC Microbiology (Online), v. 8, p. 48, 2008.
+Citações:42|70
+
+14.
+KASHIWABARA, A. Y. ; VIEIRA, D. ; LIMA, A. M. ; DURHAM, A. M. . Splice site prediction using stochastic regular grammars. Genetics and Molecular Research, v. 6, p. 105-115, 2007.
+Citações:9|10
+
+15.
+DURHAM, A. M.; Ling KH ; MA, R. ; RIVAILLER, P. ; IVENS, A. ; MADEIRA, A. M. ; Mungall K. ; Novaes, J. ; Sobreira, T.J. ; GRUBER, A. ; BERRIMAN, M. ; Tomley, F. ; DEAR, P. H. ; WAN, K. L. . Sequencing and analysis of chromosome 1 of Eimeria tenella reveals a unique segmental organization. Genome Research, v. 17, p. 311-319, 2007.
+Citações:31|31
+
+16.
+ DURHAM, A. M.; MACHADO-LIMA, A. ; Hernando A. del Portillo . Computational methods in noncoding RNA research. Journal of Mathematical Biology (Print), v. 56, p. 15-49, 2007.
+Citações:30|33
+
+17.
+DURHAM, A. M.; Sobreira, T.J. ; GRUBER, A. . TRAP: automated classification, quantification and annotation of tandemly repeated sequences. Bioinformatics (Oxford. Print), Oxford, Inglaterra, v. 22, n.3, p. 361-362, 2006.
+Citações:23|22
+
+18.
+DURHAM, A. M.; HOFFMANN, E. H. ; MALAFRONTE, R. S. ; MORAES-AVILA, S. L. ; OSAKABE, A. L. ; WUNDERLICH, G. ; RIBOLLA, P. E. ; Hernando A. del Portillo ; URBANO, M. . Origins of sequence diversity in the malaria vaccine candidate merozoite surface protein-2 (MSP-2) in Amazonian isolates of Plasmodium falciparum. Gene (Amsterdam), v. 376, p. 224-230, 2006.
+Citações:11|12
+
+19.
+DURHAM, A. M.; Emilio F. Merino ; FERNANDEZ-BECERRA, C. ; FERREIRA, J. E. ; TUMILASCI, V. F. ; DARC-NEVES, J. ; SILVA-NUNES, M. ; URBANO, M. ; WICKRAMARACHI, T. ; Hernando A. del Portillo . Multi-character population study of the vir subtelomeric multigene superfamily of Plasmodium vivax, a major human malaria parasite. Molecular and Biochemical Parasitology (Print), v. 149, p. 10-16, 2006.
+Citações:22|24
+
+20.
+DURHAM, A. M.; ALBRECHT, L. ; Emilio F. Merino ; HOFFMANN, E. H. ; URBANO, M. ; de Mattos Ferreira, R.G. ; OSAKABE, A. L. ; Dalla Martha, R.C. ; Ramharter, M. ; FERREIRA, J. E. ; Hernando A. del Portillo ; WUNDERLICH, G. . Extense variant gene family repertoire overlap in Western Amazon Plasmodium falciparum isolates. Molecular and Biochemical Parasitology (Print), v. 150, p. 157-165, 2006.
+Citações:24|27
+
+21.
+FEITOSA, FABIANA M. ; CALVO, ERIC ; MERINO, EMILIO F. ; Durham, Alan M. ; JAMES, ANTHONY A. ; DE BIANCHI, ANTONIO G. ; MARINOTTI, OSVALDO ; CAPURRO, MARGARETH L. . A transcriptome analysis of the Aedes aegypti vitellogenic fat body. Journal of Insect Science (Online), v. 6, p. 1-26, 2006.
+Citações:1
+
+22.
+ DURHAM, A. M.; KASHIWABARA, A. Y. ; MATSUNAGA, F. ; AHAGON, P. ; RAINONE, F. ; VARUZZA, L. ; GRUBER, A. . EGene: a configurable pipeline generation system for automated sequence analysis. Bioinformatics (Oxford. Print), Bioinformatics Advance Access, v. 21, p. 2812-2813, 2005.
+Citações:29|32
+
+23.
+DURHAM, A. M.; FUJITA, A. ; MASSIRER, K. B. ; FERREIRA, C. E. ; SOGAYAR, M. C. . The GATO gene annotation tool for research laboratories. Brazilian Journal of Medical and Biological Research (Impresso), v. 38, n.38, p. 1571-1574, 2005.
+Citações:1
+
+24.
+KOIDE, T. ; ZAINI, P. A. ; MOREIRA, L. M. ; VENCIO, R. Z. N. ; MATSUKUMA, A. Y. ; DURHAM, A. M. ; TEIXEIRA, D. C. ; EL-DORRY, H. ; MONTEIRO, P. B. ; DA SILVA, A. C. R. ; Verjovski-Almeida, S. ; da SILVA, A. M. ; GOMES, S. L. . DNA Microarray-Based Genome Comparison of a Pathogenic and a Nonpathogenic Strain of Xylella fastidiosa Delineates Genes Important for Bacterial Virulence. Journal of Bacteriology (Print), v. 186, p. 5442-5449, 2004.
+Citações:51|51
+
+25.
+FERNANDEZ, S. ; KATSUYAMA, A. M. ; KASHIWABARA, A. Y. ; MADEIRA, A. M. B. N. ; DURHAM, A. M. ; GRUBER, A. . Characterization of SCAR markers of Eimeria spp. of domestic fowl and construction of a public relational database (The Eimeria SCARdb).. FEMS Microbiology Letters, Estados Unidos, v. 238, n.1, p. 183-188, 2004.
+Citações:18|19
+
+26.
+DURHAM, A. M.; Emilio F. Merino ; FERNANDEZ-BECERRA, C. ; MADEIA, A. M. B. N. ; LIMA, A. M. ; GRUBER, A. ; Hernando A. del Portillo . Pilot survey of expressed sequence tags (ESTs) from the asexual blood stages of Plasmodium vivax in human patients. Malaria Journal (Online), Internet, v. 2, n.21, p. 21, 2003.
+Citações:7|3
+
+27.
+DURHAM, A. M.; JOHNSON, R. E. . A System to Implement Primitive Data Types. Journal of the Brazilian Computer Society (Impresso), v. 6, n.1, p. 5-12, 1999.
+
+28.
+DURHAM, A. M.; JOHNSON, R. E. . A Framework for Run-time Systems and its Visual Programming Languages. SIGPLAN Notices (Cessou em 1991. Cont. ISSN 1523-2867 ACM SIGPLAN Notices), New York, NY, v. 31, n.10, p. 406-420, 1996.
+Citações:3

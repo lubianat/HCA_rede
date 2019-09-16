@@ -1,0 +1,395 @@
+1.
+KOYAMA, F. C. ; LOPES RAMOS, C. M. ; LEDESMA, F. ; ALVES, V. A. F. ; FERNANDES, J. M. ; VAILATI, B. B. ; SÃO JULIÃO, G. P. ; HABR-GAMA, A. ; GAMA-RODRIGUES, J. ; PEREZ, R. O. ; Camargo, A. A. . Effect of Akt activation and experimental pharmacological inhibition on responses to neoadjuvant chemoradiotherapy in rectal cancer. BRITISH JOURNAL OF SURGERY, v. 105, p. e192-e203, 2018.
+Citações:1
+
+2.
+CAMARGO, ROSALINDA YASATO ; KANAMURA, CRISTINA TAKAMI ; FRIGUGLIETTI, CELSO UBIRAJARA ; NOGUEIRA, CÉLIA REGINA ; IORCANSKY, SONIA ; TINCANI, ALFIO JOSÉ ; BEZERRA, ANA KARINA ; BRUST, ESTER ; KOYAMA, FERNANDA CHRISTTANINI ; CAMARGO, ANAMARIA ARANHA ; REGO, FERNANDA ORPINELLI R. ; GALANTE, PEDRO ALEXANDRE FAVORETTO ; MEDEIROS-NETO, GERALDO ; RUBIO, ILEANA GABRIELA SANCHEZ . Histopathological Characterization and Whole Exome Sequencing of Ectopic Thyroid: Fetal Architecture in a Functional Ectopic Gland from Adult Patient. International Journal of Endocrinology, v. 2018, p. 1-10, 2018.
+
+3.
+GONGORA, ALINE BOBATO LARA ; CANEDO, FELIPE SALES NOGUEIRA AMORIM ; DE MELO, ANDRÉ LUIS ALVES ; BEZERRA, REGIS OTAVIANO FRANCA ; ASPRINO, PAULA FONTES ; CAMARGO, ANAMARIA ARANHA ; BASTOS, DIOGO ASSED . Tumor Lysis Syndrome After Platinum-based Chemotherapy in Castration-resistant Prostate Cancer With a BRCA2 Mutation: A Case Report. Clinical Genitourinary Cancer, v. 18, p. 30638-4, 2018.
+
+4.
+VANINA ELIAS, ELIANA ; PEREIRA DE CASTRO, NADIA ; HENRIQUE BALDAN PINEDA, PAULO ; SENS ABUÁZAR, CAROLINA ; APARECIDA BUENO DE TOLEDO OSORIO, CYNTHIA ; GIGLIOLA PINILLA, MABEL ; DANIELA DA SILVA, SABRINA ; ARANHA CAMARGO, ANAMARIA ; ARAUJO SILVA JR, WILSON ; NAPOLITANO E FERREIRA, ELISA ; PAULA BRENTANI, HELENA ; MARIA CARRARO, DIRCE . Epithelial cells captured from ductal carcinoma in situ reveal a gene expression signature associated with progression to invasive breast cancer. Oncotarget, v. 7, p. 75672, 2017.
+
+5.
+VIS, D. J. ; LEWIN, J. ; LIAO, R. G. ; MAO, M. ; ANDRE, F. ; WARD, R. L. ; CALVO, F. ; TEH, B. T. ; Camargo, A. A. ; KNOPPERS, B. M. ; SAWYERS, C. L. ; WESSELS, L. F. A. ; LAWLER, M. ; SIU, L. L. ; VOEST, E. . Towards a global cancer knowledge network: dissecting the current international cancer genomic sequencing landscape. ANNALS OF ONCOLOGY, v. 28, p. 1145-1151, 2017.
+
+6.
+CAMPESATO, LUIS FELIPE ; SILVA, ANA PAULA M. ; CORDEIRO, LUNA ; CORREA, BRUNA R. ; NAVARRO, FABIO C. P. ; ZANIN, RAFAEL F. ; MARÇOLA, MARINA ; INOUE, LILIAN T. ; DUARTE, MARIANA L. ; MOLGORA, MARTINA ; PASQUALINI, FABIO ; MASSARA, MATTEO ; GALANTE, PEDRO ; BARROSO-SOUSA, ROMUALDO ; POLENTARUTTI, NADIA ; RIVA, FEDERICA ; Costa, Erico T. ; MANTOVANI, ALBERTO ; GARLANDA, CECILIA ; Camargo, Anamaria A. . High IL-1R8 expression in breast tumors promotes tumor growth and contributes to impaired antitumor immunity. Oncotarget, v. 8, p. 49470, 2017.
+Citações:1
+
+7.
+KNEBEL, FRANCIELE H. ; BETTONI, Fabiana ; SHIMADA, ANDREA K. ; CRUZ, MANOEL ; ALESSI, JOÃO VICTOR ; NEGRÃO, MARCELO V. ; REIS, LUIZ FERNANDO L. ; KATZ, ARTUR ; Camargo, Anamaria A. . Sequential liquid biopsies reveal dynamic alterations of EGFR driver mutations and indicate EGFR amplification as a new mechanism of resistance to osimertinib in NSCLC. LUNG CANCER, v. 108, p. 238-241, 2017.
+Citações:6|1
+
+8.
+PEZUK, JULIA ALEJANDRA ; ARAUJO MILLER, THIAGO LUIZ ; BEVILACQUA, JOSÉ LUIZ BARBOSA ; DORNELLAS DE BARRO, ALFREDO CARLOS SIMÕES ; MARTINS DE ANDRADE, FELIPE EDUARDO ; ANDRADE E MACEDO, LUIZA FREIRE DE ; AGUILAR, VERA ; MENARDO CLARO, AMANDA NATASHA ; CAMARGO, ANAMARIA ARANHA ; FAVORETTO GALANTE, PEDRO ALEXANDRE ; REIS, LUIZ F. L. . Measuring plasma levels of three microRNAs can improve the accuracy for identification of malignant breast lesions in women with BI-RADS 4 mammography. Oncotarget, v. 8, p. 83940, 2017.
+
+9.
+ASPRINO, PAULA FONTES ; LINCK, RUDINEI DIOGO MARQUES ; CESAR, JONATAS ; FREITAS, FLORÊNCIO PORTO ; KOYAMA, FERNANDA CHRISTTANINI ; RIECHELMANN, RACHEL SIMÕES PIMENTA ; COSTA, FREDERICO PEREGO ; HOFF, PAULO ; GALANTE, PEDRO ALEXANDRE FAVORETTO ; MEYER, DIOGO ; CAMARGO, ANAMARIA ARANHA ; SABBAGA, JORGE . TSC2 rare germline variants in non-tuberous sclerosis patients with neuroendocrine neoplasias. ENDOCRINE-RELATED CANCER, v. 25, p. ERC-17-0286, 2017.
+
+10.
+BETTONI, Fabiana ; KOYAMA, FERNANDA CHRISTTANINI ; DE AVELAR CARPINETTI, PAOLA ; GALANTE, PEDRO ALEXANDRE FAVORETTO ; CAMARGO, ANAMARIA ARANHA ; ASPRINO, PAULA FONTES . A straightforward assay to evaluate DNA integrity and optimize next-generation sequencing for clinical diagnosis in oncology. EXPERIMENTAL AND MOLECULAR PATHOLOGY, v. 103, p. 294-299, 2017.
+
+11.
+SIU, LILLIAN L ; LAWLER, MARK ; HAUSSLER, DAVID ; KNOPPERS, BARTHA MARIA ; LEWIN, JEREMY ; VIS, DANIEL J ; LIAO, RACHEL G ; ANDRE, FABRICE ; BANKS, IAN ; BARRETT, J CARL ; CALDAS, CARLOS ; CAMARGO, ANAMARIA ARANHA ; FITZGERALD, REBECCA C ; MAO, MAO ; MATTISON, JOHN E ; PAO, WILLIAM ; SELLERS, WILLIAM R ; SULLIVAN, PATRICK ; TEH, BIN TEAN ; WARD, ROBYN L ; ZENKLUSEN, JEAN CLAUDE ; SAWYERS, CHARLES L ; VOEST, EMILE E . Facilitating a culture of responsible and effective sharing of cancer genome data. Nature Medicine (Online), v. 22, p. 464-471, 2016.
+Citações:6|15
+
+12.
+MARÇOLA, MARINA ; LOPES-RAMOS, CAMILA M. ; PEREIRA, ELIANA P. ; CECON, ERIKA ; FERNANDES, PEDRO A. ; TAMURA, EDUARDO K. ; Camargo, Anamaria A. ; PARMIGIANI, RAPHAEL B. ; MARKUS, REGINA P. . Light/Dark Environmental Cycle Imposes a Daily Profile in the Expression of microRNAs in Rat CD133 + Cells. Journal of Cellular Physiology (Print), v. 231, p. 1953-1963, 2016.
+Citações:1|2
+
+13.
+PEREZ, RODRIGO O. ; HABR-GAMA, ANGELITA ; SÃO JULIÃO, GUILHERME P. ; VAILATI, BRUNA B. ; FERNANDEZ, LAURA M. ; GAMA-RODRIGUES, JOAQUIM ; Camargo, Anamaria A. . Should We Give Up The Search for a Clinically Useful Gene Signature for the Prediction of Response of Rectal Cancer to Neoadjuvant Chemoradiation?. Diseases of the Colon & Rectum, v. 59, p. 895-897, 2016.
+Citações:4|5
+
+14.
+BETTONI, Fabiana ; Masotti, Cibele ; HABR-GAMA, ANGELITA ; CORREA, BRUNA R. ; GAMA-RODRIGUES, JOAQUIM ; VIANNA, MARIA R. ; VAILATI, BRUNA B. ; SÃO JULIÃO, GUILHERME P. ; FERNANDEZ, LAURA M. ; GALANTE, PEDRO A. ; Camargo, Anamaria A. ; PEREZ, RODRIGO O. . Intratumoral Genetic Heterogeneity in Rectal Cancer. ANNALS OF SURGERY, v. 265, p. e4-e6, 2016.
+
+15.
+MUNFORD, V. ; CASTRO, L.P. ; SOUTO, R. ; LERNER, L.K. ; VILAR, J. BRANDSTETTER ; QUAYLE, C. ; ASIF, H. ; SCHUCH, A.P. ; DE SOUZA, T.A. ; IENNE, S. ; ALVES, F.I.A. ; MOURA, L.M.S. ; GALANTE, P.A.V. ; CAMARGO, A.A. ; LIBOREDO, R. ; PENA, S.D.J. ; SARASIN, A. ; CHAIBUB, S.C. ; MENCK, C.F.M. . A genetic cluster of xeroderma pigmentosum variant patients with two different founder mutations. BRITISH JOURNAL OF DERMATOLOGY, v. 176, p. 1270-1278, 2016.
+Citações:3|2
+
+16.
+THOMAS, ANDREW M. ; JESUS, ELIANE C. ; LOPES, ADEMAR ; AGUIAR, SAMUEL ; BEGNAMI, MARIA D. ; ROCHA, RAFAEL M. ; CARPINETTI, PAOLA AVELAR ; Camargo, Anamaria A. ; HOFFMANN, CHRISTIAN ; FREITAS, HELANO C. ; SILVA, ISRAEL T. ; NUNES, DIANA N. ; SETUBAL, JOÃO C. ; DIAS-NETO, EMMANUEL . Tissue-Associated Bacterial Alterations in Rectal Carcinoma Patients Revealed by 16S rRNA Community Profiling. Frontiers in Cellular and Infection Microbiology, v. 6, p. 179, 2016.
+
+17.
+DONNARD, ELISA R. ; CARPINETTI, PAOLA A. ; NAVARRO, FÁBIO C.P. ; PEREZ, RODRIGO O. ; HABR-GAMA, ANGELITA ; PARMIGIANI, RAPHAEL B. ; Camargo, Anamaria A. ; GALANTE, PEDRO A.F. . ICRmax: An optimized approach to detect tumor-specific interchromosomal rearrangements for clinical application. Genomics (San Diego, Calif.), v. 105, p. 265-272, 2015.
+Citações:2|2
+
+18.
+HINSKE, LUDWIG CHRISTIAN ; GALANTE, PEDRO A. F. ; LIMBECK, ELISABETH ; MÖHNLE, PATRICK ; PARMIGIANI, RAPHAEL B. ; OHNO-MACHADO, LUCILA ; Camargo, Anamaria A. ; KRETH, SIMONE . Alternative Polyadenylation Allows Differential Negative Feedback of Human miRNA miR-579 on Its Host Gene ZFR. Plos One, v. 10, p. e0121507, 2015.
+Citações:2|2
+
+19.
+LOPES-RAMOS, CAMILA ; KOYAMA, FERNANDA C. ; HABR-GAMA, ANGELITA ; SALIM, ANNA CHRISTINA M. ; BETTONI, Fabiana ; ASPRINO, PAULA F. ; FRANÇA, GUSTAVO S. ; GAMA-RODRIGUES, JOAQUIM ; PARMIGIANI, RAPHAEL B. ; PEREZ, RODRIGO O. ; GALANTE, PEDRO A.F. ; Camargo, Anamaria A. . Comprehensive evaluation of the effectiveness of gene expression signatures to predict complete response to neoadjuvant chemoradiotherapy and guide surgical intervention in rectal cancer. Cancer Genetics, v. 208, p. 319-326, 2015.
+Citações:6|4
+
+20.
+BANCOVIK, JASNA ; MOREIRA, DAYSON F ; CARRASCO, DANIEL ; YAO, JUN ; PORTER, DALE ; Moura, Ricardo ; CAMARGO, ANAMARIA ; FONTES-OLIVEIRA, CIBELY C ; MALPARTIDA, MIGUEL G ; CARAMBULA, SILVIA ; VANNIER, EDOUARD ; STRAUSS, BRYAN E ; WAKAMATSU, ALDA ; ALVES, VENANCIO AF ; LOGULLO, ANGELA F ; SOARES, Fernando A ; POLYAK, KORNELIA ; BELIZÁRIO, JOSÉ E . Dermcidin exerts its oncogenic effects in breast cancer via modulation of erbb signaling. BMC Cancer (Online), v. 15, p. 1022-1026, 2015.
+Citações:2|5
+
+21.
+CAMPESATO, LUÍS FELIPE ; BARROSO-SOUSA, ROMUALDO ; JIMENEZ, LEANDRO ; CORREA, BRUNA R. ; SABBAGA, JORGE ; HOFF, PAULO M. ; REIS, LUIZ F. L. ; GALANTE, PEDRO ALEXANDRE F. ; Camargo, Anamaria A. . Comprehensive cancer-gene panels can be used to estimate mutational load and predict clinical benefit to PD-1 blockade in clinical practice. OncoTarget, v. 6, p. 34221-34227, 2015.
+Citações:13|15
+
+22.
+PEREIRA, ISABELA T. ; Ramos, Edneia A. S. ; Costa, Erico T. ; Camargo, Anamaria A. ; MANICA, GRACIELE C. M. ; KLASSEN, LILIANE M. B. ; CHEQUIN, ANDRESSA ; Braun-Prado, Karin ; DE O. PEDROSA, FÁBIO ; SOUZA, EMANUEL M. ; COSTA, FABRICIO F. ; Klassen, Giseli . Fibronectin Affects Transient MMP2 Gene Expression through DNA Demethylation Changes in Non-Invasive Breast Cancer Cell Lines. Plos One, v. 9, p. e105806, 2014.
+Citações:3|7
+
+23.
+LOPES-RAMOS, CAMILA ; HABR-GAMA, ANGELITA ; QUEVEDO, BRUNA ; FELÍCIO, NATÁLIA ; BETTONI, Fabiana ; KOYAMA, FERNANDA ; ASPRINO, PAULA ; GALANTE, PEDRO ; GAMA-RODRIGUES, JOAQUIM ; CAMARGO, ANAMARIA ; PEREZ, RODRIGO ; PARMIGIANI, RAPHAEL . Overexpression of miR-21-5p as a predictive marker for complete tumor regression to neoadjuvant chemoradiotherapy in rectal cancer patients. BMC Medical Genomics, v. 7, p. 68, 2014.
+Citações:19|3
+
+24.
+DONNARD, ELISA ; ASPRINO, PAULA F. ; CORREA, BRUNA R. ; BETTONI, Fabiana ; KOYAMA, FERNANDA ; NAVARRO, FABIO C. ; PEREZ, RODRIGO O. ; MARIADASON, JOHN ; SIEBER, OLIVER M. ; STRAUSSBERG, ROBERT L. ; SIMPSON, ANDREW J.G. ; JARDIM, DENIS L.F. ; REIS, LUIZ FERNANDO L. ; PARMIGIANI, RAPHAEL B. ; GALANTE, PEDRO A.F. ; Camargo, Anamaria A. . Mutational analysis of genes coding for cell surface proteins in colorectal cancer cell lines reveal novel altered pathways, druggable mutations and mutated epitopes for targeted therapy.. OncoTarget, v. 5, p. 9199-9213, 2014.
+Citações:10|11
+
+25.
+COSTA, E T ; BARNABÉ, G F ; LI, M ; DIAS, A A M ; MACHADO, T R ; ASPRINO, P F ; CAVALHER, F P ; FERREIRA, E N ; DEL MAR INDA, M ; NAGAI, M H ; MALNIC, B ; DUARTE, M L ; LEITE, K R M ; DE BARROS, A C S D ; CARRARO, D M ; CHAMMAS, R ; ARMELIN, H A ; CAVENEE, W ; FURNARI, F ; CAMARGO, A A . Intratumoral heterogeneity of ADAM23 promotes tumor growth and metastasis through LGI4 and nitric oxide signals. Oncogene (Basingstoke), v. 34, p. 1270-1279, 2014.
+Citações:2|3
+
+26.
+MACHADO, CAMILA MARIA LONGO ; ANDRADE, LUCIANA NOGUEIRA SOUSA ; TEIXEIRA, VERÔNICA RODRIGUES ; COSTA, FABRÍCIO FALCONI ; MELO, CAMILA MORAIS ; DOS SANTOS, SOFIA NASCIMENTO ; NONOGAKI, SUELY ; LIU, FU-TONG ; BERNARDES, EMERSON SOARES ; CAMARGO, ANAMARIA ARANHA ; CHAMMAS, ROGER . Galectin-3 disruption impaired tumoral angiogenesis by reducing VEGF secretion from TGF ? 1-induced macrophages. Cancer Medicine, v. n/a, p. n/a-n/a, 2014.
+Citações:11|14
+
+27.
+SCHRIDER, DANIEL R. ; NAVARRO, FABIO C. P. ; GALANTE, PEDRO A. F. ; PARMIGIANI, RAPHAEL B. ; Camargo, Anamaria A. ; HAHN, MATTHEW W. ; DE SOUZA, SANDRO J. . Gene Copy-Number Polymorphism Caused by Retrotransposition in Humans. PLOS Genetics (Online), v. 9, p. e1003242, 2013.
+Citações:25|35
+
+28.
+FIGUEIRA, TIAGO R. ; BARROS, MARIO H. ; Camargo, Anamaria A. ; CASTILHO, ROGER F. ; FERREIRA, JULIO C.B. ; KOWALTOWSKI, ALICIA J. ; SLUSE, FRANCIS E. ; SOUZA-PINTO, NADJA C. ; VERCESI, ANIBAL E. . Mitochondria as a Source of Reactive Oxygen and Nitrogen Species: From Molecular Mechanisms to Human Health. Antioxidants & Redox Signalling, v. 18, p. 2029-2074, 2013.
+Citações:107|145
+
+29.
+DA CUNHA, JÚLIA PINHEIRO CHAGAS ; GALANTE, PEDRO ALEXANDRE FAVORETTO ; DE SOUZA, JORGE ESTEFANO SANTANA ; PIEPRZYK, MARTIN ; CARRARO, DIRCE MARIA ; OLD, LLOYD J. ; CAMARGO, ANAMARIA ARANHA ; DE SOUZA, SANDRO JOSÉ . The Human Cell Surfaceome of Breast Tumors. BioMed Research International, v. 2013, p. 1-11, 2013.
+Citações:2|1
+
+30.
+Real, Juliana Monte ; Spilborghs, Graziela Machado Gruner Turco ; Morato-Marques, Mariana ; de Moura, Ricardo Pereira ; Negri, Elnara Marcia ; Camargo, Anamaria Aranha ; Deheinzelin, Daniel ; Dias, Adriana Abalen Martins ; Camargo, Anamaria A . Pentraxin 3 accelerates lung injury in high tidal volume ventilation in mice. Molecular Immunology, v. 51, p. 82-90, 2012.
+Citações:6|7
+
+31.
+Hon, G. C. Hon, G. C. Hawkins, R. D. CABALLERO, O. L. Lo, C. Lister, R. Pelizzola, M. Valsesia, A. YE, Z. KUAN, S. Edsall, L. E. Camargo, A. A. STEVENSON, B. J. Ecker, J. R. Bafna, V. Strausberg, R. L. Simpson, A. J. REN, B. STEVENSON, B. J. Edsall, L. E. Valsesia, A. Lister, R. Camargo, A. A. Hawkins, R. D. Simpson, A. J. , et al. ; Global DNA hypomethylation coupled to repressive chromatin domain formation and gene silencing in breast cancer. Genome Research, v. 22, p. 246-258, 2012.
+Citações:190|187
+
+32.
+CONTI A, ; TRZMIELINA J, K. ; HORST, M. A. ; K, B. B. ; CHAGAS, C. E. ; PURGATTO, E. ; Cavalher, Felicia P. ; Camargo, A. A. ; Jordão, Alceu A. ; Vannucchi, HÃ©lio ; Scolastici, Clarissa ; Ong, Thomas P. ; MORENO, F. S. . Chemopreventive effects of the dietary histone deacetylase inhibitor tributyrin alone or in combination with vitamin A during the promotion phase of rat hepatocarcinogenesis. Journal of Nutritional Biochemistry, v. 23, p. 860-866, 2012.
+Citações:7|10
+
+33.
+VIDAL, Daniel Onofre ; Souza, Jorge Estefano Santana de ; PIRES, L C ; Masotti, C. ; SALIM, A. C. M. ; COSTA, M. C. F. ; GALANTE, P A ; SOUZA, Sandro J de ; CAMARGO, A. A. . Analysis of allelic differential expression in the human genome using allele-specific serial analysis of gene expression tags. Genome (Ottawa. Print), v. 54, p. 120-127, 2011.
+Citações:3|3
+
+34.
+Galante, P. A. F. PARMIGIANI, R. B. ZHAO, Q. CABALLERO, O. L. de Souza, J. E. Navarro, F. C. P. Gerber, A. L. Nicolas, M. F. SALIM, A. C. M. SILVA, A. P. M. Edsall, L. Devalle, S. Almeida, L. G. YE, Z. KUAN, S. PINHEIRO, D. G. Tojal, I. Pedigoni, R. G. de Sousa, R. G. M. A. Oliveira, T. Y. K. de Paula, M. G. Ohno-Machado, L. KIRKNESS, E. F. LEVY, S. da Silva, W. A. , et al. ; Distinct patterns of somatic alterations in a lymphoblastoid and a tumor genome derived from the same individual. Nucleic Acids Research, v. 39, p. 6056-6068, 2011.
+Citações:9|10
+
+35.
+UNO, M ; Oba-Shinja, S. M. ; CAMARGO, A. A. ; MOURA, R. P. ; PH, A. ; ROSEMBERG, S. ; MJ, T. . Correlation of MGMT promoter methylationstatus with gene and protein expression levels in glioblastoma. Clinics (USP. Impresso), v. 66, p. 1747-1755, 2011.
+Citações:24|4|21
+
+36.
+Carvalho, Fabricio de ; Costa, Erico T. ; Camargo, Anamaria A. ; Gregorio, Juliana C. ; Masotti, Cibele ; Andrade, Valeria C.C. ; Strauss, Bryan E. ; Caballero, Otavia L. ; Atanackovic, Djordje ; Colleoni, Gisele W.B. . Targeting MAGE-C1/CT7 Expression Increases Cell Sensitivity to the Proteasome Inhibitor Bortezomib in Multiple Myeloma Cell Lines. Plos One, v. 6, p. e27707, 2011.
+Citações:12|10
+
+37.
+Ramos, Edneia A. S. ; Grochoski, Mariana ; Braun-Prado, Karin ; Seniski, Gerusa G. ; Cavalli, Iglenir J. ; Ribeiro, Enilze M. S. F. ; Camargo, Anamaria A. ; Costa, FabrÃ­ ; Klassen, Giseli . Epigenetic Changes of CXCR4 and Its Ligand CXCL12 as Prognostic Factors for Sporadic Breast Cancer. Plos One, v. 6, p. e29461, 2011.
+Citações:23|28
+
+38.
+Ramos, Edneia A S ; Camargo, Anamaria A ; Braun, Karin ; Slowik, Renata ; Cavalli, Iglenir J ; Ribeiro, Enilze M S F ; Pedrosa, Fabio O ; Souza, Emanuel M ; COSTA, Fabricio F ; Klassen, Giseli . Simultaneous CXCL12 and ESR1 CpG island hypermethylation correlates with poor prognosis in sporadic breast cancer. BMC Cancer (Online), v. 10, p. 23, 2010.
+Citações:24|31
+
+39.
+Moreira de Mello, Joana Carvalho ; Araújo, Érica Sara Souza de ; Stabellini, Raquel ; Fraga, Ana Maria ; Souza, Jorge Estefano Santana de ; Sumita, Denilce R. ; Camargo, Anamaria A. ; Pereira, Lygia V. . Random X Inactivation and Extensive Mosaicism in Human Placenta Revealed by Analysis of Allele-Specific Gene Expression along the X Chromosome. Plos One, v. 5, p. e10947, 2010.
+Citações:55|46
+
+40.
+ZHAO, Q. ; KIRKNESS, E. F. ; CABALLERO, O. L. ; Galante, P. A. F. ; PARMIGIANI, R. B. ; EDSHALL, L. ; KUAN, S. ; YE, Z. ; LEVY, S. ; VASCONCELOS, A. T. ; REN, B. ; de SOUZA, S. J. ; CAMARGO, A. A. ; SIMPSON, A. J. G. ; STRAUSBERG, R L . Systematic detection of putative tumor suppressor genes through the combined use of exome and transcriptome sequencing. Genome Biology (Cessou em 2005), v. 11, p. R114, 2010.
+Citações:17|23
+
+41.
+Seniski, Gerusa G ; Camargo, Anamaria A ; Ierardi, Daniela F ; Ramos, Edneia A S ; Grochoski, Mariana ; Ribeiro, Enilze M S F ; Cavalli, Iglenir J ; Pedrosa, Fabio O ; Souza, Emanuel M ; Zanata, Silvio M ; COSTA, Fabricio F ; Klassen, Giseli . ADAM33 gene silencing by promoter hypermethylation as a molecular marker in breast invasive lobular carcinoma. BMC Cancer (Online), v. 9, p. 80, 2009.
+Citações:6|10
+
+42.
+VERBISCK, N. V. ; COSTA, Érico Tosoni ; COSTA, F. F. ; CAVALHER, F. P. ; Costa, M.D.M. ; MURAS, A. G. ; PAIXÃO, Valeria A ; Moura, R. ; GRANATO, M. F. ; IERARDI, D. F. ; MACHADO, T. R. ; MELO, F. ; RIBEIRO, Karina B ; CUNHA, Isabela W ; LIMA, V. C. C. ; MACIEL, M. S. ; CARVALHO, A. L. ; SOARES, F. A. ; ZANATA, S M ; SOGAYAR, M. C. ; CHAMMAS, R. ; CAMARGO, A. A. . ADAM23 negatively modulates ?v?3 integrin activation during metastasis. Cancer Research, v. 69, p. 5546-5552, 2009.
+Citações:29|31
+
+43.
+Costa, M.D.M. ; PALUDO, K. S. ; LOPES, M. H. ; MERCADANTE, A.F. ; MARTINS, V. R. ; CAMARGO, A. A. ; NAKAO LS ; ZANATA, S M . Characterization of a specific interaction between ADAM23 and cellular prion protein. Neuroscience Letters, v. 461, p. 16-20, 2009.
+Citações:8|8
+
+44.
+BETTONI, F ; FILHO, FC ; GROSSO, D. M. ; GALANTE, P A ; PARMIGIANI, R B ; GERALDO, M. V. ; HENRIQUE-SILVA, F. ; OBA-SHINJO, S. M. ; MARIE, S K ; SOARES, F. A. ; BRENTANI, H. P. ; SIMPSON, A J ; DE SOUZA, S J ; CAMARGO, A. A. . Identification of FAM46D as a novel Cancer/Testis antigen using EST data and serological analysis.. Genomics (San Diego), v. 94, p. 153-160, 2009.
+Citações:9|11
+
+45.
+da Cunha, J. P. C. ; Galante, P. A. F. ; de Souza, J. E. ; de Souza, R. F. ; CARVALHO, P. M. ; OHARA, D. T. ; MOURA, R. P. ; Oba-Shinja, S. M. ; MARIE, S. K. N. ; Silva, W. A. ; PEREZ, R. O. ; STRANSKY, B. ; PIEPRZYK, M. ; MOORE, J. ; CABALLERO, O. ; GAMA-RODRIGUES, J. ; HABR-GAMA, A. ; KUO, W. P. ; Simpson, A. J. ; Camargo, A. A. ; Old, L. J. ; de Souza, S. J. . Bioinformatics construction of the human cell surfaceome. Proceedings of the National Academy of Sciences of the United States of America, v. 106, p. 16752-16757, 2009.
+Citações:42|42
+
+46.
+CALMON, M F ; RODRIGUES, R. V. ; KANETO, C. M. ; MOURA, R. P. ; SILVA, S. D. ; MOTA, L. D. C. ; PINHEIRO, D. G. ; TORRES, C. ; CARVALHO, A. F. ; CURY, P. M. ; NISHIMOTO, I. N. ; SOARES, F. A. ; SILVA, A. M. A. ; KOWALSKI, L. P. ; BRENTANI, H. P. ; Zanelli, C.F. ; SILVA JR, Wilson A da ; RAHAL, P ; TAJARA, E H ; CARRARO, D. M. ; CAMARGO, A. A. ; Valentini, S.R. . Epigenetic Silencing of CRABP2 and MX1 in Head and Neck Tumors. Neoplasia (New York), v. 11, p. 1329-1339, 2009.
+Citações:46|47
+
+47.
+de Souza, Sandro J ; Stransky, Beatriz ; Camargo, Anamaria A . Insights into gliomagenesis: systems biology unravels key pathways. Genome Medicine, v. 1, p. 101, 2009.
+Citações:1|1
+
+48.
+Masotti, Cibele ; Ornelas, Camila C ; Splendore-Gordonos, Alessandra ; Moura, Ricardo ; Félix, Têmis M ; Alonso, Nivaldo ; Camargo, Anamaria A ; Passos-Bueno, Maria . Reduced transcription of TCOF1 in adult cells of Treacher Collins syndrome patients. BMC Medical Genetics, v. 10, p. 136-142, 2009.
+Citações:8|11
+
+49.
+PARMIGIANI, R B ; BETTONI, F ; GROSSO, D. M. ; LOPES, A ; CUNHA, Isabela W ; SOARES, F. A. ; CARVALHO, A. L. ; FONSECA, F. ; CAMARGO, A. A. . Antibodies against the cancer-testis antigen CTSP-1 are frequently found in prostate cancer patients and are in independent prognostic factor for biochemical-recurrence. International Journal of Cancer, v. 122, p. 2385-2390, 2008.
+Citações:9|8
+
+50.
+MARIE, S K ; OKAMOTO, OK ; UNO, M ; HASEGAWA, AP ; OBA, Sueli M ; COHEN, T ; CAMARGO, A. A. ; KOSOY, A ; CARLOTTI Jr., CG ; TOLEDO, S ; ZAGO, MA ; SIMPSON, A J ; CABALLERO, O. L. . Maternal embryonic leucine zipper kinase transcript abundance correlates with malignancy grade in human astrocytomas. International Journal of Cancer, v. 122, p. 807-815, 2008.
+Citações:62|57
+
+51.
+PORTES, KF ; IKEGAMI, CM ; GETZ, J ; MARTINS, AP ; DE NORONHA, L ; KLASSEN, G. ; CAMARGO, A. A. ; ZANATA, S M ; BEVILACQUA E ; NAKAO LS . Tissue distribution of quiescin Q6/sulfhydryl oxidase (QSOX) in developing mouse.. Journal of Molecular Histology, v. 39, p. 217-225, 2008.
+Citações:11|13
+
+52.
+Almeida, L. G. ; Sakabe, N. J. ; deOliveira, A. R. ; Silva, M. C. ; Mundstein, A. S. ; Cohen, L. ; Yao-Tseng, ; Chua, R. ; Gurung, S. ; Gnjatic, S. ; Jungbluth, A. A. ; CABALLERO, O. L. ; Bairoch, A. ; Kiesler, E. ; White, S. L. ; SIMPSON, A. J. G. ; Old, L. J. ; CAMARGO, A. A. ; Vasconcelos, A. T. R. . CTdatabase: a knowledge-base of high-throughput and curated data on cancer-testis antigens. Nucleic Acids Research, v. 37, p. D816-D819, 2008.
+Citações:95|115
+
+53.
+Poli, M. ; Camargo, A. A. ; Villa, L. ; Moura, R. ; Colella, R. ; Deheinzelin, D. . Intraoperative autologous blood recovery in prostate cancer surgery: in vivo validation using a tumour marker. Vox Sanguinis (Basel), v. 95, p. 308-312, 2008.
+Citações:8|7
+
+54.
+FERREIRA, E N ; RANGEL, M. C. R. ; PINEDA, P. B. ; VIDAL, D O ; CAMARGO, A. A. ; SOUZA, S J ; CARRARO, D. M. . Heteroduplex formation and S1 digestion for mapping alternative splicing sites. Genetics and Molecular Research, v. 7, p. 958-969, 2008.
+Citações:1|2
+
+55.
+CALMON, M F ; COLOMBO, J ; CARVALHO, F ; SOUZA, F P ; F FILHO, J ; FUKUYAMA, E E ; CAMARGO, A. A. ; CABALLERO, O L ; TAJARA, E H ; CORDEIRO, J A ; RAHAL, P . Methylation profile of genes CDKN2A (p14 and p16), DAPK1, CDH1, and ADAM23 in head and neck cancers.. Cancer Genetics and Cytogenetics, Estados Unidos, v. 173, n.1, p. 31-37, 2007.
+Citações:40|44
+
+56.
+HU, Y ; ROLFS, A ; MURTHY, T V ; ZHU, C ; BERGER, M F ; CAMARGO, A. A. ; KELLEY, F ; MCCARRON, S ; JEPSON, D ; RICHARDSON, A ; RAPHAEL, J ; MOREIRA, D ; TAYCHER, e ; ZUO, D ; MOHR, S ; KANE, M F ; WILLIAMSON, J ; SIMPSON, A ; BULYK, M L ; HARLOW, e ; MARSISCHKY, G ; KOLODNER, R D ; LABAER, J . Approaching a complete repository of sequence-verified protein-encoding clones for Saccharomyces cerevisiae. Genome Research, Estados Unidos, v. 17, p. 536-543, 2007.
+Citações:57|60
+
+57.
+OLIVEIRA, J. P. C. ; FERNANDES, F ; CRUZ, Angela K ; TROMBELA, V. ; MONTEIRO, E. ; CAMARGO, A. A. ; BARRAL, A. ; OLIVEIRA, CI . Genetic diversity of Leishmania amazonensis strains isolated in northeastern Brazil as revealed by DNA sequencing, PCR-based analyses and molecular karyotyping. Kinetoplastid Biology and Disease, v. 21, p. 1-8, 2007.
+Citações:16
+
+58.
+Galante, Pedro AF ; VIDAL, D. O. ; Vidal, Daniel O ; de Souza, Jorge E ; CAMARGO, A. A. ; de Souza, Sandro J . Sense-antisense pairs in mammals: functional and evolutionary considerations. GenomeBiology.com (London. Print), v. 8, p. R40, 2007.
+Citações:43|45
+
+59.
+COSTA, Fabricio F ; PAIXÃO, Valeria A ; CAVALHER, Felicia P ; RIBEIRO, Karina B ; CUNHA, Isabela W ; RINCK JR, Jose Augusto ; O´HARE, Mike ; MACKAY, Alan ; SOARES, Fernando A ; BRENTANI, Ricardo R ; CAMARGO, A. A. . SATR-1 hypomethylation is a common and early event in breast cancer.. Cancer Genetics and Cytogenetics, Estados Unidos, v. 165, n.2, p. 135-143, 2006.
+Citações:26|29
+
+60.
+PARMIGIANI, Raphael B ; BETTONI, Fabiana ; VIBRANOVSKY, Maria D ; LOPES, Marilena H ; MARTINS, Waleska K ; CUNHA, Isabela W ; SOARES, Fernando A ; SIMPSON, Andrew Jg ; SOUZA, Sando J de ; CAMARGO, A. A. . Characterization of a cancer/testis (CT) antigen gene family capable ofeliciting humoral response in cancer patients.. PNAS. Proceedings of the National Academy of Sciences of the United States of America, Estados Unidos, v. 103, n.48, p. 18066-18071, 2006.
+Citações:26|27
+
+61.
+CLARIZIA, A D ; BASTOSRODRIGUES, L ; PENA, H B ; ANACLETO, C ; ROSSI, B ; SOARES, F A ; LOPES, A ; ROCHA, J C ; CABALLERO, O ; CAMARGO, A. A. ; SIMPSON, A J G ; PENA, S D . Relationship of the methylenetetrahydrofolate reductase C677T polymorphism with microsatellite instability and promoter ypermethylation in sporadic colorectal cancer.. Genetics and Molecular Research, Brasil, v. 5, n.2, p. 315-322, 2006.
+Citações:23|22
+
+62.
+VASCONCELOS, A T ; FERREIRA, H B ; BIZARRO, C V ; BONATTO, S L ; CARVALHO, M O ; PINTO, P M ; ALMEIDA, D F ; ALMEIDA, L G ; ALVESFILHO, L ; ASSUNÇÃO, e N ; AZEVEDO, V A ; BOGO, M R ; BRIGIDO, Mm ; BURITY, H A ; CAMARGO, A. A. ; et al. . Swine and poultry pathogens: the complete genome sequences of two strains of Mycoplasma hyopneumoniae and a strain of Mycoplasma synoviae.. Journal of Bacteriology, Estados Unidos, v. 187, n.16, p. 5568-5577, 2005.
+Citações:180|172
+
+63.
+ANACLETO, C ; ROSSI, B ; SOARES, F A ; LOPES, A ; ROCHA, J C ; CABALLERO, O ; CAMARGO, A. A. ; SIMPSON, A J ; PENA, S D . Colorectal cancer methylator phenotype: fact or artifact?. Neoplasia (New York), Estados Unidos, v. 7, n.4, p. 331-335, 2005.
+Citações:51|50
+
+64.
+COSTA, F F ; COLIN, C ; SHINJO, S M ; ZANATA, S M ; MARIE, S K ; SOGAYAR, M C ; CAMARGO, A. A. . ADAM23 methylation and expression analysis in brain tumors. Neuroscience Letters, Holanda, v. 380, n.3, p. 260-264, 2005.
+Citações:11|13
+
+65.
+KIRSCHBAUMSLAGER, N ; PARMIGIANI, R B ; SOUZA, S J ; CAMARGO, A. A. . Identification of human exons overexpressed in tumors through the use of genome and expressed sequence data.. Physiological Genomics, Estados Unidos, v. 21, n.3, p. 423-432, 2005.
+Citações:18|16
+
+66.
+ANACLETO, C ; ROSSI, B ; LOPES, A ; SOARES, F A ; ROCHA, J C ; CABALLERO, O ; CAMARGO, A. A. ; SIMPSON, A J ; PENA, S D . Development and application of a multiplex PCR procedure for the detection of DNA methylation in colorectal cancer.. Oncology Reports, Grécia, v. 13, n.2, p. 325-328, 2005.
+Citações:7|6
+
+67.
+FERREIRA, E N PIRES, L C PARMIGIANI, R B BETTONI, F PUGA, R D PINEHIRO, D G ANDRADE, L E CRUZ, L O DEGAKI, T L FARIA, M Jr FESTA, F GIANNELLANETO, D GIORGI, R R GOLDMAN, G H GRANJA, F GRUBER, A HACKEL, C SILVA, F H MALNIC, B MANZINI, C V MARIE, S K MARTINEZROSSI, N M SHINJO, S M O PARDINI, M I RAHAL, P , et al. ; Identification and complete sequencing of novel human transcripts through the use of mouse orthologs and testis cDNA sequences.. Genetics and Molecular Research, Brasil, v. 3, n.4, p. 493-511, 2005.
+Citações:2
+
+68.
+ COSTA, Fabricio F ; VERBISCK, N. V. ; MATOS, A. C. S. ; IERARDI, D. F. ; SASAHARA, R. M. ; SOGAYAR, Mari C ; ZANATA, S. S. ; HARE, M. O. ; SOARES, F. ; SIMPSON, A. J. G. ; CAMARGO, A. A. . Epigenetic silencing of the adhesion molecule ADAM23 is highly frequent in breast tumors.. Oncogene (Basingstoke), Estados Unidos, v. 23, n.7, p. 1481-1487, 2004.
+Citações:39|41
+
+69.
+SIMPSON, A. J. G. ; CAMARGO, A. A. ; FERRO, J. A. ; PARRA, J. ; VASCONCELOS, A. T. . Coordinated, network-based research as a strategic component of science in Brazil.. Genetics and Molecular Research, Sâo Paulo Brasil, v. 3, n.1, p. 18-25, 2004.
+Citações:3
+
+70.
+CARRARO, D. M. ; CAMARGO, A. A. ; SALIM, A. C. ; GONZAGA, L. ; COSTA, G. C. ; VASCONCELOS, A. T. ; SIMPSON, A. J. G. . Closure of rRNA related gaps in the Chromobacterium violaceum genome with the PCR-assisted contig extension (PACE) protocol.. Genetics and Molecular Research, São Paulo Brasil, v. 3, n.1, p. 53-63, 2004.
+
+71.
+TFI ; SOGAYAR, M. C. ; CAMARGO, A. A. . A transcript finishing initiative for closing gaps in the human transcriptome.. Genome Research, Estados Unidos, v. 14, n.7, p. 1413-1423, 2004.
+Citações:14|18
+
+72.
+SILVA, A. P. M. ; CHEN, J. ; CARRARO, D. M. ; WANG, S. M. ; CAMARGO, A. A. . Generation of longer 3'cDNA fragments from massively parallel signature sequencing tags.. Nucleic Acids Research, Estados Unidos, v. 32, n.12, p. e94, 2004.
+Citações:10|11
+
+73.
+PARMIGIANI, R B ; MAGALHÃES, G S ; GALANTE, P A ; MANZINI, C V ; CAMARGO, A. A. ; MALNIC, B . A novel human G protein-coupled receptor is over-expressed in prostate cancer.. Genetics and Molecular Research, Brasil, v. 3, n.4, p. 521-531, 2004.
+Citações:4
+
+74.
+SILVA, A P ; SOUZA, J E de ; GALANTE, P A ; RIGGINS, G J ; SOUZA, S J ; CAMARGO, A. A. . The impact of SNPs on the interpretation of SAGE and MPSS experimental data.. Nucleic Acids Research, Inglaterra, v. 32, n.20, p. 6104-6110, 2004.
+Citações:28|27
+
+75.
+MAGALHAES, P. P. ; QUEIROZ, D. M. ; CAMARGO, A. A. ; SIMPSON, A. J. G. . CagA status of Helicobacter pylori infection and p53 gene mutaions in gastric adenocarcinoma.. Carcinogenesis (New York), Estados Unidos, v. 24, n.1, p. 145-145, 2003.
+Citações:4|4
+
+76.
+ROCHA, J C ; SILVA, R. ; MENDONÇA, B. ; MARUI, S. ; SIMPSON, A. ; CAMARGO, A. A. . High frequency of novel germline mutations in the VHL gene in the heterogeneous population of Brazil.. Journal of Medical Genetics, v. 40, n.3, p. 31e, 2003.
+Citações:20
+
+77.
+CARRARO, D.M. ; CAMARGO, A. A. ; SALIM, A. C. ; GRIVET, M. ; VASCONCELOS, A T ; SIMPSON, A J . PCR-assisted contig extension: stepwise strategy for bacterial genome closure.. BioTechniques, Estados Unidos, v. 34, n.3, p. 626-632, 2003.
+Citações:9|9
+
+78.
+SILVA, A. P. M. ; SALIM, A. C. M. ; BULGARELLI, A. ; SOUZA, J. E. S. ; OSÓRIO, E. ; CABALLERO, O. ; ISELI, C. ; STEVENSON, B. J. ; JONGENEEL, C. V. ; SOUZA, Sandro J de ; SIMPSON, A. J. G. ; CAMARGO, A. A. . Identification of 9 novel transcripts and two RGLS genes within the hereditary prostate cancer region (HPC1) at 1q25.. Gene (Amsterdam), Estados Unidos, v. 310, p. 49-57, 2003.
+Citações:8|12
+
+79.
+CAMARGO, A. A.; SIMPSON, Andrew Jg . Colaborative research networks works. Journal of Clinical Investigation, Estados Unidos, v. 112, n.4, p. 468-471, 2003.
+Citações:4|6
+
+80.
+CONSORTIUM, B. N. G. P. ; CAMARGO, A. A. . The complete genome sequence of Chromobacterium violaceum reveals remarkable and exploitable bacterial adaptability. PNAS. Proceedings of the National Academy of Sciences of the United States of America, Estados Unidos, v. 100, n.20, p. 11660-11665, 2003.
+Citações:106|174
+
+81.
+BRENTANI, H. P. ; CABALLERO, O. L. D. ; CAMARGO, A. A. ; et al . The generation and utilization of a cancer-oriented representation of the human transcriptome by using expressed sequence tags. PNAS. Proceedings of the National Academy of Sciences of the United States of America, Estados Unidos, v. 100, n.23, p. 13418-13423, 2003.
+Citações:74|88
+
+82.
+ISELI, C ; STEVENSON, B J ; DE SOUZA, S J ; SAMAIA, H B ; CAMARGO, A. A. ; BUETOW, K H ; STRAUSBERG, R L ; SIMPSON, A J G ; BUCHER, P ; JONGENEEL, C V . Long-Range Heterogeneity at the 3'Ends of Human mRNAs.. Genome Research, EUA, v. 12, n.7, p. 1068-1074, 2002.
+Citações:59|61
+
+83.
+STRAUSBERG, R L ; CAMARGO, A. A. ; RIGGINS, G J ; SCHAEFER, C F ; DE SOUZA, S J ; GROUSE, L H ; LAL, A ; BUETOW, K H ; BOON, K ; GREENHUT, S F ; SIMPSON, A J G . An international database and integrated analysis tools for the study of cancer gene expression.. The Pharmacogenomics Journal, EUA, v. 2, n.3, p. 156-164, 2002.
+Citações:23
+
+84.
+REYMOND, A ; CAMARGO, A. A. ; DEUTSCH, S ; STEVENSON, B J ; PARMIGIANI, R B ; UCLA, C ; BETTONI, F ; ROSSIER, C ; LYLE, R ; GUIPPONI, M ; DE SOUZA, S ; ISELI, C ; JONGENEEL, C V ; BUCHER, P ; SIMPSON, A J G ; ANTONARAKIS, S E . Nineteen additional unpredicted transcripts from human chromosome 21.. Genomics (San Diego), EUA, v. 79, n.6, p. 824-832, 2002.
+Citações:37|39
+
+85.
+CAMARGO, A. A.; DE SOUZA, S J ; BRENTANI, R R ; SIMPSON, ANDREW J G . Human gene discovery through experimental definition of transcribed regions of the human genome.. Current Opinion in Chemical Biology, Inglaterra, v. 6, n.1, p. 13-16, 2002.
+Citações:4|3
+
+86.
+ROULLET, E. ; BUSSO, S. ; CAMARGO, A. A. ; SIMPSON, A. ; MERMOD, N. ; BUCHER, P. . High-throughput SELEX SAGE method for quantitative modeling of transcription-factor binding. sites.. Nature Biotechnology (Print), Estados Unidos, v. 20, n.8, p. 831-835, 2002.
+Citações:152|152
+
+87.
+FRHOME, M. ; CAMARGO, A. A. ; CZINK, C. ; Matsukuma,A.Y. ; SIMPSON, A. J. G. ; Hoheisel,J.D. ; Verjovski-Almeida,S . Directed gap closure in large-scale sequencing projects.. Genome (Ottawa), Estados Unidos, v. 11, n.5, p. 901-903, 2001.
+Citações:5|8
+
+88.
+CAMARGO, A. A.; NUNES, D. N. ; SAMAIA, H. B. ; LIU, L. ; COLLINS, V.P. ; SIMPSON, A. J. G. ; DIAS NETO, Emmanuel . Molecular characterization of DDX26, a human DEAD-box RNA helicase, located on chromosome 7p12.. Brazilian Journal of Medical and Biological Research, Brazil, v. 34, n.10, p. 1237-1245, 2001.
+Citações:1|1
+
+89.
+ CAMARGO, A. A.; SAMAIA, H. B. ; DIAS NETO, Emmanuel ; SIMAO, D. F. ; et al . The contribution of 700,000 ORF sequence tags to the definition of the human transcriptome.. PNAS. Proceedings of the National Academy of Sciences of the United States of America, Estados Unidos, v. 98, n.21, p. 12103-12108, 2001.
+Citações:94|99
+
+90.
+IUGHETTI, P. ; GODOI, P. H. ; ALVES, V. A. ; SERITE, A. L. ; ZORICK, T. ; SOARES, F. ; CAMARGO, A. A. ; et al . A polymorphism in endostatin, an angiogenesis inhibitor, predisposes for the development of prostatic adenocarcinoma.. Cancer Research (Chicago, Ill.), Estados Unidos, v. 61, n.20, p. 7375-7378, 2001.
+Citações:62|74
+
+91.
+SIMPSON, Andrew Jg ; SOUZA, Sandro J de ; CAMARGO, A. A. ; BRENTANI, Ricardo R . Definition of the gene content of the human genome: the need for deep experimental verification. Comparative And Functional Genomics, Inglatera, v. 2, n.3, p. 169-175, 2001.
+Citações:1|1
+
+92.
+ SIMPSON, A. J. G. ; REINACH, F. ; ARRUDA, P. ; CAMARGO, A. A. ; et al . The genome sequence of the plant pathogen Xylella fastidiosa.. Nature (London), Inglaterra, v. 406, n.6792, p. 109-218, 2000.
+Citações:548|564
+
+93.
+FRHOME, M. ; HEBER, S. ; CZINK, C. ; SIMPSON, A. J. G. ; HOHEISEL, J. D. ; SOUZA, A. P. ; CAMARGO, A. A. . Mapping analysis of the Xylella fastidiosa genome. Nucleic Acids Research, Estados Unidos, v. 28, n.16, p. 3100-3104, 2000.
+Citações:10|11
+
+94.
+ SOUZA, Sandro J de ; CAMARGO, A. A. ; BRIONES, M. R. ; COSTA, F. F. ; NAGAI, M. A. ; et al . Identification of chromosome 22 transcribed sequences with ORF expressed sequence tags. PNAS. Proceedings of the National Academy of Sciences of the United States of America, Estados Unidos da América, v. 97, n.23, p. 12690-12693, 2000.
+Citações:43|47
+
+95.
+SERTIE, A. L. ; SOSSI, V. ; CAMARGO, A. A. ; ZATS, M. ; BRAHE, C. ; BUENO, M. R. P. . Collagen XVIII, containing an endogenous inhbitor of angiogenesis and tumor growth , plays a critical role in the maintenance of retinal structure and in neural tube closure (Knoblock syndrome). Human Molecular Genetics, Estados Unidos da América, v. 9, n.13, p. 2051-2058, 2000.
+
+96.
+SIMPSON, A. J. G. ; CAMARGO, A. A. . Evolution and the inevitability of human cancer. Seminars in Cancer Biology, Estados Unidos, v. 8, n.6, p. 439-435, 1998.
+Citações:5|5
+
+97.
+SIMPSON, A. J. G. ; CAMARGO, A. A. . Introduction. Seminars in Cancer Biology, Estados Unidos, v. 8, n.6, p. 403-405, 1998.
+Citações:1
+
+98.
+CAMARGO, A. A.; FISCHER, K ; LANZER, M. ; PORTILLO, H. A. . Construction and characterization of a Plasmodium vivax genomic library in yeast artificial chromosomes.. Genomics (San Diego), Estados Unidos, v. 42, n.3, p. 467-473, 1997.
+Citações:19|20
+
+99.
+CAMARGO, A. A.; FISCHER, K ; LANZER, M. . Constuction and rapid screening of a representative yeast artificial chromosome library from the Plasmodium falciparum strain Dd2.. Zeitschrift Für Parasitenkunde (Parasitology Research), Alemanha, v. 83, n.1, p. 87-89, 1997.
+Citações:6|6
+
+100.
+ FISCHER, K ; HORROCKS, P. ; PREUSS, M. ; WISNER, J. ; WUNSCH, S. ; CAMARGO, A. A. ; LANZER, M. . Expression of var genes located within polymorphic subtelomeric domains of Plasmodium falciparum chromosomes. Molecular and Cellular Biology, Estados Unidos, v. 17, n.7, p. 3679-3686, 1997.
+Citações:52|55
+
+101.
+JANSEN, C. J. ; CAMARGO, A. A. ; PORTILLO, H. A. ; WATERS, A. P. . Removal of leucocyte from Plasmodium vivax-infected blood.. Annals of Tropical Medicine and Parasitology, Inglaterra, v. 88, n.2, p. 213-216, 1994.
+Citações:27|28
+
+102.
+PORTILLO, H. A. ; PARILLO, L. B. ; CAMARGO, A. A. ; LEVITT, A. . Amplification of single copy genes of Plasmodium vivax from two drops of peripheral blood of infected patients. Journal Of Protozoology Research, Japão, v. 3, p. 20-24, 1993.

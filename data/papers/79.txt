@@ -1,0 +1,1060 @@
+1.
+DE ARRUDA, HENRIQUE F. ; SILVA, FILIPI N. ; COMIN, CESAR H. ; AMANCIO, DIEGO R. ; Costa, Luciano da F. . Connecting network science and information theory. PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS, v. 515, p. 641-648, 2019.
+
+2.
+RODRIGUEZ, MAYRA Z. ; COMIN, CESAR H. ; CASANOVA, DALCIMAR ; Bruno, Odemir M. ; AMANCIO, DIEGO R. ; Costa, Luciano da F. ; Rodrigues, Francisco A. . Clustering algorithms: A comparative approach. PLoS One, v. 14, p. e0210236, 2019.
+
+3.
+F. DE ARRUDA, HENRIQUE ; Q. MARINHO, VANESSA ; da F. COSTA, LUCIANO ; R. AMANCIO, DIEGO . Paragraph-based representation of texts: A complex networks approach. INFORMATION PROCESSING & MANAGEMENT, v. 56, p. 479-494, 2019.
+
+4.
+BOISVERT, NAOMI C. ; HOLTERMAN, CHET E. ; THIBODEAU, JEAN-FRANÇOIS ; NASRALLAH, RANIA ; KAMTO, ELDJONAI ; COMIN, CESAR H. ; da F. COSTA, LUCIANO ; CARTER, ANTHONY ; HÉBERT, RICHARD L. ; GUTSOL, ALEXEY ; CRON, GREGORY O. ; LACOSTE, BAPTISTE ; GRAY, DOUGLAS A. ; KENNEDY, CHRIS R. . Hyperfiltration in -Deleted Mice. CLINICAL SCIENCE, v. 1, p. CS20180085, 2018.
+
+5.
+FERREIRA, GUSTAVO RODRIGUES ; NAKAYA, HELDER IMOTO ; Costa, Luciano da Fontoura . Gene regulatory and signaling networks exhibit distinct topological distributions of motifs. PHYSICAL REVIEW E, v. 97, p. 042417, 2018.
+
+6.
+Costa, Luciano da F.; Silva, Filipi Nascimento ; COMIN, CESAR H. . Characterizing BJTs using the Early voltage in the forward active mode. INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS, v. 46, p. 978-986, 2018.
+
+7.
+da F. COSTA, LUCIANO; SILVA, FILIPI N. ; COMIN, CESAR H. . A pattern recognition approach to transistor array parameter variance. PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS, v. 499, p. 176-185, 2018.
+
+8.
+DE ARRUDA, HENRIQUE F. ; MARINHO, VANESSA Q. ; LIMA, THALES S. ; AMANCIO, DIEGO R. ; Costa, Luciano da F. . An image analysis approach to text analytics based on complex networks. PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS, v. 510, p. 110-120, 2018.
+
+9.
+DOMINGUES, G S ; Silva, F N ; COMIN, C H ; DA F COSTA, L . Topological characterization of world cities. JOURNAL OF STATISTICAL MECHANICS-THEORY AND EXPERIMENT, v. 2018, p. 083212, 2018.
+
+10.
+SOUZA, PAULO J. P. ; COMIN, CESAR H. ; Costa, Luciano da F. . Topology and dynamics in complex networks: The role of edge reciprocity. EPL (EUROPHYSICS LETTERS), v. 122, p. 26001, 2018.
+
+11.
+LIMA, THALES S. ; DE ARRUDA, HENRIQUE F. ; SILVA, FILIPI N. ; COMIN, CESAR H. ; AMANCIO, DIEGO R. ; Costa, Luciano da F. . The dynamics of knowledge acquisition via self-learning in complex networks. CHAOS, v. 28, p. 083106, 2018.
+
+12.
+CERVANTES, EVELYN PEREZ ; Comin, Cesar Henrique ; JUNIOR, ROBERTO MARCONDES CESAR ; Costa, Luciano da Fontoura . Morphological Neuron Classification Based on Dendritic Tree Hierarchy. NEUROINFORMATICS, v. 1, p. 1, 2018.
+
+13.
+FERRAZ DE ARRUDA, HENRIQUE ; NASCIMENTO SILVA, FILIPI ; QUEIROZ MARINHO, VANESSA ; RAPHAEL AMANCIO, DIEGO ; da FONTOURA COSTA, LUCIANO . Representation of texts as complex networks: a mesoscopic approach. JOURNAL OF COMPLEX NETWORKS, v. 6, p. 125-144, 2018.
+
+14.
+VEGA-OLIVEROS, DIDIER A ; da F Costa, Luciano ; RODRIGUES, FRANCISCO A . Rumor propagation with heterogeneous transmission in social networks. Journal of Statistical Mechanics, v. 2017, p. 023401, 2017.
+
+15.
+RODRIGUES, VALQUIRIA DA CRUZ ; COMIN, CESAR H. ; SOARES, JULIANA COATRINI ; SOARES, ANDREY COATRINI ; MELENDEZ, MATIAS ELISEO ; FREGNANI, JOSÉ HUMBERTO T. G. ; CARVALHO, ANDRÉ LOPES ; Costa, Luciano da F. ; OLIVEIRA, OSVALDO N. . Analysis of Scanning Electron Microscopy Images To Investigate Adsorption Processes Responsible for Detection of Cancer Biomarkers. ACS Applied Materials & Interfaces (Print), v. 9, p. 5885-5890, 2017.
+
+16.
+GOUVEIA, AYDEN ; SEEGOBIN, MATTHEW ; KANNANGARA, TIMAL S. ; HE, LING ; WONDISFORD, FREDRIC ; COMIN, CESAR H. ; Costa, Luciano da F. ; BÉÏQUE, JEAN-CLAUDE ; LAGACE, DIANE C. ; LACOSTE, BAPTISTE ; WANG, JING . The aPKC-CBP Pathway Regulates Post-stroke Neurovascular Remodeling and Functional Recovery. Stem Cell Reports, v. 9, p. 1735-1744, 2017.
+
+17.
+DE ARRUDA, HENRIQUE F. ; SILVA, FILIPI N. ; Costa, Luciano da F. ; AMANCIO, DIEGO R. . Knowledge acquisition: A Complex networks approach. INFORMATION SCIENCES, v. 421, p. 154-166, 2017.
+
+18.
+CORRÊA JR., EDILSON A. ; SILVA, FILIPI N. ; da F. COSTA, LUCIANO ; AMANCIO, DIEGO R. . Patterns of authors contribution in scientific manuscripts. Journal of Informetrics, v. 11, p. 498-510, 2017.
+
+19.
+BURKE, PAULO E. P. ; COMIN, CESAR H. ; SILVA, FILIPI N. ; Costa, Luciano da F. . Biological network border detection. Integrative Biology, v. 9, p. 947-955, 2017.
+
+20.
+COUTO, CYNTHIA MARTINS VILLAR ; COMIN, CÉSAR HENRIQUE ; Costa, Luciano da Fontoura . Effects of threshold on the topology of gene co-expression networks. Molecular BioSystems, v. 13, p. 2024-2035, 2017.
+
+21.
+Costa, Luciano da F.; SILVA, FILIPI N. ; COMIN, CESAR H. . Negative feedback, linearity and parameter invariance in linear electronics. ELECTRICAL ENGINEERING, v. 1, p. 1-23, 2017.
+Citações:1
+
+22.
+SILVA, FILIPI N. ; COMIN, CÉSAR H. ; PERON, THOMAS K. DM. ; Rodrigues, Francisco A. ; YE, CHENG ; WILSON, RICHARD C. ; HANCOCK, EDWIN R. ; da F. COSTA, LUCIANO . Concentric network symmetry. Information Sciences, v. 333, p. 61-80, 2016.
+
+23.
+TRAVIESO, Gonzalo ; RUGGIERO, CARLOS ANTÔNIO ; BRUNO, Odemir Martinez ; Costa, Luciano da Fontoura . A complex network approach to cloud computing. Journal of Statistical Mechanics, v. 2016, p. 023402, 2016.
+
+24.
+KUR, ESTHER ; KIM, JIHA ; TATA, ALEKSANDRA ; COMIN, CESAR H ; HARRINGTON, KYLE I ; Costa, Luciano da F ; BENTLEY, KATIE ; GU, CHENGHUA . Temporal modulation of collective cell behavior controls vascular network topology. eLife, v. 5, p. 1, 2016.
+Citações:5
+
+25.
+DE ARRUDA, HENRIQUE F. ; Costa, Luciano da F. ; AMANCIO, DIEGO R. . Using complex networks for text classification: Discriminating informative and imaginative documents. Europhysics Letters (Print), v. 113, p. 28007, 2016.
+Citações:4|3
+
+26.
+DE ARRUDA, HENRIQUE FERRAZ ; COMIN, CÉSAR HENRIQUE ; da FONTOURA COSTA, LUCIANO . Minimal paths between communities induced by geographical networks. Journal of Statistical Mechanics, v. 2016, p. 023403, 2016.
+
+27.
+SILVA, FILIPI N. ; AMANCIO, DIEGO R. ; BARDOSOVA, MARIA ; Costa, Luciano da F. ; OLIVEIRA, OSVALDO N. . Using network science and text analytics to produce surveys in a scientific topic. Journal of Informatrics, v. 10, p. 487-502, 2016.
+Citações:5|6
+
+28.
+Comin, Cesar Henrique ; Silva, Filipi Nascimento ; da FONTOURA COSTA, LUCIANO . A diffusion-based approach to obtaining the borders of urban areas. Journal of Statistical Mechanics, v. 2016, p. 053205, 2016.
+
+29.
+DE ARRUDA, HENRIQUE F. ; Costa, Luciano da F. ; AMANCIO, DIEGO R. . Topic segmentation via community detection in complex networks. Chaos (Woodbury, N.Y.), v. 26, p. 063120, 2016.
+
+30.
+KOSER, DAVID E ; THOMPSON, AMELIA J ; FOSTER, SARAH K ; DWIVEDY, ASHA ; PILLAI, EVA K ; SHERIDAN, GRAHAM K ; SVOBODA, HANNO ; Viana, Matheus ; Costa, Luciano da F ; Guck, Jochen ; HOLT, CHRISTINE E ; Franze, Kristian . Mechanosensing is critical for axon growth in the developing brain. Nature Neuroscience (Print), v. 19, p. 1592-1598, 2016.
+Citações:5|45
+
+31.
+GONÇALVES, WESLEY NUNES ; DA SILVA, NÚBIA ROSA ; da FONTOURA COSTA, LUCIANO ; BRUNO, Odemir Martinez . Texture recognition based on diffusion in networks. Information Sciences, v. 364-365, p. 51-71, 2016.
+Citações:1|3
+
+32.
+SILVA, FILIPI N. ; COMIN, CESAR H. ; Costa, Luciano da F. . Seeking maximum linearity of transfer functions. Review of Scientific Instruments, v. 87, p. 124701, 2016.
+
+33.
+MOREIRA-FILHO, CARLOS ALBERTO ; BANDO, SILVIA YUMI ; BERTONHA, F. B. ; SILVA, Filipe Nascimento ; da FONTOURA COSTA, LUCIANO ; FERREIRA, L. R. ; FURLANETTO, G. ; CHACU, P. ; ZERBINI, M. C. N. ; SAMPAIO, M. C. . Modular transcriptional repertoire and MicroRNA target analyses characterize genomic dysregulation in the thymus of Down syndrome infants. OncoTarget, p. 7497-7533, 2016.
+
+34.
+ALMEIDA, G. F. B. ; CARDOSO, M. R. ; AOKI, P. H. B. ; LIMA, J. J. D. ; COSTA, L. da F. ; RODRIGUES, C. A. ; CONSTANTINO, C. J. L. ; MENDONCA, C. R. . Surface Morphology and Structural Modification Induced by Femtosecond Pulses in Hydrogenated Amorphous Silicon Films. Journal of Nanoscience and Nanotechnology (Print), v. 15, p. 2495-2500, 2015.
+Citações:1|1
+
+35.
+DE ARRUDA, HENRIQUE FERRAZ ; Comin, Cesar Henrique ; Miazaki, Mauro ; PALHARES VIANA, MATHEUS ; da FONTOURA COSTA, LUCIANO . A framework for analyzing the relationship between gene expression and morphological, topological, and dynamical patterns in neuronal networks. Journal of Neuroscience Methods, v. 245, p. 1-14, 2015.
+Citações:1|2
+
+36.
+YE, CHENG ; COMIN, CÉSAR H. ; PERON, THOMAS K. DM. ; SILVA, FILIPI N. ; Rodrigues, Francisco A. ; Costa, Luciano da F. ; TORSELLO, ANDREA ; HANCOCK, EDWIN R. . Thermodynamic characterization of networks using graph polynomials. Physical Review E (Statistical, Nonlinear, and Soft Matter Physics), v. 92, p. 032810, 2015.
+Citações:5
+
+37.
+COMIN, CESAR H. ; SILVA, FILIPI N. ; Costa, Luciano da F. . A framework for evaluating complex networks measurements. Europhysics Letters (Print), v. 110, p. 68002, 2015.
+Citações:1|1
+
+38.
+AMANCIO, DIEGO R ; Oliveira, Osvaldo N ; Costa, L da F . Robustness of community structure to node removal. Journal of Statistical Mechanics, v. 2015, p. P03003, 2015.
+Citações:2|1
+
+39.
+AMANCIO, DIEGO R. ; SILVA, FILIPI N. ; Costa, Luciano da F. . Concentric network symmetry grasps authors' styles in word adjacency networks. Europhysics Letters (Print), v. 110, p. 68001, 2015.
+Citações:3|2
+
+40.
+VIEIRA, VILSON ; FABBRI, RENATO ; SBRISSA, DAVID ; da FONTOURA COSTA, LUCIANO ; TRAVIESO, Gonzalo . A quantitative approach to painting styles. Physica. A (Print), v. 417, p. 110-129, 2015.
+Citações:3|3
+
+41.
+Amancio, Diego Raphael ; Comin, Cesar Henrique ; CASANOVA, DALCIMAR ; TRAVIESO, Gonzalo ; BRUNO, Odemir Martinez ; RODRIGUES, Francisco Aparecido ; da FONTOURA COSTA, LUCIANO . A Systematic Comparison of Supervised Classifiers. Plos One, v. 9, p. e94137, 2014.
+Citações:27|43
+
+42.
+YE, CHENG ; WILSON, RICHARD C. ; COMIN, CÉSAR H. ; Costa, Luciano da F. ; HANCOCK, EDWIN R. . Approximate von Neumann entropy for directed graphs. Physical Review. E, Statistical, Nonlinear, and Soft Matter Physics (Print), v. 89, p. 1-5, 2014.
+Citações:11
+
+43.
+EROGLU, DENIZ ; PERON, THOMAS K. DM. ; MARWAN, NOBERT ; Rodrigues, Francisco A. ; Costa, Luciano da F. ; SEBEK, MICHAEL ; KISS, ISTVÁN Z. ; KURTHS, JÜRGEN . Entropy of weighted recurrence plots. Physical Review. E, Statistical, Nonlinear, and Soft Matter Physics (Print), v. 90, p. 1-5, 2014.
+Citações:9
+
+44.
+DE ARRUDA, GUILHERME FERRAZ ; Barbieri, André Luiz ; RODRÍGUEZ, PABLO MARTÍN ; Rodrigues, Francisco A. ; MORENO, YAMIR ; Costa, Luciano da Fontoura . Role of centrality for the identification of influential spreaders in complex networks. Physical Review. E, Statistical, Nonlinear, and Soft Matter Physics (Print), v. 90, p. 1-7, 2014.
+Citações:14
+
+45.
+LACOSTE, BAPTISTE ; COMIN, CESAR H. ; BEN-ZVI, AYAL ; KAESER, PASCAL S. ; XU, XIAOYIN ; COSTA, LUCIANO DA F. ; GU, CHENGHUA . Sensory-Related Neural Activity Regulates the Structure of Vascular Networks in the Cerebral Cortex. Neuron (Cambridge, Mass.), v. 83, p. 1117-1130, 2014.
+Citações:27|13
+
+46.
+COMIN, CÉSAR H. ; SANTOS, JOÃO R. ; CORRADINI, DARIO ; MORRISON, WILL ; CURME, CHESTER ; ROSENE, DOUGLAS L. ; GABRIELLI, ANDREA ; da F. COSTA, LUCIANO ; STANLEY, H. EUGENE . Statistical physics approach to quantifying differences in myelinated nerve fibers. Scientific Reports, v. 4, p. 1-8, 2014.
+Citações:1
+
+47.
+Comin, Cesar Henrique ; XU, XIAOYIN ; WANG, YAMING ; da FONTOURA COSTA, LUCIANO ; YANG, ZHONG . An image processing approach to analyze morphological features of microscopic images of muscle fibers. Computerized Medical Imaging and Graphics, v. 38, p. 803-814, 2014.
+Citações:1|1
+
+48.
+MELLO, MARCO AURELIO RIBEIRO ; RODRIGUES, Francisco Aparecido ; Costa, Luciano da Fontoura ; KISSLING, W. DANIEL ; 'EKERCIO'LU, ÇA'AN H. ; MARQUITTI, FLAVIA MARIA DARCIE ; KALKO, ELISABETH KLARA VIKTORIA . Keystone species in seed dispersal networks are mainly determined by dietary specialization. Oikos (Kobenhavn), v. 124, p. n/a-n/a, 2014.
+Citações:9|1
+
+49.
+COMIN, CESAR H ; VIANA, MATEUS P ; ANTIQUEIRA, Lucas ; Costa, Luciano da F . Random walks in directed modular networks. Journal of Statistical Mechanics, v. 2014, p. P12003, 2014.
+
+50.
+PERON, T. K. D. ; COMIN, C. H. ; AMANCIO, D. R. ; DA F. COSTA, L. ; Rodrigues, F. A. ; KURTHS, J. . Correlations between climate network and relief data. Nonlinear Processes in Geophysics Discussions, v. 1, p. 823-840, 2014.
+Citações:3
+
+51.
+CRISTINO, A S ; WILLIAMS, S M ; HAWI, Z ; AN, J-Y ; BELLGROVE, M A ; SCHWARTZ, C E ; Costa, L da F ; CLAUDIANOS, C . Neurodevelopmental and neuropsychiatric disorders represent an interconnected molecular system. Molecular Psychiatry, v. feb, p. 1, 2013.
+Citações:40|42
+
+52.
+AMANCIO, DIEGO R. ; ALTMANN, EDUARDO G. ; RYBSKI, DIEGO ; OLIVEIRA, OSVALDO N. ; Costa, Luciano da F. . Probing the Statistical Properties of Unknown Texts: Application to the Voynich Manuscript. Plos One, v. 8, p. e67310, 2013.
+Citações:12|8
+
+53.
+COMIN, CESAR H ; Viana, Matheus P ; Costa, Luciano da F . The relationship between structure and function in locally observed complex networks. New Journal of Physics, v. 15, p. 013048, 2013.
+Citações:4|4
+
+54.
+CAMPITELI, MONICA GUIMARÃES ; Comin, Cesar Henrique ; Costa, Luciano da Fontoura ; BABU, MADAN ; CESAR, ROBERTO MARCONDES . A methodology to infer gene networks from spatial patterns of expression - An application to fuorescence insitu hybridization images. Molecular Biosystems (Print), v. 9, p. 1926, 2013.
+
+55.
+Viana, Matheus P. ; AMANCIO, DIEGO R. ; da F. COSTA, LUCIANO . On time-varying collaboration networks. Journal of Informatrics, v. 7, p. 371-378, 2013.
+Citações:9|8
+
+56.
+Silva, F.N. ; RODRIGUES, F.A. ; Oliveira, O.N. ; DA F. COSTA, L. . Quantifying the interdisciplinarity of scientific journals and fields. Journal of Informatrics, v. 7, p. 469-477, 2013.
+Citações:6|12
+
+57.
+Viana, Matheus P. ; FOURCASSIÉ, VINCENT ; PERNA, ANDREA ; Costa, Luciano da F. ; JOST, CHRISTIAN . Accessibility in networks: A useful measure for understanding social insect nest architecture. Chaos, Solitons and Fractals, v. 46, p. 38-45, 2013.
+Citações:2|2
+
+58.
+Comin, Cesar Henrique ; da FONTOURA COSTA, LUCIANO . Shape, connectedness and dynamics in neuronal networks. Journal of Neuroscience Methods, v. 220, p. 100-115, 2013.
+Citações:2|3
+
+59.
+STRANO, EMANUELE ; Viana, Matheus ; da FONTOURA COSTA, LUCIANO ; CARDILLO, ALESSIO ; PORTA, SERGIO ; LATORA, VITO . Urban street networks, a comparative analysis of ten European cities. Environment & Planning. B, Planning & Design (Print), v. 40, p. 1071-1086, 2013.
+Citações:9|10
+
+60.
+DE ARRUDA, GUILHERME FERRAZ ; Fontoura Costa, Luciano da ; SCHUBERT, DIRK ; Rodrigues, Francisco A. . Structure and dynamics of functional networks in child-onset schizophrenia. Clinical Neurophysiology, v. 125, p. 1-8, 2013.
+Citações:3|5
+
+61.
+BANDO, SILVIA YUMI ; Silva, Filipi Nascimento ; Costa, Luciano da Fontoura ; SILVA, ALEXANDRE V. ; PIMENTEL-SILVA, LUCIANA R. ; CASTRO, LUIZ HM. ; WEN, HUNG-TZU ; AMARO, EDSON ; MOREIRA-FILHO, CARLOS ALBERTO . Complex Network Analysis of CA3 Transcriptome Reveals Pathogenic and Compensatory Pathways in Refractory Temporal Lobe Epilepsy. Plos One, v. 8, p. e79913, 2013.
+Citações:6|10
+
+62.
+AMANCIO, DIEGO R. ; Nunes, Maria G.V. ; OLIVEIRA, OSVALDO N. ; Costa, Luciano da F. . Extractive summarization using complex networks and syntactic dependency. Physica. A (Print), v. 391, p. 1855-1864, 2012.
+Citações:15|15
+
+63.
+Amancio, D R ; OLIVEIRA JR, O N ; Costa, L da F . Using complex networks to quantify consistency in the use of words. Journal of Statistical Mechanics, v. 2012, p. P01004, 2012.
+Citações:4|6
+
+64.
+TRAVIESO, Gonzalo ; da FONTOURA COSTA, LUCIANO . Evaluating links through spectral decomposition. Journal of Statistical Mechanics, v. 2012, p. P01015, 2012.
+
+65.
+AMANCIO, D. R. ; Nunes, M. G. V. ; Oliveira, O. N. ; COSTA, L. da F. . Using complex networks concepts to assess approaches for citations in scientific papers. Scientometrics (Print), v. 90, p. 1, 2012.
+Citações:11|15
+
+66.
+Viana, Matheus ; Batista, João ; Costa, Luciano . Effective number of accessed nodes in complex networks. Physical Review. E, Statistical, Nonlinear, and Soft Matter Physics (Print), v. 85, p. 036105, 2012.
+Citações:13|8
+
+67.
+Miazaki, Mauro ; Costa, Luciano da F. . Study of cerebral gene expression densities using Voronoi analysis. Journal of Neuroscience Methods, v. 203, p. 212-219, 2012.
+Citações:1|1
+
+68.
+Kaue^ Dal Maso Peron, Thomas ; da FONTOURA COSTA, LUCIANO ; Rodrigues, Francisco A. . The structure and resilience of financial market networks. Chaos (Woodbury, N.Y.), v. 22, p. 013117, 2012.
+Citações:20|7
+
+69.
+Amancio, Diego Raphael ; OLIVEIRA, Osvaldo Novais ; da FONTOURA COSTA, LUCIANO . Three-feature model to reproduce the topology of citation networks and the effects from authors visibility on their h-index. Journal of informatrics, v. 6, p. 427-434, 2012.
+Citações:12|12
+
+70.
+AMANCIO, DIEGO R. ; OLIVEIRA, OSVALDO N. ; Costa, Luciano da F. . Unveiling the relationship between complex networks metrics and word senses. Europhysics Letters (Print), v. 98, p. 18002, 2012.
+Citações:11|9
+
+71.
+DE ARRUDA, GUILHERME F. ; Costa, Luciano da Fontoura ; Rodrigues, Francisco A. . A complex networks approach for data clustering. Physica. A (Print), v. 391, p. 6174-6183, 2012.
+Citações:3|8
+
+72.
+Zawadzki, Krissia ; Costa, Luciano da F. ; Kaiser, Marcus ; FEENDERS, CHRISTOPH ; Viana, Matheus P. . Morphological Homogeneity of Neurons: Searching for Outlier Neuronal Cells. Neuroinformatics (Totowa), v. 1, p. 1-1, 2012.
+Citações:8|6
+
+73.
+AMANCIO, DIEGO R. ; OLIVEIRA JR., O. N. ; COSTA, L. F. ; OLIVEIRA JR., OSVALDO N. ; Costa, Luciano da F. . Structure semantics interplay in complex networks and its effects on the predictability of similarity in texts. Physica. A (Print), v. 391, p. 4406-4419, 2012.
+Citações:5|9
+
+74.
+AMANCIO, DIEGO R. ; OLIVEIRA, OSVALDO N. ; Costa, Luciano da F. . On the use of topological features and hierarchical characterization for disambiguating names in collaborative networks. Europhysics Letters (Print), v. 99, p. 48002, 2012.
+Citações:8|8
+
+75.
+VIEIRA, VILSON ; FABBRI, RENATO ; TRAVIESO, Gonzalo ; OLIVEIRA JR, OSVALDO N ; Costa, Luciano da Fontoura . A quantitative approach to evolution of music and philosophy. Journal of Statistical Mechanics, v. 2012, p. P08010, 2012.
+Citações:3|3
+
+76.
+DA SILVA, RENATO APARECIDO PIMENTEL ; COSTA, L. da F. ; DA FONTOURA COSTA, LUCIANO ; Viana, Matheus Palhares . Predicting epidemic outbreak from individual features of the spreaders. Journal of Statistical Mechanics, v. 2012, p. P07005, 2012.
+Citações:8|7
+
+77.
+COMIN, CESAR H. ; BATISTA, JOÃO L. B. ; Viana, Matheus P. ; Costa, Luciano da F. ; Travençolo, Bruno A. N. ; Kaiser, Marcus . STRUCTURE AND DYNAMICS: THE TRANSITION FROM NONEQUILIBRIUM TO EQUILIBRIUM IN INTEGRATE-AND-FIRE DYNAMICS. International Journal of Bifurcation and Chaos in Applied Sciences and Engineering, v. 22, p. 1250174, 2012.
+Citações:2|2
+
+78.
+PÉREZ-RECHE, F. ; TARASKIN, S. ; OTTEN, W. ; VIANA, M. ; Costa, L. ; GILLIGAN, C. . Prominent Effect of Soil Network Heterogeneity on Microbial Invasion. Physical Review Letters, v. 109, p. 098102, 2012.
+Citações:11
+
+79.
+AMANCIO, DIEGO R ; OLIVEIRA JR, OSVALDO N ; Costa, Luciano da F . A decaying factor accounts for contained activity in neuronal networks with no need of hierarchical or modular organization. Journal of Statistical Mechanics, v. 2012, p. P11018, 2012.
+Citações:1|1
+
+80.
+AMANCIO, DIEGO R. ; ALUISIO, SANDRA M. ; OLIVEIRA, OSVALDO N. ; Costa, Luciano da F. . Complex networks analysis of language complexity. Europhysics Letters (Print), v. 100, p. 58002, 2012.
+Citações:15|10
+
+81.
+Amancio, Diego Raphael ; Costa, Luciano da Fontoura ; Oliveira, Osvaldo N . Identification of literary movements using complex networks to represent texts. New Journal of Physics, v. 14, p. 043029, 2012.
+Citações:16|16
+
+82.
+ANTIQUEIRA, Lucas ; JANGA, SARATH CHANDRA ; Costa, Luciano da Fontoura . Extensive cross-talk and global regulators identified from an analysis of the integrated transcriptional and signaling network in Escherichia coli. Molecular Biosystems (Print), v. 8, p. 3028, 2012.
+Citações:3|4
+
+83.
+ RAFELSKI, S. M. ; VIANA, M. P. ; ZHANG, Y. ; CHAN, Y.-H. M. ; THORN, K. S. ; YAM, P. ; FUNG, J. C. ; LI, H. ; Costa, L. D. F. ; MARSHALL, W. F. . Mitochondrial Network Size Scaling in Budding Yeast. Science (New York, N.Y.: Online), v. 338, p. 822-824, 2012.
+Citações:55|66
+
+84.
+de Gouveia, Lilian Tais ; DE ARRUDA, GUILHERME FERRAZ ; RODRIGUES, Francisco Aparecido ; SENGER, LUCIANO JOSE ; da FONTOURA COSTA, LUCIANO . Supervised Classification of Basaltic Aggregate Particles Based on Texture Properties. Journal of Computing in Civil Engineering, v. 1, p. 152, 2012.
+
+85.
+Fallani, Fabrizio ; RODRIGUES, Francisco Aparecido ; Costa, Luciano da Fontoura ; Astolfi, Laura ; Cincotti, Febo ; Mattia, Donatella ; Salinari, Serenella ; Babiloni, Fabio . Multiple pathways analysis of brain functional networks from EEG signals: An application to real data. Brain Topography, v. 23, p. 344-354, 2011.
+Citações:5|13
+
+86.
+Lopes, Fabrício M. ; Cesar, Roberto M. ; Costa, Luciano da F. . Gene Expression Complex Networks: Synthesis, Identification, and Analysis. Journal of Computational Biology, v. 18, p. 1353-1367, 2011.
+Citações:14|16
+
+87.
+Tsonis, Anastasios A. ; Wang, Geli ; Swanson, Kyle L. ; Rodrigues, Francisco A. ; Costa, L da F . Community structure and dynamics in climate networks. Climate Dynamics, v. 37, p. 933-940, 2011.
+Citações:34|33
+
+88.
+Silva, F.N. ; Viana, M.P. ; Travençolo, B.A.N. ; COSTA, L. da F. . Investigating relationships within and between category networks in Wikipedia. Journal of informatrics, v. 5, p. 431-438, 2011.
+Citações:7|7
+
+89.
+Holloway, David M. ; Lopes, Francisco J. P. ; da FONTOURA COSTA, LUCIANO ; Travençolo, Bruno A. N. ; Golyandina, Nina ; Usevich, Konstantin ; Spirov, Alexander V. . Gene Expression Noise in Spatial Patterning: hunchback Promoter Structure Affects Noise Amplitude and Distribution in Drosophila Segmentation. PLOS Computational Biology (Online), v. 7, p. e1001069, 2011.
+Citações:29|33
+
+90.
+Echtermeyer, Christoph ; da FONTOURA COSTA, LUCIANO ; Rodrigues, Francisco A. ; Kaiser, Marcus . Automatic Network Fingerprinting through Single-Node Motifs. Plos One, v. 6, p. e15765, 2011.
+Citações:9|8
+
+91.
+ Costa, Luciano da Fontoura; OLIVEIRA, OSVALDO N. ; TRAVIESO, Gonzalo ; RODRIGUES, Francisco Aparecido ; Villas Boas, Paulino Ribeiro ; ANTIQUEIRA, Lucas ; Viana, Matheus Palhares ; Correa Rocha, Luis Enrique . Analyzing and modeling real-world phenomena with complex networks: a survey of applications. Advances in Physics, v. 60, p. 329-412, 2011.
+Citações:140|170
+
+92.
+Rodrigues, Francisco A. ; Costa, Luciano da Fontoura ; Barbieri, André Luiz . Resilience of protein protein interaction networks as determined by their large-scale topological features. Molecular Biosystems (Print), v. 7, p. 1263, 2011.
+Citações:6|7
+
+93.
+Amancio, D.R. ; Nunes, M.G.V. ; Oliveira, O.N. ; Pardo, T.A.S. ; Antiqueira, L. ; Costa, Luciano da Fontoura . Using metrics from complex networks to evaluate machine translation. Physica. A (Print), v. 390, p. 131-142, 2011.
+Citações:21|27
+
+94.
+Tais de Gouveia, Lilian ; Costa, Luciano da Fontoura ; Senger, Luciano Jose ; Albertini, Marcelo Keese ; Fernandes de Mello, Rodrigo . Entropy-Based Approach to Analyze and Classify Mineral Aggregates. Journal of Computing in Civil Engineering, v. 25, p. 75, 2011.
+Citações:1|2
+
+95.
+RUGGIERO, CARLOS ANTÔNIO ; BRUNO, Odemir Martinez ; TRAVIESO, Gonzalo ; da FONTOURA COSTA, LUCIANO . On the efficiency of data representation on the modeling and characterization of complex networks. Physica. A (Print), v. 390, p. 2172-2180, 2011.
+
+96.
+Viana, Matheus Palhares ; da FONTOURA COSTA, LUCIANO . Fast long-range connections in transportation networks. Physics Letters. A (Print), v. 375, p. 1626-1629, 2011.
+Citações:3|4
+
+97.
+Handford, T. P. ; PEREZ-RECHE, F. J. ; Taraskin, S. N. ; COSTA, L. da F. ; MIAZAKI, M. ; NERI, F. M. ; GILLIGAN, C. A. . Epidemics in networks of spatially correlated three-dimensional root-branching structures. Journal of the Royal Society Interface (Print), v. 8, p. 423-434, 2011.
+Citações:7|6
+
+98.
+Costa, Luciano da Fontoura; Batista, João Luiz B. ; Ascoli, Giorgio A. . Communication Structure of Cortical Networks. FRONT COMPUT NEUROSC, v. 5, p. 1-10, 2011.
+Citações:5|5
+
+99.
+TRAVIESO, Gonzalo ; COSTA, L. da F. . Effective networks for real-time distributed processing. Journal of Systems Science and Complexity, v. 24, p. 39-50, 2011.
+Citações:1|2
+
+100.
+Barbieri, Andre L. ; de Arruda, G.F. ; Rodrigues, Francisco A. ; Bruno, Odemir M. ; Costa, Luciano da Fontoura . An entropy-based approach to automatic image segmentation of satellite images. Physica. A (Print), v. 390, p. 512-518, 2011.
+Citações:22|28
+
+101.
+Amancio, D.R. ; Oliveira, O.N. ; COSTA, L. da F. . On the concepts of complex networks to quantify the difficulty in finding the way out of labyrinths. Physica. A (Print), v. 390, p. 4673-4683, 2011.
+Citações:4|5
+
+102.
+ Escudero, Luis M. ; da F. COSTA, LUCIANO ; Kicheva, Anna ; Briscoe, James ; Freeman, Matthew ; Babu, M. Madan . Epithelial organisation revealed by a network of cellular contacts. NAT COMMUN, v. 2, p. 526, 2011.
+Citações:14|12
+
+103.
+Comin, Cesar Henrique ; da FONTOURA COSTA, LUCIANO . Identifying the starting point of a spreading process in complex networks. Physical Review. E, Statistical, Nonlinear, and Soft Matter Physics (Print), v. 84, p. 056105, 2011.
+Citações:34|16
+
+104.
+Amancio, Diego Raphael ; Altmann, Eduardo G ; Oliveira, Osvaldo N ; Costa, Luciano da Fontoura . Comparing intermittency and network measurements of words and their dependence on authorship. New Journal of Physics, v. 13, p. 123024, 2011.
+Citações:18|14
+
+105.
+RODRIGUES, Francisco Aparecido ; COSTA, L. da F. . Generalized connectivity between any two nodes in a complex network. Physical Review. E, Statistical, Nonlinear, and Soft Matter Physics (Print), v. 81, p. 036113, 2010.
+Citações:6|5
+
+106.
+Viana, Matheus Palhares ; Travençolo, Bruno A.N. ; Tanck, Esther ; Costa, Luciano da Fontoura . Characterizing topological and dynamical properties of complex networks without border effects. Physica. A (Print), v. 389, p. 1771-1778, 2010.
+Citações:5|5
+
+107.
+Moshayedi, Pouria ; da F Costa, Luciano ; Christ, Andreas ; Lacour, Stephanie P ; Fawcett, James ; Guck, Jochen ; Franze, Kristian . Mechanosensitivity of astrocytes on optimized polyacrylamide gels analyzed by quantitative morphometry. Journal of Physics. Condensed Matter (Print), v. 22, p. 194114, 2010.
+Citações:39|39
+
+108.
+Villas Boas, P R ; Rodrigues, F A ; Travieso, G ; Costa, L da F . Sensitivity of complex networks measurements. Journal of Statistical Mechanics, v. 2010, p. P03009, 2010.
+Citações:2|2
+
+109.
+de Gouveia, Lilian Tais ; RODRIGUES, Francisco Aparecido ; da FONTOURA COSTA, LUCIANO . Multiscale Curvature Analysis of Asphaltic Aggregate Particles. Journal of Computing in Civil Engineering, v. 24, p. 506, 2010.
+
+110.
+COSTA, L. da F.; Travençolo, B. A. N. ; VIANA, M. P. ; Strano, E. . On the efficiency of transportation systems in large cities. Europhysics Letters (Print), v. 91, p. 18003, 2010.
+Citações:6|5
+
+111.
+ANTIQUEIRA, Lucas ; Rodrigues, Francisco A. ; van Wijk, Bernadette C.M. ; Costa, Luciano da F. ; Daffertshofer, Andreas . Estimating complex cortical networks via surface recordings A critical note. NeuroImage (Orlando, Fla. Print), v. 53, p. 439-449, 2010.
+Citações:18|19
+
+112.
+Silva, Filipi Nascimento ; Travençolo, Bruno A N ; Viana, Matheus P ; Costa, Luciano da Fontoura . Identifying the borders of mathematical knowledge. Journal of Physics. A, Mathematical and Theoretical (Print), v. 43, p. 325202, 2010.
+Citações:3|3
+
+113.
+DA SILVA, RENATO APARECIDO PIMENTEL ; Costa, Luciano da Fontoura . THE EFFECT OF CORTICO-THALAMIC CONNECTIONS ON THE DIVERSITY OF CORTICAL ACTIVATIONS AS MODELED BY THE ISING MODEL. International Journal of Bifurcation and Chaos in Applied Sciences and Engineering, v. 20, p. 1321, 2010.
+
+114.
+Batista, J. ; COSTA, L. da F. . Knowledge acquisition by networks of interacting agents in the presence of observation errors. Physical Review. E, Statistical, Nonlinear, and Soft Matter Physics (Print), v. 82, p. 016103, 2010.
+Citações:1|3
+
+115.
+CORREA, D. C. ; SAITO, J. H. ; COSTA, L. da F. . Music genres: beating to the rhythms of different drums. New Journal of Physics, v. 12, p. 1-10, 2010.
+
+116.
+COSTA, L. da F.; RODRIGUES, Francisco Aparecido ; BOAS, Paulino Ribeiro Villas . Modeling the evolution of complex networks through the path-star transformation and optimal multivariate methods. International Journal of Bifurcation and Chaos in Applied Sciences and Engineering, v. 20, p. 795-804, 2010.
+Citações:1|1
+
+117.
+PEREZ-RECHE, F. J. ; TARASKIN, S. ; COSTA, L. da F. ; NERI, F. M. ; GILLIGAN, C. A. . Complexity and anysotropy in host morphology make populations less susceptible to epidemic outbreaks. Journal of the Royal Society Interface (Print), v. 7, p. 1083-1092, 2010.
+Citações:13|14
+
+118.
+Fallani, Fabrizio ; Costa, Luciano ; Rodriguez, Francisco ; Astolfi, Laura ; Vecchiato, Giovanni ; Toppi, Jlenia ; Borghini, Gianluca ; Cincotti, Febo ; Mattia, Donatella ; Salinari, Serenella ; Isabella, Roberto ; Babiloni, Fabio . A graph-theoretical approach in brain functional networks. Possible implications in EEG studies. Nonlinear Biomedical Physics, v. 4, p. S8, 2010.
+Citações:12
+
+119.
+Costa, L da F; Villas Boas, P R ; Silva, F N ; Rodrigues, F A . A pattern recognition approach to complex networks. Journal of Statistical Mechanics, v. 2010, p. P11015, 2010.
+Citações:3|9
+
+120.
+Costa, Luciano da Fontoura; Zawadzki, Krissia ; Miazaki, Mauro ; Viana, Matheus P. ; Taraskin, Sergei N. . Unveiling the Neuromorphological Space. Frontiers in Computational Neuroscience, v. 4, p. 1-13, 2010.
+Citações:13
+
+121.
+Marletta, Alexandre ; Vega, M.L. ; Rodrigues, C.A. ; Gobato, Y. GalvÃ£o ; COSTA, L. da F. ; Faria, R.M. . Photo-irradiation effects on the surface morphology of poly(p-phenylene vinylene) films. Applied Surface Science, v. 256, p. 3018-3023, 2010.
+Citações:2|1
+
+122.
+ANTIQUEIRA, Lucas ; Fontoura Costa, Luciano da . Characterization of subgraph relationships and distribution in complex networks. New Journal of Physics, v. 11, p. 013058, 2009.
+Citações:5|8
+
+123.
+Leandro, J.J.G. ; Cesar-Jr, R.M. ; COSTA, L. da F. . Automatic contour extraction from 2D neuron images. Journal of Neuroscience Methods, v. 177, p. 497-509, 2009.
+Citações:10|12
+
+124.
+Viana, Matheus Palhares ; Tanck, Esther ; Beletti, Marcelo Emílio ; Fontoura Costa, Luciano da . Modularity and robustness of bone networks. Molecular Biosystems, v. 5, p. 255, 2009.
+Citações:14|12
+
+125.
+Rodrigues, Francisco A. ; Fontoura Costa, Luciano da . Protein lethality investigated in terms of long range dynamical interactions. Molecular Biosystems, v. 5, p. 385, 2009.
+Citações:9|11
+
+126.
+Lee, B.-h. ; Johnston, R. ; Yang, Y. ; Gallavotti, A. ; Kojima, M. ; Travencolo, B. A.N. ; COSTA, L. da F. ; Sakakibara, H. ; Jackson, D. . Studies of aberrant phyllotaxy1 Mutants of Maize Indicate Complex Interactions between Auxin and Cytokinin Signaling in the Shoot Apical Meristem. Plant Physiology (Bethesda), v. 150, p. 205-216, 2009.
+Citações:68|62
+
+127.
+COSTA, L. da F.; Rodrigues, F. A. . Seeking for simplicity in complex networks. Europhysics Letters, v. 85, p. 48001, 2009.
+Citações:10|12
+
+128.
+Travençolo, Bruno A N ; Viana, Matheus Palhares ; Costa, Luciano da Fontoura . Border detection in complex networks. New Journal of Physics, v. 11, p. 063019, 2009.
+Citações:14|12
+
+129.
+da FONTOURA COSTA, LUCIANO; Baggio, Rodolfo . The web of connections between tourism companies: Structure and dynamics. Physica. A, v. 388, p. 4286-4296, 2009.
+Citações:16|19
+
+130.
+COSTA, L. da F.; Rodrigues, F. A. ; Hilgetag, C. C. ; Kaiser, M. . Beyond the average: Detecting global singular nodes from local features in complex networks. Europhysics Letters, v. 87, p. 18008, 2009.
+Citações:15|20
+
+131.
+Rodrigues, Francisco A. ; Costa, Luciano da Fontoura . A structure dynamic approach to cortical organization: Number of paths and accessibility. Journal of Neuroscience Methods, p. 1-10, 2009.
+Citações:5|5
+
+132.
+Rodrigues, Francisco A. ; COSTA, L. da F. . Signal propagation in cortical networks: A Digital Signal Processing Approach. Frontiers in Neuroinformatics, v. 3, p. 24, 2009.
+Citações:5
+
+133.
+Tremblay, M. ; Fugere, V. ; Tsui, J. ; Schohl, A. ; Tavakoli, A. ; Travencolo, B. A. N. ; COSTA, L. da F. ; Ruthazer, E. S. . Regulation of Radial Glial Motility by Visual Experience. The Journal of Neuroscience, v. 29, p. 14066-14076, 2009.
+Citações:17|22
+
+134.
+E Ahnert, Sebastian ; A N Travençolo, Bruno ; Costa, Luciano da Fontoura . Connectivity and dynamics of neuronal networks as defined by the shape of individual neurons. New Journal of Physics, v. 11, p. 103053, 2009.
+Citações:4|5
+
+135.
+Rodrigues, Francisco A. ; da FONTOURA COSTA, LUCIANO . Comparison of the interactomic networks of different species in terms of accessibility. Molecular Biosystems (Print), v. 6, p. 224, 2009.
+Citações:1|3
+
+136.
+ANTIQUEIRA, L ; Rodrigues, F A ; COSTA, L. da F. . Modeling connectivity in terms of network activity. Journal of Statistical Mechanics, v. 2009, p. L09005, 2009.
+Citações:3|3
+
+137.
+Villas Boas, Paulino R. ; Rodrigues, Francisco A. ; da F. COSTA, LUCIANO . Modeling worldwide highway networks. Physics Letters. A (Print), v. 374, p. 22-27, 2009.
+Citações:9|13
+
+138.
+ANTIQUEIRA, L ; OLIVEIRAJR, O ; COSTA, L ; NUNES, M . A complex network approach to text summarization. Information Sciences, v. 179, p. 584-599, 2009.
+Citações:42|61
+
+139.
+Cruvinel, Paulo E. ; Pereira, MaurÍcio Fernando Lima ; Saito, JosÉ Hiroki ; Costa, Luciano da F. . . IEEE Transactions on Instrumentation and Measurement, v. 58, p. 3295-3304, 2009.
+Citações:6|9
+
+140.
+BOAS, Paulino Ribeiro Villas ; RODRIGUES, Francisco Aparecido ; TRAVIESO, G. ; COSTA, L. da F. . Chain motifs: The tails and handles of complex networks. Physical Review E - Statistical Physics, Plasmas, Fluids and Related Interdisciplinary Topics, v. 77, p. 026106, 2008.
+Citações:9|10
+
+141.
+Fabbri, Ricardo ; Costa, Luciano da F. ; Torelli, Julio C. ; Bruno, Odemir M. . 2D Euclidean distance transform algorithms. ACM Computing Surveys, v. 40, p. 1-44, 2008.
+Citações:90|219
+
+142.
+CORTEZ, Célia Martins ; CRUZ, F.A.O. ; SILVA, Dilson ; COSTA, L. da F. . Influence of fixed electric charges on potential profile across the squid axon membrane. Physica. B, Condensed Matter, v. 403, p. 644-652, 2008.
+Citações:4|5
+
+143.
+Travencolo, B. A. N. ; COSTA, L. da F. . Hierarchical spatial organization of geographical networks. Journal of Physics. A, Mathematical and Theoretical, v. 41, p. 224004, 2008.
+Citações:2|5
+
+144.
+BOAS, Paulino Ribeiro Villas ; RODRIGUES, Francisco Aparecido ; TRAVIESO, G. ; COSTA, L. da F. . Border trees of complex networks. Journal of Physics. A, Mathematical and Theoretical, v. 41, p. 224005, 2008.
+Citações:7|7
+
+145.
+Meng, S. ; COSTA, L. da F. ; Geyer S H ; VIANA, M. P. ; Reiter, C. ; Muller, G B ; Weninger W J . Three-dimensional description and mathematical characterization of the parasellar internal carotid artery in human infants. Journal of Anatomy, v. 212, p. 636-644, 2008.
+Citações:9|12
+
+146.
+AMANCIO, DIEGO R. ; ANTIQUEIRA, Lucas ; PARDO, THIAGO A. S. ; da F. COSTA, LUCIANO ; OLIVEIRA, OSVALDO N. ; NUNES, MARIA G. V. . COMPLEX NETWORKS ANALYSIS OF MANUAL AND MACHINE TRANSLATIONS. International Journal of Modern Physics C, v. 19, p. 583, 2008.
+Citações:26|33
+
+147.
+Meng, S. ; Geyer S H ; COSTA, L. da F. ; VIANA, M. P. ; Weninger W J . Objective characterization of the course of the parasellar internal carotid artery using mathematical tools. Surgical and Radiologic Anatomy (Online), v. 30, p. ----, 2008.
+Citações:9|8
+
+148.
+de ANGELIS, ANDRÉ FRANCESCHI ; TRAVIESO, Gonzalo ; RUGGIERO, CARLOS ANTÔNIO ; da FONTOURA COSTA, LUCIANO . ON THE EFFECTS OF GEOGRAPHICAL CONSTRAINTS ON TASK EXECUTION IN COMPLEX NETWORKS. International Journal of Modern Physics C, v. 19, p. 847, 2008.
+Citações:2
+
+149.
+Costa, Luciano da F.; Rodrigues, Francisco A. ; Cristino, Alexandre S. . Complex networks: the key to systems biology. Genetics and Molecular Biology, v. 31, p. 591, 2008.
+Citações:12|28
+
+150.
+Leo, Richardson N. ; Leo, Ricardo M. ; da Costa, Luciano F. ; Rock Levinson, S. ; Walmsley, Bruce . A novel role for MNTB neuron dendrites in regulating action potential amplitude and cell excitability during repetitive firing. European Journal of Neuroscience, v. 27, p. 3095-3108, 2008.
+Citações:9|7
+
+151.
+COSTA, E ; DELDEBBIO, C ; CINTRA, L ; DAFONTOURACOSTA, L ; HAMASSAKI, D ; SANTOS, M . Jararhagin, a snake venom metalloprotease-disintegrin, activates the Rac1 GTPase and stimulates neurite outgrowth in neuroblastoma cells. Toxicon, v. 52, p. 380-384, 2008.
+Citações:1|1
+
+152.
+COSTA, L; RODRIGUESTOGNETTI, M ; SILVA, F . Concentric characterization and classification of complex network nodes: Application to an institutional collaboration network. Physica. A, v. 387, p. 6201-6214, 2008.
+Citações:11|13
+
+153.
+TRAVENCOLO, B ; DAFCOSTA, L . Accessibility in complex networks. Physics Letters A, v. 373, p. 89-95, 2008.
+Citações:29|31
+
+154.
+ANTIQUEIRA, L ; NUNES, M G V ; OLIVEIRA JR, O N ; COSTA, L. da F. . Strong correlations between text quality and complex networks features. Physica. A, v. 373, p. 811-820, 2007.
+Citações:37|47
+
+155.
+Travencolo, B. A. N. ; Debat, D. M. ; BELETTI, M.E. ; Silveira, J. R. S. ; Ehrlich, R. ; COSTA, L. da F. . A new method for quantifying three-dimensional interactions between biological structures. Journal of Anatomy, v. 210, p. 221-231, 2007.
+Citações:5|6
+
+156.
+COSTA, L. da F.; TRAVIESO, Gonzalo . Exploring complex networks through random walks. Physical Review E - Statistical Physics, Plasmas, Fluids and Related Interdisciplinary Topics, v. 75(1), p. 016102 Part 2, 2007.
+Citações:34|24
+
+157.
+COSTA, L. da F.; Kaiser, M. ; Hilgetag, C. C. . Predicting the connectivity of primate cortical networks from topological and spatial node properties. BMC Systems Biology, v. 1, p. 16 2007, 2007.
+Citações:32|41
+
+158.
+ COSTA, L. da F.; RODRIGUES, Francisco Aparecido ; TRAVIESO, Gonzalo ; BOAS, Paulino Ribeiro Villas . Characterization of complex networks: a survey of measurements. Advances in Physics, v. 56, p. 167-242, 2007.
+Citações:664|893
+
+159.
+CASTANON, C. ; FRAGA, J. S. ; FERNANDEZ, S. ; COSTA, L. da F. ; GRUBER, A. . Biological shape characterization for automatic image recognition and diagnosis of protozoan parasites of the genus Eimeria. Pattern Recognition, v. 40, p. 1899-1910, 2007.
+Citações:18|24
+
+160.
+Barchuk, A. R. ; Cristino, A. S. ; Kurcharski, R. ; COSTA, L. da F. ; Simões, Z. L. P. ; MALESZKA, R. . Molecular determinants of caste differentiation in the highly eusocial honeybee Apis mellifera. BMC Developmental Biology (Online), v. 7, p. 70, 2007.
+Citações:112|125
+
+161.
+MCAULEY,J.J. ; COSTA, L. da F. ; CAETANO,T.S. . Rich-club phenomenon across complex network hierarchies. Applied Physics Letters, v. 91, p. 084103 2007, 2007.
+Citações:44|39
+
+162.
+SILVA, Linder Cândido da ; CANDIDO,L. ; COSTA, L. da F. ; OLIVEIRA JR, O N . Formation energy and interaction of point defects in two-dimensional colloidal crystals. Physical Review. B, Condensed Matter and Materials Physics, v. 76, p. 035441 2007, 2007.
+Citações:9|5
+
+163.
+ROCHA, Luis Enrique Correa da ; COSTA, L. da F. . 2D pattern evolution constrained by complex network dynamics. New Journal of Physics, v. 9, p. 108 2007, 2007.
+Citações:1|1
+
+164.
+COSTA, L. da F.; SPORNS, Olaf . Diversity of cortical states at nonequilibrium simulated by ant-ferromagnetic Ising model under metropolis dynamics. International Journal of Bifurcation and Chaos in Applied Sciences and Engineering, v. 17, p. 2387-2398, 2007.
+Citações:4|4
+
+165.
+RODRIGUES, Francisco Aparecido ; TRAVIESO, G. ; COSTA, L. da F. . Fast community identification by hierarchical growth. International Journal of Modern Physics C, v. 18, p. 937-948, 2007.
+Citações:4|6
+
+166.
+COSTA, L. da F.; RODRIGUES, Francisco Aparecido ; TRAVIESO, G. . Analyzing trails in complex networks. Physical Review E - Statistical Physics, Plasmas, Fluids and Related Interdisciplinary Topics, v. 76, p. 046106 2007, 2007.
+Citações:7|5
+
+167.
+COSTA, L. da F.; SPORNS, Olaf ; ANTIQUEIRA, L ; NUNES, M G V ; OLIVEIRA, Osvaldo Novais . Correlations between structure and random walk dynamics in directed complex networks. Applied Physics Letters, v. 91, p. 054107 2007, 2007.
+Citações:22|24
+
+168.
+COSTA, L. da F.; ANDRADE, R. F. S. . What are the best concentric descriptors for complex networks?. New Journal of Physics, v. 9, p. 311 2007, 2007.
+Citações:15|17
+
+169.
+COSTA, L. da F.; BONCI, D.M.O. ; SAITO, C.A. ; ROCHA, F.A.D. ; SILVEIRA, L.C.D. ; VENTURA, D.F. . Voronoi analysis uncovers relationship between mosaics of normally placed and displaced amacrine cells in the thraira retina. Neuroinformatics (Totowa), v. 5, p. 59-77, 2007.
+Citações:4|7
+
+170.
+COSTA, L. da F.; VIANA, M. P. ; BELETTI, M.E. . Complex channel networks of bone structure. Applied Physics Letters, v. 88, p. 033903-1-033903-3, 2006.
+Citações:9|9
+
+171.
+FRANCOY, T.M. ; PRADO, P.R.R. ; GONCALVES, L.S. ; COSTA, L. da F. ; JONG, D. . Morphometric differences in a single wing cell can discriminate Apis mellifera subspecies. Apidologie (Celle), v. 37, p. 91-97, 2006.
+Citações:25|26
+
+172.
+Weninger W J ; Geyer S H ; Mohun T J ; Rasskin Gutman, D ; Matsui, T ; Ribeiro, I ; COSTA, L. da F. ; Izpisua Belmonte, J C ; Muller, G B . High-resolution episcopic microscopy: a rapid technique for high detailed 3D analysis of gene activity in the context of tissue architecture and morphology. Anatomy and Embryology, DOI 10.1007/S00429-005-0073-x, v. 211, p. 213-221, 2006.
+Citações:68|76
+
+173.
+DIAMBRA, Luis Anibal ; COSTA, L. da F. . Pattern formation in a gene network model with boundary shape dependence. Physical Review E - Statistical Physics, Plasmas, Fluids and Related Interdisciplinary Topics, v. 73, n.031917, p. 1-10, 2006.
+Citações:6|6
+
+174.
+COSTA, L. da F.; ROCHA, Fernando ; LIMA, Silene M Araújo de . Characterizing polygonality in biological structures. Physical Review E - Statistical Physics, Plasmas, Fluids and Related Interdisciplinary Topics, v. 73, n.011913, p. 011913, 2006.
+Citações:9|19
+
+175.
+COSTA, L. da F.; SPORNS, Olaf . Correlating thalamocortical connectivity and activity. Applied Physics Letters, v. 89, p. 013903, 2006.
+Citações:12|20
+
+176.
+COSTA, L. da F.; ROCHA, Luis Enrique Correa da . A generalized approach to complex networks. European Physical Journal B, v. 50, p. 237-242, 2006.
+Citações:27|30
+
+177.
+FRANCO, Fernando F ; PRADO, P.R.R. ; SENE, F M ; COSTA, L. da F. ; Manfrin, M. H. . Aedeagus morphology as a discriminant marker in two closely related Cactophilic species of Drosophila (Diptera; Drosophilidae) in South America. Anais da Academia Brasileira de Ciências, v. 78, n.2, p. 203-212, 2006.
+Citações:7|3|9
+
+178.
+COSTA, L. da F.; Bollt, E . Fast and accurate nonlinear spectral method for image recognition and registration. Applied Physics Letters, v. 89(17), p. 174102, 2006.
+Citações:2|3
+
+179.
+COSTA, L. da F.; RODRIGUES, Francisco Aparecido ; TRAVIESO, G. . Protein domain connectivity and essentiality. Applied Physics Letters, v. 89, p. 174101, 2006.
+Citações:5|8
+
+180.
+Cristino, A. S. ; Nunes, F. M. F. ; Lobo, C. H. ; Bitondi, M. M. G. ; Simões, Z. L. P. ; COSTA, L. da F. ; Latorff, H. M. G. ; Moritz, R. F. A. ; Evans, J. D. ; Hartfelder, K. . Caste development and reproduction: a genome-wide analysis of hallmarks of insect eusociality. Insect Molecular Biology, v. 15, p. 703-714, 2006.
+Citações:37|43
+
+181.
+COSTA, L. da F.; SILVA, Filipe Nascimento . Hierarchical characterization of complex networks. Journal of Statistical Physics, v. 125, p. 845-876, 2006.
+Citações:29|40
+
+182.
+OLIVEIRA, Rafael Carvalho de ; COSTA, L. da F. ; Fernandes, E. A. ; Alvarenga, B. O. ; Matioli, S. R. ; BELETTI, M.E. . Bone histomorphometry of broilers submitted to different phosphorus sources in growing and finisher rations. Pesquisa Agropecuária Brasileira, v. 41(10), p. 1517-1523, 2006.
+Citações:1|2
+
+183.
+TRAVIESO, Gonzalo ; COSTA, L. da F. . Spread of opinions and proportional voting. Physical Review. E, Statistical, Nonlinear and Soft Matter Physics, v. 74, p. 036112, 2006.
+Citações:17|17
+
+184.
+Cristino, A. S. ; NASCIMENTO, A. M. ; COSTA, L. da F. ; Simões, Z. L. P. . A comparative analysis of highly conserved sex-determining genes between Apis mellifera and Drosophila melanogaster. Genetics and Molecular Research, v. 5, p. 154-168, 2006.
+Citações:8|10
+
+185.
+COSTA, L. da F.. Learning about knowledge: A complex network approach. Physical Review. E, Statistical, Nonlinear and Soft Matter Physics, v. 74, p. 026103, 2006.
+Citações:3|7
+
+186.
+DIAMBRA, L ; CINTRA, L ; CHEN, Q ; SCHUBERT, D ; COSTA, L . Cell adhesion protein decreases cell motion: Statistical characterization of locomotion activity. Physica. A, v. 365, p. 481-490, 2006.
+Citações:7|6
+
+187.
+BELETTI, M e ; COSTA, L. da F. ; VIANA, M. P. . A comparison of morphometric characteristics of sperm from fertile Bos taurus and Bos indicus bulls in Brazil. Animal Reproduction Science, v. 85, n.1-2, p. 105-116, 2005.
+Citações:27|37
+
+188.
+BELETTI, M e ; COSTA, L. da F. ; VIANA, M. P. . A spectral framework for sperm shape characterization. Computers in Biology and Medicine, v. 35, n.6, p. 463-473, 2005.
+Citações:10|13
+
+189.
+OLIVEIRA, R. F. ; COSTA, L. da F. ; ROQUE, A.C. . A possible mechanism of curvature coding in early vision. Neurocomputing (Amsterdam), v. 65-66, p. 117-124, 2005.
+Citações:1|1
+
+190.
+COSTA, L. da F.; BARBOSA, M S ; COUPEZ, V . On the potential of the excluded volume and autocorretation as neuromorphometric descriptors. Physica. A, v. 348, p. 317-326, 2005.
+Citações:3|3
+
+191.
+CHEN, Q ; CHEN, T J ; LETOURNEAU, P C ; COSTA, L. da F. ; SCHUBERT, D. . Modifier of cell adhesion regulates N-cadherin-mediated cell-cell adhesion and neurite outgrowth. The Journal of Neuroscience, v. 25, n.2, p. 281-290, 2005.
+Citações:39|37
+
+192.
+COSTA, L. da F.; DIAMBRA, L A . Topographical maps as complex networks. Physical Review E - Statistical Physics, Plasmas, Fluids and Related Interdisciplinary Topics, v. 71, n.2, p. 021901, 2005.
+Citações:6|9
+
+193.
+RODRIGUES, E. P. ; BARBOSA, M S ; COSTA, L. da F. . Self-referred approach to lacunarity. Physical Review E - Statistical Physics, Plasmas, Fluids and Related Interdisciplinary Topics, v. 72, n.1, p. 016707, 2005.
+Citações:10|14
+
+194.
+COSTA, L. da F.; ROCHA, F ; LIMA, S M A . Statistical mechanics characterization of neuronal mosaics. Applied Physics Letters, v. 86, n.9, p. 093901, 2005.
+Citações:3|4
+
+195.
+COSTA, L. da F.. Biological sequence analysis through the one-dimensional percolation transform and its enhanced version. Bioinformatics (Oxford), v. 21, n.5, p. 608-616, 2005.
+Citações:2|2
+
+196.
+COSTA, L. da F.; TRAVIESO, Gonzalo ; RUGGIERO, Carlos Antonio . Complex grid computing. European Physical Journal B, v. 44, n.1, p. 119-128, 2005.
+Citações:8|12
+
+197.
+COSTA, L. da F.. Sznajd complex networks. International Journal of Modern Physics C, v. 16, n.7, p. 1001-1016, 2005.
+Citações:3|4
+
+198.
+COSTA, L. da F.; TRAVIESO, Gonzalo . Strength distribution in derivative networks. International Journal of Modern Physics C, v. 16, n.7, p. 1097-1105, 2005.
+Citações:2|2
+
+199.
+COSTA, L. da F.; BARBOSA, Marconi Soares ; SCHIERWAGEN, Andreas ; ALPAR, Alan ; GARTNER, Ulrich ; ARENDT, T . Active percolation analysis of pyramidal neurons of somatosensory cortex: A comparison of wild type and p21H-Ras(Val12) transgenic mouse. International Journal of Modern Physics C, v. 16, n.4, p. 655-667, 2005.
+Citações:3|5
+
+200.
+COSTA, L. da F.; TRAVENCOLO, Bruno Nassif ; AZEREDO, Abel ; BELETTI, M.E. ; MUELLER, Gerd B ; RASSKINGUTMAN, Diego ; STERNIK, Gabriel ; Ibañes, M. ; BELMONTE, Juan Izpisua . Field approach to three-dimensional gene expression pattern characterization. Applied Physics Letters, v. 86, n.14, p. 143901, 2005.
+Citações:4|4
+
+201.
+COSTA, L. da F.; CINTRA, L. C. ; SCHUBERT, D. . An integrated approach to the characterization of cell movement. Cytometry, v. 68A, n.2, p. 92-100, 2005.
+Citações:10|9
+
+202.
+COSTA, L. da F.; SPORNS, Olaf . Hierarchical features of large scale cortical connectivity. European Physical Journal B, v. 48, n.4, p. 567-573, 2005.
+Citações:15|21
+
+203.
+DIAMBRA, L. ; COSTA, L. da F. . Complex networks approach to gene expression driven phenotype imaging. Bioinformatics (Oxford), v. 21, n.20, p. 3846-3851, 2005.
+Citações:5|11
+
+204.
+A, Rodrigues F ; COSTA, L. da F. . Surviving opinions in Snajd models on complex networks. International Journal of Modern Physics C, v. 16, n.11, p. 1785-1792, 2005.
+Citações:9|16
+
+205.
+COSTA, L. da F.; COELHO, R. C. . Growth driven percolations: the dynamics of connectivity in neuronal systems. European Physical Journal B, v. 47, p. 571-581, 2005.
+Citações:6|8
+
+206.
+BARBOSA, M S ; COSTA, L. da F. ; BERNARDES, e S ; RAMAKERS ; PELT, J Van . Characterizing neuromorphologic alterations with shape functionals. European Physical Journal B, v. 37, p. 109-115, 2004.
+Citações:4|7
+
+207.
+COSTA, L. da F.; BARBOSA, M S ; COUPEZ, V . A direct approach to neuronal connectivity. Physica. A, Amsterdam, v. 341, p. 618-628, 2004.
+Citações:1|2
+
+208.
+COSTA, L. da F.. Voronoi and fractal complex networks and their characterization. International Journal of Modern Physics C, v. 15, n.1, p. 175-183, 2004.
+Citações:9
+
+209.
+COSTA, L. da F.. What's in a name?. International Journal of Modern Physics C, v. 15, p. 371-379, 2004.
+Citações:17|17
+
+210.
+BRUNO, O. M. ; COSTA, L. da F. . A parallel implementation of exact euclidean distance transform based on exact dilations. Microprocessors and Microsystems, v. 28, n.3, p. 107-113, 2004.
+Citações:9|9
+
+211.
+BELETTI, M.E. ; COSTA, L. da F. ; VIANA, M. P. . A computational approach to characterization of bovine sperm chromatic alterations. Biotechnic & Histochemistry, Louisville-EUA, v. 79, n.1, p. 17-23, 2004.
+Citações:6|8
+
+212.
+TORRES, R S ; FALCAO, A X ; COSTA, L. da F. . A graph-based approach for multiscale shape analysis. Pattern Recognition, v. 37, p. 1163-1174, 2004.
+Citações:43|57
+
+213.
+MORAES, E M ; SPRESSOLA, V L ; PRADO, P R R ; COSTA, L. da F. ; SENE, F M . Divergence in wing morphology among sibling species of the Drosophila buzzatii cluster. Journal of Zoological Systematics and Evolutionary Research, Berlin, v. 42, n.2, p. 154-158, 2004.
+Citações:28|30
+
+214.
+COSTA, L. da F.; BARBOSA, M S ; MANOEL, e T M ; STREICHER, J ; MULLER, G B . Mathematical characterization of three-dimensional gene expression patterns. Bioinformatics (Oxford), Oxford-Inglaterra, v. 20, n.11, p. 1653-1662, 2004.
+Citações:7|9
+
+215.
+COSTA, L. da F.. Reinforcing the resilience of complex networks. Physical Review E - Statistical Physics, Plasmas, Fluids and Related Interdisciplinary Topics, College Park, v. 69, n.6, p. 066127, 2004.
+Citações:13|20
+
+216.
+ Costa, Luciano da Fontoura. The Hierarchical Backbone of Complex Networks. Physical Review Letters, College Park, v. 93, n.9, p. 098702, 2004.
+Citações:45
+
+217.
+COSTA, L. da F.; BARBOSA, M S . An analytical approach to neuronal connectivity. European Physical Journal B, v. 42, n.4, p. 573-580, 2004.
+Citações:4|5
+
+218.
+COSTA, L. da F.. L-percolations of complex networks. Physical Review E. (Cessou em 2000. Cont. 1539-3755 Physical Review. E, Statistical, Nonlinear, and Soft Matter Physics), v. 70, p. 056106, 2004.
+Citações:8|10
+
+219.
+WALDEMARIN, Katia C D ; BELETTI, M.E. ; COSTA, L. da F. . Nuclear morphometry of neoplastic cells as a method for diagnosis of histiocytoma, mastocytoma and transmissible venereal tumor in dogs. Real-Time Imaging, v. 10, n.4, p. 197-204, 2004.
+Citações:5|7
+
+220.
+SABINO, Daniela M Ushizima ; COSTA, L. da F. ; RIZATTI, e G ; ZAGO, Marco A . A texture approach to leukocyte recognition. Real-Time Imaging, v. 10, n.4, p. 205-216, 2004.
+Citações:55|86
+
+221.
+TAKEMURA, Celina M ; CESAR JR, Roberto M ; ARANTES, Renata A Tadeu ; COSTA, L. da F. ; ZAHER, e Hingst ; BONATO, V ; REIS, S F . Morphometrical data analysis using wavelets. Real-Time Imaging, v. 10, n.4, p. 239-250, 2004.
+Citações:6|6
+
+222.
+LB, Coelho ; MCF, Oliveira ; COSTA, L. da F. . Investigating human color preferences in the perception of complex three dimensional structures. Journal of Integrative Neuroscience, Londres, v. 3, n.1, p. 47-60, 2004.
+Citações:1
+
+223.
+Estrozi, L ; RIOS FILHO, L. G. ; CAMPOS, A. G. ; CESAR JR, R M ; COSTA, L. da F. . 1D and 2D Fourier-based approaches to numeric curvature estimation and their comparative performance assessment. Digital Signal Processing, v. 13, n.1, p. 172-197, 2003.
+Citações:13|13
+
+224.
+BARBOSA, Marconi Soares ; da FONTOURA COSTA, LUCIANO . Neuromorphometric characterization with shape functionals. Physical Review. E, Statistical, Nonlinear and Soft Matter Physics, College Park USA, v. 67, n.6, p. 061910, 2003.
+Citações:9|11
+
+225.
+COSTA, L. da F.; BARBOSA, M S ; COUPEZ, V ; STAUFFER, D . Morphological Hopfield networks. Brain and Mind (Dordrecht), v. 4, n.1, p. 91-105, 2003.
+Citações:4
+
+226.
+STAUFFER, D ; AHARONY, L ; COSTA, L. da F. ; ADLER, J . Efficient Hopfield pattern recognition on a scale-free neural network. European Physical Journal B, Heidelberg, v. 32, n.3, p. 395-399, 2003.
+Citações:68|76
+
+227.
+BELETTI, M e ; COSTA, L. da F. . A systematic approach to multi-species sperm morphological characterization. Analytical and Quantitative Cytology and Histology, St. Louis - MO, v. 25, n.2, p. 97-107, 2003.
+Citações:17|16
+
+228.
+COSTA, L. da F.; RODRIGUES, C A ; SOUZA, N. C. ; OLIVEIRA JR, O N . Statistical characterization of morphological features of layer-by-layer polymer films using image analysis. Journal of Nanoscience and Nanotechnology, Stevenson Ranch, v. 3, n.3, p. 257-261, 2003.
+Citações:5|8
+
+229.
+SOUZA, N. C. ; SILVA, J R ; RODRIGUES, C A ; COSTA, L. da F. ; GIACOMETTI, J A ; OLIVEIRA JR, O N . Adsorption processes in layer-by-layer films of poly(o-methoxyaniline): the role of aggregation. Thin Solid Films, v. 428, p. 232-236, 2003.
+Citações:13|16
+
+230.
+SOUZA, N. C. ; SILVA, J R ; RODRIGUES, C. A. ; HERNANDES, A C ; COSTA, L. da F. ; GIACOMETTI, J A ; OLIVEIRA JR, O N . Diffusion-controlled growth of aggregates in layer-by-layer films of poly(o-methoxianiline). Synthetic Metals, v. 135-6, p. 121-122, 2003.
+Citações:6|7
+
+231.
+COSTA, L. da F.; MANOEL, e T M . A percolation approach to neural morphometry and connectivity. Neuroinformatics (Totowa), Totowa-NJ, USA, v. 1, n.1, p. 65-80, 2003.
+
+232.
+MEDEIROS, F. N. S. ; MASCARENHAS, Nelson D A ; COSTA, L. da F. . Evaluation of speckle noise MAP filtering algorithms applied to SAR images. International Journal of Remote Sensing, London, v. 24, n.24, p. 5197-5218, 2003.
+Citações:8|11
+
+233.
+BIANCHI, A G C ; COSTA, L. da F. ; SANTOS, M F ; HAMASSAKIBRITTO, D. E. . Inferring shape evolution. Pattern Recognition Letters, Amsterdam, v. 24, n.7, p. 1005-1014, 2003.
+Citações:1|1
+
+234.
+LUPPE, M. ; COSTA, L. da F. ; RODA, V. O. . Parallel implementation of exact dilations and multi-scale skeletonization. Real-Time Imaging, London, v. 9, n.3, p. 163-169, 2003.
+Citações:2|2
+
+235.
+COSTA, L. da F.; MUTINARI, G. ; SCHUBERT, D. . Characterizing width uniformity by wave propagation. Physical Review E - Statistical Physics, Plasmas, Fluids and Related Interdisciplinary Topics, College Park, v. 68, n.5, p. 056704, 2003.
+Citações:2
+
+236.
+COSTA, L. da F.; STAUFFER, D . Associative recall in non-randomly diluted neural networks. Physica. A, Amsterdam, Holanda, v. 330, n.1/2, p. 37-45, 2003.
+Citações:17|19
+
+237.
+DAFONTOURACOSTA, L. Enhanced multiscale skeletons. Real-Time Imaging, v. 9, n.5, p. 315-319, 2003.
+Citações:4|4
+
+238.
+DAFCOSTA, L. A Maçã e o Biscoito da Sorte. Revista Brasileira de Ensino de Física (Impresso), v. 25, p. 164, 2003.
+
+239.
+Costa, Luciano; Manoel, Edson ; Faucereau, Fabien ; Chelly, Jamel ; van Pelt, Jaap ; Ramakers, Ger . A shape analysis framework for neuromorphometry. Network (Bristol), Holanda, v. 13, n.03, p. 283-310, 2002.
+Citações:48|60
+
+240.
+FABBRI, R. ; ESTROZI, L. F. ; COSTA, L. da F. . On Voronoi Diagrams and Medial Axis. Journal of Mathematical Imaging and Vision, v. 17, p. 27-40, 2002.
+Citações:14|26
+
+241.
+CeliaCoelho, R ; COSTA, L. da F. . Realistic neuromorphic models and their application to neural reorganization simulations. Neurocomputing (Amsterdam), v. 48, p. 555-571, 2002.
+Citações:5|6
+
+242.
+HOMEM, M R P ; MASCARENHAS, N D A ; COSTA, L. da F. ; PREZA, C. . Biological image restoration in optical-sectioning microscopy using prototype image constraints. Real-Time Imaging, v. 8, n.6, p. 475-490, 2002.
+Citações:8
+
+243.
+COSTA, L. Estimating derivatives and curvature of open curves. Pattern Recognition, v. 35, n.11, p. 2445-2451, 2002.
+Citações:3|4
+
+244.
+Falcao, A ; COSTA, L. da F. . Multiscale skeletons by image foresting transform and its application to neuromorphometry. Pattern Recognition, Kidlington, v. 35, n.7, p. 1571-1582, 2002.
+Citações:42|52
+
+245.
+BRUNO, O M ; CESAR JR, R M ; CONSULARO, L A ; COSTA, L. da F. . Synergos: synergetic vision research.. Real-Time Systems, Boston, v. 21, p. 7-41, 2001.
+Citações:4|2
+
+246.
+Costa, Luciano da Fontoura; Manoel, Edson Tadeu M. . Optimized approach to multiscale skeleton generation. Optical Engineering (Bellingham), v. 40, n.9, p. 1752, 2001.
+Citações:4|5
+
+247.
+COSTA, L. da F.; CESAR JUNIOR, R. M. . ReVision Reviewing vision in the WEB.. InterJournal (Online), Boston, Online, v. online, p. 313, 2000.
+
+248.
+Bruno, O ; COSTA, L. da F. . Effective Image Segmentation with Flexible ICM-Based Markov Random Fields in Distributed Systems of Personal Computers. Real-Time Imaging, London, v. 6, p. 283-295, 2000.
+Citações:1
+
+249.
+COSTA, L. da F.. Robust Skeletonization through Exact Euclidean Distance Transform and its Application to Neuromorphometry. Real-Time Imaging, v. 6, p. 415-431, 2000.
+Citações:15
+
+250.
+COSTA, L. da F.. Particle systems analysis by using skeletonization and exact dilations. Particle & Particle Systems Characterization, Alemanha, v. 16, p. 273-277, 2000.
+Citações:4|4
+
+251.
+COSTA, L. da F.; VELTE, T. J. . Automatic characterization and classification of ganglion cells from the salamander retina. The Journal of Comparative Neurology, New York, v. 404, p. 33-51, 1999.
+Citações:40|47
+
+252.
+DAFONTOURACOSTA, L. Gauss' Law in Image Processing and Analysis via Fast Numerical Calculation of Vector Fields. Real-Time Imaging, London, v. 5, n.4, p. 243-251, 1999.
+Citações:2
+
+253.
+COSTA, L. da F.; ESTROZI, L. F. . Multiresolution shape representation without border shifting.. Electronics Letters, London, v. 35, n.21, p. 1829-1830, 1999.
+Citações:21|28
+
+254.
+Cesar, R ; COSTA, L. da F. . Computer-vision-based extraction of neural dendrograms. Journal of Neuroscience Methods, Amsterdam, v. 93, p. 121-131, 1999.
+Citações:16|16
+
+255.
+CESAR JUNIOR, R. M. ; COSTA, L. da F. . Neural cell classification by wavelets and multiscale curvature.. Biological Cybernetics, Berlin, v. 79, p. 347-360, 1998.
+Citações:23|27
+
+256.
+COSTA, L. da F.; CONSULARO, L. A. . MATCOM integrates MATLAB resources into stand-alone applications.. Computers in Physics, New York, v. 12, n.5, p. 460-462, 1998.
+Citações:1
+
+257.
+Marana, A ; COSTA, L. da F. ; LOTUFO, R. A. ; VELASTIN, S. A. . Automatic estimation of crowd density using texture. Safety Science, Amsterdam, v. 28, n.3, p. 165-175, 1998.
+Citações:55|75
+
+258.
+CESAR JUNIOR, R M ; COSTA, L. da F. . Application and assessment of multiscale bending energy for morphometric characterization of neural cells. Review of Scientific Instruments, New York, v. 68, n.5, p. 2177-2186, 1997.
+Citações:34|37
+
+259.
+Antoine, J ; BARACHE, D. ; CESAR JUNIOR, R. M. ; COSTA, L. da F. . Shape characterization with the wavelet transform. Signal Processing, Amsterdam, v. 62, p. 265-290, 1997.
+Citações:40|49
+
+260.
+Marcondes Cesar, R ; COSTA, L. da F. . Towards effective planar shape representation with multiscale digital curvature analysis based on signal processing techniques. Pattern Recognition, London, v. 29, p. 1559-1569, 1996.
+Citações:3|31
+
+261.
+COSTA, L. da F.. Small camera movements as a means of reducing the amount of broken and false detected lines in Hough transform.. Real-Time Imaging, London, v. 2, p. 181-185, 1996.
+
+262.
+COSTA, L. da F.. Real-time imaging and vision? The Web knows about it.. Real-Time Imaging, London, v. 2, p. 225-230, 1996.
+Citações:1
+
+263.
+COELHO, R. C. ; COSTA, L. da F. . On the application of the Bouligand-Minkowski fractal dimension for shape characterization. EURASIP Journal on Applied Signal Processing, v. 3, p. 163-176, 1996.
+
+264.
+Cesar, R ; COSTA, L. da F. . Piecewise Linear Segmentation of Digital Contours in O(N. Log(N)) Through a Technique Based on Effective Digital Curvature Estimation. Real-Time Imaging, London, v. 1, n.6, p. 409-417, 1995.
+Citações:17
+
+265.
+Costa, Luciano da F.. Computer vision based morphometric characterization of neural cells. Review of Scientific Instruments, New York, v. 66, n.7, p. 3770, 1995.
+Citações:10|11
+
+266.
+da F. Costa, L ; COSTA, L. da F. . Towards Real-Time Detection of Discrete Straight Features with a Hybrid Technique Based on Preliminary Curve Segmentation and Zoomed-Adaptive Parametric Mapping. Real-Time Imaging, v. 1, p. 203-213, 1995.
+Citações:3
+
+267.
+COSTA, L. da F.. Image compression using the Hough transform. EURASIP Journal on Applied Signal Processing, London, v. 1, p. 12-19, 1994.
+
+268.
+COSTA, L. da F.. Topographical maps of orientation specificity. Biological Cybernetics, Berlin, v. 71, p. 537-546, 1994.
+Citações:4|5
+
+269.
+COSTA, L. da F.. Assessing concurrent hardware alternatives for the implementation of the binary Hough transform. EURASIP Journal on Applied Signal Processing, London, v. 1, p. 195-203, 1994.
+
+270.
+COSTA, L. da F.; SANDLER, M B . Effective detection of digital bar segments with Hough transform. CVGIP: Graphical Models and Image Processing, Estados Unidos, v. 55, n.3, p. 180-191, 1993.
+Citações:13|14
+
+271.
+COSTA, L. da F.; Slaets, J.F.W. . On the efficiency of parallel pipelined architectures. IEEE Transactions on Signal Processing, New York, v. 39, n.9, p. 2086-2089, 1991.
+Citações:2|3
+
+272.
+da F. COSTA, LUCIANO; Leng, Xiaoling ; Sandler, Mark B. ; Smart, Peter . Semiautomated analysis of clay samples. Review of Scientific Instruments, New York, v. 62, n.9, p. 2163, 1991.
+Citações:4|4
+
+273.
+Sandler, M ; Liaqat Hayat ; COSTA, L. da F. . Benchmarking processors for image processing. Microprocessors and Microsystems, Surrey, v. 14, n.9, p. 583-588, 1990.
+Citações:6|5
+
+274.
+COSTA, L. da F.; SANDLER, M. B. . A binary Hough transform and its efficient implementation in a systolic array architecture. Pattern Recognition Letters, Amsterdam, v. 10, p. 329-334, 1989.
+Citações:12|18
+
+275.
+COSTA, L. da F.; SANDLER, M B . Improving parameter space for Hough transform. Electronics Letters, Londres, v. 25, n.2, p. 134-136, 1989.
+Citações:4|6
+
+276.
+COSTA, L. da F.. Bit reversal for the TMS32010 fast Fourier transform calculation. Microprocessors and Microsystems, Surrey, v. 13, n.7, p. 445-448, 1989.

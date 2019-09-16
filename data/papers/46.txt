@@ -1,0 +1,129 @@
+1.
+ SOARES-SCHANOSKI, ALESSANDRA ; BAPTISTA CRUZ, NATÁLIA ; DE CASTRO-JORGE, LUÍZA ANTUNES ; DE CARVALHO, RENAN VILLANOVA HOMEM ; SANTOS, CLIOMAR ALVES DOS ; RÓS, NANCY DA ; OLIVEIRA, ÚRSULA ; COSTA, DANUZA DUARTE ; SANTOS, CECÍLIA LUÍZA SIMÕES DOS ; CUNHA, MARIELTON DOS PASSOS ; OLIVEIRA, MARIA LEONOR SARNO ; ALVES, JULIANA CARDOSO ; OCÉA, REGINA ADALVA DE LUCENA COUTO ; RIBEIRO, DANIELLE RODRIGUES ; GONÇALVES, ANDRÉ NICOLAU AQUIME ; GONZALEZ-DIAS, PATRICIA ; SUHRBIER, ANDREAS ; ZANOTTO, PAOLO MARINHO DE ANDRADE ; AZEVEDO, INÁCIO JUNQUEIRA DE ; ZAMBONI, DARIO S. ; ALMEIDA, ROQUE PACHECO ; HO, PAULO LEE ; KALIL, JORGE ; Nishiyama, Milton Yutaka ; NAKAYA, HELDER I. . Systems analysis of subjects acutely infected with the Chikungunya virus. PLoS Pathogens, v. 15, p. e1007880, 2019.
+
+2.
+AMAZONAS, DIANA R. ; PORTES-JUNIOR, JOSÉ A. ; NISHIYAMA-JR, MILTON Y. ; NICOLAU, CAROLINA A. ; CHALKIDIS, HIPÓCRATES M. ; MOURÃO, ROSA H.V. ; GRAZZIOTIN, FELIPE G. ; ROKYTA, DARIN R. ; LISLE GIBBS, H. ; VALENTE, RICHARD H. ; JUNQUEIRA-DE-AZEVEDO, INÁCIO L.M. ; MOURA-DA-SILVA, ANA M. . Molecular mechanisms underlying intraspecific variation in snake venom. Journal of Proteomics, v. 178, p. 20-40, 2018.
+
+3.
+DE OLIVEIRA, URSULA CASTRO ; Nishiyama, Milton Yutaka ; DOS SANTOS, MARIA BEATRIZ VIANA ; SANTOS-DA-SILVA, ANDRIA DE PAULA ; CHALKIDIS, HIPÓCRATES DE MENEZES ; SOUZA-IMBERG, ANDREIA ; CANDIDO, DENISE MARIA ; YAMANOUYE, NORMA ; DORCE, VALQUÍRIA ABRÃO CORONADO ; JUNQUEIRA-DE-AZEVEDO, INÁCIO DE LOIOLA MEIRELLES . Proteomic endorsed transcriptomic profiles of venom glands from Tityus obscurus and T. serrulatus scorpions. PLoS One, v. 13, p. e0193739, 2018.
+
+4.
+BENSAOUD, CHAIMA ; Nishiyama, Milton Yutaka ; BEN HAMDA, CHERIF ; LICHTENSTEIN, FLAVIO ; CASTRO DE OLIVEIRA, URSULA ; Faria, Fernanda ; LOIOLA MEIRELLES JUNQUEIRA-DE-AZEVE, INÁCIO ; GHEDIRA, KAIS ; BOUATTOUR, ALI ; M?GHIRBI, YOUMNA ; CHUDZINSKI-TAVASSI, ANA MARISA . De novo assembly and annotation of Hyalomma dromedarii tick (Acari: Ixodidae) sialotranscriptome with regard to gender differences in gene expression. Parasites & Vectors, v. 11, p. 314, 2018.
+
+5.
+CIA, MARIANA CICARELLI ; CARVALHO, GISELLE ; AZEVEDO, RICARDO ANTUNES ; MONTEIRO-VITORELLO, CLAUDIA BARROS ; SOUZA, GLAUCIA MENDES ; NISHIYAMA-JÚNIOR, MILTON YUTAKA ; Lembke, Carolina Gimiliani ; FARIA, RAPHAEL S.C.A. ; MARQUES, JOÃO PAULO RODRIGUES ; MELOTTO, MAELI ; CAMARGO, LUIS EDUARDO ARANHA . Novel insights into the early stages of ratoon stunting disease of sugarcane inferred from transcript and protein analysis. PHYTOPATHOLOGY, v. 108, p. 8, 2018.
+
+6.
+DINIZ, MARCELO R. V. ; PAIVA, ANA L. B. ; GUERRA-DUARTE, CLARA ; Nishiyama, Milton Y. ; MUDADU, MAURICIO A. ; OLIVEIRA, URSULA DE ; BORGES, MÁRCIA H. ; YATES, JOHN R. ; JUNQUEIRA-DE-AZEVEDO, INÁCIO DE L. . An overview of Phoneutria nigriventer spider venom using combined transcriptomic and proteomic approaches. PLoS One, v. 13, p. e0200628, 2018.
+
+7.
+DOS SANTOS, TIAGO BENEDITO ; SOARES, JOÃO D. M. ; LIMA, JONI E. ; SILVA, JULIANA C. ; IVAMOTO, SUZANA T. ; BABA, VIVIANE Y. ; SOUZA, SILVIA G. H. ; LORENZETTI, ALAN P. R. ; PASCHOAL, ALEXANDRE R. ; MEDA, ANDERSON R. ; NISHIYAMA JÚNIOR, MILTON Y. ; DE OLIVEIRA, ÚRSULA C. ; MOKOCHINSKI, JOÃO B. ; GUYOT, ROMAIN ; JUNQUEIRA-DE-AZEVEDO, INÁCIO L. M. ; FIGUEIRA, ANTÔNIO V. O. ; MAZZAFERA, PAULO ; JÚNIOR, OSVALDO R. ; VIEIRA, LUIZ G. E. ; PEREIRA, LUIZ F. P. ; DOMINGUES, DOUGLAS S. . An integrated analysis of mRNA and sRNA transcriptional profiles in Coffea arabica L. roots: insights on nitrogen starvation responses. FUNCTIONAL & INTEGRATIVE GENOMICS, v. 19, p. 151-169, 2018.
+
+8.
+MENEZES, MILENE C. ; KITANO, EDUARDO S. ; BAUER, VERENA C. ; OLIVEIRA, ANA K. ; LOPES, EDUARDO C. ; Nishiyama, Milton Y. ; ZELANIS, ANDRÉ ; SERRANO, SOLANGE M.T. . Early response of C2C12 myotubes to a sub-cytotoxic dose of hemorrhagic metalloproteinase HF3 from Bothrops jararaca venom. Journal of Proteomics, v. 198, p. 163-176, 2018.
+
+9.
+VALENTE, RICHARD HEMMI ; LUNA, MILENE SCHMIDT ; DE OLIVEIRA, URSULA CASTRO ; Nishiyama-Junior, Milton Yutaka ; JUNQUEIRA-DE-AZEVEDO, INÁCIO DE LOIOLA ; PORTES-JUNIOR, JOSÉ ANTONIO ; CLISSA, PATRICIA BIANCA ; VIANA, LUCIANA GODOY ; SANCHES, LEONARDO ; MOURA-DA-SILVA, ANA MARIA ; PERALES, JONAS ; YAMANOUYE, NORMA . Bothrops jararaca accessory venom gland is an ancillary source of toxins to the snake. Journal of Proteomics, v. 177, p. 137-147, 2018.
+
+10.
+SOUSA, LEIJIANE F ; PORTES-JUNIOR, JOSÉ A ; NICOLAU, CAROLINA A ; BERNARDONI, JULIANA L ; NISHIYAMA-JR, MILTON Y ; AMAZONAS, DIANA R ; FREITAS-DE-SOUSA, LUCIANA A ; MOURÃO, ROSA HV ; CHALKIDIS, HIPÓCRATES M ; VALENTE, RICHARD H ; MOURA-DA-SILVA, ANA M . Functional proteomic analyses of Bothrops atrox venom reveals phenotypes associated with habitat variation in the Amazon. Journal of Proteomics, v. 159, p. 32-46, 2017.
+
+11.
+ABREU, THIAGO F. ; SUMITOMO, BIANCA N. ; Nishiyama, Milton Y. ; OLIVEIRA, URSULA C. ; SOUZA, GUSTAVO H.M.F. ; KITANO, EDUARDO S. ; ZELANIS, ANDRÉ ; SERRANO, SOLANGE M.T. ; JUNQUEIRA'DE'AZEVEDO, INÁCIO ; SILVA, PEDRO I. ; TASHIMA, ALEXANDRE K. . Peptidomics of Acanthoscurria gomesiana spider venom reveals new toxins with potential antimicrobial activity. Journal of Proteomics, v. 151, p. 232-242, 2017.
+Citações:2|3
+
+12.
+ALMEIDA, DIEGO DANTAS ; KITAJIMA, JOÃO PAULO ; Nishiyama, Milton Yutaka ; CONDOMITTI, GEORGE WILLIAN ; OLIVEIRA, URSULA CASTRO DE ; SETÚBAL, JOÃO CARLOS ; JUNQUEIRA-DE-AZEVEDO, INÁCIO L. M. . The complete mitochondrial genome of Bothrops jararaca (Reptilia, Serpentes, Viperidae). Mitochondrial DNA Part B, v. 1, p. 907-908, 2016.
+
+13.
+AKAMATSU, M. A. ; NISHIYAMA, M. Y. ; MORONE, M. ; OLIVEIRA, U. C. ; BEZERRA, M. F. B. ; SAKAUCHI, M. A. ; RAW, I. ; JUNQUEIRA DE AZEVEDO, I. L. M. ; KITAJIMA, J. P. ; CARVALHO, E. ; Ho, P. L. . Whole-Genome Sequence of a Bordetella pertussis Brazilian Vaccine Strain. Genome Announcements, v. 3, p. e01570-14, 2015.
+
+14.
+SOUSA, L.A.F. ; AMAZONAS, D.R. ; SOUSA, L.F. ; SANT?ANNA, S.S. ; NISHIYAMA-JR, M.Y. ; SERRANO, S.M.T. ; JUNQUEIRA-DE-AZEVEDO, I.L.M. ; CHALKIDIS, H.M. ; MOURA-DA-SILVA, A.M. ; MOURÃO, R.H.V. . Comparison of venoms from wild and long-term captive Bothrops atrox snakes and characterization of Batroxrhagin, the predominant class PIII metalloproteinase from the venom of this species. Biochimie (Paris. Print), v. 4795, p. S0300, 2015.
+Citações:10|4
+
+15.
+DE SETTA, NATHALIA MONTEIRO-VITORELLO, CLÁUDIA BARROS METCALFE, CUSHLA JANE CRUZ, GUILHERME MARCELO DEL BEM, LUIZ EDUARDO Vicentini, Renato NOGUEIRA, FÁBIO TEBALDI CAMPOS, ROBERTA ALVARES NUNES, SIDENY LIMA TURRINI, PAULA CRISTINA VIEIRA, ANDREIA PRATA OCHOA CRUZ, EDGAR ANDRÉS CORRÊA, TATIANA CAROLINE HOTTA, CARLOS TAKESHI DE MELLO VARANI, ALESSANDRO VAUTRIN, SONIA DA TRINDADE, ADILSON SILVA DE MENDONÇA VILELA, MARIANE Lembke, Carolina Gimiliani Sato, Paloma Mieko DE ANDRADE, RODRIGO FANDINO Nishiyama, Milton Yutaka CARDOSO-SILVA, CLAUDIO BENICIO SCORTECCI, KATIA CASTANHO GARCIA, ANTÔNIO AUGUSTO , et al. ; Building the sugarcane genome for biotechnology and identifying evolutionary trends. BMC Genomics, v. 15, p. 540, 2014.
+Citações:20|40
+
+16.
+ Nishiyama, Milton Yutaka; Ferreira, Savio Siqueira ; TANG, PEI-ZHONG ; BECKER, SCOTT ; PÖRTNER-TALIANA, ANTJE ; SOUZA, GLAUCIA MENDES . Full-Length Enriched cDNA Libraries and ORFeome Analysis of Sugarcane Hybrid and Ancestor Genotypes. Plos One, v. 9, p. e107351, 2014.
+Citações:2|3
+
+17.
+FERREIRA, S. S. ; Nishiyama, Milton Y. ; peterson, AH ; SOUZA, G. M. . Biofuel and energy crops: high-yield Saccharinae take center stage in the post-genomics era. GenomeBiology.com (London. Print), v. 14, p. 210, 2013.
+Citações:4|11
+
+18.
+HOTTA, CARLOS TAKESHI ; Nishiyama, Milton Yutaka ; SOUZA, GLAUCIA MENDES . Circadian Rhythms of Sense and Antisense Transcription in Sugarcane, a Highly Polyploid Crop. Plos One, v. 8, p. e71847, 2013.
+Citações:4|4
+
+19.
+GALLETTI, MARIA FERNANDA B. M. ; FUJITA, ANDRÉ ; NISHIYAMA JR, MILTON Y. ; MALOSSI, CAMILA D. ; PINTER, ADRIANO ; SOARES, JOÃO F. ; DAFFRE, SIRLEI ; LABRUNA, MARCELO B. ; FOGAÇA, ANDRÉA C. . Natural Blood Feeding and Temperature Shift Modulate the Global Transcriptional Profile of Rickettsia rickettsii Infecting Its Tick Vector. Plos One, v. 8, p. e77388, 2013.
+Citações:7|13
+
+20.
+Lembke, Carolina Gimiliani ; NISHIYAMA-JR, M. Y. ; FERREIRA, S. S. ; Sato, P. M. ; Dal-Bianco, M. L. ; Hotta, C. T. ; Carneiro, M ; LOUREIRO, M. E. ; Carrer, H ; ENDRES, L. ; HOFFMANN, H. P. ; Sanches, M ; Marcelo Menossi ; SOUZA, G. M. . Sugarcane Genome Sequencing and Gene Discovery: Getting Closer to Sugar Content, Fibre and Drought Traits. International Sugar Journal, v. 115, p. 710-715, 2013.
+Citações:1
+
+21.
+Lembke, Carolina G. ; FERREIRA, SAVIO SIQUEIRA ; Dal-Bianco, Maximiller ; Sato, Paloma M. ; Hotta, Carlos T. ; CARNEIRO, M. S. ; LOUREIRO, M. E. ; CARRER, H. ; ENDRES, L. ; Hoffmann, Hermann Paulo ; SANCHES, M. ; Menossi, Marcelo ; SOUZA, G. M. . Sugarcane genome sequencing and gene discovery: getting closer to sugar content, fibre and drought traits.. International Sugar Journal, v. 115 (1378), p. 708-713, 2013.
+
+22.
+VICENTE, F. F. R. ; Lembke, Carolina G. ; Sato, Paloma M. ; Dal-Bianco, Maximiller ; Hotta, Carlos Takeshi ; SOUZA, G. M. . The SUCEST-FUN regulatory network database: Designing an energy grass. International Sugar Journal, v. 114, p. 821, 2013.
+Citações:1|3
+
+23.
+Lembke, Carolina Gimiliani ; Nishiyama, Milton Yutaka ; Sato, Paloma Mieko ; Andrade, Rodrigo Fandiño ; SOUZA, GLAUCIA MENDES . Identification of sense and antisense transcripts regulated by drought in sugarcane. Plant Molecular Biology, v. 79, p. 461-477, 2012.
+Citações:17|25
+
+24.
+NISHIYAMA-JR, M. Y. ; Vicente, F. F. R. ; Lembke, Carolina Gimiliani ; Sato, Paloma Mieko ; Dal-Bianco, M. L. ; Fandino, R. A. ; Hotta, C. T. ; SOUZA, G. M. . The SUCEST-FUN Regulatory Network Database: Designing an Energy Grass. International Sugar Journal, v. 114, p. 821-826, 2012.
+Citações:1|3
+
+25.
+Moreira, Leandro M Almeida, Nalvo F Potnis, Neha Digiampietri, Luciano A Adi, Said S Bortolossi, Julio C da Silva, Ana C da Silva, Aline M de Moraes, Fabricio E de Oliveira, Julio C de Souza, Robson F Fancincani, Agda P Ferraz, Andre L Ferro, Maria I Furlan, Luiz R Gimenez, Daniele F Jones, Jeffrey B Kitajima, Elliot W Laia, Marcelo L Leite, Rui P Nishiyama-Junior, M. Y. Rodrigues Neto, Julio Nociti, Leticia A Norman, David J Ostroski, Eric H , et al. ; Novel insights into the genomic basis of citrus canker based on the genome sequences of two strains of Xanthomonas fuscans subsp. aurantifolii. BMC Genomics, v. 11, p. 238, 2010.
+Citações:44|48
+
+26.
+Farias, Leonardo P. ; Tararam, Cibele A. ; Miyasato, Patricia A. ; Nishiyama, Milton Y. ; Oliveira, Katia C. ; Kawano, Toshie ; Verjovski-Almeida, Sergio ; Leite, Luciana Cezar de Cerqueira . Screening the Schistosoma mansoni transcriptome for genes differentially expressed in the schistosomulum stage in search for vaccine candidates. Parasitology Research (1987. Print), p. 1, 2010.
+Citações:15|21
+
+27.
+Yilmaz, A. ; Nishiyama-Junior, M. Y. ; Fuentes, B. G. ; SOUZA, G. M. ; Janies, D. ; Gray, J. ; Grotewold, E. . GRASSIUS: A Platform for Comparative Regulatory Genomics across the Grasses. Plant Physiology (Bethesda), v. 149, p. 171-180, 2009.
+Citações:87|90
+
+28.
+Papini-Terzi, Flavia S ; Rocha, Flavia R ; Vencio, Ricardo ZN ; Felix, Juliana M ; Branco, Diana S ; Waclawovsky, Alessandro J ; Del Bem, Luiz EV ; Lembke, Carolina G ; Costa, Maximiller DL ; Nishiyama, Milton Y ; Vicentini, Renato ; Vincentz, Michel GA ; Ulian, Eugenio C ; Menossi, Marcelo ; Souza, Glaucia M . Sugarcane genes associated with sucrose content. BMC Genomics, v. 10, p. 120, 2009.
+Citações:49|67
+
+29.
+Felix, Juliana ; Papini-Terzi, Flávia Stal ; Rocha, Flávia Riso ; Vêncio, Ricardo Zorzetto Nicoliello ; Vicentini, Renato ; Nishiyama-Junior, M. Y. ; César Ulian, Eugênio ; Souza, Gláucia Mendes ; Menossi, Marcelo . Expression Profile of Signal Transduction Components in a Sugarcane Population Segregating for Sugar Content. Tropical Plant Biology (Print), v. 2, p. 98-109, 2009.
+Citações:10
+
+30.
+DE SOUZA, AMANDA PEREIRA ; GASPAR, MARILIA ; DA SILVA, EMERSON ALVES ; ULIAN, EUGNIO CSAR ; WACLAWOVSKY, ALESSANDRO JAQUIEL ; NISHIYAMA JR., MILTON YUTAKA ; DOS SANTOS, RENATO VICENTINI ; TEIXEIRA, MARCELO MENOSSI ; SOUZA, GLAUCIA MENDES ; BUCKERIDGE, MARCOS SILVEIRA . Elevated CO 2 increases photosynthesis, biomass and productivity, and modifies gene expression in sugarcane. Plant, Cell and Environment (Print), v. 31, p. 1116-1127, 2008.
+Citações:74|79
+
+31.
+Rocha, Flávia R ; Papini-Terzi, Flávia S ; Nishiyama, Milton Y ; Vêncio, Ricardo ZN ; Vicentini, Renato ; Duarte, Rodrigo DC ; de Rosa, Vicente E ; Vinagre, Fabiano ; Barsalobres, Carla ; Medeiros, Ane H ; Rodrigues, Fabiana A ; Ulian, Eugênio C ; Zingaretti, Sônia M ; Galbiatti, João A ; Almeida, Raul S ; Figueira, Antonio VO ; Hemerly, Adriana S ; Silva-Filho, Marcio C ; Menossi, Marcelo ; Souza, Gláucia M . Signal transduction-related responses to phytohormones and environmental challenges in sugarcane. BMC Genomics, v. 8, p. 71, 2007.
+Citações:44|70
+
+32.
+Flavia S Papini-Terzi ; Felix, J.M. ; Flavia R Rocha ; WACLAWOVSKY, A.J. ; Eugenio C Ulian ; Chabregas, S ; Falco, MC ; Nishiyama-Junior, M. Y. ; Ricardo ZN Vêncio ; Renato Vicentini ; Marcelo Menossi ; Glaucia Mendes Souza . The SUCEST-FUN Project: identifying genes that regulate sucrose content in sugarcane. International Sugar Journal, v. 26, p. 1, 2007.
+
+33.
+Junqueira-de-azevedo, I. L. M. ; CHING, Ana. Tung. Ching. ; Carvalho, Eneas de ; Faria, Fernanda ; Nishiyama-Junior, M. Y. ; Paulo L. Ho ; Marcelo R. V. Diniz . Lachesis muta (Viperidae) cDNAs reveal diverging pitviper molecules and scaffolds typical of cobra (Elapidae) venoms: implications in snake toxin repertoire evolution.. Genetics (Austin, Tex.), v. 173, p. 877-889, 2006.
+Citações:81|95
+
+34.
+Verjovski-Almeida, Sergio DeMarco, Ricardo Martins, Elizabeth A L Guimarães, Pedro E M Ojopi, Elida P B Paquola, Apuã C M Piazza, João P Nishiyama, Milton Y Kitajima, João P Adamson, Rachel E Ashton, Peter D Bonaldo, Maria F Coulson, Patricia S Dillon, Gary P Farias, Leonardo P Gregorio, Sheila P Ho, Paulo L Leite, Ricardo A Malaquias, L Cosme C Marques, Regina C P Miyasato, Patricia A Nascimento, Ana L T O Ohlweiler, Fernanda P Reis, Eduardo M Ribeiro, Marcela A , et al. ; Transcriptome analysis of the acoelomate human parasite Schistosoma mansoni. Nature Genetics, United States of America, v. 35, n.2, p. 148-157, 2003.
+Citações:346|362
+
+35.
+Nishiyama-Junior, M. Y.; Apuã C. M. Paquola ; Eduardo M. Reis ; Ane H Medeiros ; da Silva ; Sergio Verjovski-Almeida . ESTWeb: bioinformatics services for EST sequencing projects. BIOINFORMATICS, Oxford, v. 19, p. 1587-1588, 2003.
+Citações:27|29
+
+36.
+SOUZA, GLAUCIA MENDES ; Simoes, Ana Carolina Quirino ; Oliveira, Katia Cristina ; Garay, Humberto Miguel ; Fiorini, Leonardo Costa ; Gomes, Felipe dos Santos ; Nishiyama-Junior, Milton Yutaka ; Silva, Aline Maria da . The sugarcane signal transduction (SUCAST) catalogue: prospecting signal transduction in sugarcane. Genetics and Molecular Biology (Impresso), Ribeirao Preto, v. 24, p. 1-4, 2001.
+Citações:15|6|20

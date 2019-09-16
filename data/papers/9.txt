@@ -1,0 +1,598 @@
+1.
+DE OLIVEIRA, JULIANA FERREIRA ; DO PRADO, PAULA FAVORETTI VITAL ; DA COSTA, SILVIA SOUZA ; SFORÇA, MAURICIO LUIS ; CANATELI, CAMILA ; RANZANI, AMERICO TAVARES ; MASCHIETTO, MARIANA ; DE OLIVEIRA, PAULO SERGIO LOPES ; Otto, Paulo A. ; KLEVIT, RACHEL E. ; Krepischi, Ana Cristina Victorino ; Rosenberg, Carla ; FRANCHINI, KLEBER GOMES . Mechanistic insights revealed by a UBE2A mutation linked to intellectual disability. Nature Chemical Biology, v. 15, p. 62-70, 2019.
+
+2.
+RIVAS, MARIA PRATES ; AGUIAR, TALITA FERREIRA MARQUES ; FERNANDES, GUSTAVO RIBEIRO ; CAIRES-JÚNIOR, LUIZ CARLOS ; GOULART, ERNESTO ; TELLES-SILVA, KAYQUE ALVES ; CYPRIANO, MONICA ; DE TOLEDO, SILVIA REGINA CAMINADA ; Rosenberg, Carla ; CARRARO, DIRCE MARIA ; DA COSTA, CECILIA MARIA LIMA ; DA CUNHA, ISABELA WERNECK ; Krepischi, Ana Cristina Victorino . TET Upregulation Leads to 5-Hydroxymethylation Enrichment in Hepatoblastoma. Frontiers in Genetics, v. 10, p. 10.3389/fgene.2, 2019.
+
+3.
+CORREA, FERNANDA A. ; JORGE, ALEXANDER AL ; NAKAGUMA, MARILENA ; CANTON, ANA PM ; Costa, Silvia S ; FUNARI, MARIANA F ; LERARIO, ANTONIO M ; FRANCA, MARCELA M ; CARVALHO, LUCIANI R ; Krepischi, Ana CV ; ARNHOLD, IVO JP ; Rosenberg, Carla ; MENDONCA, BERENICE B . Pathogenic copy number variants in patients with congenital hypopituitarism associated with complex phenotypes. CLINICAL ENDOCRINOLOGY, v. 88, p. 425-431, 2018.
+
+4.
+MALVEZZI, JOÃO VM ; H MAGALHAES, INGRID ; S COSTA, SILVIA ; OTTO, PAULO A ; Rosenberg, Carla ; BERTOLA, DEBORA R ; LM FERNANDES, WALTER ; Vianna-Morgante, Angela M ; Krepischi, Ana CV . KIF11 microdeletion is associated with microcephaly, chorioretinopathy and intellectual disability. HUMAN GENOME VARIATIONS, v. 5, p. 18010, 2018.
+
+5.
+HOMMA, THAIS K. ; KREPISCHI, ANA C.V. ; FURUYA, TATIANE K. ; HONJO, RACHEL S. ; MALAQUIAS, ALEXSANDRA C. ; BERTOLA, DEBORA R. ; COSTA, SILVIA S. ; CANTON, ANA P. ; ROELA, ROSIMEIRE A. ; FREIRE, BRUNA L. ; KIM, CHONG A. ; Rosenberg, Carla ; JORGE, ALEXANDER A.L. . Recurrent Copy Number Variants Associated with Syndromic Short Stature of Unknown Cause. Hormone Research in Paediatrics, v. 89, p. 13-21, 2018.
+
+6.
+VILLELA, DARINE ; SUEMOTO, CLAUDIA K. ; LEITE, RENATA ; PASQUALUCCI, CARLOS AUGUSTO ; GRINBERG, LEA T. ; PEARSON, PETER ; Rosenberg, Carla . Increased DNA Copy Number Variation Mosaicism in Elderly Human Brain. NEURAL PLASTICITY, v. 2018, p. 1-9, 2018.
+
+7.
+MELO, UIRÁ SOUTO ; DE SOUZA LEITE, FELIPE ; COSTA, SILVIA ; Rosenberg, Carla ; ZATZ, MAYANA . A fast method to reprogram and CRISPR/Cas9 gene editing from erythroblasts. Stem Cell Research, v. 4, p. 52-54, 2018.
+
+8.
+AGUIAR, TALITA FERREIRA ; BARBOSA-TEIXEIRA, ANNE C. ; COSTA, SILVIA SOUZA ; EZQUINA, SUZANA ; GIMENEZ, THAMIRIS MAGALHÃES ; NOVAK, ESTELA ; CRISTOFANI, LILIAN MARIA ; Rosenberg, Carla ; ODONE FILHO, VICENTE ; Krepischi, Ana Cristina Victorino . Atypical presentation of a germline APC mutation in a child with supratentorial primitive neuroectodermal tumor. PEDIATRIC BLOOD & CANCER, v. -, p. e27566, 2018.
+
+9.
+CARNEIRO, THAISE ; KREPISCHI, ANA ; SOUZA DA COSTA, SILVIA ; TOJAL DA SILVA, ISRAEL ; VIANNA-MORGANTE, ANGELA ; VALIERIS, RENAN ; EZQUINA, SUZANA ; BERTOLA, DEBORA ; OTTO, PAULO ; Rosenberg, Carla . Utility of trio-based exome sequencing in the elucidation of the genetic basis of isolated syndromic intellectual disability: illustrative cases. THE APPLICATION OF CLINICAL GENETICS, v. Volume 11, p. 93-98, 2018.
+
+10.
+DOS SANTOS, ALEXSANDRO ; CAMPAGNARI, FRANCINE ; Krepischi, Ana Cristina Victorino ; RIBEIRO CÂMARA, MARIA DE LOURDES ; DE ARRUDA BRASIL, RITA DE CÁSSIA E. ; VIEIRA, LIGIA ; Vianna-Morgante, Angela M. ; Otto, Paulo A. ; Pearson, Peter L. ; Rosenberg, Carla . Insight into the mechanisms and consequences of recurrent telomere capture associated with a sub-telomeric deletion. CHROMOSOME RESEARCH, v. -, p. -, 2018.
+
+11.
+REIS, VIVIANE NERI DE SOUZA ; KITAJIMA, JOÃO PAULO ; TAHIRA, ANA CAROLINA ; FEIO-DOS-SANTOS, ANA CECÍLIA ; FOCK, RODRIGO AMBRÓSIO ; LISBOA, BIANCA CRISTINA GARCIA ; SIMÕES, SÉRGIO NERY ; KREPISCHI, ANA C. V. ; Rosenberg, Carla ; LOURENÇO, NAILA CRISTINA ; PASSOS-BUENO, MARIA RITA ; Brentani, Helena . Integrative Variation Analysis Reveals that a Complex Genotype May Specify Phenotype in Siblings with Syndromic Autism Spectrum Disorder. Plos One, v. 12, p. e0170386, 2017.
+
+12.
+GONÇALVES DA SILVA, PATRÍCIA BENITES ; TEIXEIRA DOS SANTOS, MÁRCIA CRISTINA ; OLIVEIRA RODINI, CAROLINA ; KAID, CAROLINI ; LEITE PEREIRA, MÁRCIA CRISTINA ; FURUKAWA, GABRIELA ; GIMENES DA CRUZ, DANIEL SANZIO ; BARBUGIANI GOLDFEDER, MAURICIO ; REILY ROCHA, CLARISSA RIBEIRO ; Rosenberg, Carla ; KEITH OKAMOTO, OSWALDO . High OCT4A levels drive tumorigenicity and metastatic potential of medulloblastoma cells. OncoTarget, v. ?, p. ?, 2017.
+
+13.
+Jehee, Fernanda S. ; DE OLIVEIRA, VALDIRENE T. ; Gurgel-Giannetti, Juliana ; PIETRA, RAFAELLA X. ; RUBATINO, FERNANDO V. M. ; CAROBIN, NATÁLIA V. ; VIANNA, GABRIELLE S. ; DE FREITAS, MARIANA L. ; FERNANDES, KARLA S. ; RIBEIRO, BEATRIZ S. V. ; BRÜGGENWIRTH, HENNIE T. ; ALI-AMIN, ROZA ; WHITE, JANSON J. ; AKDEMIR, ZEYNEP C. ; JHANGIANI, SHALINI N. ; GIBBS, RICHARD A. ; LUPSKI, JAMES R. ; Varela, Monica C. ; KOIFFMANN, CÉLIA ; Rosenberg, Carla ; CARVALHO, CLÁUDIA M. B. . Dual molecular diagnosis contributes to atypical Prader-Willi phenotype in monozygotic twins. AMERICAN JOURNAL OF MEDICAL GENETICS PART A, v. epub, p. a definir, 2017.
+
+14.
+VILLELA, DARINE ; COSTA, SILVIA SOUZA ; Vianna-Morgante, Angela M. ; Krepischi, Ana C.V. ; Rosenberg, Carla . Efficient detection of chromosome imbalances and single nucleotide variants using targeted sequencing in the clinical setting. European Journal of Medical Genetics, v. 60, p. 667-674, 2017.
+
+15.
+MOREIRA, ELOISA S. ; SILVA, ISABELA M.W. ; LOURENÇO, NAILA ; MOREIRA, DANIELLE P. ; RIBEIRO, CINTIA M. ; MARTINS, ANA LUIZA B. ; GRIESI-OLIVEIRA, KARINA ; LAZAR, MONIZE ; Costa, Silvia S. ; NASLAVSKY, MICHEL S. ; ROCHA, KÁTIA M. ; AGUENA, MEIRE ; FETT-CONTE, AGNES C. ; ZATZ, MAYANA ; Rosenberg, Carla ; ZACHI, ELAINE C. ; BERTOLA, DÉBORA R. ; VADASZ, ESTEVÃO ; PASSOS-BUENO, MARIA RITA . Detection of small copy number variations (CNVs) in autism spectrum disorder (ASD) by custom array comparative genomic hybridization (aCGH). RES AUTISM SPECT DIS, v. 23, p. 145-151, 2016.
+Citações:2|1
+
+16.
+MORRIS, MARCOS L.M. ; BARONEZA, JOS' E. ; TEIXEIRA, PATRICIA ; MEDINA, CRISTINA T.N. ; CORDOBA, MARA S. ; VERSIANI, BEATRIZ R. ; ROESE, LIEGE L. ; FREITAS, ERIKA L. ; FONSECA, ANA C.S. ; DOS SANTOS, MARIA C.G. ; PIC-TAYLOR, ALINE ; Rosenberg, Carla ; OLIVEIRA, SILVIENE F. ; FERRARI, IRIS ; Mazzeu, Juliana F. . Partial 1q Duplications and Associated Phenotype. Molecular Syndromology, v. 6, p. 297-303, 2016.
+Citações:3|3
+
+17.
+KREPISCHI, A. C. V. ; MASCHIETTO, M. ; FERREIRA, E. N. ; SILVA, A. G. ; COSTA, S. S. ; DA CUNHA, I. W. ; BARROS, B. D. F. ; GRUNDY, P. E. ; Rosenberg, C. ; CARRARO, D. M. . Genomic imbalances pinpoint potential oncogenes and tumor suppressors in Wilms tumors. Molecular Cytogenetics, v. 9, p. 1-10, 2016.
+Citações:2|4
+
+18.
+VILLELA, DARINE ; RAMALHO, RODRIGO F. ; SILVA, ADERBAL R. T. ; Brentani, Helena ; SUEMOTO, CLAUDIA K. ; PASQUALUCCI, CARLOS AUGUSTO ; GRINBERG, LEA T. ; KREPISCHI, ANA C. V. ; Rosenberg, Carla . Differential DNA Methylation of MicroRNA Genes in Temporal Cortex from Alzheimer?s Disease Individuals. Neural Plasticity (Online), v. 2016, p. 1-10, 2016.
+Citações:2|8
+
+19.
+FIDALGO, FELIPE ; RODRIGUES, TATIANE CRISTINA ; SILVA, AMANDA GONÇALVES ; MOREDO FACURE, LUCIANA ; DE SÁ, BIANCA COSTA SOARES ; DUPRAT, JOÃO PEDREIRA ; ACHATZ, MARIA ISABEL ; Rosenberg, Carla ; CARRARO, DIRCE MARIA ; Krepischi, Ana Cristina Victorino . Role of rare germline copy number variation in melanoma-prone patients. Future Oncology, v. 12, p. 1345-1357, 2016.
+Citações:1|1
+
+20.
+VILLELA, DARINE ; SUEMOTO, CLAUDIA K. ; PASQUALUCCI, CARLOS A. ; GRINBERG, LEA T. ; Rosenberg, Carla . Do Copy Number Changes in CACNA2D2, CACNA2D3, and CACNA1D Constitute a Predisposing Risk Factor for Alzheimer?s Disease?. Frontiers in Genetics, v. 7, p. 10.3389/fgene.2, 2016.
+Citações:1|2
+
+21.
+LINHARES, NATÁLIA D. ; VALADARES, EUGÊNIA R. ; DA COSTA, SILVIA S. ; ARANTES, RODRIGO R. ; DE OLIVEIRA, LUIZ ROBERTO ; Rosenberg, Carla ; Vianna-Morgante, Angela M. ; SVARTMAN, MARTA . Inherited Xq13.2-q21.31 duplication in a boy with recurrent seizures and pubertal gynecomastia: Clinical, chromosomal and aCGH characterization. Meta Gene, v. 9, p. 185-190, 2016.
+Citações:2|2
+
+22.
+MASCHIETTO, MARIANA ; RODRIGUES, TATIANE CRISTINA ; KASHIWABARA, ANDRÉ YOSHIAKI ; SOUZA DE ARAUJO, ÉRICA SARA ; MARQUES AGUIAR, TALITA FERREIRA ; LIMA DA COSTA, CECILIA MARIA ; DA CUNHA, ISABELA WERNECK ; REIS VASQUES, LUCIANA DOS ; CYPRIANO, MONICA ; Brentani, Helena ; CAMINADA DE TOLEDO, SILVIA REGINA ; Pearson, Peter Lees ; CARRARO, DIRCE MARIA ; Rosenberg, Carla ; Krepischi, Ana Cristina Victorino . DNA methylation landscape of hepatoblastomas reveals arrest at early stages of liver differentiation and cancer-related alterations. OncoTarget, v. online, p. online, 2016.
+
+23.
+GAMBA, BRUNO F. ; ZECHI-CEIDE, ROSELI M. ; KOKITSU-NAKATA, NANCY M. ; VENDRAMINI-PITTOLI, SIULAN ; Rosenberg, Carla ; KREPISCHI SANTOS, ANA C.V. ; RIBEIRO-BICUDO, LUCILENE ; RICHIERI-COSTA, ANTONIO . Interstitial 1q21.1 Microdeletion Is Associated with Severe Skeletal Anomalies, Dysmorphic Face and Moderate Intellectual Disability. Molecular Syndromology, v. 7, p. 344-348, 2016.
+
+24.
+DE ARAÚJO, ÉRICA S.S. ; KASHIWABARA, ANDRÉ Y. ; ACHATZ, MARIA I.W. ; MOREDO, LUCIANA F. ; DE SÁ, BIANCA C.S. ; DUPRAT, JOÃO P. ; Rosenberg, Carla ; CARRARO, DIRCE M. ; Krepischi, Ana C.V. . LINE-1 hypermethylation in peripheral blood of cutaneous melanoma patients is associated with metastasis. Melanoma Research, v. 25, p. 173-177, 2015.
+Citações:4|3
+
+25.
+GAMBA, BRUNO F. ; Rosenberg, Carla ; COSTA, SILVIA ; RICHIERI-COSTA, ANTONIO ; RIBEIRO-BICUDO, LUCILENE A. . Cleft Lip/Palate, Short Stature, and Developmental Delay in a Boy with a 5.6-Mb Interstitial Deletion Involving 10p15.3p14. Molecular Syndromology, v. 6, p. 39-43, 2015.
+Citações:1
+
+26.
+LINHARES, NATÁLIA D. ; SVARTMAN, MARTA ; RODRIGUES, TATIANE C. ; Rosenberg, Carla ; VALADARES, EUGÊNIA R. . Subtelomeric 6p25 deletion/duplication: report of a patient with new clinical findings and genotype-phenotype correlations. European Journal of Medical Genetics, v. 58, p. 310, 2015.
+Citações:3|3
+
+27.
+MACHADO, CAMILA OLIVEIRA FREITAS ; GRIESI-OLIVEIRA, KARINA ; Rosenberg, Carla ; Kok, Fernando ; MARTINS, STEPHANIE ; RITA PASSOS-BUENO, MARIA ; SERTIE, ANDREA LAURATO . Collybistin binds and inhibits mTORC1 signaling: a potential novel mechanism contributing to intellectual disability and autism. European Journal of Human Genetics, v. epuh, p. ahead of print, 2015.
+Citações:2|7
+
+28.
+DANTAS, VITOR G.L. ; FREITAS, ERIKA L. ; DELLA-ROSA, VALTER A. ; LEZIROVITZ, KARINA ; DE MORAES, ANA MARIA S.M. ; RAMOS, SILVIA B. ; OITICICA, JEANNE ; ALVES, LEANDRO U. ; Pearson, Peter L. ; Rosenberg, Carla ; MINGRONI-NETTO, REGINA C. . Novel partial duplication of EYA1 causes branchiootic syndrome in a large Brazilian family. International Journal of Audiology, v. 54, p. 1-6, 2015.
+Citações:1|1
+
+29.
+Rosenberg, Carla; Freitas, Érika L. ; UEHARA, DANIELA T. ; AURICCHIO, MARIA TERESA B. M. ; Costa, Silvia S. ; OITICICA, JEANNE ; SILVA, AMANDA G. ; Krepischi, Ana C. ; MINGRONI-NETTO, REGINA C. . Short Report - Clinical Genetics Genomic copy number alterations in non-syndromic hearing loss. Clinical Genetics, v. oct, p. n/a-n/a, 2015.
+Citações:1|1
+
+30.
+GAMBA, BRUNO FAULIN ; RICHIERI-COSTA, ANTÔNIO ; COSTA, SILVIA ; Rosenberg, Carla ; RIBEIRO-BICUDO, LUCILENE ARILHO . Chromothripsis with at least 12 breaks at 1p36.33-p35.3 in a boy with multiple congenital anomalies. Molecular Genetics and Genomics (Print), v. jun, p. 1, 2015.
+Citações:2|2
+
+31.
+FONSECA, SIMONE APARECIDA SIQUEIRA ; COSTAS, ROBERTA MONTERO ; MORATO-MARQUES, MARIANA ; COSTA, SILVIA ; ALEGRETTI, JOSE ROBERTO ; Rosenberg, Carla ; DA MOTTA, EDUARDO LEME ALVES ; SERAFINI, PAULO C. ; PEREIRA, LYGIA V. . A Euploid Line of Human Embryonic Stem Cells Derived from a 43,XX,dup(9q),+12,-14,-15,-18,-21 Embryo. Plos One, v. 10, p. e0140999, 2015.
+
+32.
+FONTES, MARSHALL I. B. ; SANTOS, ANA P. ; MOLCK, MIRIAM C. ; Simioni, Milena ; NASCIMENTO, DIOGO L. L. ; ANDRADE, ANA K. M. ; Rosenberg, Carla ; KREPISCHI, ANA C. V. ; APPENZELLER, SIMONE ; MONLLEÓ, ISABELLA L. ; Gil-da-Silva-Lopes, Vera Lúcia . Genotype-phenotype correlation of 16p13.3 terminal duplication and 22q13.33 deletion: Natural history of a patient and review of the literature. American Journal of Medical Genetics. Part A, v. A Dec, p. n/a-n/a, 2015.
+
+33.
+FARIA, ÁGATHA CRISTHINA ; RABBI-BORTOLINI, ELIETE ; REBOUÇAS, MARIA R. G. O. ; PEREIRA, ANDRÉIA L. A. DE S. THIAGO ; FRASSON, MILENA G. TONINI ; ATIQUE, RODRIGO ; LOURENÇO, NAILA CRISTINA V. ; Rosenberg, Carla ; KOBAYASHI, GERSON S. ; PASSOS-BUENO, MARIA RITA ; ERRERA, FLÁVIA IMBROISI VALLE . Craniosynostosis in 10q26 deletion patients: A consequence of brain underdevelopment or altered suture biology?. American Journal of Medical Genetics. Part A, v. Nov 14, p. n/a-n/a, 2015.
+Citações:1|3
+
+34.
+DE ARAÚJO, ÉRICA S. S. ; PRAMIO, DIMITRIUS T. ; KASHIWABARA, ANDRÉ Y. ; PENNACCHI, PAULA C. ; MARIA-ENGLER, SILVYA S. ; ACHATZ, MARIA I. ; CAMPOS, ANTONIO H. J. F. M. ; DUPRAT, JOÃO P. ; Rosenberg, Carla ; CARRARO, DIRCE M. ; KREPISCHI, ANA C. V. . DNA Methylation Levels of Melanoma Risk Genes Are Associated with Clinical Characteristics of Melanoma Patients. BIOMED RES INT, v. 2015, p. 1-8, 2015.
+Citações:2|5
+
+35.
+Freitas, Érika L. ; OITICICA, JEANNE ; SILVA, AMANDA G. ; BITTAR, ROSELI S.M. ; Rosenberg, Carla ; MINGRONI-NETTO, REGINA C. . Deletion of the entire POU4F3 gene in a familial case of autosomal dominant non-syndromic hearing loss. European Journal of Medical Genetics, v. 57, p. 125-128, 2014.
+Citações:5|6
+
+36.
+DOS SANTOS, POLLYANNA ALMEIDA COSTA ; DE OLIVEIRA, SILVIENE FABIANA ; FREITAS, ERIKA L. ; SAFATLE, HELOISA PIRES NETO ; Rosenberg, Carla ; FERRARI, IRIS ; MAZZEU, JULIANA FORTE . Non-overlapping 22q11.2 microdeletions in patients with oculo-auriculo-vertebral spectrum. American Journal of Medical Genetics. Part A, v. 164, p. 551-553, 2014.
+Citações:2|4
+
+37.
+Silva, Amanda G ; Krepischi, Ana CV ; Pearson, Peter L ; HAINAUT, PIERRE ; Rosenberg, Carla ; ACHATZ, MARIA ISABEL . The profile and contribution of rare germline copy number variants to cancer risk in Li-Fraumeni patients negative for TP53 mutations. Orphanet Journal of Rare Diseases, v. 9, p. 63, 2014.
+Citações:5|5
+
+38.
+LINHARES, NATÁLIA D. ; SVARTMAN, MARTA ; SALGADO, MAURO IVAN ; RODRIGUES, TATIANE C. ; DA COSTA, SILVIA S. ; Rosenberg, Carla ; VALADARES, EUGÊNIA R. . Dental developmental abnormalities in a patient with subtelomeric 7q36 deletion syndrome may confirm a novel role for the SHH gene. Meta Gene, v. 2, p. 16-24, 2014.
+
+39.
+CANTON, A. P. M. ; COSTA, S. S. ; RODRIGUES, T. C. ; BERTOLA, D. R. ; MALAQUIAS, A. C. ; CORREA, F. A. ; ARNHOLD, I. J. P. ; Rosenberg, C. ; JORGE, A. A. L. . Genome-wide screening of copy number variants in children born small for gestational age reveals several candidate genes involved in growth pathways. European Journal of Endocrinology, v. 171, p. 253-262, 2014.
+Citações:7|12
+
+40.
+CARVALHO, CLAUDIA M.B. ; VASANTH, SHIVAKUMAR ; SHINAWI, MARWAN ; RUSSELL, CHAD ; RAMOCKI, MELISSA B. ; BROWN, CHESTER W. ; GRAAKJAER, JESPER ; SKYTTE, ANNE-BINE ; VIANNA-MORGANTE, ANGELA M. ; KREPISCHI, ANA C.V. ; PATEL, GAYLE S. ; IMMKEN, LADONNA ; ALECK, KYRIECKOS ; LIM, CYNTHIA ; CHEUNG, SAU WAI ; Rosenberg, Carla ; KATSANIS, NICHOLAS ; LUPSKI, JAMES R. . Dosage Changes of a Segment at 17p13.1 Lead to Intellectual Disability and Microcephaly as a Result of Complex Genetic Interaction of Multiple Genes. American Journal of Human Genetics, v. 95, p. 565-578, 2014.
+Citações:13|17
+
+41.
+DE ARAÚJO, ÉRICA SARA SOUZA ; MARCHI, FABIO ALBUQUERQUE ; RODRIGUES, TATIANE CRISTINA ; VIEIRA, HENRIQUE CURSINO ; KUASNE, HELLEN ; ACHATZ, MARIA ISABEL WADDINGTON ; MOREDO, LUCIANA FACURE ; DE SÁ, BIANCA COSTA SOARES ; DUPRAT, JOÃO PEREIRA ; BRENTANI, HELENA PAULA ; Rosenberg, Carla ; CARRARO, DIRCE MARIA ; Krepischi, Ana Cristina Victorino . Genome-wide DNA methylation profile of leukocytes from melanoma patients with and without CDKN2A mutations. Experimental and Molecular Pathology (Print), v. 97, p. 425-432, 2014.
+Citações:2|2
+
+42.
+DE ROCKER, NINA VERGULT, SARAH KOOLEN, DAVID JACOBS, EVA HOISCHEN, ALEXANDER ZEESMAN, SUSAN BANG, BIRGITTE BÉNA, FRÉDÉRIQUE BOCKAERT, NELE BONGERS, ERNIE M. DE RAVEL, THOMY DEVRIENDT, KOENRAAD GIGLIO, SABRINA FAIVRE, LAURENCE JOSS, SHELAGH MAAS, SASKIA MARLE, NATHALIE NOVARA, FRANCESCA NOWACZYK, MALGORZATA J.M. PEETERS, HILDE POLSTRA, ABELTJE ROELENS, FILIP Rosenberg, Carla THEVENON, JULIEN TÜMER, ZEYNEP , et al. ; Refinement of the critical 2p25.3 deletion region: the role of MYT1L in intellectual disability and obesity. Genetics in Medicine, v. epub, p. ahead of print, 2014.
+Citações:5|11
+
+43.
+FIDALGO, FELIPE ; RODRIGUES, TATIANE CRISTINA ; PINILLA, MABEL ; SILVA, AMANDA GONÇALVES ; MACIEL, MARIA DO SOCORRO ; Rosenberg, Carla ; DE ANDRADE, VICTOR PIANA ; CARRARO, DIRCE MARIA ; Krepischi, Ana Cristina Victorino . Lymphovascular invasion and histologic grade are associated with specific genomic profiles in invasive carcinomas of the breast. Tumor Biology, v. 36, p. 1835, 2014.
+Citações:3|4
+
+44.
+Krepischi, Ana Cristina Victorino ; CAPELLI, LEONARDO PIRES ; SILVA, AMANDA GONÇALVES ; DE ARAÚJO, ÉRICA SARA SOUZA ; Pearson, Peter Lees ; HECK, BENJAMIN ; DA COSTA, CECÍLIA MARIA LIMA ; DE CAMARGO, BEATRIZ ; Rosenberg, Carla . Large germline copy number variations as predisposing factor in childhood neoplasms. Future Oncology, v. 10, p. 1627-1633, 2014.
+Citações:2|2
+
+45.
+VILLELA, DARINE ; SCHLESINGER, DAVID ; SUEMOTO, CLAUDIA K. ; GRINBERG, LEA T. ; Rosenberg, Carla . A microdeletion in Alzheimer’s disease disrupts NAMPT gene. Journal of Genetics, v. 93, p. 535-537, 2014.
+Citações:2|3
+
+46.
+RODRIGUES, TATIANE CRISTINA ; FIDALGO, FELIPE ; LIMA DA COSTA, CECILIA MARIA ; FERREIRA, ELISA NAPOLITANO ; DA CUNHA, ISABELA WERNECK ; CARRARO, DIRCE MARIA ; VICTORINO KREPISCHI, ANA CRISTINA ; Rosenberg, Carla . Upregulated genes at 2q24 gains as candidate oncogenes in hepatoblastomas. Future Oncology, v. 10, p. 2449-2457, 2014.
+Citações:1|1
+
+47.
+LAURELL, TOBIAS ; LUNDIN, JOHANNA ; ANDERLID, BRITT-MARIE ; GORSKI, JEROME L ; GRIGELIONIENE, GIEDRE ; KNIGHT, SAMANTHA J L ; Krepischi, A.C.V. ; Krepischi, Ana C V ; NORDENSKJÖLD, AGNETA ; PRICE, SUSAN M ; ROSENBERG, C. ; TURNPENNY, PETER D ; Vianna-Morgante, Angela M ; NORDGREN, ANN . Molecular and clinical delineation of the 17q22 microdeletion phenotype. European Journal of Human Genetics, v. x, p. x, 2013.
+Citações:3|4
+
+48.
+Silva, Amanda G ; Krepischi, Ana CV ; TORREZAN, GIOVANA T ; CAPELLI, LEONARDO P ; Carraro, Dirce M ; D'ANGELO, CARLA S ; KOIFFMANN, CELIA P ; ZATZ, MAYANA ; NASLAVSKY, MICHEL S ; MASOTTI, CIBELE ; OTTO, PAULO A ; ACHATZ, MARIA IW ; MILLS, RYAN E ; LEE, CHARLES ; Pearson, Peter L ; Rosenberg, Carla . Does germ-line deletion of the PIP gene constitute a widespread risk for cancer?. European Journal of Human Genetics, v. 1, p. 1, 2013.
+Citações:3|4
+
+49.
+IZZO, GISELLE ; Freitas, Érika L. ; Krepischi, Ana Cristina V. ; Pearson, Peter L. ; VASQUES, LUCIANA R. ; PASSOS-BUENO, MARIA RITA S. ; BERTOLA, DÉBORA R. ; Rosenberg, Carla . A microduplication of 5p15.33 reveals CLPTM1L as a candidate gene for cleft lip and palate. European Journal of Medical Genetics, v. 1, p. 1, 2013.
+Citações:5|4
+
+50.
+Silva, Amanda G ; Lisboa, Bianca C G ; Achatz, Maria Isabel W ; Carraro, Dirce M ; DA CUNHA, ISABELA W ; Pearson, Peter L ; Krepischi, Ana C V ; Rosenberg, Carla . Germline BAX Deletion in a Patient With Melanoma and Gastrointestinal Stromal Tumor. The American Journal of Gastroenterology, v. 108, p. 1372-1375, 2013.
+Citações:1|1
+
+51.
+SANDBACKA, MARIA ; LAIVUORI, HANNELE ; FREITAS, ÉRIKA ; HALTTUNEN, MERVI ; JOKIMAA, VARPU ; MORIN-PAPUNEN, LAURE ; Rosenberg, Carla ; AITTOMÄKI, KRISTIINA . TBX6, LHX1 and copy number variations in the complex genetics of Mullerian aplasia. Orphanet Journal of Rare Diseases, v. 8, p. 125, 2013.
+Citações:18|18
+
+52.
+COSTA, ANA ROSA DA SILVEIRA ; VASUDEVAN, ANUPAMA ; KREPISCHI, ANA ; Rosenberg, Carla ; CHAUFFAILLE, MARIA DE LOURDES L. F. . Single-nucleotide polymorphism-array improves detection rate of genomic alterations in core-binding factor leukemia. Medical Oncology, v. 30, p. 579, 2013.
+Citações:3|4
+
+53.
+DORNELLES-WAWRUK, H. ; PIC-TAYLOR, A. ; Rosenberg, C. ; Krepischi, A.C.V. ; SAFATLE, H.P.N. ; FERRARI, I. ; Mazzeu, J.F. . Complex Phenotype Associated with 17q21.31 Microdeletion. Molecular Syndromology, v. 4, p. 297-301, 2013.
+Citações:6
+
+54.
+SILVA, AMANDA GONÇALVES ; MASCHIETTO, MARIANA ; VIDAL, DANIEL ONOFRE ; PELIÇARIO, LEANDRO MOTA ; VELLOSO, ELVIRA DEOLINDA RODRIGUES PEREIRA ; LOPES, LUIZ FERNANDO ; KREPISCHI, ANA CRISTINA ; Rosenberg, Carla . Array-CGH as an adjuvant tool in cytogenetic diagnosis of pediatric MDS and JMML. Medical Oncology (Northwood), v. 30, p. 734, 2013.
+Citações:1|2
+
+55.
+VILLELA, DARINE ; KIMURA, LILIAN ; SCHLESINGER, DAVID ; GONÇALVES, AMANDA ; Pearson, Peter L. ; SUEMOTO, CLAUDIA K. ; PASQUALUCCI, CARLOS ; KREPISCHI, ANA CRISTINA ; GRINBERGAND, LEA T. ; Rosenberg, Carla . Germline DNA copy number variation in individuals with Argyrophilic grain disease reveals CTNS as a plausible candidate gene. Genetics and Molecular Biology (Impresso), v. 36, p. 498-501, 2013.
+Citações:1|2|3
+
+56.
+Molin, A.-M. Andrieux, J. Koolen, D. A. Malan, V. Carella, M. Colleaux, L. Cormier-Daire, V. David, A. de Leeuw, N. Delobel, B. Duban-Bedu, B. Fischetto, R. Flinter, F. Kjaergaard, S. KOK, F. Krepischi, A. C. Le Caignec, C. Ogilvie, C. M. Maia, S. Mathieu-Dramard, M. Munnich, A. Palumbo, O. Papadia, F. Pfundt, R. Reardon, W. , et al. ; A novel microdeletion syndrome at 3q13.31 characterised by developmental delay, postnatal overgrowth, hypoplastic male genitals, and characteristic facial features. Journal of Medical Genetics (Print), v. 49, p. 104-109, 2012.
+Citações:28|30
+
+57.
+Krepischi, Ana C V ; Achatz, Maria Isabel W ; Santos, Erika M M ; Costa, Silvia S ; Lisboa, Bianca C G ; Brentani, Helena ; Santos, Tiago M ; Goncalves, Amanda ; Nobrega, Amanda F ; Pearson, Peter L ; Vianna-Morgante, Angela M ; Carraro, Dirce M ; Brentani, Ricardo R ; Rosenberg, Carla . Germline DNA copy number variation in familial and early-onset breast cancer. Breast Cancer Research (Print), v. 14, p. R24, 2012.
+Citações:39|35
+
+58.
+Krepischi, Ana Cristina Victorino ; Pearson, Peter Lees ; Rosenberg, Carla . Germline copy number variations and cancer predisposition. Future Oncology, v. 8, p. 441-450, 2012.
+Citações:27|28
+
+59.
+Freitas, Érika L. ; Freitas, Érika L. ; Gribble, Susan M. ; Simioni, Milena ; Vieira, Társis P. ; Prigmore, Elena ; Krepischi, Ana C. ; ROSENBERG, C. ; Pearson, Peter L. ; Melo, Débora G. ; Gil-da-Silva-Lopes, Vera Lúcia ; Vieira, Társis P. ; Krepischi, A.C.V. ; Krepischi, Ana C. ; Gribble, Susan M. ; Pearson, Peter L. ; Melo, Débora G. ; Simioni, Milena ; Rosenberg, Carla ; Gil-da-Silva-Lopes, Vera Lúcia ; Prigmore, Elena . A familial case with interstitial 2q36 deletion: variable phenotypic expression in full and mosaic state. European Journal of Medical Genetics, v. 2012, p. 1, 2012.
+Citações:2|2
+
+60.
+Gon alves, Amanda ; SILVA, A. G. S. ; Goncalves, Amanda ; Rosenberg, C ; Krepischi, Ana C.V. ; Teixeira, Manuel R ; Pinheiro, Manuela ; Carraro, Dirce M ; Krepischi, Ana CV ; Nobrega, Amanda F ; Sapienza, Marina ; Peixoto, Ana ; Achatz, Maria Isabel W ; ROSENBERG, C. ; Ewald, Ingrid P ; Ashton-Prolla, Patricia . Li-Fraumeni-like syndrome associated with a large BRCA1 intragenic deletion. BMC Cancer (Online), v. 12, p. 237, 2012.
+Citações:8|14
+
+61.
+Simioni, Milena ; VIEIRA, TÁRSIS PAIVA ; SGARDIOLI, ILÁRIA CRISTINA ; FREITAS, ÉRIKA LOPES ; Rosenberg, Carla ; MAURER-MORELLI, CLÁUDIA VIANNA ; LOPES-CENDES, ISCIA ; FETT-CONTE, AGNES CRISTINA ; Gil-da-Silva-Lopes, Vera Lúcia . Insertional translocation of 15q25-q26 into 11p13 and duplication at 8p23.1 characterized by high resolution arrays in a boy with congenital malformations and aniridia. American Journal of Medical Genetics. Part A, v. 158A, p. 2905-2910, 2012.
+Citações:5|6
+
+62.
+Sens-Abuazar C ; FERREIRA, E. N. ; Osorio CA ; Krepischi, A. C. ; Ricca TI ; Castro NP ; da Cunha IW ; Maciel MS ; Rosenberg C ; Brentani MM ; Soares FA ; Rocha RM ; Carraro, Dirce M . Down-regulation of ANAPC13 and CLTCL1: Early Events in the Progression of Preinvasive Ductal Carcinoma of the Breast. Translational Oncology (Online), v. 5, p. 113, 2012.
+Citações:5|6
+
+63.
+SILVA, A. G. S. ; Silva, Amanda G ; ACHATZ, MARIA ISABEL ; Krepischi, Ana CV ; Pearson, Peter L ; ROSENBERG, C. . Number of rare germline CNVs and TP53mutation types. Orphanet Journal of Rare Diseases, v. 7, p. 101, 2012.
+Citações:4|5
+
+64.
+ROSENBERG, C.; RODRIGUES, T. C. ; RODRIGUES, T.C. ; KREPISCHI, A.C.V. ; MASCHIETTO, M. ; COSTA, C.M.L. ; CARRARO, D.M. . 596 Genetic and Epigenetic Alterations in the Embrionary Tumor Hepatoblastoma. European Journal of Cancer, v. 48, p. S142, 2012.
+
+65.
+Jaillard, Sylvie ; Andrieux, Joris ; Plessis, Ghislaine ; Krepischi, A.C.V. ; Krepischi, Ana C.V. ; Lucas, Josette ; David, Véronique ; Le Brun, Marine ; Bertola, Debora R. ; David, Albert ; Belaud-Rotureau, Marc-Antoine ; Mosser, Jean ; Lazaro, Leila ; Treguier, Catherine ; ROSENBERG, C. ; Odent, Sylvie ; Dubourg, Christèle . 5q12.1 deletion: Delineation of a phenotype including mental retardation and ocular defects. American Journal of Medical Genetics. Part A, v. 155, p. 725-731, 2011.
+Citações:9|7
+
+66.
+Freitas, Érika L. ; Gribble, Susan M. ; Simioni, Milena ; Vieira, Társis P. ; Silva-Grecco, Roseane L. ; Balarin, Marly A. S. ; Prigmore, Elena ; Krepischi, A.C.V. ; Krepischi-Santos, Ana C. ; ROSENBERG, C. ; Szuhai, Karoly ; van Haeringen, Arie ; Carter, Nigel P. ; Gil-da-Silva-Lopes, Vera Lúcia . Maternally inherited partial monosomy 9p (pter p24.1) and partial trisomy 20p (pter p12.1) characterized by microarray comparative genomic hybridization. American Journal of Medical Genetics. Part A, p. n/a-n/a, 2011.
+Citações:5|8
+
+67.
+Capelli, Leonardo P. ; Krepischi, A.C.V. ; Krepischi, Ana C.V. ; Gurgel-Giannetti, Juliana ; Mendes, Mirian Fabiola S. ; Rodrigues, Tatiane ; Varela, Monica C. ; Koiffmann, Célia P. ; ROSENBERG, C. . Deletion of the RMGA and CHD2 genes in a child with epilepsy and mental deficiency. European Journal of Medical Genetics, v. x, p. x, 2011.
+Citações:15|20
+
+68.
+Miller, David T. ; Adam, Margaret P. ; Aradhya, Swaroop ; Biesecker, Leslie G. ; Brothman, Arthur R. ; Carter, Nigel P. ; Church, Deanna M. ; Crolla, John A. ; Eichler, Evan E. ; Epstein, Charles J. ; Rosenberg, Carla . Consensus Statement: Chromosomal Microarray Is a First-Tier Clinical Diagnostic Test for Individuals with Developmental Disabilities or Congenital Anomalies. American Journal of Human Genetics, v. 86, p. 749-764, 2010.
+Citações:794|879
+
+69.
+Krepischi, Ana Cristina V. ; Rosenberg, Carla ; Costa, Silvia S. ; Crolla, John A. ; Huang, Shuwen ; Vianna-Morgante, Angela M. . A novel de novo microdeletion spanning the SYNGAP1 gene on the short arm of chromosome 6 associated with mental retardation. American Journal of Medical Genetics. Part A, p. n/a-n/a, 2010.
+Citações:16|16
+
+70.
+Krepischi, Ana Cristina Victorino ; Knijnenburg, Jeroen ; Bertola, Debora Romeo ; Kim, Chong Ae ; Pearson, Peter Lees ; Bijlsma, Emilia ; Szuhai, Karoly ; Kok, Fernando ; Vianna-Morgante, Angela Maria ; Rosenberg, Carla . Two distinct regions in 2q24.2-q24.3 associated with idiopathic epilepsy. Epilepsia (Copenhagen), v. 51, p. 2457-2460, 2010.
+Citações:22|21
+
+71.
+Lugtenberg, Dorien Zangrande-Vieira, Luiz Kirchhoff, Maria Whibley, Annabel C. Oudakker, Astrid R. Kjaergaard, Susanne Vianna-Morgante, Angela M. Kleefstra, Tjitske Ruiter, Mariken Jehee, Fernanda S. Ullmann, Reinhard Schwartz, Charles E. Stratton, Michael Raymond, F. Lucy Veltman, Joris A. Vrijenhoek, Terry Pfundt, Rolph Schuurs-Hoeijmakers, Janneke H.M. Hehir-Kwa, Jayne Y. Froyen, Guy Chelly, Jamel Ropers, Hans Hilger Moraine, Claude Gècz, Jozef Knijnenburg, Jeroen , et al. ; Recurrent deletion of at Xp11.23 is not associated with mental retardation. American Journal of Medical Genetics. Part A, v. 152A, p. 638-645, 2010.
+Citações:4|4
+
+72.
+MAZZEU, J. F. ; VIANNA-MORGANTE, A. M. ; KREPISCHI-SANTOS, A. C. V. ; Oudakker, A ; ROSENBERG, C. ; Szuhai, Karoly ; McGill J ; McGraughan J ; van Bokhoven, Hans ; BRUNNER, HG. . Deletions encompassing 1q41q42.1 and clinical features of autosomal dominant Robinow syndrome. Clinical Genetics, v. 77, p. 404-407, 2010.
+Citações:3|8
+
+73.
+Krepischi-Santos, A.C.V. ; Rajan, D. ; Temple, I.K. ; Shrubb, V. ; Crolla, J.A. ; Huang, S. ; Beal, S. ; Otto, P.A. ; Carter, N.P. ; Vianna-Morgante, A.M. ; Rosenberg, C. . Constitutional Haploinsufficiency of Tumor Suppressor Genes in Mentally Retarded Patients With Microdeletions in 17p13.1. Cytogenetic and Genome Research (Online), v. 125, p. 1-7, 2009.
+Citações:19|22
+
+74.
+Catelani, ALPM ; Krepischi, ACV ; Kim, CA ; Kok, F ; Otto, PA ; Auricchio, MTBM ; MAZZEU, J. F. ; Mazzeu, JF ; Uehara, DT ; Costa, SS ; Knijnenburg, J ; Tabith, A ; Vianna-Morgante, AM ; Mingroni-Netto, RC ; ROSENBERG, C. . Chromosome imbalances in syndromic hearing loss. Clinical Genetics, v. 76, p. 458-464, 2009.
+Citações:2|2
+
+75.
+Koolen, D. A Sharp, A. J Hurst, J. A Firth, H. V Knight, S. J. Goldenberg, A. Saugier-Veber, P. Pfundt, R. Vissers, L. E. Destree, A. Grisart, B. Rooms, L. Van der Aa, N. Field, M. Hackett, A. Bell, K. Nowaczyk, M. J. Mancini, G. M. Poddighe, P. J Schwartz, C. E Rossi, E. De Gregori, M. Antonacci-Fulton, L. L McLellan, M. D Garrett, J. M , et al. ; Clinical and molecular delineation of the 17q21.31 microdeletion syndrome. Journal of Medical Genetics, p. in press, 2008.
+Citações:108|124
+
+76.
+Bauters, M. ; Van Esch, H. ; Friez, M. J. ; Boespflug-Tanguy, O. ; Zenker, M. ; Vianna-Morgante, A. M. ; Rosenberg, C. ; Ignatius, J. ; Raynaud, M. ; Hollanders, K. ; Govaerts, K. ; Vandenreijt, K. ; Niel, F. ; Blanc, P. ; Stevenson, R. E. ; Fryns, J.-P. ; Marynen, P. ; Schwartz, C. E. ; FROYEN, G. . Nonrecurrent MECP2 duplications mediated by genomic architecture-driven DNA breaks and break-induced replication repair. Genome Research, v. 18, p. 847-858, 2008.
+Citações:88|91
+
+77.
+Jehee, F S ; Krepischi-Santos, A C V ; Rocha, K M ; Cavalcanti, D P ; Kim, C A ; Bertola, D R ; Alonso, L G ; D& ; Mazzeu, J F ; Froyen, G ; Lugtenberg, D ; VIANNA-MORGANTE, A M ; Rosenberg, C ; Passos-Bueno, M R . High frequency of submicroscopic chromosomal imbalances in patients with syndromic craniosynostosis detected by a combined approach of microsatellite segregation analysis, multiplex ligation-dependent probe amplification and array-based comparative genome hybridisation. Journal of Medical Genetics, v. 45, p. 447-450, 2008.
+Citações:20|23
+
+78.
+Mazzeu, JF ; Krepischi-Santos, A. C ; Rosenberg, C ; Lourenço, C ; Lezirovitz, K ; SZUHAI, K ; Martelli, L ; Vianna-Morgante, A. M . Widening the clinical spectrum of Pitt-Rogers-Danks/Wolf-Hirschhorn syndromes. Genetics and Molecular Biology (Impresso), v. 30, p. 339-342, 2008.
+Citações:1|1
+
+79.
+SZUHAI, K ; IJSZENGA, M ; TANKE, H J ; TAMINIAU, A H ; SCHEPPER, A. ; DUINEN, S. V. ; ROSENBERG, C. ; HOGENDOORN, P C W . Detection and molecular cytogenetic characterization of a novel ring chromosome in a histological variant of Ewing sarcoma. Cancer Genetics and Cytogenetics, v. 172, p. 12-22, 2007.
+Citações:13|16
+
+80.
+Hoffer, MJ ; HILHORST-HOFSTEE, Y ; KNIJNENBURG, J ; HANSSON, K ; Engelberts, AC ; LAAN, LA ; BAKKER, e ; ROSENBERG, C. . A 6Mb deletion in band 2q22 due to a complex chromosome rearrangement associated with severe psychomotor retardation, microcephaly and distinctive dysmorphic facial features. European Journal of Medical Genetics, v. 50, p. 149-154, 2007.
+Citações:15|15
+
+81.
+KNIJNENBURG, J ; van HAERINGEN, A. ; HANSSON, K ; LANKESTER, A ; SMIT, MJ ; BELFROID, RD ; BAKKER, e ; ROSENBERG, C. ; TANKE, H J ; SZUHAI, K . Ring chromosome formation as a novel escape mechanism in patients with inverted duplication and terminal deletion. European Journal of Medical Genetics, v. 15, p. 548-555, 2007.
+Citações:46
+
+82.
+KRIEK, M. ; KNIJNENBURG, J ; WHITE, S. ; ROSENBERG, C. ; DUNNEN, J T Den ; OMMEN, G J Van ; TANKE, H J ; BREUNING, M H ; SZUHAI, K . Diagnosis of genetic abnormalities in developmentally delayed patients: A new strategy combining MLPA and array-CGH. American Journal of Medical Genetics. Part A, v. 143, p. 610-614, 2007.
+Citações:18
+
+83.
+ULMANN, R ; TURNER, G ; Kirchhoff, M ; CHEN, W ; TONGE, B ; ROSENBERG, C. ; FIELD, M ; VIANNA-MORGANTE, A M ; CHRISTIE, L ; KREPISCHI-SANTOS, A. C. V. ; BANNA, L ; BRERETON, AV ; HILL, A ; BISGAARD, AM . Array CGH identifies reciprocal 16p13.1 duplications and deletions that predispose to autism and/or mental retardation. Human Mutation, v. 28, p. 674-682, 2007.
+Citações:164|179
+
+84.
+L, R. ; MILA, M. ; ROSENBERG, C. ; Lee C . Structural variation in the human genome: the impact of copy number variants on clinical diagnosis.. Genetics in Medicine, v. 9, p. 600-6006, 2007.
+Citações:39|50
+
+85.
+Cheroki, C ; Krepischi-Santos, A C V ; SZUHAI, K ; Brenner, V ; Kim, C A E ; OTTO, P A ; Rosenberg, C . Genomic imbalances associated with mullerian aplasia. Journal of Medical Genetics, v. 45, p. 228-232, 2007.
+Citações:62|68
+
+86.
+MAZZEU, J. F. ; Mazzeu, Juliana F. ; Krepischi-Santos, Ana Cristina ; ROSENBERG, C. ; Szuhai, Karoly ; Knijnenburg, Jeroen ; Weiss, Janneke M.M. ; Kerkis, Irina ; Mustacchi, Zan ; Colin, Guilherme ; Mombach, Rômulo ; Pavanello, Rita de Cássia M. ; Otto, Paulo A. ; Vianna-Morgante, Angela M. . Chromosome abnormalities in two patients with features of autosomal dominant Robinow syndrome. American Journal of Medical Genetics. Part A, v. 143A, p. 1790-1795, 2007.
+Citações:7|9
+
+87.
+CHEROKI, C. ; KREPISCHI-SANTOS, A. C. V. ; ROSENBERG, C. ; JEHEE, F. ; MINGRONI NETTO, R C ; PAVANELLO FILHO, I. ; ZANFORLIN FILHO, S. ; KIM, C. A. ; BAGNOLI, V. R. ; MOLENAAR, L ; MENDONCA, B B ; SZUHAI, K ; OTTO, P A . Report of a del22q11 in a Patient With Mayer-Rokitansky-Ku¨ster-Hauser (MRKH) Anomaly and Exclusion of WNT-4, RAR-gamma, and RXR-alpha as Major Genes Determining MRKH Anomaly in a Study of 25 Affected Women. American Journal of Medical Genetics, v. 140A, p. 1339-1342, 2006.
+
+88.
+KREPISCHI-SANTOS, A. C. V. ; VARELA, M. C. ; PAZ, J. A. ; KINIJNENBURG, J ; SZUHAI, K ; ROSENBERG, C. ; Koiffmann, CP . A 17q21.31 microdeletion encompassing the MAPT gene in a mentally impaired patient. Cytogenetic and Genome Research, v. 114, p. 89-92, 2006.
+
+89.
+SHAW-SMITH, C. ; PITTMAN, A. M. ; WILLATT, L ; MARTIN, H. ; RICKMAN, L. ; GRIBBLE, S. ; CURLEY, R. ; CUMING, S. ; DUNN, C. ; KALAITZOPOULOS, D. ; PORTER, K. ; PRIGMORE, E. ; KREPISCHI-SANTOS, A. C. V. ; ROSENBERG, C. ; CARTER, N. P. . Microdeletion encompassing MAPT at chromosome 17q21.3 is associated with developmental delay and learning disability.. Nature Genetics, v. 38, p. 1032-1037, 2006.
+Citações:234|256
+
+90.
+KREPISCHI-SANTOS, A. C. V. ; VIANNA-MORGANTE, A M ; JEHEE, F. ; CHEROKI, C. ; OTTO, P A ; KOK, F. ; KNIJNENBURG, J ; ROSENBERG, C. . Whole-genome array-CGH screening in undiagnosed syndromic patients: old syndromes revisited and new alterations.. Cytogenetics and Cell Genetics, v. 115, p. 254-261, 2006.
+
+91.
+DEKKEN, Herman Van ; VISSERS, K ; TILANUS, H W ; GRAY, J ; Kuo WL ; TANKE, H J ; ROSENBERG, C. ; IJSZENGA, M ; SZUHAI, K . Genomic array and expression analysis of frequent high-level amplifications in adenocarcinomas of the gastro-esophageal junction. Cancer Genetics and Cytogenetics, v. 166, p. 157-162, 2006.
+Citações:19|21
+
+92.
+SZUHAI, K ; IJSZENGA, M ; TANKE, H J ; ROSENBERG, C. ; HOGENDOORN, P C W . Molecular cytogenetic characterization of four previously established and two newly established Ewing sarcoma cell lines. Cancer Genetics and Cytogenetics, v. 166, p. 173-179, 2006.
+Citações:26|27
+
+93.
+Rozeman LB ; SZUHAI, K ; SCHRAGE, ; ROSENBERG, C. ; TANKE, H J ; TAMINIAU, A H ; CLETON-JANSEN, Am ; BOVEE,, J. G. M. V ; HOGENDOORN, P C W . Array-comparative genomic hybridization of central chondrosarcoma: identification of ribosomal protein S6 and cyclin-dependent kinase 4 as candidate target genes for genomic aberrations.. Cancer, v. 107, p. 380-388, 2006.
+Citações:39|41
+
+94.
+KRIEK, M. ; SZUHAI, K ; Kant SG ; WHITE, S. ; DAUWERSE, H. ; FIEGLER, H. ; CARTER, N. P. ; KNIJNENBURG, J ; DUNNEN, J T Den ; TANKE, J H ; BREUNING, M H ; ROSENBERG, C. . A complex rearrangement on chromosome 22 affecting both homologues; haplo-insufficiency of the Cat eye syndrome region may have no clinical relevance. Human Genetics, v. 120, p. 77-84, 2006.
+Citações:4|5
+
+95.
+Dijkman R ; TENSEN, C.T. ; JORDANOVA, E.F ; KNIJNENBURG, J ; HOEFNAGEL, J. ; MULDER, A.A. ; ROSENBERG, C. ; RAAP, A K ; WILLEMZE, R. ; SZUHAI, K ; VERMEER, M.H. . Array-based comparative genomic hybridization analysis reveals recurrent chromosomal alterations and prognostic parameters in primary cutaneous large B-cell lymphoma. Journal of Clinical Oncology, v. 24, p. 296-305, 2006.
+Citações:67|85
+
+96.
+CARDOSO, J. ; MOLENAAR, L ; MENEZES, R. ; LEERDAM, M. ; ROSENBERG, C. ; MOSLEIN, G. ; SAMPSON, J. ; MORREAU, H ; BOER, J.M. ; FODDE, R . Chromosomal instability in MYH- and APC-mutant adenomatous polyps. Cancer Research, v. 66, p. 2514-2519, 2006.
+Citações:43|47
+
+97.
+Krepischi-Santos, A.C.V. ; Vianna-Morgante, A.M. ; Jehee, F.S. ; Passos-Bueno, M.R. ; KNIJNENBURG, J. ; Szuhai, K. ; Sloos, W. ; MAZZEU, J. F. ; Mazzeu, J.F. ; KOK, F. ; CHEROKI, C. ; Otto, P.A. ; Mingroni-Netto, R.C. ; Varela, M. ; Koiffmann, C. ; Kim, C.A. ; Bertola, D.R. ; Pearson, P.L. ; ROSENBERG, C. . Whole-genome array-CGH screening in undiagnosed syndromic patients: old syndromes revisited and new alterations. Cytogenetic and Genome Research, v. 115, p. 254-261, 2006.
+Citações:80|81
+
+98.
+VARELA, Monica Castro ; KREPISCHI, Ana Cristina Victorino ; PAZ, José A da ; KNIJNENBURG, J ; SZUHAI, K ; ROSENBERG, C. ; KOIFFMANN, C. P. . A 17q21.31 microdeletion encompassing the MAPT gene in a mentally impaired patient. Cytogenetic and Genome Research, Suíça, v. 114, p. 89-92, 2006.
+
+99.
+Rosenberg, C. Array-CGH detection of micro rearrangements in mentally retarded individuals: clinical significance of imbalances present both in affected children and normal parents. Journal of Medical Genetics, v. 43, p. 180-186, 2005.
+Citações:151|168
+
+100.
+ROSENBERG, C.; KNIJNENBURG, J ; Chauffaille Mde L ; BRUNONI, D. ; CATELANI, A. L. ; SLOOS, W ; SZUHAI, K ; TANKE, H J . Array CGH detection of a cryptic deletion in a complex chromosome rearrangement.. Human Genetics, v. 116(5), p. 390-394, 2005.
+Citações:27|29
+
+101.
+JEHEE, F. ; ROSENBERG, C. ; KREPISCHI-SANTOS, A. C. V. ; KOK, F. ; KINIJNENBURG, J ; FROYEN, G. ; VIANNA-MORGANTE, A M ; OPITZ, J. M. ; BUENO, M R Passos . An Xq22.3 Duplication Detected by Comparative Genomic Hybridization Microarray (CGH-array) Defines a new Locus (FGS5) for FG Syndrome. American Journal of Medical Genetics, v. 139A, p. 221-226, 2005.
+
+102.
+RAAP, A ; BURG, M Van Der ; KNIJNENBURG, J ; ROSENBERG, C. ; GRAY, J ; WIEGANT, J ; HODGSON, G ; TANKE, H J . Array Comparative Genomic Hybridization with Cyanin cis-platinum labeled DNA's. BioTechniques, 2004.
+
+103.
+KINIJNENBURG, J ; SZUHAI, K ; GILTAY, J ; MOLENAAR, L ; SLOOS, W ; POOT, M ; TANKE, H J ; ROSENBERG, C. . Insights from genomic microarrays into structural chromosome rearrangements. American Journal of Medical Genetics, 2004.
+
+104.
+SZUHAI, K ; KNIJNENBURG, J ; IJSZENGA, M ; TANKE, H J ; JONG, R J B de ; DEKKER, P B D ; ROSENBERG, C. ; HOGENDOORN, P C W . Multicolor fluorescence in situ hybridization analysis of a synovial sarcoma of the laJrynx with a t(X;18)(p11.2;q11.2) and trisomies 2 and 8.. Cancer Genetics and Cytogenetics, 2004.
+
+105.
+BEZROOKOVE, V ; ZELDEREN-BHOLA, S L ; BRINK, A ; SZUHAI, K ; RAAP, A ; BARGE, R ; BEVERSTOCK, G C ; ROSENBERG, C. . A novel t(6;14)(q25-q27;q32) in acute myelocytic leukemia involves the BCL11B gene. Cancer Genetics and Cytogenetics, v. 149, p. 72-76, 2004.
+Citações:20|22
+
+106.
+BEVERSTOCK, G C ; BEZROOKOVE, V ; MOLLEVANGER, P ; KAMP, J J Van de ; PEARSON, P L ; KOUWENBERG, J M ; ROSENBERG, C. . Multiple supernumerary ring chromosomes of different origin in a patient: a clinical report and review of the literature.. American Journal of Medical Genetics, Estados Unidos, v. 122A, p. 168-173, 2003.
+Citações:6|8
+
+107.
+ROSENBERG, C.; GEELEN, e ; IJSZENGA, M ; PEARSON, P L ; TANKE, H J ; DINJENS, W N ; DEKKEN, H Van . Spectrum of genetic changes in gastro-esophageal cancer cell lines determined by an integrated molecular cytogenetic approach. Cancer Genetics and Cytogenetics, v. 135, p. 35-41, 2002.
+Citações:14|15
+
+108.
+WIEGANT, J ; HALL, T Van ; BURG, M Van Der ; COLOMBO, M ; TANKE, H J ; OFFRINGA, F ; ROSENBERG, C. . Application of multicolor fluorescence in situ hybridization analysis for detection of cross-contamination and in vitro progression in commonly used murine tumor cell lines. Cancer Genetics and Cytogenetics, v. 139, p. 126-132, 2002.
+Citações:4|4
+
+109.
+DEKKEN, H Van ; ALERS, J C ; RIEGMAN, P H ; ROSENBERG, C. ; TILANUS, H W ; VISSERS, K . Molecular cytogenetic evaluation of gastric cardia adenocarcinoma and precursor lesions. The American Journal of Pathology, v. 158, p. 1961-1967, 2001.
+Citações:50|58
+
+110.
+ ROSENBERG, C.; WOUTERS, C H ; SZUHAI, K ; DORLAND, R ; PEARSON, P L ; POLL-THE, B T ; COLOMBIJN, R M ; BREUNING, M H ; LINDHOUT, D . A Rett syndrome patient with a ring X chromosome: further evidence for skewing of X-inactivation and heterogeneity in the aetiology of the disease. European Journal of Human Genetics, v. 9, p. 171-177, 2001.
+Citações:5|5
+
+111.
+FODDE, R ; KUIPERS, J ; ROSENBERG, C. ; SMITS, R ; KIELMAN, M ; GASPAR, C ; ES, J H Van ; BREUKEL, C ; WIEGANT, J ; GILES, R H ; CLEVERS, H . Mutations in the APC tumour suppressor gene cause chromosomal instability. Nature Cell Biology, v. 3, p. 233-238, 2001.
+Citações:489
+
+112.
+WIEGANT, J ; BEZROOKOVE, V ; ROSENBERG, C. ; TANKE, J H ; RAAP, A ; ZHANG, H ; BITTNER, M ; TRENT, J M ; MELTZER, P S . Differentially painting human chromosome arms with combined binary ratio-labeling fluorescence In situ hybridization. Genome Research, v. 10, p. 861-865, 2000.
+Citações:47|52
+
+113.
+SZUHAI, K ; BEZROOKOVE, V ; WIEGANT, J ; VROLIJK, J ; DIRKS, R W ; ROSENBERG, C. ; RAAP, A K ; TANKE, H J . Simultaneous molecular karyotyping and mapping of viral DNA integration sites by 25-color COBRA-FISH. Genes, Chromosomes & Cancer, v. 28, p. 92-97, 2000.
+Citações:47|47
+
+114.
+ ROSENBERG, C.; GURP, R J Van ; GEELEN, e ; OOSTERHUIS, J W ; LOOIJENGA, L H . Overrepresentation of the short arm of chromosome 12 is related to invasive growth of human testicular seminomas and nonseminomas. Oncogene (Basingstoke), v. 19, p. 5858-5862, 2000.
+Citações:86|94
+
+115.
+ROSENBERG, C.. Comparative genomic and in situ hybridization of germ cell tumors of the infantile testis. Laboratory Investigation, v. 80, p. 1055-1064, 2000.
+Citações:57|63
+
+116.
+LOOIJENGA, L H ; ROSENBERG, C. ; GURP, R J Van ; GEELEN, e ; ECHTEN-ARENDS, J ; JONG, B de ; MOSTERT, M ; WOLTER, O J . Comparative genomic hybridization of microdissected samples from different stages in the development of a seminoma and a non-seminoma. Journal of Pathology, v. 191, p. 187-192, 2000.
+Citações:56|57
+
+117.
+HAVEN, C J ; WONG, F K ; DAM, e W Van ; JUIJT, R Van Der ; ASPEREN, C Van ; JANSEN, J ; ROSENBERG, C. ; WIT, M de ; ROIJERS, J ; HOPPENER, J ; LIPS, C J ; LARSSON, C ; TEH, B T ; MORREAU, H . A genotypic and histopathological study of a large Dutch kindred with hyperparathyroidism-jaw tumor syndrome. The Journal of Clinical Endocrinology and Metabolism, v. 85, p. 1449-1454, 2000.
+Citações:66|92
+
+118.
+BOVEE,, J. G. M. V ; ROYEN, M Van ; BARDOEL, A. F. J ; ROSENBERG, C. ; CORNELISSE, C J ; CLETON-JANSEN, Am ; HOGENDOORN, P C W . Near-haploidy and subsequent polyploidization characterize the progression of peripheral chondrosarcoma. The American Journal of Pathology, v. 157, n.5, p. 1587-1595, 2000.
+Citações:38|42
+
+119.
+ BEZROOKOVE, V ; HANSSON, K ; SMAGT, J J Van Der ; HILHORST-HOFSTEE, Y ; WIEGANT, J ; BEVERSTOCK, G C ; RAAP, A K ; TANKE, H J ; BREUNING, M H ; ROSENBERG, C. . Individuals with abnormal phenotype and normal G-banding karyotype: improvement and limitations in the diagnosis by the use of 24-colour FISH. Human Genetics, v. 106, p. 392-398, 2000.
+Citações:19|24
+
+120.
+ALERS, J C ; ROCHAT, J ; KRIJTENBURG, P J ; HOP, W C ; KRANSE, R ; ROSENBERG, C. ; TANKE, H J ; SCHRODER, F H ; DEKKEN, H Van . Identification of genetic markers for prostatic cancer progression. Laboratory Investigation, v. 80, p. 931-942, 2000.
+Citações:135|141
+
+121.
+VOS, C B ; HAAR, N T Ter ; ROSENBERG, C. ; PETERSE, J L ; CLETON-JANSEN, Am ; CORNELISSE, C J ; VIJVER, M. J Van de . Genetic alterations on chromosome 16 and 17 are important features of ductal carcinoma in situ of the breast and are associated with histologic type. British Journal of Cancer, v. 81, p. 1410-1418, 1999.
+Citações:83|95
+
+122.
+DEKKEN, H Van ; TILANUS, H W ; TANKE, H J ; ROSENBERG, C. . Clonal Analysis of a Multifocal Oesophageal (Barrett's) adenocarcinoma by comparative genomic hybridization. Journal of Pathology, v. 188, p. 263-266, 1999.
+Citações:29|33
+
+123.
+ DEKKEN, H Van ; GEELEN, e ; DINJENS, W. N. M ; WIJNHOVEN, B. P. L ; TILANUS, H W ; TANKE, H J ; ROSENBERG, C. . Comparative genomic hybridization of cancer of the gastroesophageal junction: Deletion of 14Q31-32.1 discriminates between esophageal (Barrett's) and gastric cardia adenocarcinomas. Cancer Research, v. 59, p. 748-752, 1999.
+
+124.
+SCHERES, J ; PATER, J M de ; SOUTENBEEK, Ph ; WIJMENGA, C ; ROSENBERG, C. ; PEARSON, P L . Isochromosome 1q as the sole chromosomal abnormality in two fetal teratomas. Possible trisomic or tetrasomic zygote rescue in fetal teratoma with an additional isochromosome 1q. Cancer Genetics and Cytogenetics, v. 115, n.1, p. 1-10, 1999.
+Citações:10|13
+
+125.
+ROSENBERG, C.; SCHUT, T B ; MOSTERT, M ; TANKE, H J ; RAAP, A K ; OOSTERHUIS, J W ; LOOIJENGA, L . Chromosomal gains and losses in testicular germ cell tumors of adolescents and adults investigated by a modified comparative genomic hybridization approach. Laboratory Investigation, v. 79, p. 1447-1451, 1999.
+Citações:31|31
+
+126.
+BOVEE,, J. G. M. V ; CLETON-JANSEN, Am ; ROSENBERG, C. ; TAMINIAU, A H ; CORNELISSE, C ; HOGENDOORN, P C . Molecular genetic characterization of both components of a dedifferentiated chondrosarcoma, with implications for its histogenesis. Journal of Pathology, v. 189, p. 454-462, 1999.
+Citações:49|60
+
+127.
+ALERS, J C ; ROCHAT, J ; KRIJTENBURG, P J ; DEKKEN, Herman Van ; RAAP, A K ; ROSENBERG, C. . Universal linkage system: an improved method for labeling archival DNA for comparative genomic hybridization. Genes, Chromosomes & Cancer, v. 21, p. 301-305, 1999.
+
+128.
+ROSENBERG, C.; GIJLSWIJK, R P M Van ; VOS, C B J ; WIEGANT, J ; CORNELISSE, C ; TANKE, H J ; RAAP, A K . Comparative Genomic Hybridization with Lissamine- and Fluorescein Labelled Nucleotides. Cytometry, v. 32, p. 347-351, 1998.
+
+129.
+ROSENBERG, C.; MOSTERT, M ; BAKKER-SCHUT, T ; POL, M Van de ; ECHTEN, J Van ; JONG, B de ; RAAP, A K ; TANKE, J H ; OOSTERHUIS, W ; LOOIJENGA, L . Chromosomal contitution of human spermatocytic seminomas; comparative genomic hybridization supported by conventional and interphase cytogenetics.. Genes, Chromosomes & Cancer, v. 23, p. 286-291, 1998.
+Citações:40|37
+
+130.
+ROSENBERG, C.; NAVAJAS, L ; VAGENAS, D F ; BAKKER, e ; VAINZOF, M ; BUENO, M R Passos ; TAKATA, R I ; OMMEN, G J Van ; ZATZ, M ; DUNNEN, J T Den . Clinical diagnosis of heterozygous dystrophin gene deletions by fluorescence in situ hybridization. Neuromuscular Disorders, v. 8, p. 447-452, 1998.
+Citações:10|10
+
+131.
+MOSTERT, M ; VERKERK, A. J. M. H ; POL, M Van de ; HEIGHWAY, J ; MARYNEN, P ; ROSENBERG, C. ; KESSEL, A G Van ; ECHTEN, J Van ; OOSTERHUIS, W ; LOOIJENGA, L . Identification of the crucial region of 12p overrepresentation in testicular germ cell tumors of adolescents and adults: towards the gene(s) of interest. Oncogene (Basingstoke), v. 16, p. 2617-2627, 1998.
+Citações:72|78
+
+132.
+MIOZZO, M ; CASTORINA, P ; RIVA, P ; DALPRA, L ; CONTI, A M F ; VOLPI, L ; HOE, T ; KHOO, A ; WIEGANT, J ; ROSENBERG, C. ; LARIZZA, L . Chromosomal instability in fibrobasts and mesenchimal tumors from 2 sibs with Rothmund-Thomson Syndrome. International Journal of Cancer, v. 77, p. 504-510, 1998.
+Citações:48|48
+
+133.
+DEKKEN, H Van ; ROSENBERG, C. ; KRIJTENBURG, P J ; ALERS, J C . Interphase cytogenetics and comparative genomic hybridization of human epithelial cancer and precursor lesions. Histochemistry and Cell Biology, v. 108, p. 419-430, 1997.
+Citações:19|23
+
+134.
+DIERLAMM, J ; ROSENBERG, C. ; STUL, M ; PITTALUGA, S ; WLODARSKA, L ; MICHAUX, L ; DEHAEN, M ; VERHOEF, G ; THOMAS, J ; BAKKER-SCHUT, T ; CASSIMAN, J J ; RAAP, A K ; WOLF-PEETERS, C de ; BERGHE, H Van Den ; HAGEMEIJER, A . Characteristic pattern of chromosomal gains and losses in mariginal zone B-cell lymphoma detected by comparative genomic hybridization. Leukemia, v. 11, p. 747-758, 1997.
+Citações:99|111
+
+135.
+ROSENBERG, C.; BAKKER-SCHUT, T ; MOSTERT, M ; TANKE, H J ; RAAP, A K ; OOSTERHUIS, W ; LOOIJENGA, L . Comparative genomic hybridization in hypotriploid/hyperdiploid tumors. Cytometry, v. 29, p. 113-121, 1997.
+Citações:18|18
+
+136.
+ROSENBERG, C.; ANTONINI, S ; BARBOSA, A C ; MOREIRA-FILHO, C A ; MORGANTE, A M Vianna . RB1 deletion in gonadoblastoma in an XY fem. Human Genetics, v. 101, p. 181-185, 1997.
+Citações:2|4
+
+137.
+ALERS, J C ; KRIJTENBURG, P J ; ROSENBERG, C. ; HOP, W C J ; VERKERK, A M ; SCHRODER, F H ; KWAST, T H Van Der ; BOSMAN, F T ; DEKKEN, H Van . Interphase cytogenetics of prostatic tumor progression: specific chromosomal abnormalities are involved in metastasis of the bone. Laboratory Investigation, v. 5, p. 437-448, 1997.
+
+138.
+ROSENBERG, C.; MORGANTE, A M Vianna ; MINGRONI NETTO, R C ; OTTO, P A . FRAXF in a patient with chromosome 8 duplication. Journal of Medical Genetics, v. 33, p. 611-614, 1996.
+
+139.
+ROSENBERG, C.; VOLTZ, A K ; LAWER, A M ; LAMB, B T ; STETTEN, G ; GEARHART, J D . Alterations of yeast artificial chromosome transgenic sequences in stretched embryonic stem-cell chromatin visualized by flouroescence in situ hybridization.. Cytogenetics and Cell Genetics, v. 75, n.67, 1996.
+
+140.
+WES, P D ; CHEVESICH, J ; JEROMIN, A ; ROSENBERG, C. ; STETTEN, G ; MONTELL, C . TRPC1, a human homolog of a Drosophila store-operated channel. PNAS. Proceedings of the National Academy of Sciences of the United States of America, v. 92, p. 9652-9656, 1995.
+Citações:379|383
+
+141.
+ROSENBERG, C.; ROSA, V A Della ; LATRONICO, A C ; MENDONCA, B B ; VIANNA-MORGANTE, A M . Selection of adrenal tumor cells in culture demonstrated by interphase cytogenetics. Cancer Genetics and Cytogenetics, v. 79, p. 36-40, 1995.
+Citações:10|11
+
+142.
+ ROSENBERG, C.; FLORIJN, R J ; RIJKE, F M Van de ; BLONDEN, L A ; RAAP, A K ; OMMEN, G J Van ; DUNNEN, J T Den . High resolution DNA fiber-fish on yeast artificial chromosomes: direct visualization of DNA replication.. Nature Genetics, v. 10, p. 477-479, 1995.
+Citações:31|34
+
+143.
+ROSENBERG, C.; BOROVIK, C L ; CANONACO, R S ; SICHERO, L C ; QUEIROZ, A P ; MORGANTE, A M Vianna . Identification of a supernumerary marker derived from chromosome 17 using FISH. American Journal of Medical Genetics, v. 59, p. 33-35, 1995.
+Citações:13|13
+
+144.
+ROSENBERG, C.; JANSON, M ; NORDESKJOLD, M ; BORRESEN, A L ; MORGANTE, A M Vianna . Intragenic reorganization of RB1 in a complex (4;13) rearrangement demonstrated by FISH. Cytogenetics and Cell Genetics, v. 65, p. 268-271, 1994.
+
+145.
+ROSENBERG, C.; ANDERSEN, T I ; NESLAND, J M ; LIER, M e ; BROGGER, A ; BORRESEN, A L . Genetic alterations of chromosome 17 in human breast carcinoma studied by fluorescence in situ hybridization and molecular DNA techniques. Cancer Genetics and Cytogenetics, v. 75, p. 1-5, 1994.
+Citações:7|7
+
+146.
+FECHNER, P Y ; ROSENBERG, C. ; STETTEN, G ; CARGILE, C B ; PEARSON, P L ; SMITH, K ; MIGEON, C J ; BERKOVITZ, B G . Nonrandom inactivation of the Y-bearing X chromosome in a 46,XX individual: evidence for the etiology of 46,XX true hermaphroditism. Cytogenetics and Cell Genetics, v. 66, p. 22-26, 1994.
+Citações:30|29
+
+147.
+MCGINNISS, M J ; ROSENBERG, C. ; STETTEN, G ; SCHINZEL, A A ; BINKERT, F ; PETERSEN, M B ; KEARNS, W B ; KAZAZIAN, W G ; PEARSON, P L ; ANTONARAKIS, S e . Unbalanced translocation, t(18;21), detected by fluorescence in situ hybridization (FISH) in a child with 18q- syndrome and a ring chromosome 21. American Journal of Medical Genetics, v. 46, p. 647-651, 1993.
+Citações:3|3
+
+148.
+GARTNER, J ; KEARNS, W B ; ROSENBERG, C. ; PEARSON, P L ; COPELAND, N G ; GILBERT, D J ; JENKINS, N A ; VALLE, D . Localization of the 70-kDa peroxisomal membrane protein to human 1p21-p22 and mouse 3. Genomics (San Diego), v. 15, p. 412-414, 1993.
+Citações:18|17
+
+149.
+BLAKEMORE, K J ; ROSENBERG, C. ; JASWANEY, V L ; PRESSMANA, e K ; KEARNS, W B ; PEARSON, P L ; STETTEN, G . Rapid diagnosis of trisomy 18 and dizygosity in twins using fluorescen in situ hybridization on uncultured amniocytes. Journal of Maternal-Fetal Medicine, v. 2, p. 197-200, 1993.
+
+150.
+ROSENBERG, C.; BLAKEMORE, K J ; KEARNS, W B ; GIRALDEZ, R A ; ESCALLON, C S ; PEARSON, P L ; STETTEN, G . Analysis of reciprocal translocations by chromosome painting: applications and limitations of the technique. American Journal of Human Genetics, v. 50, p. 700-705, 1992.
+Citações:43|37
+
+151.
+ROSENBERG, C.; MORGANTE, A M Vianna ; OTTO, P A ; NAVAJAS, L . Effect of X inactivation on fragile X frequency and mental retardation. American Journal of Medical Genetics, v. 38, p. 421-424, 1991.
+Citações:7|4
+
+152.
+ROSENBERG, C.; STETTEN, G ; KEARNS, W B ; PEARSON, P L ; LITTLEFIELD, J W . Origin of chromosome rearrangements in two long-lived human keratinocyte lines.. In Vitro Cellular & Developmental Biology. Animal, v. 27a, p. 823-825, 1991.
+
+153.
+MINGRONI-NETTO, R C ; ROSENBERG, C. ; MORGANTE, A M Vianna ; PAVANELLO, R . Fragile X frequency in a mentally retarded population in Brazil. American Journal of Medical Genetics, v. 35, p. 22-27, 1990.
+Citações:9|8
+
+154.
+JACOBI, C M ; ROSENBERG, C. ; MORGANTE, A M Vianna . The karyotype of the Brown Mussel Perna perna (L.) (Bivalvia: Mytilidae). Revista Brasileira de Genetica (Suplemento), v. 13, n.669, 1990.
+
+155.
+SOARES, V X R ; ROSENBERG, C. ; MORGANTE, A M Vianna ; NAVAJAS, L . Normal Carrier males of the Martin-Bell syndrome gene: implications for genetic counseling. Revista Brasileira de Genetica (Suplemento), v. 11, p. 769-781, 1988.
+
+156.
+MORGANTE, A M Vianna ; RICHIERI-COSTA, A ; ROSENBERG, C. . Deletion of the short arm of chromosome 20. Clinical Genetics, v. 31, p. 416-409, 1987.
+Citações:7|8
+
+157.
+ROSENBERG, C.; FROTA-PESSOA, O ; MORGANTE, A M Vianna ; CHU, T H . Phenotypic spectrum of 45,X/46,XY individuals. American Journal of Medical Genetics, v. 27, p. 553-559, 1987.
+Citações:29|29
+
+158.
+NAVAJAS, L ; ROSENBERG, C. ; MORGANTE, A M Vianna . Genetic Couseling in Martin -Bell syndrome. Revista Brasileira de Genetica (Suplemento), v. 10, p. 333-340, 1987.
+
+159.
+MORGANTE, A M Vianna ; ROSENBERG, C. . Deletion of the centromere as a mechanism for achieving stability of a dicentric chromosome. Cytogenetics and Cell Genetics, v. 42, p. 119-122, 1986.
+
+160.
+ROSENBERG, C.; MUSTACCHI, C ; BRAZ, A ; ARNHOLD, I J ; CHU, T H ; CARNEVALE, J ; FROTA-PESSOA, O . Testicular regression in a patient with virilized female phenotype. American Journal of Medical Genetics, v. 19, p. 183-188, 1984.
+Citações:11|7

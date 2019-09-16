@@ -1,0 +1,257 @@
+1.
+STERANKA, JARED P. ; TANG, ZUOJIAN ; GRIVAINIS, MARK ; HUANG, CHENG RAN LISA ; PAYER, LINDSAY M. ; REGO, FERNANDA O. R. ; MILLER, THIAGO LUIZ ARAUJO ; Galante, Pedro A. F. ; RAMASWAMI, SITHARAM ; HEGUY, ADRIANA ; FENYÖ, DAVID ; BOEKE, JEF D. ; BURNS, KATHLEEN H. . Transposon insertion profiling by sequencing (TIPseq) for mapping LINE-1 insertions in the human genome. Mobile DNA, v. 10, p. 8, 2019.
+
+2.
+CAMARGO, ANTONIO P ; NAKAHARA, THIAGO S ; FIRMINO, LUIZ E R ; NETTO, PAULO H M ; DO NASCIMENTO, JOÃO B P ; DONNARD, ELISA R ; Galante, Pedro A F ; CARAZZOLLE, MARCELO F ; MALNIC, Bettina ; PAPES, FABIO . Uncovering the mouse olfactory long non-coding transcriptome with a novel machine-learning model. DNA RESEARCH, v. 1, p. 1-17, 2019.
+
+3.
+BIM, LARISSA V. ; NAVARRO, FÁBIO C. P. ; VALENTE, FLÁVIA O. F. ; LIMA-JUNIOR, JOSÉ V. ; DELCELO, ROSANA ; DIAS-DA-SILVA, MAGNUS R. ; MACIEL, RUI M. B. ; Galante, Pedro A. F. ; CERUTTI, JANETE M. . Retroposed copies of RET gene: a somatically acquired event in medullary thyroid carcinoma. BMC Medical Genomics, v. 12, p. 1-17, 2019.
+
+4.
+VELASCO, MITZLI X. ; KOSTI, ADAM ; GUARDIA, GABRIELA D.A. ; SANTOS, MARCIA C. ; TEGGE, ALLISON ; QIAO, MEI ; CORREA, BRUNA R.S. ; HERNÁNDEZ, GRECO ; KOKOVAY, ERZSEBET ; Galante, Pedro A.F. ; PENALVA, LUIZ O.F. . Antagonism between the RNA-binding protein Musashi1 and miR-137 and its potential impact on neurogenesis and glioblastoma development. RNA, v. 25, p. 768-782, 2019.
+
+5.
+CORREA, BRUNA R. S. ; HU, JOANNA ; PENALVA, LUIZ O. F. ; SCHLEGEL, RICHARD ; RIMM, DAVID L. ; Galante, Pedro A. F. ; AGARWAL, SEEMA . Patient-derived conditionally reprogrammed cells maintain intra-tumor genetic heterogeneity. Scientific Reports, v. 8, p. 4097, 2018.
+
+6.
+CAMARGO, L.C. ; CAMPOS, G.A.A. ; GALANTE, P. ; BIOLCHI, A.M. ; GONÇALVES, J.C. ; LOPES, K.S. ; MORTARI, M.R. . Peptides isolated from animal venom as a platform for new therapeutics for the treatment of Alzheimer's disease. NEUROPEPTIDES, v. 67, p. 79-86, 2018.
+
+7.
+CAMARGO, ROSALINDA YASATO ; KANAMURA, CRISTINA TAKAMI ; FRIGUGLIETTI, CELSO UBIRAJARA ; NOGUEIRA, CÉLIA REGINA ; IORCANSKY, SONIA ; TINCANI, ALFIO JOSÉ ; BEZERRA, ANA KARINA ; BRUST, ESTER ; KOYAMA, FERNANDA CHRISTTANINI ; CAMARGO, Anamaria Aranha ; REGO, FERNANDA ORPINELLI R. ; GALANTE, PEDRO ALEXANDRE FAVORETTO ; MEDEIROS-NETO, GERALDO ; RUBIO, ILEANA GABRIELA SANCHEZ . Histopathological Characterization and Whole Exome Sequencing of Ectopic Thyroid: Fetal Architecture in a Functional Ectopic Gland from Adult Patient. International Journal of Endocrinology, v. 2018, p. 1-10, 2018.
+
+8.
+SANTOS, MARCIA CRISTINA T. DOS ; BARRETO-SANZ, MIGUEL ARTURO ; CORREIA, BRUNA RENATA S. ; BELL, ROSIE ; WIDNALL, CATHERINE ; PEREZ, LUIS TOSAR ; BERTEAU, CAROLINE ; SCHULTE, CLAUDIA ; SCHELLER, DIETER ; BERG, DANIELA ; MAETZLER, WALTER ; Galante, Pedro A. F. ; DA COSTA, ANDRE NOGUEIRA . miRNA-based signatures in cerebrospinal fluid as potential diagnostic tools for early stage Parkinson?s disease. Oncotarget, v. 9, p. 12-27, 2018.
+
+9.
+CAMPESATO, LUIS FELIPE ; SILVA, ANA PAULA M. ; CORDEIRO, LUNA ; CORREA, BRUNA R. ; NAVARRO, FABIO C. P. ; ZANIN, RAFAEL F. ; MARÇOLA, MARINA ; INOUE, LILIAN T. ; DUARTE, MARIANA L. ; MOLGORA, MARTINA ; PASQUALINI, FABIO ; MASSARA, MATTEO ; Galante, Pedro ; BARROSO-SOUSA, ROMUALDO ; POLENTARUTTI, NADIA ; RIVA, FEDERICA ; COSTA, ERICO T. ; MANTOVANI, ALBERTO ; GARLANDA, CECILIA ; CAMARGO, ANAMARIA A. . High IL-1R8 expression in breast tumors promotes tumor growth and contributes to impaired antitumor immunity. Oncotarget, v. 7, p. 1, 2017.
+Citações:1
+
+10.
+FRANÇA, GUSTAVO S. ; HINSKE, LUDWIG C. ; Galante, Pedro A. F. ; VIBRANOVSKI, MARIA D. . Unveiling the Impact of the Genomic Architecture on the Evolution of Vertebrate microRNAs. Frontiers in Genetics, v. 8, p. 2, 2017.
+
+11.
+BETTONI, Fabiana ; Masotti, Cibele ; HABR-GAMA, ANGELITA ; CORREA, BRUNA R. ; GAMA-RODRIGUES, JOAQUIM ; VIANNA, MARIA R. ; VAILATI, BRUNA B. ; SÃO JULIÃO, GUILHERME P. ; FERNANDEZ, LAURA M. ; GALANTE, PEDRO A. ; CAMARGO, ANAMARIA A. ; PEREZ, RODRIGO O. . Intratumoral Genetic Heterogeneity in Rectal Cancer. ANNALS OF SURGERY, v. 265, p. e4-e6, 2017.
+
+12.
+MUNFORD, V. ; CASTRO, L.P. ; SOUTO, R. ; LERNER, L.K. ; VILAR, J. B. ; QUAYLE, C. ; ASIF, H. ; SCHUCH, A.P. ; DE SOUZA, T.A. ; IENNE, S. ; ALVES, F.I.A. ; MOURA, L.M.S. ; GALANTE, P.A.F. ; CAMARGO, A.A. ; LIBOREDO, R. ; PENA, S.D.J. ; SARASIN, A. ; CHAIBUB, S.C. ; MENCK, C.F.M. . A genetic cluster of patients with variant xeroderma pigmentosum with two different founder mutations. BRITISH JOURNAL OF DERMATOLOGY, v. 176, p. 1270-1278, 2017.
+Citações:3|2
+
+13.
+BETTONI, Fabiana ; KOYAMA, FERNANDA CHRISTTANINI ; DE AVELAR CARPINETTI, PAOLA ; GALANTE, PEDRO ALEXANDRE FAVORETTO ; CAMARGO, Anamaria Aranha ; ASPRINO, PAULA FONTES . A straightforward assay to evaluate DNA integrity and optimize next-generation sequencing for clinical diagnosis in oncology. EXPERIMENTAL AND MOLECULAR PATHOLOGY, v. 103, p. 294-299, 2017.
+
+14.
+MASOTTI, C. ; BRITO, L.A. ; NICA, A.C. ; LUDWIG, K.U. ; NUNES, K. ; SAVASTANO, C.P. ; MALCHER, C. ; FERREIRA, S.G. ; KOBAYASHI, G.S. ; BUENO, D.F. ; ALONSO, N. ; FRANCO, D. ; ROJAS-MARTINEZ, A. ; DOS SANTOS, S.E. ; GALANTE, P.A. ; Meyer, D. ; HÜNEMEIER, T. ; MANGOLD, E. ; DERMITZAKIS, E.T. ; PASSOS-BUENO, M.R. . MRPL53 , a New Candidate Gene for Orofacial Clefting, Identified Using an eQTL Approach. JOURNAL OF DENTAL RESEARCH, v. 97, p. 002203451773580, 2017.
+
+15.
+ASPRINO, PAULA FONTES ; LINCK, RUDINEI DIOGO MARQUES ; CESAR, JONATAS ; FREITAS, FLORÊNCIO PORTO ; KOYAMA, FERNANDA CHRISTTANINI ; RIECHELMANN, RACHEL SIMÕES PIMENTA ; COSTA, FREDERICO PEREGO ; HOFF, PAULO ; GALANTE, PEDRO ALEXANDRE FAVORETTO ; MEYER, DIOGO ; CAMARGO, Anamaria Aranha ; SABBAGA, JORGE . TSC2 rare germline variants in non-tuberous sclerosis patients with neuroendocrine neoplasias. ENDOCRINE-RELATED CANCER, v. 103, p. ERC-17-0286, 2017.
+
+16.
+PEZUK, JULIA ALEJANDRA ; ARAUJO MILLER, THIAGO LUIZ ; BEVILACQUA, JOSÉ LUIZ BARBOSA ; DORNELLAS DE BARRO, ALFREDO CARLOS SIMÕES ; MARTINS DE ANDRADE, FELIPE EDUARDO ; ANDRADE E MACEDO, LUIZA FREIRE DE ; AGUILAR, VERA ; MENARDO CLARO, AMANDA NATASHA ; CAMARGO, Anamaria Aranha ; FAVORETTO GALANTE, PEDRO ALEXANDRE ; REIS, LUIZ F. L. . Measuring plasma levels of three microRNAs can improve the accuracy for identification of malignant breast lesions in women with BI-RADS 4 mammography. Oncotarget, v. 48, p. 83940, 2017.
+
+17.
+ FRANÇA, GUSTAVO S. ; VIBRANOVSKI, MARIA D. ; Galante, Pedro A. F. . Host gene constraints and genomic context impact the expression and evolution of human microRNAs. Nature Communications, v. 7, p. 11438, 2016.
+Citações:7|7
+
+18.
+CORREA, BRUNA R. ; DE ARAUJO, PATRICIA ROSA ; QIAO, MEI ; BURNS, SUZANNE C. ; CHEN, CHEN ; SCHLEGEL, RICHARD ; AGARWAL, SEEMA ; Galante, Pedro A. F. ; PENALVA, LUIZ O. F. . Functional genomics analyses of RNA-binding proteins reveal the splicing regulator SNRPB as an oncogenic candidate in glioblastoma. GENOME BIOLOGY, v. 17, p. 125, 2016.
+Citações:4|4
+
+19.
+DONNARD, ELISA R. ; CARPINETTI, PAOLA A. ; NAVARRO, FÁBIO C.P. ; PEREZ, RODRIGO O. ; HABR-GAMA, ANGELITA ; Parmigiani, Raphael B. ; CAMARGO, ANAMARIA A. ; Galante, Pedro A.F. . ICRmax: An optimized approach to detect tumor-specific interchromosomal rearrangements for clinical application. Genomics (San Diego, Calif.), v. 105, p. 265-272, 2015.
+Citações:2|2
+
+20.
+GONZALEZ-KRISTELLER, DANIELA C. ; DO NASCIMENTO, JOÃO B. P. ; Galante, Pedro A. F. ; MALNIC, Bettina . Identification of agonists for a group of human odorant receptors. Frontiers in Pharmacology, v. 6, p. 35, 2015.
+Citações:3|8
+
+21.
+Hinske, Ludwig Christian ; Galante, Pedro A. F. ; LIMBECK, ELISABETH ; MÖHNLE, PATRICK ; Parmigiani, Raphael B. ; Ohno-Machado, Lucila ; CAMARGO, ANAMARIA A. ; Kreth, Simone . Alternative Polyadenylation Allows Differential Negative Feedback of Human miRNA miR-579 on Its Host Gene ZFR. Plos One, v. 10, p. e0121507, 2015.
+Citações:2|2
+
+22.
+LOPES-RAMOS, CAMILA ; KOYAMA, FERNANDA C. ; HABR-GAMA, ANGELITA ; SALIM, ANNA CHRISTINA M. ; BETTONI, Fabiana ; ASPRINO, PAULA F. ; FRANÇA, GUSTAVO S. ; GAMA-RODRIGUES, JOAQUIM ; Parmigiani, Raphael B. ; PEREZ, RODRIGO O. ; Galante, Pedro A.F. ; CAMARGO, ANAMARIA A. . Comprehensive evaluation of the effectiveness of gene expression signatures to predict complete response to neoadjuvant chemoradiotherapy and guide surgical intervention in rectal cancer. Cancer Genetics, v. 03, p. 10, 2015.
+Citações:6|4
+
+23.
+ NAVARRO, FÁBIO C.P. ; Galante, Pedro A.F. . A Genome-Wide Landscape of Retrocopies in Primate Genomes. Genome Biology and Evolution, v. 7, p. 2265-2275, 2015.
+Citações:5|6
+
+24.
+GUEDES, ELAINE CASTILHO ; FRANÇA, GUSTAVO STARVAGGI ; LINO, CAROLINE ANTUNES ; KOYAMA, FERNANDA CHRISTTANINI ; MOREIRA, LUANA DO NASCIMENTO ; ALEXANDRE, JULIANA GOMES ; BARRETO-CHAVES, MARIA LUIZA M. ; GALANTE, PEDRO ALEXANDRE FAVORETTO ; DINIZ, GABRIELA PLACONÁ . -MicroRNA Expression Signature Is Altered in the Cardiac Remodeling Induced by High Fat Diets-. Journal of Cellular Physiology (Print), v. 7, p. n/a-n/a, 2015.
+Citações:7|3
+
+25.
+CAMBULI, FM ; CORREA, BR ; REZZA, A ; BURNS, SC ; QIAO, M ; UREN, PJ ; KRESS, E ; BOUSSOUAR, A ; Galante, PAF ; PENALVA, LOF ; PLATEROTI, M . A mouse model of targeted Musashi1 expression in whole intestinal epithelium suggests regulatory roles in cell cycle and stemness. Stem Cells (Dayton, Ohio), v. 33, p. n/a-n/a, 2015.
+Citações:3|1
+
+26.
+CARPINETTI, P. ; DONNARD, E. ; BETTONI, F. ; ASPRINO, PAULA ; KOYAMA, FERNANDA ; ROZANSKI, A. ; SABBAGA, J. ; Habr-Gama, A. ; Parmigiani, R. B. ; Galante, Pedro A.F. ; PEREZ, R. O. ; CAMARGO, A. A. . The use of personalized biomarkers and liquid biopsies to monitor treatment response and disease recurrence in locally advanced rectal cancer after neoadjuvant chemoradiation. OncoTarget, v. 6, p. 38360, 2015.
+Citações:3|11
+
+27.
+TORREZAN, GIOVANA T. ; FERREIRA, ELISA N. ; NAKAHATA, ADRIANA M. ; BARROS, BRUNA D. F. ; CASTRO, MAYRA T. M. ; CORREA, BRUNA R. ; KREPISCHI, ANA C. V. ; OLIVIERI, ELOISA H. R. ; CUNHA, ISABELA W. ; TABORI, URI ; GRUNDY, PAUL E. ; COSTA, CECILIA M. L. ; DE CAMARGO, BEATRIZ ; Galante, Pedro A. F. ; CARRARO, DIRCE M. . Recurrent somatic mutation in DROSHA induces microRNA profile changes in Wilms tumour. Nature Communications, v. 5, p. 1-10, 2014.
+Citações:36|32
+
+28.
+HINSKE, L. C. ; FRANCA, G. S. ; TORRES, H. A. M. ; Ohara, D. T. ; LOPES-RAMOS, C. M. ; HEYN, J. ; REIS, L. F. L. ; Ohno-Machado, L. ; KRETH, S. ; Galante, P. A. F. . miRIAD--integrating microRNA inter- and intragenic data. DATABASE-OXFORD, v. 2014, p. bau099-bau099, 2014.
+Citações:3|20
+
+29.
+LOPES-RAMOS, CAMILA ; HABR-GAMA, ANGELITA ; QUEVEDO, BRUNA ; FELÍCIO, NATÁLIA ; BETTONI, Fabiana ; KOYAMA, FERNANDA ; ASPRINO, PAULA ; Galante, Pedro ; GAMA-RODRIGUES, JOAQUIM ; CAMARGO, ANAMARIA ; PEREZ, RODRIGO ; PARMIGIANI, RAPHAEL . Overexpression of miR-21-5p as a predictive marker for complete tumor regression to neoadjuvant chemoradiotherapy in rectal cancer patients. BMC Medical Genomics, v. 7, p. 68, 2014.
+Citações:19|3
+
+30.
+DONNARD, E. ; ASPRINO, P. F. ; CORREA, B. R. S. ; BETTONI, F. ; KOYAMA, F. C. ; NAVARRO, F. C. P. ; PEREZ, R. O. ; MARIADASON, J. ; SIEBER, O. M. ; STRAUSBERG, R. L. ; SIMPSON, A. J. G. ; JARDIM, D. L. F. ; REIS, L. F. L. ; PARMIGIANI, R. B. ; Galante, Pedro A.F. ; CAMARGO, A. A. . Mutational analysis of genes coding for cell surface proteins in colorectal cancer cell lines reveal novel altered pathways, druggable mutations and mutated epitopes for targeted therapy. OncoTarget, v. 5, p. 9199-9213, 2014.
+Citações:9|11
+
+31.
+CAMPESATO, LUÍS FELIPE ; BARROSO-SOUSA, ROMUALDO ; JIMENEZ, LEANDRO ; CORREA, BRUNA R. ; SABBAGA, JORGE ; HOFF, PAULO M. ; REIS, LUIZ F. L. ; GALANTE, PEDRO ALEXANDRE F. ; CAMARGO, ANAMARIA A. . Comprehensive cancer-gene panels can be used to estimate mutational load and predict clinical benefit to PD-1 blockade in clinical practice. OncoTarget, v. 33, p. 34221, 2014.
+Citações:13|15
+
+32.
+SCHRIDER, DANIEL R. ; NAVARRO, FABIO C. P. ; Galante, Pedro A. F. ; Parmigiani, Raphael B. ; CAMARGO, ANAMARIA A. ; HAHN, MATTHEW W. ; DE SOUZA, SANDRO J. . Gene Copy-Number Polymorphism Caused by Retrotransposition in Humans. PLOS Genetics (Online), v. 9, p. e1003242, 2013.
+Citações:25|35
+
+33.
+F.C.P., N. ; P.A.F., G. . RCPedia: a database of retrocopied genes. Bioinformatics (Oxford. Print), v. 1, p. 1, 2013.
+Citações:5|2
+
+34.
+DA CUNHA, JÚLIA PINHEIRO CHAGAS ; GALANTE, PEDRO ALEXANDRE FAVORETTO ; DE SOUZA, JORGE ESTEFANO SANTANA ; PIEPRZYK, MARTIN ; CARRARO, Dirce Maria ; OLD, LLOYD J. ; CAMARGO, Anamaria Aranha ; DE SOUZA, SANDRO JOSÉ . The Human Cell Surfaceome of Breast Tumors. BioMed Research International, v. 2013, p. 1-11, 2013.
+Citações:2|1
+
+35.
+KROLL, JOSÉ EDUARDO ; Galante, Pedro A.F. ; OHARA, DANIEL T. ; NAVARRO, FABIO C.P. ; Ohno-Machado, Lucila ; DE SOUZA, SANDRO J. . SPLOOCE: A new portal for the analysis of human splicing variants. RNA Biology, v. 9, p. 1, 2012.
+Citações:5|7
+
+36.
+SOUZA, Jorge Estefano Santana de ; Galante, P A F ; ALMEIDA, R. V. B. ; Cunha, Júlia P. C. ; Ohara, D. T. ; Ohno-Machado, L. ; Old, L. J. ; de Souza, ??Sandro José . SurfaceomeDB: a cancer-orientated database for genes encoding cell surface proteins. Cancer Immunity, v. 12, p. 15-15, 2012.
+Citações:2
+
+37.
+Raiol, Tainá ; de Amorim, Regina Maria Santos ; Galante, Pedro ; Martins, Cláudia Renata Fernandes ; Villa, Luisa Lina ; Sichero, Laura . HPV-58 Molecular Variants Exhibit Different Transcriptional Activity. Intervirology, v. 54, p. 146-150, 2011.
+Citações:2|2
+
+38.
+Cerutti, J. M. ; Oler, G. ; Delcelo, R. ; Gerardt, R. ; Michaluart, P. ; de Souza, S. J. ; Galante, P. A. F. ; Huang, P. ; Riggins, G. J. . PVALB, a New Hurthle Adenoma Diagnostic Marker Identified through Gene Expression. The Journal of Clinical Endocrinology and Metabolism, v. 96, p. E151-E160, 2011.
+Citações:12|17
+
+39.
+ Galante, P. A. F.; Galante, P. A. F. Parmigiani, R. B. Zhao, Q. Caballero, O. L. de Souza, J. E. Navarro, F. C. P. Gerber, A. L. Nicolas, M. F. Salim, A. C. M. Silva, A. P. M. Edsall, L. Devalle, S. Almeida, L. G. Ye, Z. Kuan, S. Pinheiro, D. G. Tojal, I. Pedigoni, R. G. de Sousa, R. G. M. A. Oliveira, T. Y. K. de Paula, M. G. Ohno-Machado, L. Kirkness, E. F. Levy, S. da Silva, W. A. , et al. ; Distinct patterns of somatic alterations in a lymphoblastoid and a tumor genome derived from the same individual. Nucleic Acids Research, v. 42, p. 1-11, 2011.
+Citações:9|10
+
+40.
+de Souza, J. E. S. ; Ramalho, R. F. ; Galante, P. A. F. ; Meyer, D. ; de Souza, S. J. . Alternative splicing and genetic diversity: silencers are more frequently modified by SNVs associated with alternative exon/intron borders. Nucleic Acids Research, v. 39, p. 4942-4948, 2011.
+Citações:4|8
+
+41.
+Naumova, Anna ; Vidal, Daniel Onofre ; de Souza, ??Jorge Estefano S. ; Pires, ??Lilian Campos ; Masotti, Cibele ; Salim, ??Anna Christina Matos ; Costa, ??Maria Cristina Ferreira ; Galante, ??Pedro Alexandre Favoretto ; de Souza, ??Sandro José ; CAMARGO, Anamaria Aranha . Analysis of allelic differential expression in the human genome using allele-specific serial analysis of gene expression tags. Genome (Ottawa. Print), v. 54, p. 120-127, 2011.
+Citações:3|3
+
+42.
+Maschietto, M ; Trapé, A P ; Piccoli, F S ; Ricca, T I ; Dias, A A M ; Coudry, R A ; Galante, P A ; Torres, C ; Fahhan, L ; Lourenço, S ; Grundy, P E ; de Camargo, B ; de Souza, S ; Neves, E J ; Soares, F A ; Brentani, H ; Carraro, D M . Temporal blastemal cell gene expression analysis in the kidney reveals new Wnt and related signaling pathway genes to be essential for Wilms' tumor onset. CELL DEATH DIS, v. 2, p. e224, 2011.
+Citações:15|16
+
+43.
+Michaloski, Jussara S. ; Galante, Pedro A. F. ; Nagai, MaÃ­ra H. ; Armelin-Correa, Lucia ; Chien, Ming-Shan ; Matsunami, Hiroaki ; MALNIC, Bettina . Common Promoter Elements in Odorant and Vomeronasal Receptor Genes. Plos One, v. 6, p. e29065, 2011.
+Citações:7|8
+
+44.
+Lacson, Ronilda ; Pitzer, Erik ; Kim, Jihoon ; Galante, Pedro ; Hinske, Christian ; Ohno-Machado, Lucila . DSGeo: Software tools for cross-platform analysis of gene expression data in GEO. Journal of Biomedical Informatics, v. 43, p. 709-715, 2010.
+Citações:10|12
+
+45.
+Hinske, Ludwig ; Galante, Pedro AF ; Kuo, Winston P ; Ohno-Machado, Lucila . A potential role for intragenic miRNAs on their hosts' interactome. BMC Genomics, v. 11, p. 533, 2010.
+Citações:59|70
+
+46.
+Zhao, Qi ; Kirkness, Ewen F ; Caballero, Otavia L ; Galante, Pedro A ; Parmigiani, Raphael B ; Edshall, Lee ; Kuan, Samantha ; Ye, Zhen ; Levy, Samuel ; Vasconcelos, Ana Tereza R ; Ren, Bing ; de Souza, Sandro J ; Camargo, Anamaria A ; Simpson, Andrew JG ; STRAUSBERG, Robert L . Systematic detection of putative tumor suppressor genes through the combined use of exome and transcriptome sequencing. GenomeBiology.com (London. Print), v. 11, p. R114, 2010.
+Citações:17|23
+
+47.
+Ferreira, Elisa N ; Rangel, Maria CR ; Galante, Pedro F ; de Souza, Jorge E ; Molina, Gustavo C ; de Souza, Sandro J ; Carraro, Dirce M . Alternative splicing enriched cDNA libraries identify breast cancer-associated transcripts. BMC Genomics, v. 11, p. S4, 2010.
+Citações:7|10
+
+48.
+Pitzer, Erik ; Kim, Jihoon ; PATEL, ; GALANTE, P ; Ohno-Machado, L. . PositionMatcher: A Fast Custom-Annotation Tool for Short DNA Sequences. AMIA ... Annual Symposium proceedings, v. 2010, p. 25-29, 2010.
+Citações:1
+
+49.
+Zhao, Q. ; Caballero, O. L. ; Levy, S. ; Stevenson, B. J. ; Iseli, C. ; de Souza, S. J. ; Galante, P. A. ; Busam, D. ; Leversha, M. A. ; Chadalavada, K. ; Rogers, Y.-H. ; Venter, J. C. ; Simpson, A. J. G. ; Strausberg, R. L. . Transcriptome-guided characterization of genomic rearrangements in a breast cancer cell line. PNAS. Proceedings of the National Academy of Sciences of the United States of America, p. 1886, 2009.
+Citações:67|81
+
+50.
+GALANTE, PA; Sandhu D ; ABREU, R. S. ; Gradassi M ; Slager N ; Vogel C ; de Souza, S. J. ; PENALVA, L. O. . A comprehensive in silico expression analysis of RNA binding proteins in normal and tumor tissue: Identification of potential players in tumor formation.. RNA biology, v. 6, p. 1-10, 2009.
+Citações:23
+
+51.
+BETTONI, Fabiana ; Filho, Fernando Camargo ; Grosso, Daniela M. ; Galante, Pedro A.F. ; Parmigiani, Raphael B. ; Geraldo, Murilo V. ; Henrique-Silva, Flávio ; Oba-Shinjo, Sueli M. ; Marie, Suely K.N. ; Soares, Fernando A. . Identification of FAM46D as a novel cancer/testis antigen using EST data and serological analysis?. Genomics (San Diego), v. 94, p. 153-160, 2009.
+Citações:9|11
+
+52.
+Pinheiro, Daniel G ; Galante, Pedro AF ; de Souza, Sandro J ; Zago, Marco A ; Silva, Wilson A . A score system for quality evaluation of RNA sequence tags: an improvement for gene expression profiling. BMC Bioinformatics, v. 10, p. 170, 2009.
+Citações:2|2
+
+53.
+ da Cunha, J. P. C. ; Galante, P. A. F. ; de Souza, J. E. ; de Souza, R. F. ; Carvalho, P. M. ; Ohara, D. T. ; Moura, R. P. ; Oba-Shinja, S. M. ; Marie, S. K. N. ; Silva, W. A. ; Perez, R. O. ; Stransky, B. ; Pieprzyk, M. ; Moore, J. ; Caballero, O. ; Gama-Rodrigues, J. ; Habr-Gama, A. ; Kuo, W. P. ; Simpson, A. J. ; Camargo, A. A. ; Old, L. J. ; de Souza, S. J. . Bioinformatics construction of the human cell surfaceome. Proceedings of the National Academy of Sciences of the United States of America, v. 106, p. 16752-16757, 2009.
+Citações:42|42
+
+54.
+Pitzer, Erik ; Lacson, Ronilda ; Hinske, Christian ; Kim, Jihoon ; Galante, Pedro AF ; Ohno-Machado, Lucila . Towards large-scale sample annotation in gene expression repositories. BMC Bioinformatics, v. 10, p. S9, 2009.
+Citações:5|6
+
+55.
+Lacson, Ronilda ; Pitzer, Erik ; Hinske, Christian ; Galante, Pedro ; Ohno-Machado, Lucila . Evaluation of a large-scale biomedical data annotation initiative. BMC Bioinformatics, v. 10, p. S10, 2009.
+Citações:7|8
+
+56.
+Cunha, Júlia P. C. ; Galante, Pedro A. F. ; Souza, Sandro J. . Different Evolutionary Strategies for the Origin of Caspase-1 Inhibitors. Journal of Molecular Evolution, v. 66, p. 591-597, 2008.
+Citações:10|12
+
+57.
+Madeira, Luciana ; Galante, Pedro A. F. ; Budu, Alexandre ; Azevedo, Mauro F. ; MALNIC, Bettina ; Garcia, Célia R. S. . Genome-Wide Detection of Serpentine Receptor-Like Proteins in Malaria Parasites, v. 3, p. e1889, 2008.
+Citações:20|19
+
+58.
+LEONI, S ; GALANTE, P ; RICARTEFILHO, J ; KIMURA, E . Differential gene expression analysis of iodide-treated rat thyroid follicular cell line PCCl3. Genomics (San Diego), v. 91, p. 356-366, 2008.
+Citações:20|21
+
+59.
+Galante, P. A. F.; TRIMARCHI, J. ; Cepko, C. L. ; de Souza, S. J. ; Ohno-Machado, L. ; Kuo, W. P. . Automatic correspondence of tags and genes (ACTG): a tool for the analysis of SAGE, MPSS and SBS data. Bioinformatics (Oxford), v. 23, p. 903-905, 2007.
+Citações:9|8
+
+60.
+Ferreira, Elisa Napolitano ; Galante, Pedro A. F. ; CARRARO, Dirce Maria ; de Souza, Sandro Jos? . Alternative splicing: a bioinformatics perspective. Molecular Biosystems, v. 3, p. 473, 2007.
+Citações:7|7
+
+61.
+GALANTE, PA; VIDAL, D. O. ; Vidal, Daniel O ; de Souza, Jorge E ; Camargo, Anamaria A ; de Souza, Sandro J . Sense-antisense pairs in mammals: functional and evolutionary considerations. GenomeBiology.com (London. Print), v. 8, p. R40, 2007.
+Citações:43|45
+
+62.
+MICHALOSKI, Jussara S ; GALANTE, PA ; MALNIC, Bettina . Identification of potential regulatory motifs in odorant receptor genes by analysis of promoter sequences.. Genome Research, v. 16, p. 1091-1098, 2006.
+Citações:32|31
+
+63.
+GALANTE, PA; SAKABE, Noboru Jô ; SLAGER, Natanja Sara Kirschbaum ; SOUZA, Sandro José de . Detection and evaluation of intron retention events in the human transcriptome.. RNA (Cambridge. Print), v. 10, p. 757-765, 2004.
+Citações:126|132
+
+64.
+SLAGER, Natanja Sara Kirschbaum ; LOPES, Graziela Miê Peres ; GALANTE, PA ; RIGGINS, Gregory ; SOUZA, Sandro José de . Splicing factors are differentially expressed in tumors.. Genetics and Molecular Research, v. 3, p. 512-520, 2004.
+Citações:28
+
+65.
+PARMIGIANI, Raphael Bessa ; MAGALHAES, G. S. ; GALANTE, PA ; MANZINI, Carina Vitória ; MALNIC, Bettina ; CAMARGO, Anamaria Aranha . A novel human G protein-coupled receptor is over-expressed in prostate cancer.. Genetics and Molecular Research, v. 30, n.3, p. 521-531, 2004.
+Citações:4
+
+66.
+Silva, A. P. M. ; SOUZA, Jorge Estefano Santana de ; GALANTE, PA ; RIGGINS, Gregory ; Souza, Sandro J. ; CAMARGO, Anamaria Aranha . The impact of SNPs on the interpretation of SAGE and MPSS experimental data. Nucleic Acids Research (Online), v. 32, p. 6104-6110, 2004.
+Citações:28|27
+
+67.
+BRANTANI, Helena Paula ; CABALLERO, Otávia L ; CAMARGO, Anamaria Aranha ; SILVA, Aline M da ; SILVA JR, Wilson Araújo da ; DIAS NETO, Emmanuel ; GRIVET, Marco ; GRUBER, Arthur ; GUIMARÃES, Pedro Edson Moreira ; HIDE, Winston ; ISELI, Christian ; JONGENEEL, Victor C ; KELSON, Janete ; NAGAI, Maria Aparecida ; OJOPI, Elida Paula Benquique ; OSÓRIO, Elisson Campos ; REIS, Eduardo M R ; RIGGINS, Gregory ; SIMPSON, Andrew John George ; SOUZA, Sandro José de ; STEVENSON, Brian J ; STRAUSBERG, Robert L ; TAJARA, Eloisa H ; ALMEIDA, Sergio Verjovski ; GALANTE, PA . The generation and utilization of a cancer-oriented representation of the human transcriptome by using expressed sequence tags.. PNAS. Proceedings of the National Academy of Sciences of the United States of America, v. 100, p. 13418-13423, 2003.
+Citações:74|88
+
+68.
+SAKABE, Noboru Jô ; SOUZA, Jorge Estefano Santana de ; GALANTE, PA ; OLIVEIRA, Paulo Sérgio Lopes de ; PASSETI, Fábio ; BRENTANI, Helena Paula ; OSÓRIO, Elisson Campos ; ZAIATS, André Celso ; LEERKES, Maarten Rudolph ; KITAGIMA, João Paulo ; BRENTANI, Ricardo Renzo ; STRAUSBERG, Robert L ; SIMPSON, Andrew John George ; SOUZA, Sandro José de . ORESTES are enriched in rare exon usage variants affecting the encoded proteins.. Comptes Rendus. Biologies, v. 326, p. 979-985, 2003.
+Citações:10|13

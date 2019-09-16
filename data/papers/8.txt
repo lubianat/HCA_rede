@@ -1,0 +1,138 @@
+1.
+RODRIGUES'PERES, RAQUEL M. ; S. CARVALHO, BENILTON ; ANURAG, MEENAKSHI ; LEI, JONATHAN T. ; CONZ, LIVIA ; GONÇALVES, RODRIGO ; CARDOSO FILHO, CÁSSIO ; RAMALHO, SUSANA ; PAIVA, GEISILENE R. ; DERCHAIN, SOPHIE F. M. ; LOPES'CENDES, ISCIA ; ELLIS, MATTHEW J. ; SARIAN, LUIS O. . Copy number alterations associated with clinical features in an underrepresented population with breast cancer. MOLECULAR GENETICS & GENOMIC MEDICINE, v. 7, p. e750, 2019.
+
+2.
+GONSALES, MARINA C. ; MONTENEGRO, MARIA AUGUSTA ; PRETO, PAULA ; GUERREIRO, MARILISA M. ; COAN, ANA CAROLINA ; QUAST, MONICA PAIVA ; CARVALHO, BENILTON S. ; LOPES-CENDES, ISCIA . Multimodal Analysis of SCN1A Missense Variants Improves Interpretation of Clinically Relevant Variants in Dravet Syndrome. Frontiers in Neurology, v. 10, p. 1, 2019.
+
+3.
+SOUZA, W. ; CARVALHO, B. S. ; CENDES, I. T. L. . Rqc : A Bioconductor Package for Quality Control of High-Throughput Sequencing Data. Journal of Statistical Software, v. 87, p. C02, 2018.
+
+4.
+AVANSINI, SIMONI H. ; TORRES, FÁBIO R. ; VIEIRA, ANDRÉ S. ; DOGINI, DANYELLA B. ; ROGERIO, FABIO ; COAN, ANA C. ; MORITA, MARCIA E. ; GUERREIRO, MARILISA M. ; YASUDA, CLARISSA L. ; SECOLIN, RODRIGO ; CARVALHO, BENILTON S. ; BORGES, MURILO G. ; ALMEIDA, VANESSA S. ; ARAÚJO, PATRÍCIA A. O. R. ; QUEIROZ, LUCIANO ; CENDES, FERNANDO ; LOPES-CENDES, ISCIA . Dysregulation of NEUROG2 plays a key role in focal cortical dysplasia. ANNALS OF NEUROLOGY, v. 83, p. 623-635, 2018.
+
+5.
+ROBERTSON, A. GORDON KIM, JAEGIL AL-AHMADIE, HIKMAT BELLMUNT, JOAQUIM GUO, GUANGWU CHERNIACK, ANDREW D. HINOUE, TOSHINORI LAIRD, PETER W. HOADLEY, KATHERINE A. AKBANI, REHAN CASTRO, MAURO A.A. GIBB, EWAN A. KANCHI, RUPA S. GORDENIN, DMITRY A. SHUKLA, SACHET A. SANCHEZ-VEGA, FRANCISCO HANSEL, DONNA E. CZERNIAK, BOGDAN A. REUTER, VICTOR E. SU, XIAOPING DE SA CARVALHO, BENILTON CHAGAS, VINICIUS S. MUNGALL, KAREN L. SADEGHI, SARA PEDAMALLU, CHANDRA SEKHAR , et al. ; Comprehensive Molecular Characterization of Muscle-Invasive Bladder Cancer. CELL, v. 174, p. 1033, 2018.
+
+6.
+HENNING, BARBARA ; DE SÁ CARVALHO, BENILTON ; PIRES, MATHIAS M. ; BASSOI, MANUELA ; MARIGO, JULIANA ; BERTOZZI, CAROLINA ; ARAÚJO, MÁRCIO S. . Geographical and intrapopulation variation in the diet of a threatened marine predator, Pontoporia blainvillei (Cetacea). BIOTROPICA, v. 50, p. 157-168, 2018.
+
+7.
+ ROBERTSON, A. GORDON KIM, JAEGIL AL-AHMADIE, HIKMAT BELLMUNT, JOAQUIM GUO, GUANGWU CHERNIACK, ANDREW D. HINOUE, TOSHINORI LAIRD, PETER W. HOADLEY, KATHERINE A. AKBANI, REHAN CASTRO, MAURO A.A. GIBB, EWAN A. KANCHI, RUPA S. GORDENIN, DMITRY A. SHUKLA, SACHET A. SANCHEZ-VEGA, FRANCISCO HANSEL, DONNA E. CZERNIAK, BOGDAN A. REUTER, VICTOR E. SU, XIAOPING DE SA CARVALHO, BENILTON CHAGAS, VINICIUS S. MUNGALL, KAREN L. SADEGHI, SARA PEDAMALLU, CHANDRA SEKHAR , et al. ; Comprehensive Molecular Characterization of Muscle-Invasive Bladder Cancer. CELL, v. 171, p. 540-556.e25, 2017.
+
+8.
+AVANSINI, SIMONI H. ; DE SOUSA LIMA, BEATRIZ PEREIRA ; SECOLIN, RODRIGO ; SANTOS, MARILZA L. ; COAN, ANA CAROLINA ; VIEIRA, ANDRÉ S. ; TORRES, FÁBIO R. ; CARVALHO, BENILTON S. ; ALVIM, MARINA K. M. ; MORITA, MÁRCIA E. ; YASUDA, CLARISSA L. ; PIMENTEL-SILVA, LUCIANA R. ; DOGINI, DANYELLA B. ; ROGERIO, FABIO ; CENDES, FERNANDO ; LOPES-CENDES, ISCIA . MicroRNA hsa-miR-134 is a circulating biomarker for mesial temporal lobe epilepsy. PLoS One, v. 12, p. e0173060, 2017.
+
+9.
+SILVA-ALVES, MARIANA S. ; SECOLIN, RODRIGO ; CARVALHO, BENILTON S. ; YASUDA, CLARISSA L. ; BILEVICIUS, ELIZABETH ; ALVIM, MARINA K. M. ; SANTOS, RENATO O. ; MAURER-MORELLI, CLAUDIA V. ; CENDES, FERNANDO ; LOPES-CENDES, ISCIA . A Prediction Algorithm for Drug Response in Patients with Mesial Temporal Lobe Epilepsy Based on Clinical and Genetic Information. PLoS One, v. 12, p. e0169214, 2017.
+
+10.
+NOGUEIRA JORGE, NATASHA ANDRESSA ; WAJNBERG, GABRIEL ; FERREIRA, CARLOS GIL ; DE SA CARVALHO, BENILTON ; PASSETTI, FABIO . snoRNA and piRNA expression levels modified by tobacco use in women with lung adenocarcinoma. PLoS One, v. 12, p. e0183410, 2017.
+
+11.
+VIEIRA, A. S. ; DE MATOS, A. H. ; DO CANTO, A. M. ; ROCHA, C. S. ; CARVALHO, B. S. ; PASCOAL, V. D. B. ; NORWOOD, B. ; BAUER, S. ; ROSENOW, F. ; GILIOLI, R. ; CENDES, F. ; LOPES-CENDES, I. . RNA sequencing reveals region-specific molecular mechanisms associated with epileptogenesis in a model of classical hippocampal sclerosis. Scientific Reports, v. 6, p. 22416, 2016.
+Citações:2|1
+
+12.
+BARBALHO, PATRÍCIA GONÇALVES ; CARVALHO, BENILTON DE SÁ ; LOPES-CENDES, ISCIA ; MAURER-MORELLI, CLAUDIA VIANNA . Cyclooxygenase-1 as a Potential Therapeutic Target for Seizure Suppression: Evidences from Zebrafish Pentylenetetrazole-Seizure Model. Frontiers in Neurology, v. 7, p. 200, 2016.
+
+13.
+DE ANDRADE, HELEN M.T. ; DE ALBUQUERQUE, MILENA ; AVANSINI, SIMONI H. ; DE S. ROCHA, CRISTIANE ; DOGINI, DANYELLA B. ; NUCCI, ANAMARLI ; CARVALHO, BENILTON ; LOPES-CENDES, ISCIA ; FRANÇA, MARCONDES C. . MicroRNAs-424 and 206 are potential prognostic markers in spinal onset amyotrophic lateral sclerosis. JOURNAL OF THE NEUROLOGICAL SCIENCES, v. 368, p. 19-24, 2016.
+Citações:2|4
+
+14.
+ HUBER, WOLFGANG CAREY, VINCENT J GENTLEMAN, ROBERT ANDERS, SIMON CARLSON, MARC CARVALHO, BENILTON S BRAVO, HECTOR CORRADA DAVIS, SEAN GATTO, LAURENT GIRKE, THOMAS GOTTARDO, RAPHAEL HAHNE, FLORIAN HANSEN, KASPER D Irizarry, Rafael A LAWRENCE, MICHAEL LOVE, MICHAEL I MACDONALD, JAMES OBENCHAIN, VALERIE OLE', ANDRZEJ K PAGÈS, HERVÉ REYES, ALEJANDRO SHANNON, PAUL SMYTH, GORDON K TENENBAUM, DAN WALDRON, LEVI , et al. ; Orchestrating high-throughput genomic analysis with Bioconductor. Nature Methods, v. 12, p. 115-121, 2015.
+Citações:64|70
+
+15.
+WAJNBERG, GABRIEL ; CARVALHO, BENILTON S. ; FERREIRA, CARLOS G. ; PASSETTI, FABIO . Combined Analysis of SNP Array Data Identifies Novel CNV Candidates and Pathways in Ependymoma and Mesothelioma. BIOMED RESEARCH INTERNATIONAL, v. 2015, p. 1-10, 2015.
+Citações:2
+
+16.
+ WEAVER, JAMIE M J ROSS-INNES, CARYN S SHANNON, NICHOLAS LYNCH, ANDY G FORSHEW, TIM BARBERA, MARIAGNESE MURTAZA, MUHAMMED ONG, CHIN-ANN J LAO-SIRIEIX, PIERRE DUNNING, MARK J SMITH, LAURA SMITH, MIKE L ANDERSON, CHARLOTTE L CARVALHO, BENILTON O'DONOVAN, MARIA UNDERWOOD, TIMOTHY J MAY, ANDREW P GREHAN, NICOLA HARDWICK, RICHARD DAVIES, JIM OLOUMI, ARUSHA APARICIO, SAM CALDAS, CARLOS ELDRIDGE, MATTHEW D EDWARDS, PAUL A W , et al. ; Ordering of mutations in preinvasive disease stages of esophageal carcinogenesis. Nature Genetics (Print), v. 46, p. 837-843, 2014.
+Citações:106|70
+
+17.
+OPDAHL, ANDERS ; AMBALE VENKATESH, BHARATH ; FERNANDES, VERONICA R.S. ; WU, COLIN O. ; Nasir, Khurram ; CHOI, EUI-YOUNG ; ALMEIDA, ANDRE L.C. ; Rosen, Boaz ; CARVALHO, BENILTON ; Edvardsen, Thor ; Bluemke, David A. ; Lima, João A.C. . Resting Heart Rate as Predictor for Left Ventricular Dysfunction and Heart Failure. Journal of the American College of Cardiology (Print), v. 63, p. 1182-1189, 2014.
+Citações:23|18
+
+18.
+OPDAHL, ANDERS ; AMBALE VENKATESH, BHARATH ; FERNANDES, VERONICA R.S. ; WU, COLIN O. ; Nasir, Khurram ; CHOI, EUI-YOUNG ; ALMEIDA, ANDRE L.C. ; Rosen, Boaz ; CARVALHO, BENILTON ; Edvardsen, Thor ; Bluemke, David A. ; Lima, João A.C. . Reply. Journal of the American College of Cardiology (Print), v. 64, p. 422, 2014.
+Citações:1|1
+
+19.
+CARVALHO, B. S. ; RUSTICI, G. . The challenges of delivering bioinformatics training in the analysis of high-throughput data. BRIEFINGS IN BIOINFORMATICS, v. 14, p. 538-547, 2013.
+Citações:2|2
+
+20.
+Halper-Stromberg, E. ; Frelin, L. ; Ruczinski, I. ; Scharpf, R. ; Jie, C. ; CARVALHO, B. ; Hao, H. ; Hetrick, K. ; Jedlicka, A. ; Dziedzic, A. ; Doheny, K. ; Scott, A. F. ; Baylin, S. ; Pevsner, J. ; Spencer, F. ; IRIZARRY, R. A. . Performance assessment of copy number microarray platforms using a spike-in experiment. Bioinformatics (Oxford. Print), v. 27, p. 1052-1060, 2011.
+Citações:11|18
+
+21.
+Ritchie, Matthew E ; Liu, Ruijie ; CARVALHO, BENILTON S ; Irizarry, Rafael A . Comparing genotyping algorithms for Illumina's Infinium whole-genome SNP BeadChips. BMC Bioinformatics, v. 12, p. 68, 2011.
+Citações:20|18
+
+22.
+Yegnasubramanian, Srinivasan ; Wu, Zhijin ; Haffner, Michael C ; Esopi, David ; Aryee, Martin J ; Badrinath, Raghav ; He, Tony L ; Morgan, James D ; CARVALHO, BENILTON ; Zheng, Qizhi ; De Marzo, Angelo M ; Irizarry, Rafael A ; Nelson, William G . Chromosome-wide mapping of DNA methylation patterns in normal and malignant prostate cells reveals pervasive methylation of gene-associated and conserved intergenic sequences. BMC Genomics, v. 12, p. 313, 2011.
+Citações:19|23
+
+23.
+SCHARPF, ROBERT B. ; Irizarry, Rafael A. ; RITCHIE, MATTHEW E. ; CARVALHO, BENILTON ; Ruczinski, Ingo . Using the Package for Genotyping and Copy Number Estimation. Journal of Statistical Software, v. 40, p. 1, 2011.
+Citações:28|21
+
+24.
+ CARVALHO, B. S. ; IRIZARRY, R. A. . A framework for oligonucleotide microarray preprocessing. Bioinformatics (Oxford. Print), v. 26, p. 2363-2367, 2010.
+Citações:216|232
+
+25.
+SCHARPF, R. B. ; Ruczinski, I. ; CARVALHO, B. ; Doan, B. ; Chakravarti, A. ; IRIZARRY, R. A. . A multilevel model to address batch effects in copy number estimation using SNP arrays. Biostatistics (Oxford. Print), v. 12, p. 33-50, 2010.
+Citações:20|24
+
+26.
+ CARVALHO, B. S. ; Louis, T. A. ; IRIZARRY, R. A. . Quantifying uncertainty in genotype calls. Bioinformatics (Oxford. Print), v. 26, p. 242-249, 2010.
+Citações:32|18
+
+27.
+RITCHIE, M. E. ; CARVALHO, B. S. ; Hetrick, K. N. ; Tavare, S. ; IRIZARRY, R. A. . R/Bioconductor software for Illumina's Infinium whole-genome genotyping BeadChips. Bioinformatics (Oxford. Print), v. 25, p. 2621-2623, 2009.
+Citações:27|33
+
+28.
+CARVALHO, BENILTON ; Irizarry, Rafael A. ; SCHARPF, ROBERT B. ; CAREY, VINCENT J. . Processing and Analyzing Affymetrix SNP Chips with Bioconductor. Statistics in Biosciences, v. 1, p. 160-180, 2009.
+
+29.
+IRIZARRY, R. A. ; Ladd-Acosta, C. ; CARVALHO, B. ; Wu, H. ; Brandenburg, S. A. ; Jeddeloh, J. A. ; Wen, B. ; Feinberg, A. P. . Comprehensive high-throughput arrays for relative methylation (CHARM). Genome Research, v. 18, p. 780-790, 2008.
+Citações:259|285
+
+30.
+Lin, Shin ; CARVALHO, BENILTON ; Cutler, David J ; Arking, Dan E ; Chakravarti, Aravinda ; Irizarry, Rafael A . Validation and extension of an empirical Bayes method for SNP calling on Affymetrix microarrays. GenomeBiology.com (London. Print), v. 9, p. R63, 2008.
+Citações:30|26
+
+31.
+Tuefferd, Marianne ; De Bondt, An ; Van Den Wyngaert, Ilse ; Talloen, Willem ; Verbeke, Tobias ; CARVALHO, BENILTON ; Clevert, Djork-Arne ; Alifano, Marco ; Raghavan, Nandini ; Amaratunga, Dhammika ; Göhlmann, Hinrich ; Broët, Philippe ; Camilleri-Broët, Sophie . Genome-wide copy number alterations detection in fresh frozen and matched FFPE samples using SNP 6.0 arrays. Genes Chromosomes & Cancer (Print), v. 47, p. 957-964, 2008.
+Citações:39|40
+
+32.
+Wang, Wenyi ; CARVALHO, BENILTON ; Miller, Nathaniel D. ; Pevsner, Jonathan ; Chakravarti, Aravinda ; Irizarry, Rafael A. . Estimating Genome-Wide Copy Number Using Allele-Specific Mixture Models. Journal of Computational Biology, v. 15, p. 857-866, 2008.
+Citações:14|12
+
+33.
+Bengtsson, H. ; IRIZARRY, R. ; CARVALHO, B. ; Speed, T. P. . Estimation and assessment of raw copy numbers at the single locus level. BIOINFORMATICS, v. 24, p. 759-767, 2008.
+
+34.
+Fernandes, Verônica Rolim ; Edvardsen, Thor ; Rosen, Boaz ; CARVALHO, BENILTON ; Campos, Orlando ; Cordeiro, Marco ; Kronmal, Richard ; Bluemke, David ; Lima, João . The Influence of Left Ventricular Size and Global Function on Regional Myocardial Contraction and Relaxation in an Adult Population Free of Cardiovascular Disease: A Tagged CMR Study of the MESA Cohort. Journal of Cardiovascular Magnetic Resonance, v. 9, p. 921-930, 2007.
+Citações:17|16
+
+35.
+Fernandes, V. R. S. ; Polak, J. F. ; Cheng, S. ; Rosen, B. D. ; CARVALHO, B. ; Nasir, K. ; McClelland, R. ; Hundley, G. ; Pearson, G. ; O&apos ; Bluemke, D. A. ; Lima, J. A.C. . Arterial Stiffness Is Associated With Regional Ventricular Systolic and Diastolic Dysfunction: The Multi-Ethnic Study of Atherosclerosis. Arteriosclerosis, Thrombosis, and Vascular Biology, v. 28, p. 194-201, 2007.
+Citações:58|62
+
+36.
+Dachs, J. Norberto W. ; Pedrosa, Renato H. L. ; CARVALHO, BENILTON S. ; Maia, Rafael P. ; Andrade, Cibele Y. . Academic Performance, Students' Background and Affirmative Action at a Brazilian University. Higher Education Management and Policy (Print), v. 19, p. 1-20, 2007.
+Citações:1
+
+37.
+CARVALHO, B. ; CARVALHO, B ; Bengtsson, H ; Speed, TP ; Irizarry, RA ; Bengtsson, H. ; IRIZARRY, R. A. ; Speed, T. P. . Exploration, normalization, and genotype calls of high-density oligonucleotide SNP array data. Biostatistics (Oxford. Print), v. 8, p. 485-499, 2006.
+Citações:138|130
+
+38.
+Fernandes, Verônica R.S. ; Polak, Joseph F. ; Edvardsen, Thor ; CARVALHO, BENILTON ; Gomes, Antoinette ; Bluemke, David A. ; Nasir, Khurram ; O Leary, Daniel H. ; Lima, João A.C. . Subclinical Atherosclerosis and Incipient Regional Myocardial Dysfunction in Asymptomatic Individuals. Journal of the American College of Cardiology (Print), v. 47, p. 2420-2428, 2006.
+Citações:66|72

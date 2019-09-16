@@ -1,0 +1,686 @@
+1.
+SANTA-CECÍLIA, FLÁVIA V. ; FERREIRA, DAVID W. ; GUIMARAES, RAFAELA M. ; CECILIO, NERRY T. ; FONSECA, MIRIAM M. ; LOPES, ALEXANDRE H. ; DAVOLI-FERREIRA, MARCELA ; KUSUDA, RICARDO ; Souza, Guilherme R. ; NACHBUR, UELI ; ALVES-FILHO, JOSÉ C. ; Teixeira, Mauro M. ; Zamboni, Dario S. ; Cunha, Fernando Q. ; Cunha, Thiago M. . The NOD2 signaling in peripheral macrophages contributes to neuropathic pain development. PAIN, v. 160, p. 102-116, 2019.
+
+2.
+ANTONIAZZI, CAREN TATIANE DE DAVID ; NASSINI, ROMINA ; RIGO, FLÁVIA KARINE ; MILIOLI, ALESSANDRA MARCON ; BELLINASO, FERNANDO ; CAMPONOGARA, CAMILA ; SILVA, CÁSSIA REGINA ; DE ALMEIDA, AMANDA SPRING ; ROSSATO, MATEUS FORTES ; DE LOGU, FRANCESCO ; OLIVEIRA, SARA MARCHESAN ; Cunha, Thiago Mattar ; GEPPETTI, PIERANGELO ; FERREIRA, JULIANO ; TREVISAN, GABRIELA . Transient receptor potential ankyrin 1 (TRPA1) plays a critical role in a mouse model of cancer pain. INTERNATIONAL JOURNAL OF CANCER, v. 144, p. 355-365, 2019.
+
+3.
+Pinto, Larissa G. ; Souza, Guilherme R. ; KUSUDA, RICARDO ; LOPES, ALEXANDRE H. ; SANT?ANNA, MORENA B. ; Cunha, Fernando Q. ; Ferreira, Sérgio H. ; Cunha, Thiago M. . Non-Peptidergic Nociceptive Neurons Are Essential for Mechanical Inflammatory Hypersensitivity in Mice. MOLECULAR NEUROBIOLOGY, v. 56, p. 5715-5728, 2019.
+
+4.
+SILVA, RANGEL L. ; SILVEIRA, GABRIELA T. ; WANDERLEI, CARLOS W. ; CECILIO, TATIANA N. ; MAGANIN, ALEXANDRE G.M. ; Franchin, Marcelo ; MARQUES, LUCAS M.M. ; LOPES, NORBERTO P. ; CRIPPA, JOSÉ A. ; GUIMARÃES, FRANCISCO S. ; ALVES-FILHO, JOSÉ C.F. ; Cunha, Fernando Q. ; Cunha, Thiago M. . DMH-CBD, a cannabidiol analog with reduced cytotoxicity, inhibits TNF production by targeting NF-kB activity dependent on A2A receptor. TOXICOLOGY AND APPLIED PHARMACOLOGY, v. 368, p. 63-71, 2019.
+
+5.
+LOURENCO-GONZALEZ, YURI ; Fattori, Victor ; DOMICIANO, TALITA P. ; ROSSANEIS, ANA C. ; BORGHI, SERGIO M. ; ZANINELLI, TIAGO H. ; BERNARDY, CATIA C. F. ; ALVES-FILHO, JOSE C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . Repurposing of the Nootropic Drug Vinpocetine as an Analgesic and Anti-Inflammatory Agent: Evidence in a Mouse Model of Superoxide Anion-Triggered Inflammation. MEDIATORS OF INFLAMMATION, v. 2019, p. 1-14, 2019.
+
+6.
+CUNHA, JONATHAN EMANUEL ; BARBOSA, GERMANNA MEDEIROS ; CASTRO, PAULA AIELLO TOMÉ DE SOUZA ; LUIZ, BEATRIZ LEITE FERREIRA ; SILVA, ANDREZA CRISTINE ARCARI ; RUSSO, THIAGO LUIZ ; VASILCEAC, FERNANDO AUGUSTO ; Cunha, Thiago Mattar ; CUNHA, FERNANDO QUEIRÓZ ; SALVINI, TANIA FÁTIMA . Knee osteoarthritis induces atrophy and neuromuscular junction remodeling in the quadriceps and tibialis anterior muscles of rats. Scientific Reports, v. 9, p. 6366, 2019.
+
+7.
+WONG, DEYSI VIVIANA TENAZOA ; RIBEIRO-FILHO, HELDER VERAS ; WANDERLEY, CARLOS WAGNER SOUZA ; LEITE, CAIO ABNER VITORINO GONÇALVES ; LIMA, JONILSON BERLINK ; ASSEF, ALEXIA NATHÁLIA BRÍGIDO ; CAJADO, AURILENE GOMES ; BATISTA, GABRIELA LOIOLA PONTE ; GONZÁLEZ, RAFAEL HOLANDA ; SILVA, KARLA OLIVEIRA ; BORGES, LUIS PHILIPI CARVALHO ; ALENCAR, NYLANE MARIA NUNES ; WILKE, DIEGO VERAS ; Cunha, Thiago Mattar ; FIGUEIRA, ANA CAROLINA MIGLIORINI ; CUNHA, FERNANDO QUEIROZ ; LIMA-JÚNIOR, ROBERTO CÉSAR PEREIRA . SN-38, the active metabolite of irinotecan, inhibits the acute inflammatory response by targeting toll-like receptor 4. CANCER CHEMOTHERAPY AND PHARMACOLOGY, v. 84, p. 287-298, 2019.
+
+8.
+SPILLER, FERNANDO ; OLIVEIRA FORMIGA, RODRIGO ; FERNANDES DA SILVA COIMBRA, JONATHAN ; ALVES-FILHO, JOSE CARLOS ; Cunha, Thiago Mattar ; CUNHA, FERNANDO QUEIROZ . Targeting nitric oxide as a key modulator of sepsis, arthritis and pain. NITRIC OXIDE-BIOLOGY AND CHEMISTRY, v. 89, p. 32-40, 2019.
+
+9.
+PEREIRA, DOMINGOS MAGNO SANTOS ; TEIXEIRA, SIMONE APARECIDA ; MURILLO, OSCAR ; PEIXOTO, ERIKA PAULA MACHADO ; ARAÚJO, MIZAEL CALÁCIO ; SOUSA, NÁGILA CAROLINE FIALHO ; MONTEIRO-NETO, VALÉRIO ; CALIXTO, JOÃO BATISTA ; Cunha, Thiago Mattar ; MARINHO, CLÁUDIO ROMERO FARIAS ; MUSCARÁ, MARCELO NICOLÁS ; FERNANDES, ELIZABETH SOARES . TRPV1 Contributes to Cerebral Malaria Severity and Mortality by Regulating Brain Inflammation. Oxidative Medicine and Cellular Longevity, v. 2019, p. 1-15, 2019.
+
+10.
+BORGHI, SERGIO M. ; Fattori, Victor ; PINHO-RIBEIRO, FELIPE A. ; DOMICIANO, TALITA P. ; MIRANDA-SAPLA, MILENA M. ; ZANINELLI, TIAGO H. ; Casagrande, Rubia ; PINGE-FILHO, PHILENO ; PAVANELLI, WANDER R. ; ALVES-FILHO, JOSE C. ; Cunha, Fernando Q. ; Cunha, Thiago M. ; Verri, Waldiceu A. . Contribution of spinal cord glial cells to L. amazonensis experimental infection-induced pain in BALB/c mice. Journal of Neuroinflammation, v. 16, p. 113, 2019.
+
+11.
+GUIMARÃES, RAFAELA M. ; DAVOLI'FERREIRA, MARCELA ; FONSECA, MIRIAM M. ; DAMASCENO, LUIS EDUARDO A. ; SANTA'CECILIA, FLAVIA V. ; KUSUDA, RICARDO ; MENEZES, GUSTAVO B. ; Cunha, Fernando Q. ; ALVES'FILHO, JOSE C ; Cunha, Thiago M. . Frontline Science: Blood circulating leukocytes fail to infiltrate the spinal cord parenchyma after spared nerve injury. JOURNAL OF LEUKOCYTE BIOLOGY, v. 106, p. 541-551, 2019.
+
+12.
+BRUSCO, INDIARA ; JUSTINO, ALLISSON BENATTI ; SILVA, CÁSSIA REGINA ; FISCHER, SUSANA ; Cunha, Thiago Mattar ; SCUSSEL, RAHISA ; MACHADO-DE-ÁVILA, RICARDO ANDREZ ; FERREIRA, JULIANO ; OLIVEIRA, SARA MARCHESAN . Kinins and their B1 and B2 receptors are involved in fibromyalgia-like pain symptoms in mice. BIOCHEMICAL PHARMACOLOGY, v. 168, p. 119-132, 2019.
+
+13.
+CASTANHEIRA, FERNANDA VARGAS E SILVA ; BORGES, VANESSA ; SÔNEGO, FABIANE ; KANASHIRO, ALEXANDRE ; DONATE, PAULA BARBIM ; MELO, PAULO HENRIQUE ; PALLAS, KENNETH ; RUSSO, REMO CASTRO ; AMARAL, FLÁVIO ALMEIDA ; Teixeira, Mauro Martins ; RAMALHO, FERNANDO SILVA ; Cunha, Thiago Mattar ; LIEW, FOO Y ; ALVES-FILHO, JOSÉ CARLOS ; GRAHAM, GERARD J. ; CUNHA, FERNANDO QUEIROZ . The Atypical Chemokine Receptor ACKR2 is Protective Against Sepsis. SHOCK, v. 49, p. 682-689, 2018.
+
+14.
+KANASHIRO, ALEXANDRE ; Franchin, Marcelo ; BASSI, GABRIEL SHIMIZU ; REIS-SANTANA, DÊNIS AUGUSTO ; Cunha, Thiago Mattar ; CUNHA, FERNANDO QUEIRÓZ ; ULLOA, LUIS ; RODRIGUES, GERSON JONATHAN . Inhibition of spinal p38 MAPK prevents articular neutrophil infiltration in experimental arthritis via sympathetic activation. FUNDAMENTAL & CLINICAL PHARMACOLOGY, v. 32, p. 155-162, 2018.
+
+15.
+AZEVEDO, PATRICK O. ; SENA, ISADORA F. G. ; ANDREOTTI, JULIA P. ; CARVALHO-TAVARES, JULIANA ; ALVES-FILHO, JOSÉ C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; MINTZ, AKIVA ; BIRBRAIR, ALEXANDER . Pericytes modulate myelination in the central nervous system. JOURNAL OF CELLULAR PHYSIOLOGY, v. 233, p. 5523-5529, 2018.
+Citações:5
+
+16.
+DE AZEVEDO, BRUNA CESTARI ; DE FREITAS MOREL, LUCAS JUNQUEIRA ; CARMONA, FÁBIO ; Cunha, Thiago Mattar ; CONTINI, SILVIA HELENA TALEB ; DELPRETE, PIERO GIUSEPPE ; RAMALHO, FERNANDO SILVA ; CREVELIN, EDUARDO ; BERTONI, BIANCA WALÉRIA ; DE CASTRO FRANÇA, SUZELEI ; DE CARVALHO BORGES, MARCOS ; PEREIRA, ANA MARIA SOARES . Aqueous extracts from Uncaria tomentosa (Willd. ex Schult.) DC. reduce bronchial hyperresponsiveness and inflammation in a murine model of asthma. JOURNAL OF ETHNOPHARMACOLOGY, v. 218, p. 76-89, 2018.
+
+17.
+Peres, Raphael S. ; Donate, Paula B. ; Talbot, Jhimmy ; CECILIO, NERRY T. ; LOBO, PATRICIA R. ; MACHADO, CAIO C. ; LIMA, KALIL W.A. ; OLIVEIRA, RENE D. ; Carregaro, Vanessa ; NAKAYA, HELDER I. ; Cunha, Thiago M. ; ALVES-FILHO, JOSÉ CARLOS ; LIEW, FOO Y. ; LOUZADA-JUNIOR, PAULO ; Cunha, Fernando Q. . TGF-? signalling defect is linked to low CD39 expression on regulatory T cells and methotrexate resistance in rheumatoid arthritis. JOURNAL OF AUTOIMMUNITY, v. 90, p. 49-58, 2018.
+
+18.
+BASSI, GABRIEL SHIMIZU ; ULLOA, LUIS ; SANTOS, VICTOR RODRIGUES ; DEL VECCHIO, FLÁVIO ; DELFINO-PEREIRA, POLIANNA ; RODRIGUES, GERSON JHONATAN ; CASTANIA, JACI AIRTON ; CUNHA, FERNANDO DE QUEIRÓZ ; SALGADO, HÉLIO CESAR ; Cunha, Thiago Mattar ; GARCIA-CAIRASCO, NORBERTO ; KANASHIRO, ALEXANDRE . Cortical stimulation in conscious rats controls joint inflammation. PROGRESS IN NEURO-PSYCHOPHARMACOLOGY & BIOLOGICAL PSYCHIATRY, v. 84, p. 201-213, 2018.
+
+19.
+ROSSATO, MATEUS FORTES ; RIGO, FLAVIA KARINE ; OLIVEIRA, SARA MARCHESAN ; GUERRA, GUSTAVO PETRI ; SILVA, CÁSSIA REGINA ; Cunha, Thiago Mattar ; GOMEZ, MARCUS VINÍCIUS ; FERREIRA, JULIANO ; TREVISAN, GABRIELA . Participation of Transient Receptor Potential Vanilloid 1 in Paclitaxel-Induced Acute Visceral and Peripheral Nociception in Rodents. EUROPEAN JOURNAL OF PHARMACOLOGY, v. 828, p. 42-51, 2018.
+
+20.
+SILVA, MARIA C. ; DAVOLI-FERREIRA, MARCELA ; MEDINA, TIAGO S. ; SESTI-COSTA, RENATA ; SILVA, GRACE K. ; LOPES, CARLA D. ; CARDOZO, LUCAS E. ; GAVA, FÁBIO N. ; LYRONI, KONSTANTINA ; DIAS, FABRÍCIO C. ; FRADE, AMANDA F. ; BARON, MONIQUE ; NAKAYA, HELDER I. ; FIGUEIREDO, FLORÊNCIO ; ALVES-FILHO, JOSÉ C. ; Cunha, Fernando Q. ; TSATSANIS, CHRISTOS ; CHEVILLARD, CHRISTOPHE ; CUNHA-NETO, EDECIO ; HIRSCH, EMILIO ; Silva, João S. ; Cunha, Thiago M. . Canonical PI3K? signaling in myeloid cells restricts Trypanosoma cruzi infection and dampens chagasic myocarditis. Nature Communications, v. 9, p. 1513, 2018.
+
+21.
+Staurengo-Ferrari, Larissa ; TREVELIN, SILVIA C. ; Fattori, Victor ; NASCIMENTO, DANIELE C. ; DE LIMA, KALIL A. ; PELAYO, JACINTA S. ; FIGUEIREDO, FLORÊNCIO ; Casagrande, Rubia ; FUKADA, SANDRA Y. ; Teixeira, Mauro M. ; Cunha, Thiago M. ; LIEW, FOO Y. ; OLIVEIRA, RENE D. ; LOUZADA-JUNIOR, PAULO ; Cunha, Fernando Q. ; ALVES-FILHO, JOSÉ C. ; Verri, Waldiceu A. . Interleukin-33 Receptor (ST2) Deficiency Improves the Outcome of Staphylococcus aureus-Induced Septic Arthritis. Frontiers in Immunology, v. 9, p. 962, 2018.
+
+22.
+ROCHA, LILIAN W. ; SONZA, DANIELE R. ; BROERING, MILENA FRONZA ; NUNES, ROBERTA ; DE CAMPOS-BUZZI, FÁTIMA ; CORRÊA, ROGÉRIO ; SILVA, RANGEL L. ; Cunha, Thiago M. ; SANTIN, JOSÉ ROBERTO ; QUINTÃO, NARA L.M. . Synthetic chalcones as potential tool for acute- and chronic-pain control. BIOMEDICINE & PHARMACOTHERAPY, v. 104, p. 437-450, 2018.
+
+23.
+RUIZ-MIYAZAWA, KENJI W ; PINHO-RIBEIRO, FELIPE ALMEIDA ; BORGHI, SERGIO M ; Staurengo-Ferrari, Larissa ; Fattori, Victor ; AMARAL, FLÁVIO ; Teixeira, Mauro Martins ; ALVES-FILHO, JOSÉ CARLOS FARIA ; Cunha, Thiago Mattar ; Cunha, Fernando Q ; Casagrande, Rubia ; Verri, Waldiceu A . Hesperidin methylchalcone suppresses experimental gout arthritis in mice by inhibiting NF-kB activation. JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY, v. 66, p. 6269-6280, 2018.
+
+24.
+Talbot, Jhimmy ; Peres, Raphael S. ; Pinto, Larissa G. ; OLIVEIRA, RENE D. R. ; LIMA, KALIL A. ; Donate, Paula B. ; SILVA, JAQUELINE R. ; RYFFEL, BERNARD ; Cunha, Thiago M. ; Alves-Filho, José C. ; LIEW, FOO Y. ; LOUZADA-JUNIOR, PAULO ; DE QUEIROZ CUNHA, FERNANDO . Smoking-induced aggravation of experimental arthritis is dependent of aryl hydrocarbon receptor activation in Th17 cells. ARTHRITIS RESEARCH & THERAPY (ONLINE), v. 20, p. 119, 2018.
+
+25.
+SARAIVA, ANDRÉ L. ; VERAS, FLÁVIO P. ; Peres, Raphael S. ; Talbot, Jhimmy ; DE LIMA, KALIL A. ; LUIZ, JOÃO P. ; CARBALLIDO, JOSÉ M. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; Ryffel, Bernhard ; ALVES-FILHO, JOSE C. . Succinate receptor deficiency attenuates arthritis by reducing dendritic cell traffic and expansion of T h 17 cells in the lymph nodes. FASEB JOURNAL, v. 32, p. 6550-6558, 2018.
+
+26.
+RUIZ-MIYAZAWA, KENJI W. ; BORGHI, SERGIO M. ; PINHO-RIBEIRO, FELIPE A. ; Staurengo-Ferrari, Larissa ; Fattori, Victor ; FERNANDES, GLAURA S.A. ; CASELLA, ANTONIO M. ; ALVES-FILHO, JOSE C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . The citrus flavanone naringenin reduces gout-induced joint pain and inflammation in mice by inhibiting the activation of NF?B and macrophage release of IL-1?. Journal of Functional Foods, v. 48, p. 106-116, 2018.
+
+27.
+ARAUJO, ALAN ; ANTUNES, MAÍSA ; MATTOS, MATHEUS ; DINIZ, ARIANE ; ALVARENGA, DÉBORA ; NAKAGAKI, BRENDA ; CARVALHO, ÉRIKA ; LACERDA, VIVIANE ; CARVALHO-GONTIJO, RAQUEL ; GOULART, JORGE ; MAFRA, KASSIANA ; FREITAS-LOPES, MARIA ; OLIVEIRA, HORTÊNCIA ; DUTRA, CAMILA ; DAVID, BRUNA ; MENDES SILVA, ARISTÓBOLO ; Quesniaux, Valerie ; Ryffel, Bernhard ; OLIVEIRA, SERGIO ; BARBER, GLEN ; MANSUR, DANIEL ; CUNHA, THIAGO ; REZENDE, RAFAEL ; OLIVEIRA, ANDRÉ ; MENEZES, GUSTAVO . Liver Immune Cells Release Type 1 Interferon Due to DNA Sensing and Amplify Liver Injury from Acetaminophen Overdose. Cells, v. 7, p. 88, 2018.
+
+28.
+WANDERLEY, CARLOS W ; COLON, DAVID F ; LUIZ, JOAO PAULO MESQUITA ; OLIVEIRA, FRANCISCO F ; VIACAVA, PAULA R ; LEITE, CAIO A ; PEREIRA, JANAINA A ; SILVA, CAMILA M ; SILVA, CASSIA R ; SILVA, RANGEL L ; SPECK-HERNANDEZ, CESAR A ; MOTA, JOSE M ; ALVES-FILHO, JOSE C ; LIMA-JÚNIOR, ROBERTO C ; Cunha, Thiago M ; Cunha, Fernando Q . Paclitaxel reduces tumor growth by reprogramming tumor-associated macrophages to an M1- profile in a TLR4-dependent manner. CANCER RESEARCH, v. 78, p. 5891-590, 2018.
+
+29.
+RUIZ-MIYAZAWA, KENJI W. ; Staurengo-Ferrari, Larissa ; PINHO-RIBEIRO, FELIPE A. ; Fattori, Victor ; ZANINELLI, TIAGO H. ; BADARO-GARCIA, STEPHANIE ; BORGHI, SERGIO M. ; ANDRADE, KETLEM C. ; CLEMENTE-NAPIMOGA, JULIANA T. ; ALVES-FILHO, JOSE C. ; Cunha, Thiago M. ; FRACETO, LEONARDO F. ; Cunha, Fernando Q. ; NAPIMOGA, MARCELO H. ; Casagrande, Rubia ; Verri, Waldiceu A. . 15d-PGJ2-loaded nanocapsules ameliorate experimental gout arthritis by reducing pain and inflammation in a PPAR-gamma-sensitive manner in mice. Scientific Reports, v. 8, p. 13979, 2018.
+
+30.
+SONEGO, ANDREZA B. ; PRADO, DOUGLAS S. ; VALE, GABRIEL T. ; SEPULVEDA-DIAZ, JULIA E. ; Cunha, Thiago M. ; Tirapelli, Carlos R. ; DEL BEL, ELAINE A. ; RAISMAN-VOZARI, RITA ; GUIMARÃES, FRANCISCO S. . Cannabidiol prevents haloperidol-induced vacuos chewing movements and inflammatory changes in mice via PPAR? receptors. BRAIN BEHAVIOR AND IMMUNITY, v. 74, p. 241-251, 2018.
+
+31.
+MANCHOPE, MARÍLIA F. ; ARTERO, NAYARA A. ; Fattori, Victor ; Mizokami, Sandra S. ; PITOL, DIMITRIUS L. ; ISSA, JOÃO P. M. ; FUKADA, SANDRA Y. ; Cunha, Thiago M. ; ALVES-FILHO, JOSÉ C. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . Naringenin mitigates titanium dioxide (TiO2)-induced chronic arthritis in mice: role of oxidative stress, cytokines, and NF?B. INFLAMMATION RESEARCH, v. 67, p. 997-1012, 2018.
+
+32.
+Fattori, Victor ; Zarpelon, Ana C. ; Staurengo-Ferrari, Larissa ; BORGHI, SERGIO M. ; ZANINELLI, TIAGO H. ; DA COSTA, FERNANDO B. ; ALVES-FILHO, JOSE C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Arakawa, Nilton S. ; Verri, Waldiceu A. . Budlein A, a Sesquiterpene Lactone From Viguiera robusta, Alleviates Pain and Inflammation in a Model of Acute Gout Arthritis in Mice. Frontiers in Pharmacology, v. 9, p. 1076, 2018.
+
+33.
+Staurengo-Ferrari, Larissa ; RUIZ-MIYAZAWA, KENJI W. ; PINHO-RIBEIRO, FELIPE A. ; Fattori, Victor ; ZANINELLI, TIAGO H. ; BADARO-GARCIA, STEPHANIE ; BORGHI, SERGIO M. ; Carvalho, Thacyana T. ; ALVES-FILHO, JOSE C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . Trans-Chalcone Attenuates Pain and Inflammation in Experimental Acute Gout Arthritis in Mice. Frontiers in Pharmacology, v. 9, p. 1123, 2018.
+
+34.
+DE LIMA, KALIL ALVES ; DONATE, PAULA BARBIM ; Talbot, Jhimmy ; DAVOLI-FERREIRA, MARCELA ; PERES, RAPHAEL SANCHES ; Cunha, Thiago Mattar ; ALVES-FILHO, JOSÉ CARLOS ; CUNHA, FERNANDO QUEIROZ . TGF?1 signaling sustains aryl hydrocarbon receptor (AHR) expression and restrains the pathogenic potential of TH17 cells by an AHR-independent mechanism. Cell Death & Disease, v. 9, p. 1130, 2018.
+
+35.
+DE OLIVEIRA, FABÍOLA ; FANTUCCI, MARINA ; ADRIANO, LEIDIANE ; VALIM, VALÉRIA ; CUNHA, THIAGO ; LOUZADA-JUNIOR, PAULO ; ROCHA, EDUARDO . Neurological and Inflammatory Manifestations in Sjögren?s Syndrome: The Role of the Kynurenine Metabolic Pathway. INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES, v. 19, p. 3953, 2018.
+
+36.
+CÔCO, HARIANE ; PERNOMIAN, LARISSA ; PEREIRA, PRISCILA C. ; GOMES, MAYARA S. ; MARCHI, KATIA C. ; LOPES, ALEXANDRE H. ; Cunha, Thiago M. ; Tirapelli, Carlos R. ; DE OLIVEIRA, ANA M. . Chronic restraint stress increases angiotensin II potency in the rat carotid: role of cyclooxygenases and reactive oxygen species. Journal of Pharmacy and Pharmacology, v. 69, p. 52-65, 2017.
+
+37.
+Peres, Raphael S. ; SANTOS, GABRIELA B. ; CECILIO, NERRY T. ; JABOR, VALQUÍRIA A. P. ; NIEHUES, MICHAEL ; TORRES, BRUNA G. S. ; BUQUI, GABRIELA ; SILVA, CARLOS H. T. P. ; COSTA, TERESA DALLA ; LOPES, NORBERTO P. ; NONATO, MARIA C. ; RAMALHO, FERNANDO S. ; LOUZADA-JÚNIOR, PAULO ; Cunha, Thiago M. ; Cunha, Fernando Q. ; EMERY, FLAVIO S. ; ALVES-FILHO, JOSE C. . Lapachol, a compound targeting pyrimidine metabolism, ameliorates experimental autoimmune arthritis. Arthritis Research & Therapy (Online), v. 19, p. 47, 2017.
+
+38.
+Fattori, Victor ; SERAFIM, KARLA G. G. ; Zarpelon, Ana C. ; BORGHI, SERGIO M. ; PINHO-RIBEIRO, FELIPE A. ; ALVES-FILHO, JOSÉ C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; CASAGRANDE, RÚBIA ; Verri, Waldiceu A. . Differential regulation of oxidative stress and cytokine production by endothelin ET and ET receptors in superoxide anion-induced inflammation and pain in mice. JOURNAL OF DRUG TARGETING, v. 25, p. 264-274, 2017.
+
+39.
+ZUCOLOTO, AMANDA Z. ; MANCHOPE, MARÍLIA F. ; STAURENGO-FERRARI, LARRISA ; Alves-Filho, José C. ; Cunha, Thiago M. ; ANTUNES, MAÍSA M. ; MENEZES, GUSTAVO B. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . Probucol attenuates overt pain-like behavior and carrageenan-induced inflammatory hyperalgesia and leukocyte recruitment by inhibiting NF- B activation and cytokine production without antioxidant effects. INFLAMMATION RESEARCH, v. 66, p. 591-602, 2017.
+
+40.
+BASSI, GABRIEL SHIMIZU ; DIAS, DANIEL PENTEADO MARTINS ; Franchin, Marcelo ; Talbot, Jhimmy ; REIS, DANIEL GUSTAVO ; MENEZES, GUSTAVO BATISTA ; CASTANIA, JACI AIRTON ; GARCIA-CAIRASCO, NORBERTO ; RESSTEL, LEONARDO ; SALGADO, HÉLIO CÉSAR ; CUNHA, FERNANDO QUEIRÓZ ; Cunha, Thiago Mattar ; ULLOA, LUIS ; KANASHIRO, ALEXANDRE . Modulation of Experimental Arthritis by Vagal Sensory and Central Brain Stimulation. BRAIN BEHAVIOR AND IMMUNITY, v. 64, p. 330-343, 2017.
+
+41.
+ SILVA, JAQUELINE R. ; LOPES, ALEXANDRE H. ; Talbot, Jhimmy ; CECILIO, NERRY T. ; ROSSATO, MATEUS F. ; SILVA, RANGEL L. ; Souza, Guilherme R. ; SILVA, CASSIA R. ; LUCAS, GUILHERME ; FONSECA, BENEDITO A. ; ARRUDA, EURICO ; ALVES-FILHO, JOSE C. ; Cunha, Fernando Q. ; Cunha, Thiago M. . Neuro-immune-glia interactions in the sensory ganglia account for the development of acute herpetic neuralgia. JOURNAL OF NEUROSCIENCE, v. 37, p. 6408-6422, 2017.
+
+42.
+MADEIRA, MILA FERNANDES MOREIRA ; QUEIROZ JUNIOR, CELSO MARTINS ; CORRÊA, JÔICE DIAS ; WERNECK, SÍLVIA MARIA CORDEIRO ; MACHADO, FABIANA SIMÃO ; Cunha, Thiago Mattar ; GARLET, GUSTAVO POMPERMAIER ; Teixeira, Mauro Martins ; DA SILVA, TARCÍLIA APARECIDA ; SOUZA, DANIELE G. . The role of 5-lipoxygenase in Aggregatibacter actinomycetemcomitans -induced alveolar bone loss. JOURNAL OF CLINICAL PERIODONTOLOGY, v. 44, p. 793-802, 2017.
+
+43.
+ZUCOLOTO, AMANDA Z. ; MANCHOPE, MARÍLIA F. ; Staurengo-Ferrari, Larissa ; PINHO-RIBEIRO, FELIPE A. ; Zarpelon, Ana C. ; SARAIVA, ANDRÉ L.L. ; CECÍLIO, TATIANA N. ; ALVES-FILHO, JOSÉ C. ; Cunha, Thiago M. ; MENEZES, GUSTAVO B. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . Probucol attenuates lipopolysaccharide-induced leukocyte recruitment and inflammatory hyperalgesia: effect on NF- B activation and cytokine production. EUROPEAN JOURNAL OF PHARMACOLOGY, v. 809, p. 52-63, 2017.
+
+44.
+SILVA, RANGEL L. ; LOPES, ALEXANDRE H. ; GUIMARÃES, RAFAELA M. ; Cunha, Thiago M. . CXCL1/CXCR2 signaling in pathological pain: Role in peripheral and central sensitization. NEUROBIOLOGY OF DISEASE, v. 105, p. 109-117, 2017.
+
+45.
+BERTOZZI, MARIANA M. ; ROSSANEIS, ANA C. ; Fattori, Victor ; LONGHI-BALBINOT, DANIELA T. ; FREITAS, ANDRESSA ; Cunha, Fernando Q. ; ALVES-FILHO, JOSÉ C. ; Cunha, Thiago M. ; Casagrande, Rubia ; Verri, Waldiceu A. . Diosmin reduces chronic constriction injury-induced neuropathic pain in mice. CHEMICO-BIOLOGICAL INTERACTIONS, v. 273, p. 180-189, 2017.
+
+46.
+SANTOS-ALMEIDA, FERNANDA MACHADO ; DOMINGOS-SOUZA, GEAN ; MESCHIARI, CÉSAR A. ; FÁVARO, LAURA CAMPOS ; BECARI, CHRISTIANE ; CASTANIA, JACI A. ; LOPES, ALEXANDRE ; Cunha, Thiago M. ; MORAES, DAVI J. A. ; Cunha, Fernando Q. ; ULLOA, LUIS ; KANASHIRO, ALEXANDRE ; TEZINI, GEISA C. S. V. ; SALGADO, HELIO C. . Carotid sinus nerve electrical stimulation in conscious rats attenuates systemic inflammation via chemoreceptor activation. Scientific Reports, v. 7, p. 6265, 2017.
+
+47.
+SILVA, NICOLE R. ; GOMES, FELIPE V. ; FONSECA, MIRIAM D. ; MECHOULAM, RAPHAEL ; BREUER, AVIVA ; Cunha, Thiago M. ; GUIMARÃES, FRANCISCO S. . Antinociceptive effects of HUF-101, a fluorinated cannabidiol derivative. PROGRESS IN NEURO-PSYCHOPHARMACOLOGY & BIOLOGICAL PSYCHIATRY, v. 79, p. 369-377, 2017.
+
+48.
+Zarpelon, Ana C. ; Fattori, Victor ; SOUTO, FABRICIO O. ; Pinto, Larissa G. ; PINHO-RIBEIRO, FELIPE A. ; RUIZ-MIYAZAWA, KENJI W. ; TURATO, WALTER M. ; Cunha, Thiago M. ; DA COSTA, FERNANDO B. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Arakawa, Nilton S. ; Verri, Waldiceu A. . The Sesquiterpene Lactone, Budlein A, Inhibits Antigen-Induced Arthritis in Mice: Role of NF-?B and Cytokines. INFLAMMATION, v. 40, p. 2020-2032, 2017.
+
+49.
+SIMPLICIO, JANAINA A. ; GONZAGA, NATÁLIA A. ; NAKASHIMA, MARCELO A. ; DE MARTINIS, BRUNO S. ; Cunha, Thiago Mattar ; TIRAPELLI, LUIS F. ; Tirapelli, Carlos R. . Tumor necrosis factor-? receptor 1 (TNFR1) contributes to ethanol-induced vascular reactive oxygen species generation and hypertension. Journal of the American Society of Hypertension, v. 11, p. 684-696, 2017.
+
+50.
+REZENDE, B. ; ATHAYDE, R. ; GONCALVES, W. ; RESENDE, C. ; BERNARDES, P. ; PEREZ, D. ; ESPER, L. ; REIS, A. ; RACHID, M. ; CASTOR, M. ; CUNHA, T M ; MACHADO, FABIANA SIMÃO ; TEIXEIRA, M. M. ; PINHO, VANESSA . Inhibition of 5-lipoxygenase alleviates graft-versus-host disease. JOURNAL OF EXPERIMENTAL MEDICINE, v. 214, p. 3399, 2017.
+
+51.
+Fattori, Victor ; HOHMANN, MIRIAM S. N. ; ROSSANEIS, ANA C. ; MANCHOPE, MARILIA F. ; ALVES-FILHO, JOSE C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; Verri, Waldiceu A. . Targeting IL-33/ST2 signaling: regulation of immune function and analgesia. EXPERT OPINION ON THERAPEUTIC TARGETS, v. 21, p. 1141-1152, 2017.
+
+52.
+LOPES, ALEXANDRE H. ; BRANDOLINI, LAURA ; ARAMINI, ANDREA ; BIANCHINI, GIANLUCA ; SILVA, RANGEL L. ; ZAPERLON, ANA C. ; Verri, Waldiceu A. ; ALVES-FILHO, JOSÉ C. ; Cunha, Fernando Q. ; Teixeira, Mauro M. ; ALLEGRETTI, MARCELLO ; Cunha, Thiago M. . DF2755A, a novel non-competitive allosteric inhibitor of CXCR1/2, reduces inflammatory and post-operative pain. Pharmacological Research, v. 103, p. 69-79, 2016.
+Citações:4|5
+
+53.
+SANTA-CECÍLIA, FLÁVIA V. ; SOCIAS, BENJAMIN ; OUIDJA, MOHAND O. ; SEPULVEDA-DIAZ, JULIA E. ; ACUÑA, LEONARDO ; SILVA, RANGEL L. ; MICHEL, PATRICK P. ; DEL-BEL, ELAINE ; Cunha, Thiago M. ; RAISMAN-VOZARI, RITA . Doxycycline Suppresses Microglial Activation by Inhibiting the p38 MAPK and NF-kB Signaling Pathways. Neurotoxicity Research, v. 29, p. 447-459, 2016.
+Citações:12|14
+
+54.
+ZARPELON, A. C. ; RODRIGUES, F. C. ; LOPES, A. H. ; SOUZA, G. R. ; CARVALHO, T. T. ; Pinto, L. G. ; Xu, D. ; Ferreira, S. H. ; Alves-Filho, J. C. ; MCINNES, I. B. ; RYFFEL, B. ; QUESNIAUX, V. F. J. ; REVERCHON, F. ; MORTAUD, S. ; MENUET, A. ; LIEW, F. Y. ; CUNHA, F. Q. ; CUNHA, T. M. ; Verri, W. A. . Spinal cord oligodendrocyte-derived alarmin IL-33 mediates neuropathic pain. The FASEB Journal, v. 30, p. 54-65, 2016.
+Citações:12|13
+
+55.
+FRANCA, RFO ; Vieira, SM ; TALBOT, J ; PERES, RS ; PINTO, LG ; ZAMBONI, DS ; LOUZADA-JUNIOR, P ; Cunha, FQ ; Cunha, TM . Expression and activity of NOD1 and NOD2 / RIPK2 signalling in mononuclear cells from patients with rheumatoid arthritis. Scandinavian Journal of Rheumatology (Trykt Utg.), v. 45, p. 8-12, 2016.
+Citações:2|2
+
+56.
+QUADROS, ANDREZA U. ; Cunha, Thiago M. . C5a and pain development: An old molecule, a new target. Pharmacological Research, v. 112, p. 58-67, 2016.
+
+57.
+Franchin, Marcelo ; CÓLON, DAVID F. ; CASTANHEIRA, FERNANDA V. S. ; DA CUNHA, MARCOS G. ; BUENO-SILVA, BRUNO ; ALENCAR, SEVERINO M. ; Cunha, Thiago M. ; ROSALEN, PEDRO L. . Vestitol Isolated from Brazilian Red Propolis Inhibits Neutrophils Migration in the Inflammatory Process: Elucidation of the Mechanism of Action. Journal of Natural Products (Print), v. 79, p. 954-960, 2016.
+Citações:4|7
+
+58.
+KANASHIRO, ALEXANDRE ; Talbot, Jhimmy ; PERES, RAPHAEL S ; Pinto, Larissa G ; BASSI, GABRIEL S ; Cunha, Thiago M ; DE Q CUNHA, FERNANDO . Neutrophil Recruitment and Articular Hyperalgesia in Antigen-Induced Arthritis is Modulated by the Cholinergic Anti-Inflammatory Pathway. Basic & Clinical Pharmacology & Toxicology (Print), v. 119, p. 453-457, 2016.
+Citações:2|2
+
+59.
+BASSI, GABRIEL S. ; DO C. MALVAR, DAVID ; Cunha, Thiago M. ; Cunha, Fernando Q. ; KANASHIRO, ALEXANDRE . Spinal GABA-B receptor modulates neutrophil recruitment to the knee joint in zymosan-induced arthritis. Naunyn-Schmiedeberg's Archives of Pharmacology, v. 389, p. 851-861, 2016.
+
+60.
+PINHO-RIBEIRO, FELIPE A. ; Zarpelon, Ana C. ; Mizokami, Sandra S. ; BORGHI, SERGIO M. ; BORDIGNON, JULIANO ; SILVA, RANGEL L. ; Cunha, Thiago M. ; ALVES-FILHO, JOSE C. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . The citrus flavonone naringenin reduces lipopolysaccharide-induced inflammatory pain and leukocyte recruitment by inhibiting NF-?B activation. Journal of Nutritional Biochemistry, v. 33, p. 8-14, 2016.
+Citações:14|17
+
+61.
+HUANG, LEI ; OU, RONG ; RABELO DE SOUZA, GUILHERME ; Cunha, Thiago M. ; LEMOS, HENRIQUE ; MOHAMED, ESLAM ; LI, LINGQIAN ; PACHOLCZYK, GABRIELA ; RANDALL, JANICE ; MUNN, DAVID H. ; MELLOR, ANDREW L. . Virus Infections Incite Pain Hypersensitivity by Inducing Indoleamine 2,3 Dioxygenase. PLoS Pathogens (Online), v. 12, p. e1005615, 2016.
+Citações:6|7
+
+62.
+SANT?ANNA, MORENA B. ; KUSUDA, RICARDO ; BOZZO, TIAGO A. ; BASSI, GABRIEL S. ; ALVES-FILHO, JOSÉ C. ; Cunha, Fernando Q. ; Ferreira, Sergio H. ; Souza, Guilherme R. ; Cunha, Thiago M. . Medial plantar nerve ligation as a novel model of neuropathic pain in mice: pharmacological and molecular characterization. Scientific Reports, v. 6, p. 26955, 2016.
+Citações:3|3
+
+63.
+SILVA, RANGEL L. ; CASTANHEIRA, FERNANDA V. ; Figueiredo, Jozi G. ; BASSI, GABRIEL S. ; Ferreira, Sérgio H. ; Cunha, Fernando Q. ; Cunha, Thiago M. ; KANASHIRO, ALEXANDRE . Pharmacological Beta-Adrenergic Receptor Activation Attenuates Neutrophil Recruitment by a Mechanism Dependent on Nicotinic Receptor and the Spleen. Inflammation, v. 39, p. 1405-13, 2016.
+Citações:2|1
+
+64.
+LONGHI-BALBINOT, DANIELA T. ; ROSSANEIS, ANA C. ; PINHO-RIBEIRO, FELIPE A. ; BERTOZZI, MARIANA M. ; Cunha, Fernando Q. ; ALVES-FILHO, JOSÉ C. ; Cunha, Thiago M. ; PERON, JEAN P.S. ; MIRANDA, KATRINA M. ; Casagrande, Rubia ; Verri, Waldiceu A. . The nitroxyl donor, Angeli's salt, reduces chronic constriction injury-induced neuropathic pain. Chemico-Biological Interactions (Print), v. 256, p. 1-8, 2016.
+Citações:6|6
+
+65.
+PUCCA, MANUELA BERTO ; CERNI, FELIPE AUGUSTO ; CORDEIRO, FRANCIELLE ALMEIDA ; PEIGNEUR, STEVE ; Cunha, Thiago Mattar ; TYTGAT, JAN ; ARANTES, ELIANE CANDIANI . Ts8 scorpion toxin inhibits the Kv4.2 channel and produces nociception in vivo. Toxicon (Oxford), v. 119, p. 244-252, 2016.
+Citações:4|4
+
+66.
+Franchin, Marcelo ; Rosalen, Pedro Luiz ; da Cunha, Marcos Guilherme ; SILVA, RANGEL LEAL ; COLÓN, DAVID F. ; BASSI, GABRIEL SHIMIZU ; de Alencar, Severino Matias ; Ikegaki, Masaharu ; ALVES-FILHO, JOSÉ C. ; Cunha, Fernando Q. ; BEUTLER, JOHN A. ; Cunha, Thiago Mattar . Cinnamoyloxy-mammeisin Isolated from Geopropolis Attenuates Inflammatory Process by Inhibiting Cytokine Production: Involvement of MAPK, AP-1, and NF-?B. Journal of Natural Products (Print), v. 79, p. 1828-1833, 2016.
+
+67.
+da Cunha, Marcos Guilherme ; Franchin, Marcelo ; DE PAULA-EDUARDO, LAILA FACIN ; FREIRES, IRLAN ALMEIDA ; BEUTLER, JOHN A. ; de Alencar, Severino Matias ; Ikegaki, Masaharu ; TABCHOURY, CINTHIA PEREIRA MACHADO ; Cunha, Thiago Mattar ; Rosalen, Pedro Luiz . Anti-inflammatory and anti-biofilm properties of ent-nemorosone from Brazilian geopropolis. Journal of Functional Foods, v. 26, p. 27-35, 2016.
+
+68.
+SILVA, DANIELLE F. ; ALVES, CLAYTON Q. ; BRANDÃO, HUGO N. ; DAVID, JORGE M. ; DAVID, JUCENI P. ; SILVA, RANGEL L. ; Franchin, Marcelo ; Cunha, Thiago M. ; MARTINS, FELIPE T. ; OLIVEIRA, CECILIA M.A. . Poligalen, a new coumarin from Polygala boliviensis, reduces the release of TNF and IL-6 independent of NF-kB downregulation. Fitoterapia (Milano, 1934) (Cessou em 1960. Foi fundido com ISSN 1971-5498 Fitoterapia. Edizione Farmaceutica; ISSN 1971-5501 Fitoterapia. Edizione Me, v. 113, p. 139-143, 2016.
+
+69.
+Guerrero, Ana T.G. ; Pinto, Larissa G. ; Cunha, Fernando Q. ; Ferreira, Sérgio H. ; ALVES-FILHO, JOSE C. ; Verri, Waldiceu A. ; Cunha, Thiago M. . Mechanisms underlying the hyperalgesic responses triggered by joint activation of TLR4. Pharmacological Reports, v. 68, p. 1293-1300, 2016.
+
+70.
+DAVID, BRUNA ARAUJO REZENDE, RAFAEL MACHADO ANTUNES, MAÍSA MOTA SANTOS, MÔNICA MORAIS FREITAS LOPES, MARIA ALICE DINIZ, ARIANE BARROS SOUSA PEREIRA, RAFAELA VAZ MARCHESI, SARAH COZZER ALVARENGA, DÉBORA MOREIRA NAKAGAKI, BRENDA NAEMI ARAÚJO, ALAN MOREIRA DOS REIS, DANIELA SILVA MONTI ROCHA, RENATA MARQUES, PEDRO ELIAS LEE, WOO-YONG DENISET, JUSTIN LIEW, PEI XIONG RUBINO, STEPHEN COX, LAURA PINHO, VANESSA Cunha, Thiago Mattar FERNANDES, GABRIEL ROCHA OLIVEIRA, ANDRÉ GUSTAVO MARTINS TEIXEIRA, MAURO KUBES, PAUL , et al. ; Combination Of Mass Cytometry and Imaging Analysis Reveals Origin, Location, and Functional Repopulation of Liver Myeloid Cells in Mice. Gastroenterology (New York, N.Y. 1943), v. 151, p. 1176-1191, 2016.
+Citações:12|21
+
+71.
+VILELA, FERNANDA M.P. ; OLIVEIRA, FRANCIANE M. ; VICENTINI, FABIANA T.M.C. ; Casagrande, Rubia ; Verri, Waldiceu A. ; Cunha, Thiago M. ; FONSECA, MARIA J.V. . Commercial sunscreen formulations: UVB irradiation stability and effect on UVB irradiation-induced skin oxidative stress and inflammation. Journal of Photochemistry and Photobiology. B, Biology, v. 163, p. 413-420, 2016.
+
+72.
+NASCIMENTO, MANUELA S. L. ; FERREIRA, MARCELA D. ; QUIRINO, GUSTAVO F. S. ; MARUYAMA, SANDRA R. ; KRISHNASWAMY, JAYENDRA K. ; LIU, DONG ; BERLINK, JONILSON ; FONSECA, DENISE M. ; Zamboni, Dario S. ; Carregaro, Vanessa ; ALMEIDA, ROQUE P. ; Cunha, Thiago M. ; EISENBARTH, STEPHANIE S. ; Silva, João S. . NOD2-RIP2-mediated signalling contributes to shape adaptive immunity in visceral leishmaniasis. The Journal of Infectious Diseases, v. 214, p. 1647-1657, 2016.
+
+73.
+TREVELIN, SILVIA CELLONE ; DOS SANTOS, CÉLIO XAVIER ; FERREIRA, RAPHAEL GOMES ; DE SÁ LIMA, LARISSA ; SILVA, RANGEL LEAL ; SCAVONE, CRISTOFORO ; CURI, RUI ; ALVES-FILHO, JOSÉ CARLOS ; Cunha, Thiago Mattar ; ROXO-JÚNIOR, PÉRSIO ; CERVI, MARIA-CÉLIA ; LAURINDO, FRANCISCO RAFAEL MARTINS ; HOTHERSALL, JOHN STEPHEN ; COBB, ANDREW M. ; ZHANG, MIN ; IVETIC, ALEKSANDAR ; SHAH, AJAY M. ; LOPES, LUCIA ROSSETTI ; CUNHA, FERNANDO QUEIROZ . Apocynin and Nox2 regulate NF-?B by modifying thioredoxin-1 redox-state. Scientific Reports, v. 6, p. 34581, 2016.
+
+74.
+BUENO-SILVA, BRUNO ; Franchin, Marcelo ; ALVES, CLAUDINEY DE FREITAS ; Denny, Carina ; COLÓN, DAVID FERNANDO ; Cunha, Thiago Mattar ; ALENCAR, SEVERINO MATIAS ; Napimoga, Marcelo Henrique ; Rosalen, Pedro Luiz . Main pathways of action of Brazilian red propolis on the modulation of neutrophils migration in the inflammatory process. Phytomedicine (Stuttgart), v. 23, p. 1583-1590, 2016.
+
+75.
+Carregaro, Vanessa ; NAPIMOGA, MARCELO H. ; Peres, Raphael S. ; BENEVIDES, LUCIANA ; SACRAMENTO, LAÍS AMORIM ; Pinto, Larissa G. ; Grespan, Renata ; Cunha, Thiago M. ; SILVA, JOÃO SANTANA DA ; Cunha, Fernando Q. . Therapeutic Treatment of Arthritic Mice with 15-Deoxy - -Prostaglandin J (15d-PGJ ) Ameliorates Disease through the Suppression of Th17 Cells and the Induction of CD4 CD25 FOXP3 Cells. Mediators of Inflammation (Print), v. 2016, p. 1-13, 2016.
+Citações:4|6
+
+76.
+Franchin, Marcelo ; COLÓN, DAVID F. ; DA CUNHA, MARCOS G. ; CASTANHEIRA, FERNANDA V. S. ; SARAIVA, ANDRÉ L. L. ; BUENO-SILVA, BRUNO ; ALENCAR, SEVERINO M. ; Cunha, Thiago M. ; ROSALEN, PEDRO L. . Neovestitol, an isoflavonoid isolated from Brazilian red propolis, reduces acute and chronic inflammation: involvement of nitric oxide and IL-6. Scientific Reports, v. 6, p. 36401, 2016.
+
+77.
+PINHO-RIBEIRO, FELIPE A. ; Fattori, Victor ; Zarpelon, Ana C. ; BORGHI, SERGIO M. ; Staurengo-Ferrari, Larissa ; Carvalho, Thacyana T. ; ALVES-FILHO, JOSE C. ; Cunha, Fernando Q. ; Cunha, Thiago M. ; Casagrande, Rubia ; Verri, Waldiceu A. . Pyrrolidine dithiocarbamate inhibits superoxide anion-induced pain and inflammation in the paw skin and spinal cord by targeting NF-?B and oxidative stress. INFLAMMOPHARMACOLOGY, v. 24, p. 97-107, 2016.
+Citações:5|4
+
+78.
+Carvalho, Thacyana T. ; BORGHI, SERGIO M. ; PINHO-RIBEIRO, FELIPE A. ; Mizokami, Sandra S. ; Cunha, Thiago M. ; Ferreira, Sergio H. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . Granulocyte-Colony Stimulating Factor (G-CSF)-induced mechanical hyperalgesia in mice: Role for peripheral TNF?, IL-1? and IL-10. European Journal of Pharmacology, v. 749, p. 62-72, 2015.
+Citações:7|9
+
+79.
+LOPES, ALEXANDRE H. ; Talbot, Jhimmy ; SILVA, RANGEL L. ; LIMA, JONILSON B. ; FRANÇA, RAFAEL O. ; Verri, Waldiceu A. ; MASCARENHAS, DANIELLE P. ; Ryffel, Bernhard ; Cunha, Fernando Q. ; Zamboni, Dario S. ; Cunha, Thiago M. . Peripheral NLCR4 inflammasome participates in the genesis of acute inflammatory pain. PAIN, v. 156, p. 451-459, 2015.
+Citações:6|7
+
+80.
+SILVA, RANGEL L. ; LOPES, ALEXANDRE H. ; FRANÇA, RAFAEL O. ; VIEIRA, SÍLVIO M. ; SILVA, ELLEN C. C. ; AMORIM, RODRIGO C. N. ; Cunha, Fernando Q. ; POHLIT, ADRIAN M. ; Cunha, Thiago M. . The Quassinoid Isobrucein B Reduces Inflammatory Hyperalgesia and Cytokine Production by Post-transcriptional Modulation. Journal of Natural Products (Print), v. 78, p. 241-249, 2015.
+Citações:4|8
+
+81.
+PERES, RAPHAEL SANCHES ; LIEW, FOO Y. ; Talbot, Jhimmy ; Carregaro, Vanessa ; OLIVEIRA, RENE D. ; ALMEIDA, SERGIO L. ; FRANÇA, RAFAEL F. O. ; Donate, Paula B. ; Pinto, Larissa G. ; FERREIRA, FLAVIA I. S. ; COSTA, DIEGO L. ; DEMARQUE, DANIEL P. ; GOUVEA, DAYANA RUBIO ; LOPES, NORBERTO P. ; QUEIROZ, REGINA HELENA C. ; SILVA, JOAO SANTANA ; FIGUEIREDO, FLORENCIO ; ALVES-FILHO, JOSE CARLOS ; Cunha, Thiago M. ; Ferreira, Sérgio H. ; LOUZADA-JUNIOR, PAULO ; Cunha, Fernando Q. . Low expression of CD39 on regulatory T cells as a biomarker for resistance to methotrexate therapy in rheumatoid arthritis. Proceedings of the National Academy of Sciences of the United States of America, v. 112, p. 2509-2514, 2015.
+Citações:15|26
+
+82.
+Cunha, Thiago M.; Souza, Guilherme R. ; RANGEL L. SILVAA, CELINA M. LOTUFO ; Verri, Waldiceu A. ; FUNEZ, MANI I. ; VILLARREAL, CHRISTIANE F. ; Talbot, Jhimmy ; SOUSA, LIRLANDIA P. ; Parada, Carlos A. ; Cunha, Fernando Q. ; Ferreira, Sergio H. . Involvement of Nuclear factor kappa B in the maintenance of persistent inflammatory hypernociception. Pharmacology, Biochemistry and Behavior, v. 134, p. 49-56, 2015.
+Citações:2|4
+
+83.
+PATRICIO, ELIZIANE S ; COSTA, ROBSON ; FIGUEIREDO, CLAUDIA P ; GERS-BARLAG, KATHARINA ; BICCA, MAÍRA A ; MANJAVACHI, MARIANNE N ; SEGAT, GABRIELA C ; GENTRY, CLIVE ; LUIZ, ANA P ; FERNANDES, ELIZABETH S ; Cunha, Thiago M ; BEVAN, STUART ; CALIXTO, JOÃO B . Mechanisms Underlying the Scratching Behavior Induced by the Activation of Proteinase Activated Receptor-4 (PAR-4) in Mice. Journal of Investigative Dermatology, v. 135, p. 2484-2491, 2015.
+Citações:2|3
+
+84.
+RUIZ-MIYAZAWA, KENJI W. ; PINHO-RIBEIRO, FELIPE A. ; Zarpelon, Ana C. ; Staurengo-Ferrari, Larissa ; SILVA, RANGEL L. ; ALVES-FILHO, JOSE C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . Vinpocetine reduces lipopolysaccharide-induced inflammatory pain and neutrophil recruitment in mice by targeting oxidative stress, cytokines and NF-?B. Chemico-Biological Interactions (Print), v. 237, p. 9-17, 2015.
+Citações:7|13
+
+85.
+FREITAS, CRISTINA SETIM ; ROVEDA, ANTONIO CARLOS ; TRUZZI, DANIELA RAMOS ; GARCIA, ANDRÉ CASTILHO ; CUNHA, T. M. ; Cunha, Fernando Q ; FRANCO, DOUGLAS WAGNER . Anti-inflammatory and antinociceptive activity of ruthenium complexes with isonicotinic and nicotinic acids (niacin) as ligands. Journal of Medicinal Chemistry, v. 58, p. 150514143837006, 2015.
+Citações:1|5
+
+86.
+PARRA, ROGÉRIO S ; LOPES, ALEXANDRE H ; Carreira, Eleonora U ; FEITOSA, MARLEY R ; Cunha, Fernando Q ; GARCIA, SÉRGIO B ; Cunha, Thiago M ; DA ROCHA, JOSÉ J R ; FÉRES, OMAR . Hyperbaric oxygen therapy ameliorates TNBS-induced acute distal colitis in rats. MEDICAL GAS RESEARCH, v. 5, p. 6, 2015.
+Citações:7|4
+
+87.
+ESCHER TOLLER-KAWAHISA, JULIANA ; CRISTINA CANICOBA, NATHÁLIA ; PAULA VENANCIO, VINICIUS ; KAWAHISA, ROGÉRIO ; MARIA GREGGI ANTUNES, LUSÂNIA ; MATTAR CUNHA, THIAGO ; MARA MARZOCCHI-MACHADO, CLENI . Systemic lupus erythematosus onset in lupus-prone B6.MRL/lpr mice Is influenced by weight gain and Is preceded by an increase in neutrophil oxidative burst activity. Free Radical Biology & Medicine, v. 86, p. 362-373, 2015.
+Citações:1|1
+
+88.
+BASSI, GABRIEL S. ; BROGNARA, FERNANDA ; CASTANIA, JACI A. ; Talbot, Jhimmy ; Cunha, Thiago M. ; Cunha, Fernando Q. ; ULLOA, LUIS ; KANASHIRO, ALEXANDRE ; MARTINS DIAS, DANIEL P. ; SALGADO, HELIO C. . Baroreflex activation in conscious rats modulates the joint inflammatory response via sympathetic function. Brain, Behavior, and Immunity, v. 49, p. 140-147, 2015.
+Citações:4|9
+
+89.
+SERAFIM, KARLA G. G. ; NAVARRO, SUELEN A. ; Zarpelon, Ana C. ; PINHO-RIBEIRO, FELIPE A. ; Fattori, Victor ; Cunha, Thiago M. ; ALVES-FILHO, JOSE C. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . Bosentan, a mixed endothelin receptor antagonist, inhibits superoxide anion-induced pain and inflammation in mice. Naunyn-Schmiedeberg's Archives of Pharmacology, v. 388, p. 1211-1221, 2015.
+Citações:8|5
+
+90.
+YAMACITA-BORIN, FABIANE Y. ; Zarpelon, Ana C. ; PINHO-RIBEIRO, FELIPE A. ; Fattori, Victor ; ALVES-FILHO, JOSE C. ; Cunha, Fernando Q. ; Cunha, Thiago M. ; Casagrande, Rubia ; Verri Jr, Waldiceu A. . Superoxide anion-induced pain and inflammation depends on TNF?/TNFR1 signaling in mice. Neuroscience Letters (Print), v. 605, p. 53-58, 2015.
+Citações:5|14
+
+91.
+VAZ, EMÍLIA R. ; FUJIMURA, PATRÍCIA T. ; ARAUJO, GALBER R. ; DA SILVA, CARLOS A. T. ; SILVA, RANGEL L. ; Cunha, Thiago M. ; LOPES-FERREIRA, MÔNICA ; LIMA, CARLA ; FERREIRA, MÁRCIO J. ; CUNHA-JUNIOR, JAIR P. ; TAKETOMI, ERNESTO A. ; GOULART, LUIZ R. ; UEIRA-VIEIRA, CARLOS . A Short Peptide That Mimics the Binding Domain of TGF-?1 Presents Potent Anti-Inflammatory Activity. Plos One, v. 10, p. e0136116, 2015.
+Citações:2|1
+
+92.
+Pinto, Larissa G. ; Talbot, Jhimmy ; Peres, Raphael S. ; FRANCA, RAFAEL F. ; Ferreira, Sérgio H. ; Ryffel, Bernhard ; AVES-FILHO, JOSÉ CARLOS F. ; FIGUEIREDO, FLORÊNCIO ; Cunha, Thiago M. ; Cunha, Fernando Q. . Joint production of IL-22 participates in the initial phase of antigen-induced arthritis through IL-1? production. Arthritis Research & Therapy (Print), v. 17, p. 235, 2015.
+Citações:2|3
+
+93.
+WONG, DEYSI V. T. ; LIMA-JÚNIOR, ROBERTO C. P. ; CARVALHO, CIBELE B. M. ; BORGES, VANESSA F. ; WANDERLEY, CARLOS W. S. ; BEM, AMANDA X. C. ; LEITE, CAIO A. V. G. ; TEIXEIRA, MARAIZA A. ; BATISTA, GABRIELA L. P. ; SILVA, RANGEL L. ; Cunha, Thiago M. ; BRITO, GERLY A. C. ; ALMEIDA, PAULO R. C. ; Cunha, Fernando Q. ; RIBEIRO, RONALDO A. . The Adaptor Protein Myd88 Is a Key Signaling Molecule in the Pathogenesis of Irinotecan-Induced Intestinal Mucositis. Plos One, v. 10, p. e0139985, 2015.
+Citações:9|8
+
+94.
+Fattori, Victor ; PINHO-RIBEIRO, FELIPE A. ; BORGHI, SERGIO M. ; ALVES-FILHO, JOSÉ C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . Curcumin inhibits superoxide anion-induced pain-like behavior and leukocyte recruitment by increasing Nrf2 expression and reducing NF-?B activation. Inflammation Research (Printed ed.), v. 64, p. 993-1003, 2015.
+Citações:10|18
+
+95.
+QUADROS, ANDREZA U. ; Pinto, Larissa G. ; FONSECA, MIRIAM M. ; KUSUDA, RICARDO ; Cunha, Fernando Q. ; Cunha, Thiago M. . Dynamic weight bearing is an efficient and predictable method for evaluation of arthritic nociception and its pathophysiological mechanisms in mice. Scientific Reports, v. 5, p. 14648, 2015.
+Citações:5|6
+
+96.
+VERAS, FLÁVIO P. ; Peres, Raphael S. ; SARAIVA, ANDRÉ L. L. ; Pinto, Larissa G. ; LOUZADA-JUNIOR, PAULO ; Cunha, Thiago M. ; PASCHOAL, JONAS A. R. ; Cunha, Fernando Q. ; ALVES-FILHO, JOSÉ C. . Fructose 1,6-bisphosphate, a high-energy intermediate of glycolysis, attenuates experimental arthritis by activating anti-inflammatory adenosinergic pathway. Scientific Reports, v. 5, p. 15171, 2015.
+Citações:4|9
+
+97.
+DA SILVA DIAS, ISABELLA CAROLINE ; CARABELLI, BRUNO ; ISHII, DANIELA KAORI ; DE MORAIS, HELEN ; DE CARVALHO, MILENE CRISTINA ; RIZZO DE SOUZA, LUIZ E. ; ZANATA, SILVIO M. ; BRANDÃO, MARCUS LIRA ; Cunha, Thiago Mattar ; FERRAZ, ANETE CURTE ; CUNHA, JOICE MARIA ; ZANOVELI, JANAINA MENEZES . Indoleamine-2,3-Dioxygenase/Kynurenine Pathway as a Potential Pharmacological Target to Treat Depression Associated with Diabetes. Molecular Neurobiology, v. 53, p. 6997-7009, 2015.
+Citações:1|3
+
+98.
+FONSECA, MIRIAM D. ; Cunha, Fernando Q. ; KASHFI, KHOSROW ; Cunha, Thiago M. . NOSH-aspirin (NBS-1120), a dual nitric oxide and hydrogen sulfide-releasing hybrid, reduces inflammatory pain. PHARMACOLOGY RESEARCH & PERSPECTIVES, v. 3, p. n/a-n/a, 2015.
+Citações:5
+
+99.
+BORGHI, SERGIO M. ; PINHO-RIBEIRO, FELIPE A. ; Zarpelon, Ana C. ; Cunha, Thiago M. ; ALVES-FILHO, JOSE C. ; Ferreira, Sergio H. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . Interleukin-10 limits intense acute swimming-induced muscle mechanical hyperalgesia in mice. Experimental Physiology (Print), v. 100, p. 531-544, 2015.
+Citações:10|15
+
+100.
+Talbot, Jhimmy ; BIANCHINI, FRANCINE J. ; NASCIMENTO, DANILELE C. ; OLIVEIRA, RENE D. R. ; SOUTO, FABRICIO O. ; Pinto, Larissa G. ; Peres, Raphael S. ; SILVA, JAQUELINE R. ; ALMEIDA, SERGIO C. L. ; LOUZADA-JUNIOR, PAULO ; Cunha, Thiago M. ; Cunha, Fernando Q. ; ALVES-FILHO, JOSE C. . CCR2 Expression in Neutrophils Plays a Critical Role in Their Migration Into the Joints in Rheumatoid Arthritis. Arthritis & Rheumatology, v. 67, p. 1751-1759, 2015.
+Citações:13|25
+
+101.
+FIGUEIREDO, SÔNIA APARECIDA ; VILELA, FERNANDA MARIA PINTO ; DA SILVA, CLAUDINEI ALVES ; Cunha, Thiago Mattar ; DOS SANTOS, MARCELO HENRIQUE ; FONSECA, MARIA JOSÉ VIEIRA . In Vitro and In Vivo Photoprotective/Photochemopreventive Potential of Garcinia brasiliensis Epicarp Extract. Journal of Photochemistry and Photobiology. B, Biology, v. 131, p. 65-73, 2014.
+Citações:6|10
+
+102.
+BORGHI, SERGIO M. ; Zarpelon, Ana C. ; PINHO-RIBEIRO, FELIPE A. ; CARDOSO, RENATO D.R. ; MARTINS-PINGE, MARLI C. ; TATAKIHARA, ROBERTO I. ; Cunha, Thiago M. ; Ferreira, Sergio H. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . Role of TNF-?/TNFR1 in Intense Acute Swimming-induced Delayed Onset Muscle Soreness in Mice. Physiology & Behavior, v. 128, p. 277-287, 2014.
+Citações:11|10
+
+103.
+BORGHI, SERGIO M. ; Zarpelon, Ana C. ; PINHO-RIBEIRO, FELIPE A. ; CARDOSO, RENATO D. R. ; Cunha, Thiago M. ; ALVES-FILHO, JOSÉ C. ; Ferreira, Sergio H. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . Targeting interleukin-1? reduces intense acute swimming-induced muscle mechanical hyperalgesia in mice. Journal of Pharmacy and Pharmacology, v. 66, p. 1009-1020, 2014.
+Citações:8|6
+
+104.
+VIEIRA, SÍLVIO MANFREDO ; SILVA, RANGEL LEAL ; LEMOS, HENRIQUE PAULA ; AMORIM, RODRIGO CÉSAR DAS NEVES ; DA SILVA, ELLEN CRISTINA COSTA ; REINACH, PETER SOL ; CUNHA, FERNANDO QUEIRÓZ ; POHLIT, ADRIAN MARTIN ; Cunha, Thiago Mattar . Gastro-protective effects of isobrucein B, a quassinoid isolated from Picrolemma sprucei. Fitoterapia (Milano, 1934) (Cessou em 1960. Foi fundido com ISSN 1971-5498 Fitoterapia. Edizione Farmaceutica; ISSN 1971-5501 Fitoterapia. Edizione Me, v. 95, p. 8-15, 2014.
+Citações:1|1
+
+105.
+CALIL, IGOR L. ; Zarpelon, Ana C. ; Guerrero, Ana T. G. ; ALVES-FILHO, JOSE C. ; Ferreira, Sergio H. ; Cunha, Fernando Q. ; Cunha, Thiago M. ; Verri, Waldiceu A. . Lipopolysaccharide Induces Inflammatory Hyperalgesia Triggering a TLR4/MyD88-Dependent Cytokine Cascade in the Mice Paw. Plos One, v. 9, p. e90013, 2014.
+Citações:21|36
+
+106.
+Staurengo-Ferrari, Larissa ; Zarpelon, Ana C. ; LONGHI-BALBINOT, DANIELA T. ; MARCHESI, MARIO ; Cunha, Thiago M. ; ALVES-FILHO, JOSÉ C. ; Cunha, Fernando Q. ; Ferreira, Sergio H. ; Casagrande, Rubia ; MIRANDA, KATRINA M. ; Verri, Waldiceu A. . Nitroxyl inhibits overt pain-like behavior in mice: Role of cGMP/PKG/ATP-sensitive potassium channel signaling pathway. Pharmacological Reports, v. 66, p. 691-698, 2014.
+Citações:3|3
+
+107.
+BARRAGÁN-IGLESIAS, PAULINO ; ROCHA-GONZÁLEZ, HECTOR I. ; PINEDA-FARIAS, JORGE BARUCH ; MURBARTIÁN, JANET ; GODÍNEZ-CHAPARRO, BEATRIZ ; REINACH, PETER S. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; GRANADOS-SOTO, VINICIO . Inhibition of peripheral anion exchanger 3 decreases formalin-induced pain. European Journal of Pharmacology, v. 738C, p. 91-100, 2014.
+Citações:2|4
+
+108.
+IVAN, ANA L.M. ; CAMPANINI, MARCELA Z. ; MARTINEZ, RENATA M. ; FERREIRA, VITOR S. ; STEFFEN, VINICIUS S. ; VICENTINI, FABIANA T.M.C. ; VILELA, FERNANDA M.P. ; MARTINS, FREDERICO SEVERINO ; Zarpelon, Ana C. ; Cunha, Thiago M. ; FONSECA, MARIA J.V. ; BARACAT, MARCELA M. ; Georgetti, Sandra R. ; Verri, Waldiceu A. ; CASAGRANDE, RÚBIA . Pyrrolidine dithiocarbamate inhibits UVB-induced skin inflammation and oxidative stress in hairless mice and exhibits antioxidant activity in vitro. Journal of Photochemistry and Photobiology. B, Biology, v. 138, p. 124-133, 2014.
+Citações:18|18
+
+109.
+DE MELO LEITE, A.C.R. ; TEOTONIO, M.A.A. ; GIRÃO, V.C.C. ; DE LIMA POMPEU, M.M. ; DE MELO NUNES, R. ; CUNHA, T.M. ; PINTO, A.C.M.D. ; DE QUEIROZ CUNHA, F. ; ROCHA, F.A.C. . Meniscal transection rather than excision increases pain behavior and structural damage in experimental osteoarthritis in mice. Osteoarthritis and Cartilage, v. 22, p. 1878-1885, 2014.
+Citações:3|5
+
+110.
+BARBOSA, ANDRÉ LUIZ DOS REIS ; DE SOUSA, RHAMON BARROSO ; TORRES, JOÃO NATHANAEL LIMA ; Cunha, Thiago Mattar ; CUNHA, FERNANDO DE QUEIROZ ; SOARES, PEDRO MARCOS GOMES ; RIBEIRO, RONALDO DE ALBUQUERQUE ; VALE, MARIANA LIMA ; SOUZA, MARCELLUS HENRIQUE LOIOLA PONTE . Colitis generates remote antinociception in rats: the role of the l-arginine/NO/cGMP/PKG/KATP pathway and involvement of cannabinoid and opioid systems. Inflammation Research (Printed ed.), v. 63, p. 969-977, 2014.
+Citações:1|1
+
+111.
+AGUIAR, CARLA J ; ROCHA-FRANCO, JOÃO A ; SOUSA, PEDRO A ; SANTOS, ANDERSON K ; LADEIRA, MARINA ; ROCHA-RESENDE, CIBELE ; LADEIRA, LUIZ O ; RESENDE, RODRIGO R ; BOTONI, FERNANDO A ; BARROUIN MELO, MARCOS ; LIMA, CRISTIANO X ; CARBALLIDO, JOSÉ M ; Cunha, Thiago M ; MENEZES, GUSTAVO B ; GUATIMOSIM, SILVIA ; LEITE, M FATIMA . Succinate causes pathological cardiomyocyte hypertrophy through GPR91 activation. CELL COMMUN SIGNAL, v. 12, p. 78, 2014.
+Citações:6|5
+
+112.
+SILVA, JEAN JERLEY NOGUEIRA DA ; Pavanelli, Wander Rogério ; Panis, Carolina ; Cunha, Thiago Mattar ; OLIVEIRA, FRANCISCO JOSÉ DE ABREU ; MENEZES, MARIA CLAUDIA NORONHA DUTRA DE ; Costa, Ivete Conchon ; THOMÉ, GRACIELE DA SILVA ; SILVA, FRANCISCO ORDELEI NASCIMENTO DA ; SOUSA, EDUARDO HENRIQUE SILVA DE ; LOPES, LUIZ GONZAGA DE FRANÇA ; Cecchini, Rubens ; CUNHA, FERNANDO DE QUEIROZ ; Itano, Eiko Nakagawa ; EHARAWATANABE, MARIA ANGÉLICA . Nitric Oxide Donors with Therapeutic Strategic in Experimental Schistossomiasis Mansoni. American Journal of Immunology, v. 10, p. 225-239, 2014.
+Citações:1
+
+113.
+MORICONI, ALESSIO ; Cunha, Thiago M. ; Souza, Guilherme R. ; LOPES, ALEXANDRE H. ; Cunha, Fernando Q. ; CARNEIRO, VICTOR L. ; Pinto, Larissa G. ; BRANDOLINI, LAURA ; ARAMINI, ANDREA ; BIZZARRI, CINZIA ; BIANCHINI, GIANLUCA ; BECCARI, ANDREA R. ; FANTON, MARCO ; BRUNO, AGOSTINO ; COSTANTINO, GABRIELE ; BERTINI, RICCARDO ; GALLIERA, EMANUELA ; LOCATI, MASSIMO ; Ferreira, Sérgio H. ; Teixeira, Mauro M. ; ALLEGRETTI, MARCELLO . Targeting the minor pocket of C5aR for the rational design of an oral allosteric inhibitor for inflammatory and neuropathic pain relief. Proceedings of the National Academy of Sciences of the United States of America, v. 111, p. 16937-16942, 2014.
+Citações:12|18
+
+114.
+Donate, Paula B. ; FORNARI, THAIS A. ; MACEDO, CLAUDIA ; Cunha, Thiago M. ; NASCIMENTO, DANIELE C. B. ; SAKAMOTO-HOJO, ELZA T. ; Donadi, Eduardo A. ; Cunha, Fernando Q. ; Passos, Geraldo A. . T Cell Post-Transcriptional miRNA-mRNA Interaction Networks Identify Targets Associated with Susceptibility/Resistance to Collagen-induced Arthritis. Plos One, v. 8, p. e54803, 2013.
+Citações:7|4
+
+115.
+GUERRERO, ANA T. ; ZAPERLON, ANA C. ; Vieira, Silvio M. ; Pinto, Larissa G. ; Ferreira, Sérgio H. ; Cunha, Fernando Q. ; Verri, Waldiceu A. ; Cunha, Thiago M. . The role of PAF/PAFR signaling in zymosan-induced articular inflammatory hyperalgesia. Naunyn-Schmiedeberg's Archives of Pharmacology, v. 386, p. 51-59, 2013.
+Citações:7|7
+
+116.
+FIGUEIREDO, JOZI ; FERREIRA, ANA ELISA ; SILVA, RANGEL LEAL ; ULLOA, LUIS ; GRIECO, PAOLO ; Cunha, Thiago Mattar ; FERREIRA, SÉRGIO HENRIQUE ; CUNHA, FERNANDO DE QUEIRÓZ ; KANASHIRO, ALEXANDRE . NDP-MSH inhibits neutrophil migration through nicotinic and adrenergic receptors in experimental peritonitis. Naunyn-Schmiedeberg's Archives of Pharmacology, v. 386, p. 311-318, 2013.
+Citações:7|7
+
+117.
+SANTOS, DANIELLA SOARES DOS ; MARTA, ILDA ESTÉFANI RIBEIRO ; CÁRNIO, EVELIN CAPELLARI ; QUADROS, ANDREZA URBA DE ; Cunha, Thiago Mattar ; CARVALHO, EMILIA CAMPOS DE . Using an experimental model for the study of therapeutic touch. Revista Latino-Americana de Enfermagem (USP. Ribeirão Preto. Impresso), v. 21, p. 442-449, 2013.
+Citações:2
+
+118.
+Zarpelon, Ana C. ; Souza, Guilherme R. ; Cunha, Thiago M. ; SCHIVO, IEDA R.S. ; MARCHESI, MARIO ; Casagrande, Rubia ; PINGE-FILHO, PHILENO ; Cunha, Fernando Q. ; Ferreira, Sergio H. ; MIRANDA, KATRINA M. ; Verri, Waldiceu A. . The nitroxyl donor, Angeli's salt, inhibits inflammatory hyperalgesia in rats. Neuropharmacology, v. 71, p. 1-9, 2013.
+Citações:10|12
+
+119.
+ZARPELON, AC ; Cunha, TM ; Alves-Filho, JC ; PINTO, LG ; Ferreira, SH ; MCINNES, IB ; Xu, D ; LIEW, FY ; Cunha, FQ ; VERRI, WA . IL-33/ST2 signalling contributes to carrageenin-induced innate inflammation and inflammatory pain: role of cytokines, endothelin-1 and prostaglandin E 2. British Journal of Pharmacology, v. 169, p. 90-101, 2013.
+Citações:29|30
+
+120.
+Franchin, Marcelo ; da Cunha, Marcos Guilherme ; Denny, Carina ; Napimoga, Marcelo Henrique ; Cunha, Thiago Mattar ; BUENO-SILVA, BRUNO ; MATIAS DE ALENCAR, SEVERINO ; Ikegaki, Masaharu ; LUIZ ROSALEN, PEDRO . Bioactive Fraction of Geopropolis from Melipona scutellaris Decreases Neutrophils Migration in the Inflammatory Process: Involvement of Nitric Oxide Pathway. Evidence-Based Complementary and Alternative Medicine (Print), v. 2013, p. 1-9, 2013.
+Citações:3|20
+
+121.
+Magro, Danilo A. ; Cunha, Thiago M ; ALVES-FILHO, J C ; Casagrande, R ; Ferreira, Sergio H ; LIEW, F Y ; Cunha, Fernando Q ; Verri Jr, Waldiceu A . An interleukin-33/ST2 signaling deficiency reduces overt pain-like behaviors in mice. Brazilian Journal of Medical and Biological Research on line, v. 46, p. 601-606, 2013.
+Citações:14|13
+
+122.
+ SOUZA, G. R. ; Talbot, J. ; Lotufo, C. M. ; CUNHA, F. Q. ; CUNHA, T. M. ; Ferreira, S. H. . Fractalkine mediates inflammatory pain through activation of satellite glial cells. Proceedings of the National Academy of Sciences of the United States of America, v. 110, p. 11193-11198, 2013.
+Citações:23|36
+
+123.
+VERCELINO, RAFAEL ; Cunha, Thiago Mattar ; FERREIRA, ELISA SILVA ; Cunha, Fernando Q. ; Ferreira, Sérgio H. ; OLIVEIRA, MARCELO G. . Skin vasodilation and analgesic effect of a topical nitric oxide-releasing hydrogel. Journal of Materials Science. Materials in Medicine, v. 24, p. 2157-2169, 2013.
+Citações:10|13
+
+124.
+DE LUCA, BIANCA ; XAVIER-ELSAS, PEDRO ; BARRADAS, MÔNICA ; LUZ, RICARDO A. ; QUETO, TÚLIO ; JONES, CARLA ; ARRUDA, MARIA AUGUSTA ; Cunha, Thiago Mattar ; CUNHA, FERNANDO QUEIROZ ; GASPAR-ELSAS, MARIA IGNEZ . Essential Roles of PKA, iNOS, CD95/CD95L, and Terminal Caspases in Suppression of Eosinopoiesis by PGE2 and Other cAMP-Elevating Agents. The Scientific World Journal, v. 2013, p. 1-13, 2013.
+Citações:2|4
+
+125.
+CARREIRA, E.U. ; Carregaro, V. ; TEIXEIRA, M.M. ; MORICONI, A. ; ARAMINI, A. ; VERRI, W.A. ; FERREIRA, S.H. ; CUNHA, F.Q. ; CUNHA, T.M. . Neutrophils recruited by CXCR1/2 signalling mediate post-incisional pain. European Journal of Pain (London, England), v. 17, p. 654-663, 2013.
+Citações:19|17
+
+126.
+HOHMANN, MIRIAM S. N. ; CARDOSO, RENATO D. R. ; PINHO-RIBEIRO, FELIPE A. ; CRESPIGIO, JEFFERSON ; Cunha, Thiago M. ; ALVES-FILHO, JOSÉ C. ; DA SILVA, ROSIANE V. ; PINGE-FILHO, PHILENO ; Ferreira, Sergio H. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . 5-Lipoxygenase Deficiency Reduces Acetaminophen-Induced Hepatotoxicity and Lethality. BIOMED RES INT, v. 2013, p. 1-13, 2013.
+Citações:13|14
+
+127.
+Zarpelon, Ana C. ; Pinto, Larissa G. ; Cunha, Thiago M. ; Vieira, Silvio M. ; Carregaro, Vanessa ; Souza, Guilherme R. ; Silva, João S. ; Ferreira, Sérgio H. ; Cunha, Fernando Q. ; Verri, Waldiceu A. . Endothelin-1 induces neutrophil recruitment in adaptive inflammation via TNF and CXCL1/CXCR2 in mice. Canadian Journal of Physiology and Pharmacology (Print), v. 90, p. 187-199, 2012.
+Citações:14|16
+
+128.
+Cunha, Thiago M.; Donate, Paula B. ; Verri, Waldiceu A. ; Junta, Cristina M. ; Lima, Flavia O. ; Vieira, Silvio M. ; Peres, Rafael S. ; Bombonato-Prado, Karina F. ; Louzada, Paulo ; Ferreira, Sergio H. ; Donadi, Eduardo A. ; Passos, Geraldo A. S. ; Cunha, Fernando Q. . Bosentan, an endothelin receptor antagonist, ameliorates collagen-induced arthritis: the role of TNF- in the induction of endothelin system genes. Inflammation Research (Printed ed.), v. 61, p. 337-348, 2012.
+Citações:12|12
+
+129.
+Cunha, Thiago M; Souza, Guilherme R ; Domingues, Andressa C ; Lotufo, Celina M ; Funez, Mani I ; Verri Jr, Waldiceu A ; Cunha, Fernando Q ; Carreira, Eleonora U ; Ferreira, Sergio H . Stimulation of peripheral Kappa opioid receptors inhibits inflammatory hyperalgesia via activation of the PI3Kgamma/AKT/nNOS/NO signaling pathway. Molecular Pain, v. 8, p. 10, 2012.
+Citações:19|32
+
+130.
+Pavao-de-Souza, Gabriela F. ; Zarpelon, Ana C. ; Tedeschi, Giovana C. ; Mizokami, Sandra S. ; Sanson, Joice S. ; Cunha, Thiago M. ; Ferreira, Sérgio H. ; Cunha, Fernando Q. ; Casagrande, Rubia ; Verri, Waldiceu A. . Acetic acid- and phenyl-p-benzoquinone-induced overt pain-like behavior depends on spinal activation of MAP kinases, PI3K and microglia in mice. Pharmacology, Biochemistry and Behavior, v. 101, p. 320-328, 2012.
+Citações:28|33
+
+131.
+CUNHA, T. M.; VIEIRA, S. M. ; Franca, R. F. O. ; Pinto, L. G. ; Talbot, J. ; Turato, W. M. ; LEMOS, H. P. ; LIMA, J. B. ; Verri, W. A. ; Almeida, S. C. L. ; Ferreira, S. H. ; Louzada-Junior, P. ; Zamboni, D. S. ; CUNHA, F. Q. . Joint NOD2/RIPK2 Signaling Regulates IL-17 Axis and Contributes to the Development of Experimental Arthritis. The Journal of Immunology (1950), v. 188, p. 5116-5122, 2012.
+Citações:11|12
+
+132.
+Mizokami, Sandra S. ; Arakawa, Nilton S. ; Ambrosio, Sergio R. ; Zarpelon, Ana C. ; Casagrande, Rubia ; Cunha, Thiago M. ; Ferreira, Sergio H. ; Cunha, Fernando Q. ; Verri, Waldiceu A. . Kaurenoic Acid from Sphagneticola trilobata Inhibits Inflammatory Pain: Effect on Cytokine Production and Activation of the NO Cyclic GMP Protein Kinase G ATP-Sensitive Potassium Channel Signaling Pathway. Journal of Natural Products (Print), v. 75, p. 896-904, 2012.
+Citações:30|42
+
+133.
+Trevelin, Silvia C. ; Alves-Filho, José C. ; Sônego, Fabiane ; Turato, Walter ; Nascimento, Daniele C. ; Souto, Fabricio O. ; Cunha, Thiago M. ; Gazzinelli, Ricardo T. ; Cunha, Fernando Q. . Toll-like receptor 9 activation in neutrophils impairs chemotaxis and reduces sepsis outcome. Critical Care Medicine, v. 40, p. 2631-2637, 2012.
+Citações:16|16
+
+134.
+Franchin, Marcelo ; da Cunha, Marcos Guilherme ; Denny, Carina ; Napimoga, Marcelo Henrique ; Cunha, Thiago Mattar ; Koo, Hyun ; de Alencar, Severino Matias ; Ikegaki, Masaharu ; Rosalen, Pedro Luiz . Geopropolis from Melipona scutellaris decreases the mechanical inflammatory hypernociception by inhibiting the production of IL-1? and TNF-?. Journal of Ethnopharmacology, v. 143, p. 709-715, 2012.
+Citações:19|15
+
+135.
+Junqueira, Caroline ; Guerrero, Ana Tereza ; Galvão-Filho, Bruno ; Andrade, Warrison A. ; Salgado, Ana Paula C. ; Cunha, Thiago M. ; Ropert, Catherine ; Campos, Marco Antônio ; Penido, Marcus L. O. ; Mendonça-Previato, Lúcia ; Previato, José Oswaldo ; Ritter, Gerd ; Cunha, Fernando Q. ; Gazzinelli, Ricardo T. . Trypanosoma cruzi Adjuvants Potentiate T Cell-Mediated Immunity Induced by a NY-ESO-1 Based Antitumor Vaccine. Plos One, v. 7, p. e36245, 2012.
+Citações:8|9
+
+136.
+Carvalho, Thacyana T. ; Flauzino, Tamires ; Otaguiri, Eliane S. ; Batistela, Ana P. ; Zarpelon, Ana C. ; Cunha, Thiago M. ; Ferreira, Sérgio H. ; Cunha, Fernando Q. ; Verri Jr., Waldiceu A. . Granulocyte-Colony Stimulating Factor (G-CSF) induces mechanical hyperalgesia via spinal activation of MAP kinases and PI3K in mice. Pharmacology, Biochemistry and Behavior, v. 98, p. 188-195, 2011.
+Citações:17|20
+
+137.
+Souto, Fabricio O. ; Zarpelon, Ana C. ; Staurengo-Ferrari, Larissa ; Fattori, Victor ; Casagrande, Rubia ; Fonseca, Maria J. V. ; Cunha, Thiago M. ; Ferreira, Sergio H. ; Cunha, Fernando Q. ; Verri, Waldiceu A. . Quercetin Reduces Neutrophil Recruitment Induced by CXCL8, LTB 4 , and fMLP: Inhibition of Actin Polymerization. Journal of Natural Products (Print), v. 74, p. 113-118, 2011.
+Citações:18|15
+
+138.
+Donate, Paula B. ; Fornari, Thaís A. ; Junta, Cristina M. ; Magalhães, Danielle A. ; Macedo, Cláudia ; Cunha, Thiago M. ; Nguyen, Catherine ; Cunha, Fernando Q. ; Passos, Geraldo A. . Collagen induced arthritis (CIA) in mice features regulatory transcriptional network connecting major histocompatibility complex (MHC H2) with autoantigen genes in the thymus. Immunobiology (Jena. 1979), v. 216, p. 591-603, 2011.
+Citações:6|6
+
+139.
+Pavanelli, Wander Rogério ; Silva, Jean Jerley Nogueira ; Panis, Carolina ; Cunha, Thiago Mattar ; Costa, Ivete Conchon ; Menezes, Maria Claudia Noronha Dutra ; Abreu Oliveira, Francisco José ; França Lopes, Luiz Gonzaga ; Cecchini, Rubens ; Queiroz Cunha, Fernando ; Watanabe, Maria Angélica Ehara ; Itano, Eiko Nakagawa . Experimental Chemotherapy in Paracoccidioidomycosis Using Ruthenium NO Donor. Mycopathologia (1975. Print), v. 172, p. 95-107, 2011.
+Citações:7|12
+
+140.
+Amaral, Flávio A. ; Costa, Vivian V. ; Tavares, Livia D. ; Sachs, Daniela ; Coelho, Fernanda M. ; Fagundes, Caio T. ; Soriani, Frederico M. ; Silveira, Tatiana N. ; Cunha, Larissa D. ; Zamboni, Dario S. ; Quesniaux, Valerie ; Peres, Raphael S. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; Ryffel, Bernhard ; Souza, Danielle G. ; Teixeira, Mauro M. . NLRP3 inflammasome-mediated neutrophil recruitment and hypernociception depends on leukotriene B4 in a murine model of gout. Arthritis and Rheumatism, v. 64, p. 474-484, 2011.
+Citações:52|69
+
+141.
+Carregaro, V. ; SA-NUNES, A. ; CUNHA, T. M. ; Grespan, R. ; Oliveira, C. J. F. ; Lima-Junior, D. S. ; COSTA, D. L. ; Verri, W. A. ; Milanezi, C. M. ; PHAM, V. M. ; Brand, D. D. ; Valenzuela, J. G. ; SILVA, J. S. ; Ribeiro, J. M. C. ; CUNHA, F. Q. . Nucleosides from Phlebotomus papatasi Salivary Gland Ameliorate Murine Collagen-Induced Arthritis by Impairing Dendritic Cell Functions. The Journal of Immunology (1950), v. 187, p. 4347-4359, 2011.
+Citações:16|15
+
+142.
+Cunha, Thiago M.; Guerrero, Ana T.G. ; Verri, Waldiceu A. ; Gazzinelli, Ricardo T. ; Teixeira, Mauro Martins ; Cunha, Fernando Q. ; Ferreira, Sérgio H. . Toll-like receptor 2/MyD88 signaling mediates zymosan-induced joint hypernociception in mice: Participation of TNF- , IL-1ß and CXCL1/KC. European Journal of Pharmacology, v. 674, p. 51-57, 2011.
+Citações:30|25
+
+143.
+HipÃ³lito, Ulisses V. ; Rocha, Juliana T. ; Martins-Oliveira, Alisson ; Tirapelli, Daniela P.C. ; Jacob-Ferreira, Ana ; BatalhÃ£o, Marcelo E. ; Tanus-Santos, JosÃ© E. ; Carnio, Evelin C. ; Cunha, Thiago M. ; Queiroz, Regina H. ; Tirapelli, Carlos R. . Chronic ethanol consumption reduces adrenomedullin-induced relaxation in the isolated rat aorta. Alcohol (Fayetteville, N.Y.), v. 45, p. 805-814, 2011.
+Citações:5|5
+
+144.
+Rocha, J. T. ; Hipolito, U. V. ; Martins-Oliveira, A. ; Tirapelli, D. P. C. ; Batalhao, M. E. ; CARNIO, E. C. ; Queiroz, R. H. ; COELHO, E. B. ; CUNHA, T. M. ; TANUS-SANTOS, J. E. ; TIRAPELLI, C. R. . Ethanol Consumption Alters the Expression and Reactivity of Adrenomedullin in the Rat Mesenteric Arterial Bed. Alcohol and Alcoholism (Oxford), v. x, p. 1-2, 2011.
+Citações:6|6
+
+145.
+Pinto, Larissa G. ; CUNHA, T. M. ; Vieira, Silvio M. ; Lemos, Henrique P. ; Verri Jr, Waldiceu A. ; Cunha, Fernando Q. ; Ferreira, Sergio H. . IL-17 mediates articular hypernociception in antigen-induced arthritis in mice. Pain (Amsterdam. Print), v. 148, p. 247-256, 2010.
+Citações:63|61
+
+146.
+ CUNHA, T. M.; Roman-Campos, D. ; Lotufo, C. M. ; Duarte, H. L. ; SOUZA, G. R. ; Verri, W. A. ; Funez, M. I. ; Dias, Q. M. ; Schivo, I. R. ; Domingues, A. C. ; Sachs, D. ; Chiavegatto, S. ; TEIXEIRA, M. M. ; Hothersall, J. S. ; Cruz, J. S. ; CUNHA, F. Q. ; Ferreira, S. H. . Morphine peripheral analgesia depends on activation of the PI3K /AKT/nNOS/NO/KATP signaling pathway. Proceedings of the National Academy of Sciences of the United States of America, v. 107, p. 4442-4447, 2010.
+Citações:92|96
+
+147.
+Verri, W. A. ; Souto, F. O. ; VIEIRA, S. M. ; Almeida, S. C. L. ; Fukada, S. Y. ; Xu, D. ; Alves-Filho, J. C. ; CUNHA, T. M. ; Guerrero, A. T. G. ; Mattos-Guimaraes, R. B. ; Oliveira, F. R. ; TEIXEIRA, M. M. ; SILVA, J. S. ; MCINNES, I. B. ; Ferreira, S. H. ; Louzada-Junior, P. ; LIEW, F. Y. ; CUNHA, F. Q. . IL-33 induces neutrophil migration in rheumatoid arthritis and is a target of anti-TNF therapy. Annals of the Rheumatic Diseases, v. 69, p. 1697-1703, 2010.
+Citações:114|131
+
+148.
+Figueiredo, Jozi G. ; Bitencourt, Flavio S. ; Cunha, Thiago M. ; Luz, Patrícia B. ; Nascimento, Kyria S. ; Mota, Mario R.L. ; Sampaio, Alexandre H. ; Cavada, Benildo S. ; Cunha, Fernando Q. ; Alencar, Nylane M.N. . Agglutinin isolated from the red marine alga Hypnea cervicornis J. Agardh reduces inflammatory hypernociception: Involvement of nitric oxide. Pharmacology, Biochemistry and Behavior, v. 96, p. 371-377, 2010.
+Citações:11|11
+
+149.
+Cunha, Thiago M; Talbot, Jhimmy ; Pinto, Larissa G ; Vieira, Silvio M ; Souza, Guilherme R ; Guerrero, Ana T ; Sonego, Fabiane ; Verri, Waldiceu A ; Zamboni, Dario S ; Ferreira, Sergio H ; Cunha, Fernando Q . Caspase-1 is involved in the genesis of inflammatory hypernociception by contributing to peripheral IL-1? maturation. Molecular Pain, v. 6, p. 63, 2010.
+Citações:22|16
+
+150.
+Lima, Flávia Oliveira ; Souza, Guilherme R. ; Verri Jr., Waldiceu A. ; Parada, Carlos A. ; Ferreira, Sergio H. ; Cunha, Fernando Q. ; Cunha, Thiago M. . Direct blockade of inflammatory hypernociception by peripheral A1 adenosine receptors: Involvement of the NO/cGMP/PKG/KATP signaling pathway. Pain (Amsterdam. Print), v. 151, p. 506-515, 2010.
+Citações:36|41
+
+151.
+Verri Jr, Waldiceu A. ; CUNHA, T. M. ; Magro, Danilo A. ; Guerrero, Ana T. G. ; Vieira, Silvio M. ; Carregaro, Vanessa ; Souza, Guilherme R. ; Henriques, Maria das Graças M. O. ; Ferreira, Sérgio H. ; Cunha, Fernando Q. . Targeting endothelin ETA and ETB receptors inhibits antigen-induced neutrophil migration and mechanical hypernociception in mice. Naunyn-Schmiedeberg's Archives of Pharmacology, v. 379, p. 271-279, 2009.
+Citações:28|33
+
+152.
+CUNHA, T. M.; Dias, Q. M. . Glial Modulation of Pain: A Step Beyond. The Journal of Neuroscience, v. 29, p. 3340-3342, 2009.
+Citações:3|3
+
+153.
+LEMOS, H. P. ; Grespan, R. ; VIEIRA, S. M. ; CUNHA, T. M. ; Verri, W. A. ; Fernandes, K. S. S. ; Souto, F. O. ; MCINNES, I. B. ; Ferreira, S. H. ; LIEW, F. Y. ; CUNHA, F. Q. . Prostaglandin mediates IL-23/IL-17-induced neutrophil migration in inflammation by inhibiting IL-12 and IFN  production. Proceedings of the National Academy of Sciences of the United States of America, v. 106, p. 5954-5959, 2009.
+Citações:69|65
+
+154.
+Valério, DA ; Ferreira, FI ; CUNHA, T. M. ; Alves-Filho, JC ; Lima, FO ; De Oliveira, JR ; Ferreira, SH ; Cunha, FQ ; Queiroz, RH ; Verri Jr, WA . Fructose-1,6-bisphosphate reduces inflammatory pain-like behaviour in mice: role of adenosine acting on A1 receptors. British Journal of Pharmacology, v. 158, p. 558-568, 2009.
+Citações:16|14
+
+155.
+Vieira, SM ; Lemos, HP ; Grespan, R ; Napimoga, MH ; Dal-Secco, D ; Freitas, A ; CUNHA, T. M. ; Verri Jr, WA ; Souza-Junior, DA ; Jamur, MC ; Fernandes, KS ; Oliver, C ; Silva, JS ; Teixeira, MM ; Cunha, FQ . A crucial role for TNF-? in mediating neutrophil influx induced by endogenously generated or exogenous chemokines, KC/CXCL1 and LIX/CXCL5. British Journal of Pharmacology, v. 158, p. 779-789, 2009.
+Citações:61|63
+
+156.
+Vale?rio, Daniel A. ; Georgetti, Sandra R. ; Magro, Danilo A. ; Casagrande, Rubia ; CUNHA, T. M. ; Vicentini, Fabiana T. M. C. ; Vieira, Silvio M. ; Fonseca, Maria J. V. ; Ferreira, Sergio H. ; Cunha, Fernando Q. ; Verri, Waldiceu A. . Quercetin Reduces Inflammatory Pain: Inhibition of Oxidative Stress and Cytokine Production. Journal of Natural Products (Print), v. 72, p. 1975-1979, 2009.
+Citações:59|63
+
+157.
+CUNHA, T. M.; BARSANTE, M. M. ; ALLEGRETTI, M. ; CATTANI, F. ; TAFURI, W. L. ; POOLE, S. ; CUNHA, F. Q. ; BERTINI, R. ; TEIXEIRA, M. M. . Blockade of the chemokine receptor CXCR2 ameliorates adjuvant-induced arthritis in rats.. British Journal of Pharmacology, v. 153, p. 992-1002, 2008.
+Citações:38|38
+
+158.
+CUNHA, T. M.; GUERRERO, A. T. ; VERRI JUNIOR, W. A. ; SILVA, T. A. ; SCHIVO, I. R. S. ; Dal-Secco, D ; CANETTI, C. ; ROCHA, F. A. ; PARADA, C. A. ; CUNHA, F. Q. ; Ferreira, SH . Involvement of LTB4 in zymosan-induced joint nociception in mice: participation of neutrophils and PGE2.. Journal of Leukocyte Biology, v. 83, p. 122-130, 2008.
+Citações:61|63
+
+159.
+CUNHA, T. M.; NAPIMOGA, M. H. ; SOUZA, G. R. ; FERRARI, L. F. ; CLEMENTE-NAPIMOGA, J. T. ; PARADA, C. A. ; VERRI JUNIOR, W. A. ; Ferreira, SH ; CUNHA, F. Q. . 15d-Prostaglandin J2 inhibits inflammatory hypernociception: involvement of peripheral opioid receptor.. The Journal of Pharmacology and Experimental Therapeutics (Print), v. 324, p. 313-321, 2008.
+Citações:31|35
+
+160.
+ CUNHA, T. M.; VERRI JUNIOR, W. A. ; SCHIVO, I. R. S. ; NAPIMOGA, M. H. ; PARADA, C. A. ; POOLE, S. ; TEIXEIRA, M. M. ; Ferreira, SH ; CUNHA, F. Q. . Crucial role of neutrophils in the development of mechanical inflammatory hypernociception.. Journal of Leukocyte Biology, v. 83, p. 824-832, 2008.
+Citações:139|148
+
+161.
+CUNHA, T. M.; TING, E. ; GUERRERO, A. T. ; VERRI JUNIOR, W. A. ; TAYLOR, S. M. ; WOODRUFF, T. M. ; CUNHA, F. Q. ; Ferreira, SH . Role of complement C5a in mechanical inflammatory hypernociception: potential use of C5a receptor antagonists to control inflammatory pain.. British Journal of Pharmacology, v. 153, p. 1043-1053, 2008.
+Citações:38|47
+
+162.
+Amaral, F ; SACHS,D ; COSTA, V. ; Fagundes,C ; Cisalpino, d ; CUNHA, T. M. ; Ferreira, SH ; CUNHA, F. Q. ; SILVA, T. A. ; Nicoli, j ; QUERCIA, L ; Souza, DG ; TEIXEIRA, M. M. . The commensal microbiota is fundamental for the development of inflammatory pain.. Proceedings of the National Academy of Sciences of the United States of America, v. 105, p. 2193-2197, 2008.
+Citações:76|86
+
+163.
+VERRI JUNIOR, W. A. ; GUERRERO, A. T. ; Fukada, SY ; VALERIO, D.A.R ; CUNHA, T. M. ; Xu, D ; Ferreira, SH ; LIEW, F. Y. ; CUNHA, F. Q. . IL-33 mediates antigen-induced cutaneous and articular hypernociception in mice. PNAS. Proceedings of the National Academy of Sciences of the United States of America, v. 105, p. 2723-2728, 2008.
+Citações:102|108
+
+164.
+CUNHA, T. M.; BARSANTE, M. M. ; GUERRERO, A. T. ; VERRI JUNIOR, W. A. ; Ferreira, SH ; Coelho FM ; BERTINI, R. ; GIACINTO, C. ; ALLEGRETTI, M. ; CUNHA, F. Q. ; TEIXEIRA, M. M. . Treatment with DF 2162, a non-competitive allosteric inhibitor of CXCR1/2, diminishes neutrophil influx and inflammatory hypernociception in mice.. British Journal of Pharmacology, v. 154, p. 460-470, 2008.
+Citações:49|50
+
+165.
+CUNHA, T. M.; VERRIJR, W ; VALERIO, D ; GUERRERO, A ; NOGUEIRA, L ; VIEIRA, S ; SOUZA, D ; TEIXEIRA, M ; Poole, S ; FERREIRA, S . Role of cytokines in mediating mechanical hypernociception in a model of delayed-type hypersensitivity in mice. European Journal of Pain (London, England), v. 12, p. 1059-1068, 2008.
+Citações:40|48
+
+166.
+Carregaro, V ; Valenzuela, JG ; CUNHA, T. M. ; VERRI JUNIOR, W. A. ; Grespan R ; Matsumura, G ; Ribeiro, JM ; Elnaiem, DE ; SILVA, J. S. ; CUNHA, F. Q. . Phlebotomine salivas inhibit immune inflammation-induced neutrophil migration via an autocrine DC-derived PGE2/IL-10 sequential pathway.. Journal of Leukocyte Biology, v. 83, p. 104-114, 2008.
+Citações:21|18
+
+167.
+ROCHA, F. A. ; Leite, AK ; Pompeu MM ; CUNHA, T. M. ; VERRI JUNIOR, W. A. ; Soares, FM ; Castro, RR ; CUNHA, F. Q. . Protective Effect of an Extract from Ascaris suum in Experimental Arthritis Models. Infection and Immunity (Print), v. 76, p. 2736-2745, 2008.
+Citações:33|32
+
+168.
+VERRIJR, W ; CUNHA, T. M. ; MAGRO, D ; DOMINGUES, A ; VIEIRA, S ; SOUZA, G ; LIEW, F ; FERREIRA, S ; CUNHA, F . Role of IL-18 in overt pain-like behaviour in mice. European Journal of Pharmacology, v. 588, p. 207-212, 2008.
+Citações:21|22
+
+169.
+CUNHA, T. M.; DALSECCO, D ; VERRIJR, W ; GUERRERO, A ; SOUZA, G ; VIEIRA, S ; LOTUFO, C ; NETO, A ; FERREIRA, S ; CUNHA, F . Dual role of hydrogen sulfide in mechanical inflammatory hypernociception. European Journal of Pharmacology, v. 590, p. 127-135, 2008.
+Citações:45|52
+
+170.
+DALSECCO, D ; CUNHA, T. M. ; Freitas,A ; ALVES FILHO, J. C. F. ; Souto, FO ; Fukada, SY ; Grespan R ; Alencar, NM ; NETO, A ; Rossi, MA ; Ferreira, SH ; Hothersall, JS ; CUNHA, F. Q. . Hydrogen sulfide augments neutrophil migration through enhancement of adhesion molecule expression and prevention of CXCR2 internalization: role of ATP-sensitive potassium channels.. The Journal of Immunology (1950), v. 181, p. 4287-4298, 2008.
+Citações:52|59
+
+171.
+VERRI JUNIOR, W. A. ; CUNHA, T. M. ; PARADA, C. A. ; POOLE, S. ; LIEW, F. Y. ; Ferreira, SH ; CUNHA, F. Q. . Antigen-induced inflammatory mechanical hypernociception in mice is mediated by IL-18.. Brain Behavior and Immunity, v. 21, p. 535-543, 2007.
+Citações:38|46
+
+172.
+CUNHA, T. M.; VALERIO, D.A.R ; ARAKAWA, N. S. ; LEMOS, H. P. ; COSTA, F. B. ; PARADA, C. A. ; Ferreira, SH ; CUNHA, F. Q. ; VERRI JUNIOR, W. A. . Anti-inflammatory and analgesic effects of the sesquiterpene lactone budlein A in mice: inhibition of cytokine production-dependent mechanism.. European Journal of Pharmacology, v. 562, p. 155-163, 2007.
+Citações:71|76
+
+173.
+CUNHA, T. M.; VERRIJR, W . Hydrogen sulfide, is it a promise analgesic drug or another inflammatory pain mediator?. Pain (Amsterdam), v. 130, p. 300-302, 2007.
+Citações:3|4
+
+174.
+CUNHA, T. M.; VERRI JUNIOR, W. A. ; Fukada, SY ; GUERRERO, A. T. ; SANTODOMINGO-GARZON, T. ; POOLE, S. ; PARADA, C. A. ; Ferreira, SH ; CUNHA, F. Q. . TNF-alpha and IL-1beta mediate inflammatory hypernociception in mice triggered by B(1) but not B(2) kinin receptor.. European Journal of Pharmacology, v. 573, p. 221-229, 2007.
+Citações:44|54
+
+175.
+VERRI JUNIOR, W. A. ; CUNHA, T. M. ; Ferreira, SH ; WEI, X. ; LEUNG, B. P. ; FRASER, A. ; MCINNES, I. B. ; LIEW, F. Y. ; CUNHA, F. Q. . IL-15 mediates antigen-induced neutrophil migration by triggering IL-18 production.. European Journal of Immunology, v. 37, p. 3373-3380, 2007.
+Citações:48|51
+
+176.
+CUNHA, T. M.; VERRI JUNIOR, W. A. ; POOLE, S. ; Ferreira, SH ; CUNHA, F. Q. . Cytokine inhibitors and pain control. Revista Brasileira de Reumatologia (Impresso), v. 47, p. 341-353, 2007.
+Citações:8
+
+177.
+VERRI JUNIOR, W. A. ; CUNHA, T. M. ; PARADA, C. A. ; POOLE, S. ; CUNHA, F. Q. ; Ferreira, SH . Hypernociceptive role of cytokines and chemokines: Targets for analgesic drug development?. Pharmacology & Therapeutics (Oxford), v. 112, p. 116-138, 2006.
+Citações:276|295
+
+178.
+VERRI JUNIOR, W. A. ; CUNHA, T. M. ; PARADA, C. A. ; WEI, X. ; Ferreira, SH ; LIEW, F. Y. ; CUNHA, F. Q. . IL-15 mediates immune inflammatory hypernociception by triggering a sequential release of IFN-gamma, endothelin, and prostaglandin.. Proceedings of the National Academy of Sciences of the United States of America, v. 103, p. 9721-9725, 2006.
+Citações:37|44
+
+179.
+CUNHA, T. M.; GUERRERO, A. T. ; VERRI JUNIOR, W. A. ; SILVA, T. A. ; ROCHA, F. A. ; Ferreira, SH ; CUNHA, F. Q. ; PARADA, C. A. . Hypernociception elicited by tibio-tarsal joint flexion in mice: a novel experimental arthritis model for pharmacological screening.. Pharmacology, Biochemistry and Behavior, v. 84, p. 244-251, 2006.
+Citações:36|33
+
+180.
+CUNHA, T. M.; VERRI JUNIOR, W. A. . A novel mechanism of TNF-alpha in inflammatory hyperalgesia: Nociceptor priming via p38 modulation of TTX-R Na channel.. Pharmacologyonline (Salerno), v. 1, p. 1-4, 2006.
+Citações:1
+
+181.
+Santodomingo-Garzón, T ; CUNHA, T. M. ; Verri, W A ; Valério, D A R ; Parada, C A ; Poole, S ; Ferreira, S H ; Cunha, F Q . Atorvastatin inhibits inflammatory hypernociception. British Journal of Pharmacology, v. 149, p. 14-22, 2006.
+Citações:43|41
+
+182.
+CUNHA, T. M.; VERRI JUNIOR, W. A. . Neutrophils: are they hyperalgesic or anti-hyperalgesic?. Journal of Leukocyte Biology, v. 80, p. 727-728, 2006.
+Citações:10|13
+
+183.
+ CUNHA, T. M.; VERRI JUNIOR, W. A. ; SILVA, J. S. ; POOLE, S. ; CUNHA, F. Q. ; Ferreira, SH . A cascade of cytokines mediates mechanical inflammatory hypernociception in mice. PNAS. Proceedings of the National Academy of Sciences of the United States of America, United States, v. 102, n.5, p. 1755-1760, 2005.
+Citações:304|354
+
+184.
+VERRI JUNIOR, W. A. ; MOLINA, R. O. ; SCHIVO, I. R.S ; CUNHA, T. M. ; PARADA, C. A. ; POOLE, S. ; LIEW, F. Y. ; Ferreira, SH ; CUNHA, F. Q. . Nociceptive Effect of Subcutaneously Injected Interleukin-12 is Mediated by Endothelin Acting on ETB Receptors in Rats.. Journal of Pharmacology and Experimental Therapeutics, Bethesda, USA, v. 315, n.2, p. 609-615, 2005.
+Citações:37|38
+
+185.
+CUNHA, T. M.; VIVANCOS, G. G. ; VERRI JUNIOR, W. A. ; SCHIVO, I. R.S ; PARADA, C. A. ; CUNHA, F. Q. ; Ferreira, SH . An electronic pressure-meter nociception paw test for rats.. Brazilian Journal of Medical and Biological Research (Impresso), Ribeirao Preto, v. 37, n.3, p. 391-399, 2004.
+Citações:83|92|103
+
+186.
+CUNHA, T. M.; VERRI JUNIOR, W. A. ; VIVANCOS, G. G. ; MOREIRA, I. F. ; REIS, S. ; PARADA, C. A. ; CUNHA, F. Q. ; Ferreira, SH . An electronic pressure-meter nociception paw test for mice.. Brazilian Journal of Medical and Biological Research (Impresso), Ribeirao Preto, v. 37, n.3, p. 401-407, 2004.
+Citações:148|92|166
+
+187.
+Verri, W. A. ; SCHIVO, I. R. S. ; CUNHA, T. M. ; LIEW, F. Y. ; Ferreira, SH ; CUNHA, F. Q. . Interleukin-18 Induces Mechanical Hypernociception in Rats via Endothelin Acting on ETB Receptors in a Morphine-Sensitive Manner. Journal of Pharmacology and Experimental Therapeutics, United States, v. 310, n.2, p. 710-717, 2004.
+Citações:38|42

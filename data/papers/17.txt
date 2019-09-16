@@ -1,0 +1,165 @@
+1.
+HAMASAKI, MIKE YOSHIO ; SEVERINO, PATRICIA ; PUGA, RENATO DAVID ; KOIKE, MARCIA KIYOMI ; HERNANDES, CAMILA ; BARBEIRO, HERMES VIEIRA ; BARBEIRO, DENISE FREDIANI ; MACHADO, MARCEL CERQUEIRA CÉSAR ; REIS, EDUARDO MORAES ; PINHEIRO DA SILVA, FABIANO . Short-Term Effects of Sepsis and the Impact of Aging on the Transcriptional Profile of Different Brain Regions. INFLAMMATION, v. 1, p. 1, 2019.
+Citações:1
+
+2.
+DASILVA, LUCAS F. ; BECKEDORFF, FELIPE C. ; AYUPE, ANA C. ; AMARAL, MURILO S. ; MESEL, VINÍCIUS ; VIDEIRA, ALEXANDRE ; Reis, Eduardo M. ; SETUBAL, JOÃO C. ; VERJOVSKI-ALMEIDA, Sergio . Chromatin Landscape Distinguishes the Genomic Loci of Hundreds of Androgen-Receptor-Associated LincRNAs From the Loci of Non-associated LincRNAs. Frontiers in Genetics, v. 9, p. 1-21, 2018.
+
+3.
+PELLEGRINA, DIOGO ; SEVERINO, PATRICIA ; BARBEIRO, HERMES ; DE SOUZA, HERALDO ; MACHADO, MARCEL ; PINHEIRO-DA-SILVA, FABIANO ; REIS, EDUARDO . Insights into the Function of Long Noncoding RNAs in Sepsis Revealed by Gene Co-Expression Network Analysis. Non-Coding RNA, v. 3, p. 5, 2017.
+
+4.
+CANEVARI, Renata A. ; MARCHI, FABIO A. ; DOMINGUES, MARIA A. C. ; DE ANDRADE, VICTOR PIANA ; CALDEIRA, JOSÉ R. F. ; VERJOVSKI-ALMEIDA, Sergio ; ROGATTO, Silvia R. ; Reis, Eduardo M. . Identification of novel biomarkers associated with poor patient outcomes in invasive breast carcinoma. Tumor Biology, v. 1, p. 1-16, 2016.
+Citações:1
+
+5.
+CERQUEIRA, O. L. D. ; TRUESDELL, P. ; BALDASSARRE, T. ; VILELLA-ARIAS, SANTIAGO A ; WATT, K. ; MEENS, J. ; CHANDER, H. ; OSORIO, C. A. ; SOARES, F. A. ; REIS, EM ; CRAIG, A. W. . CIP4 promotes metastasis in triple-negative breast cancer and is associated with poor patient prognosis. OncoTarget, v. 6, p. 9397-9408, 2015.
+Citações:5|12
+
+6.
+VIEIRA DA SILVA PELLEGRINA, DIOGO ; SEVERINO, PATRICIA ; VIEIRA BARBEIRO, HERMES ; MAZIERO ANDREGHETTO, FLÁVIA ; TADEU VELASCO, IRINEU ; POSSOLO DE SOUZA, HERALDO ; MACHADO, MARCEL CERQUEIRA CÉSAR ; REIS, EDUARDO MORAES ; PINHEIRO DA SILVA, FABIANO . Septic Shock in Advanced Age: Transcriptome Analysis Reveals Altered Molecular Signatures in Neutrophil Granulocytes. Plos One, v. 10, p. e0128341, 2015.
+Citações:4|7
+
+7.
+AYUPE, ANA C ; Tahira, Ana C ; CAMARGO, Lauren ; BECKEDORFF, FELIPE C ; VERJOVSKI-ALMEIDA, Sergio ; Reis, Eduardo M . Global analysis of biogenesis, stability and sub-cellular localization of lncRNAs mapping to intragenic regions of the human genome. RNA Biology, v. 12, p. 877-892, 2015.
+Citações:3|8
+
+8.
+DA SILVA PELLEGRINA, DIOGO VIEIRA ; SEVERINO, PATRICIA ; MACHADO, MARCEL CERQUEIRA ; DA SILVA, FABIANO PINHEIRO ; REIS, EDUARDO MORAES . Microarray gene expression analysis of neutrophils from elderly septic patients. Genomics Data, v. 6, p. 51-53, 2015.
+Citações:1|1
+
+9.
+DEOCESANO-PEREIRA, C. ; AMARAL, M. S. ; PARREIRA, K. S. ; AYUPE, A. C. ; JACYSYN, J. F. ; AMARANTE-MENDES, G. P. ; REIS, E. M. ; VERJOVSKI-ALMEIDA, S. . Long non-coding RNA INXS is a critical mediator of BCL-XS induced apoptosis. Nucleic Acids Research, v. 1, p. 1-1, 2014.
+Citações:25|25
+
+10.
+BECKEDORFF, F. C. F. ; OLIVEIRA, Ana Carolina Ayupe de ; CROCCI-SOUZA, R. ; AMARAL, M. S. ; Nakaya, Helder I ; SOLTYS, D. T. ; MENCK, Carlos F M ; Reis, Eduardo M ; VERJOVSKI-ALMEIDA, Sergio . The intronic long noncoding RNA ANRASSF1 recruits PRC2 to the RASSF1A promoter, decreasing RASSF1A isoform expression and Increasing cell proliferation. PLOS Genetics, v. 9, p. e1003705, 2013.
+Citações:53|58
+
+11.
+FACHEL, Angela A ; Tahira, Ana C ; VILELLA-ARIAS, SANTIAGO A ; Maracaja-Coutinho, Vinicius ; GIMBA, ETEL RP ; Vignal, Giselle M ; CAMPOS, FRANZ S ; Reis, Eduardo M ; VERJOVSKI-ALMEIDA, Sergio . Expression analysis and in silico characterization of intronic long noncoding RNAs in renal cell carcinoma: emerging functional associations. Molecular Cancer, v. 12, p. 140, 2013.
+Citações:24|21
+
+12.
+GRAS, DIANA E. ; PERSINOTI, GABRIELA F. ; PERES, NALU T.A. ; MARTINEZ-ROSSI, NILCE M. ; TAHIRA, ANA C. ; Reis, Eduardo M. ; PRADE, ROLF A. ; ROSSI, ANTONIO . Transcriptional profiling of Neurospora crassa -mak-2 reveals that mitogen-activated protein kinase MAK-2 participates in the phosphate signaling pathway. Fungal Genetics and Biology (Print), v. 60, p. 140-149, 2013.
+Citações:9|9
+
+13.
+VILELLA-ARIAS, SANTIAGO A. ; ROCHA, RAFAEL MALAGOLI ; DA COSTA, WALTER HENRIQUES ; ZEQUI, STÊNIO DE CÁSSIO ; GUIMARÃES, GUSTAVO CARDOSO ; VERJOVSKI-ALMEIDA, Sergio ; SOARES, FERNANDO A. ; Reis, Eduardo M. . Loss of Caspase 7 Expression Is Associated With Poor Prognosis in Renal Cell Carcinoma Clear Cell Subtype. Urology (Ridgewood, N.J.), v. 82, p. 974.e1-974.e7, 2013.
+Citações:1|3
+
+14.
+Reis, Eduardo M. ; VERJOVSKI-ALMEIDA, Sergio . Perspectives of Long Non-Coding RNAs in Cancer Diagnostics. Frontiers in Genetics, v. 3, p. 1-8, 2012.
+Citações:48
+
+15.
+ Tahira, Ana C ; Kubrusly, Marcia S ; Faria, Michele F ; Dazzani, Bianca ; Fonseca, Rogerio S ; Maracaja-Coutinho, Vinicius ; VERJOVSKI-ALMEIDA, Sergio ; Machado, Marcel CC ; Reis, Eduardo M . Long noncoding intronic RNAs are differentially expressed in primary and metastatic pancreatic cancer. Molecular Cancer, v. 10, p. 141, 2011.
+Citações:71|78
+
+16.
+Chudzinski-Tavassi, Ana Marisa ; De-Sá-Júnior, Paulo Luis ; Simons, Simone Michaela ; Maria, Durvanei Augusto ; de Souza Ventura, Janaina ; de Fátima Correia Batista, Isabel ; Faria, Fernanda ; Durães, Esther ; REIS, Eduardo Moraes ; Demasi, Marilene . A new tick Kunitz type inhibitor, Amblyomin-X, induces tumor cell death by modulating genes related to the cell cycle and targeting the ubiquitin-proteasome system. Toxicon (Oxford), p. June 1, 2010.
+Citações:24|31
+
+17.
+Ferrari, Merari F. R. ; Reis, Eduardo M. ; Matsumoto, João P. P. ; Fior-Chadi, Débora R. . Gene Expression Profiling of Cultured Cells From Brainstem of Newborn Spontaneously Hypertensive and Wistar Kyoto Rats. Cellular and Molecular Neurobiology, v. 29, p. 287-308, 2009.
+Citações:4|5
+
+18.
+COLOMBO, J. ; FACHEL, Angela A ; CALMON, M. F. ; CURY, P. M. ; FUKUYAMA, E. E. ; TAJARA, Eloiza H. ; CORDEIRO, J. A. ; VERJOVSKI-ALMEIDA, Sergio ; REIS, EM ; RAHAL, Paula . Gene expression profiling reveals molecular marker candidates of laryngeal squamous cell carcinoma. Oncology Reports, p. 649-663, 2009.
+Citações:35|34
+
+19.
+Ferrari, M F R ; Reis, E M ; Matsumoto, J P P ; Fior-Chadi, D R . Transcriptome analysis of nicotine-exposed cells from the brainstem of neonate spontaneously hypertensive and Wistar Kyoto rats. The Pharmacogenomics Journal, v. 10, p. 134-160, 2009.
+Citações:1|2
+
+20.
+Igreja, C ; CAIADO, F. ; CLODE, N. ; HENRIQUES, A. ; CAMARGO, Lauren ; REIS, EM ; DIAS, S. . Detailed molecular characterization of cord blood derived endothelial progenitors. Experimental Hematology, v. 36, p. 193.e1-193.e15, 2008.
+Citações:21|26
+
+21.
+Brito, Glauber Costa ; Fachel, Ângela A. ; Vettore, Andre Luiz ; Vignal, Giselle M ; Gimba, Etel R.P. ; CAMPOS, Franz S. ; Barcinski, Marcello A. ; VERJOVSKI-ALMEIDA, Sergio ; Reis, Eduardo M. . Identification of protein-coding and intronic noncoding RNAs down-regulated in clear cell renal carcinoma. Molecular Carcinogenesis, p. 1-12, 2008.
+Citações:27|25
+
+22.
+LOURO, R ; ELJUNDI, T ; NAKAYA, H ; REIS, E ; VERJOVSKIALMEIDA, S . Conserved tissue expression signatures of intronic noncoding RNAs transcribed from human and mouse loci. Genomics (San Diego), v. 92, p. 18-25, 2008.
+Citações:35|52
+
+23.
+ LOURO, Rodrigo ; NAKAYA, Helder I. ; AMARAL, Paulo Paiva ; FESTA, Fernanda ; SOGAYAR, Mari Cleide ; SILVA, Aline M. da ; VERJOVSKI-ALMEIDA, Sergio ; REIS, EM . Androgen responsive intronic non-coding RNAs. BMC BIOLOGY, Inglaterra, v. 5, n.4, p. 4, 2007.
+Citações:43|48
+
+24.
+ Nakaya, Helder I ; Amaral, Paulo P ; LOURO, Rodrigo ; Lopes, André ; FACHEL, Angela A ; Moreira, Yuri B ; El-Jundi, Tarik A ; da Silva, Aline M ; Reis, Eduardo M ; VERJOVSKI-ALMEIDA, Sergio . Genome mapping and expression analyses of human intronic noncoding RNAs reveal tissue-specific patterns and enrichment in genes related to regulation of transcription. GenomeBiology.com (London. Print), v. 8, p. R43, 2007.
+Citações:106|138
+
+25.
+FANGANIELLO, R. D. ; SERTIE, A. L. ; REIS, EM ; YEH, E. ; OLIVEIRA, N. ; BUENO, D. F. ; KERKIS, I. ; ALONSO, N. ; CAVALHEIRO, S. ; MATSUSHITA, H. ; VERJOVSKI-ALMEIDA, Sergio ; BUENO, M. R. P. . Apert p.Ser252Trp mutation in FGFR2 alters osteogenic potential and gene expression of cranial periosteal cells. Molecular Medicine (Cambridge), v. 13, p. AOP, 2007.
+Citações:16|69
+
+26.
+NAKAYA, Helder Ikemoto ; BECKEDORFF, F. C. F. ; BALDINI, M. L. ; FACHEL, Angela A ; REIS, EM ; VERJOVSKI-ALMEIDA, Sergio . Splice variants of TLE family genes and up-regulation of a TLE3 isoform in prostate tumors. Biochemical and Biophysical Research Communications, p. 918-923, 2007.
+Citações:7|9
+
+27.
+PEIXOTO, Bernardo Rodrigues ; VÊNCIO, Ricardo Z N ; EGIDIO, Camila Moura ; MOTA-VIEIRA, Luisa ; VERJOVSKI-ALMEIDA, Sergio ; REIS, EM . Evaluation of reference-based two-color methods for measurement of gene expression ratios using spotted cDNA microarrays. BMC Genomics, v. 7, n.1, p. 35, 2006.
+Citações:13|13
+
+28.
+PONTES, Elizangela R ; MATOS, Livia C ; SILVA, Eloisio A da ; XAVIER, Leandro S ; DIAZ, Bruno L ; SMALL, Isabelle A ; REIS, EM ; VERJOVSKI-ALMEIDA, Sergio ; BARCINSKI, Marcello A ; GIMBA, Etel R . Auto-antibodies in prostate cancer: humoral immune response to antigenic determinants coded by the differentially expressed transcripts FLJ23438 and VAMP3. The Prostate, USA, v. 66, n.14, p. 1463-1473, 2006.
+Citações:7|8
+
+29.
+BRENTANI, Ricardo R ; CARRARO, Dirce M. ; VERJOVSKI-ALMEIDA, Sergio ; REIS, EM ; NEVES, Eduardo Jordão ; SOUZA, Sandro de ; CARVALHO, Alex F ; BRENTANI, Helena ; REIS, Luis Fernando L . Gene expression arrays in Cancer Research: Methods and Applications. Critical Reviews in Oncology/Hematology, Holanda, v. 54, n.2, p. 95-105, 2005.
+Citações:53|55
+
+30.
+REIS, EM; LOURO, Rodrigo ; NAKAYA, Helder I. ; VERJOVSKI-ALMEIDA, Sergio . As Antisense RNA gets intronic. Journal of Integrative Biology / Omics (Larchmont), Estados Unidos, v. 9, n.1, p. 2-12, 2005.
+Citações:25|28
+
+31.
+REIS, EM; OJOPI, Elida P.b ; ALBERTO, Fernando L. ; RAHAL, Paula ; TSUKUMO, Fernando ; MANCINI, Ulisses M ; GUIMARÃES, Gustavo S ; THOMPSON, Gloria M A ; CAMACHO, Cleber ; MIRACCA, Elisabete C. ; CARVALHO, André L ; MACHADO, Abimael A ; PAQUOLA, Apua C. M. ; CERUTTI, Janete M. ; DASILVA, Aline M. ; PEREIRA, Gonçalo G. ; VALENTINI, Sandro R. ; NAGAI, Maria Aparecida ; KOWALSKI, Luiz Paulo ; VERJOVSKI-ALMEIDA, Sergio ; TAJARA, Eloiza H. ; DIAS NETO, Emmanuel ; CONSORTIUM, Head And Neck Annotation . Large-scale Transcriptome Analyses Reveal New Genetic Marker Candidates of Head, Neck, and Thyroid Cancer. Cancer Research (Chicago, Ill.), EUA, v. 65, n.5, p. 1693-1699, 2005.
+Citações:45|43
+
+32.
+LOURO, Rodrigo ; NAKAYA, Helder I. ; PAQUOLA, Apua C.m. ; MARTINS, Elizabeth A.l. ; DASILVA, Aline M. ; VERJOVSKI-ALMEIDA, Sergio ; REIS, EM . RASL11A, member of a novel small monomeric GTPase gene family, is differentially expressed in prostate tumors. Biochemical and Biophysical Research Communications, EUA, v. 316, n.5, p. 618-627, 2004.
+Citações:14|12
+
+33.
+ REIS, EM; REIS, EM NAKAYA, Helder Ikemoto LOURO, Rodrigo CANAVEZ, Flavio Canela FLATSCHART, Áurea V F ALMEIDA, Giulliana Tessarin EGIDIO, Camila Moura PAQUOLA, Apuã C M MACHADO, Abimael A FESTA, Fernanda YAMAMOTO, Denise ALVARENGA, Renato DASILVA, Camille C. BRITO, Glauber C. SIMON, Sérgio D. MOREIRA-FILHO, Carlos Alberto LEITE, Katia R. CAMARA-LOPES, Luiz H. CAMPOS, Franz S. GIMBA, Etel VIGNAL, Gisele M. EL-DORRY, Hamza SOGAYAR, Mari Cleide BARCINSKI, Marcello A DASILVA, Aline Maria , et al. ; Antisense intronic non-coding RNA levels correlate to the degree of tumor differentiation in prostate cancer. Oncogene (Basingstoke), England, v. 23, n.39, p. 6684-6692, 2004.
+Citações:93|104
+
+34.
+PAQUOLA, Apua C. M. ; MACHADO, Abimael A ; REIS, EM ; SILVA, Aline M. da ; VERJOVSKI-ALMEIDA, Sergio . Zerg: a very fast BLAST parser library. Bioinformatics (Oxford), England, v. 19, n.8, p. 1035-1036, 2003.
+Citações:9|11
+
+35.
+ BRENTANI, Helena ; CABALLERO, Otavia L. ; CAMARGO, Anamaria A. ; DASILVA, Aline M. ; SILVA, JR., Wilson Araujo da ; DIAS-NETO, Emmanuel ; GRIVET, Marco ; GRUBER, Arthur ; GUIMARAES, Pedro Edson Moreira ; ISELI, Christian ; JONGENEEL, Victor ; KELSO, Janet ; NAGAI, Maria Aparecida ; OJOPI, Elida P.b ; OSORIO, Elisson C. ; REIS, EM ; RIGGINS, Gregory J. ; SIMPSON, Andrew John George ; SOUZA, Sandro de ; STEVENSON, Brian J. ; STRAUSBERG, Robert L. ; TAJARA, Eloiza H. ; VERJOVSKI-ALMEIDA, Sergio ; PROJECT, Hcgp Cgap Annotation ; CONSORTIUM, Human Cancer Genome Project Sequencing . The Generation and Utilization of a Cancer Oriented Representation of the Human Transcriptome, Using Expressed Sequence Tags. PNAS. Proceedings of the National Academy of Sciences of the United States of America, EUA, v. 100, n.23, p. 13418-13423, 2003.
+Citações:74|88
+
+36.
+Paquola, A. C. M. ; NISHYIAMA, M. Y. ; REIS, EM ; DA SILVA, A. M. ; VERJOVSKI-ALMEIDA, S. . ESTWeb: bioinformatics services for EST sequencing projects. Bioinformatics (Oxford. Print), v. 19, p. 1587-1588, 2003.
+Citações:27|29
+
+37.
+VERJOVSKI-ALMEIDA, Sergio DEMARCO, Ricardo MARTINS, Elizabeth A.l. GUIMARÃES, Pedro E.m OJOPI, Elida P.b PAQUOLA, Apua C. M. PIAZZA, João Paulo NISHYIAMA JR., Milton Yutaka KITAJIMA, João Paulo ADAMSON, Rachel E. ASHTON, Peter D BONALDO, Maria F COULSON, Patricia S DILLON, Gary P FARIAS, Leonardo P GREGORIO, Sheila P HO, Paulo L LEITE, Ricardo A MAQUIAS, Cosme C MARQUES, Regina C P MIYASATO, Patricia A NASCIMENTO, Ana L T O OHLWEILER, Fernanda P REIS, EM RIBEIRO, Marcela A , et al. ; Transcriptome analysis of the acoelomate human parasite Schistosoma mansoni. Nature Genetics, Grã-Bretanha, v. 35, n.2, p. 148-157, 2003.
+Citações:346|362
+
+38.
+CAMARGO, Anamaria A. SAMAIA, Helena Brentani DIAS-NETO, Emmanuel SIMÃO, Daniel F. MIGOTTO, Italo A. BRIONES, Marcelo R. S. COSTA, Fernando F. NAGAI, Maria Aparecida VERJOVSKI-ALMEIDA, Sergio ZAGO, Marco A. ANDRADE, Luis Eduardo C. CARRER, Helaine EL-DORRY, Hamza ESPREAFICO, Enilza M. HABR-GAMA, Angelita GIANNELLA-NETO, Daniel GOLDMAN, Gustavo H. GRUBER, Arthur HACKEL, Christine KIMURA, Edna T. MACIEL, Rui M. B. MARIE, Suely K. N. MARTINS, Elizabeth A.l. NÓBREGA, Marina P. PAÇÓ-LARSON, Maria Luisa , et al. ; The contribution of 700,000 ORF sequence tags to the definition of the human transcriptome. PNAS. Proceedings of the National Academy of Sciences of the United States of America, USA, v. 98, p. 12103-12108, 2001.
+Citações:94|99
+
+39.
+REIS, EM; REIS, E.M.R. ; KURTENBACH, Eleonora ; FERREIRA, Alessandra R ; BISELLI, Paulo J C ; SLAYMAN, Carolyn W ; VERJOVSKI-ALMEIDA, Sergio . N-terminal chimeric constructs improve the expression of sarcoplasmic reticulum Ca 2+-ATPase in yeast. Biochimica et Biophysica Acta. Biomembranes, Holanda, v. 1461, p. 83-95, 1999.
+Citações:9|9
+
+40.
+Costa, V. ; Amorim, M. A. ; REIS, E. ; Quintanilha, A. ; Moradas-Ferreira, P. ; REIS E . Mitochondrial superoxide dismutase is essential for ethanol tolerance of Saccharomyces cerevisiae in the post-diauxic phase. Microbiology (Reading), v. 143, p. 1649-1656, 1997.
+Citações:63|87
+
+41.
+REIS, EM; REIS, E.M.R. ; SLAYMAN, Carolyn W ; VERJOVSKI-ALMEIDA, Sergio . Heterologous expression of sarcoplasmic reticulum Ca2+-ATPase. Bioscience Reports, v. 16, p. 107-113, 1996.
+Citações:5|5
+
+42.
+COSTA, Vitor ; REIS, EM ; REIS, E. ; QUINTANILHA, Alexandre ; MORADAS-FERREIRA, Pedro . Acquisition of ethanol tolerance in Saccharomyces cerevisiae - the key role of superoxide dismutase. Archives of Biochemistry and Biophysics, v. 300, p. 608-614, 1993.
+Citações:70|68

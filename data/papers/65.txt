@@ -1,0 +1,503 @@
+1.
+BERTOLINI, THAIS B. ; PIÑEROS, ANNIE R. ; PRADO, RAFAEL Q. ; GEMBRE, ANA FLÁVIA ; RAMALHO, LEANDRA N. Z. ; ALVES-FILHO, JOSÉ CARLOS ; BONATO, VÂNIA L. D. . CCR4-dependent reduction in the number and suppressor function of CD4+Foxp3+ cells augments IFN-?-mediated pulmonary inflammation and aggravates tuberculosis pathogenesis. Cell Death & Disease, v. 10, p. 11, 2019.
+
+2.
+SANTA-CECÍLIA, FLÁVIA V. ; FERREIRA, DAVID W. ; GUIMARAES, RAFAELA M. ; CECILIO, NERRY T. ; FONSECA, MIRIAM M. ; LOPES, ALEXANDRE H. ; DAVOLI-FERREIRA, MARCELA ; KUSUDA, RICARDO ; SOUZA, GUILHERME R. ; NACHBUR, UELI ; Alves-Filho, José C. ; Teixeira, Mauro M. ; Zamboni, Dario S. ; Cunha, Fernando Q. ; Cunha, Thiago M. . The NOD2 signaling in peripheral macrophages contributes to neuropathic pain development. PAIN, v. x, p. 1, 2018.
+
+3.
+WANDERLEY, CARLOS W ; COLON, DAVID F ; LUIZ, JOAO PAULO MESQUITA ; OLIVEIRA, FRANCISCO F ; VIACAVA, PAULA R ; LEITE, CAIO A ; PEREIRA, JANAINA A ; SILVA, CAMILA M ; SILVA, CASSIA R ; SILVA, RANGEL L ; SPECK-HERNANDEZ, CESAR A ; MOTA, JOSE M ; Alves-Filho, Jose C ; LIMA-JÚNIOR, ROBERTO C ; CUNHA, THIAGO M ; Cunha, Fernando Q . Paclitaxel reduces tumor growth by reprogramming tumor-associated macrophages to an M1- profile in a TLR4-dependent manner. CANCER RESEARCH, v. x, p. canres.3480.20, 2018.
+
+4.
+THORSTENBERG, MARIA LUIZA ; RANGEL FERREIRA, MARCOS VINÍCIUS ; AMORIM, NATÁLIA ; CANETTI, CLAUDIO ; MORRONE, FERNANDA B. ; ALVES FILHO, JOSÉ CARLOS ; COUTINHO-SILVA, ROBSON . Purinergic Cooperation Between P2Y2 and P2X7 Receptors Promote Cutaneous Leishmaniasis Control: Involvement of Pannexin-1 and Leukotrienes. Frontiers in Immunology, v. 9, p. 1531, 2018.
+
+5.
+SARAIVA, ANDRÉ L. ; VERAS, FLÁVIO P. ; PERES, RAPHAEL S. ; TALBOT, JHIMMY ; DE LIMA, KALIL A. ; LUIZ, JOÃO P. ; CARBALLIDO, JOSÉ M. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; RYFFEL, BERNHARD ; Alves-Filho, Jose C. . Succinate receptor deficiency attenuates arthritis by reducing dendritic cell traffic and expansion of T h 17 cells in the lymph nodes. FASEB JOURNAL, v. x, p. fj.201800285, 2018.
+
+6.
+TALBOT, JHIMMY ; PERES, RAPHAEL S. ; PINTO, LARISSA G. ; OLIVEIRA, RENE D. R. ; LIMA, KALIL A. ; DONATE, PAULA B. ; SILVA, JAQUELINE R. ; RYFFEL, BERNARD ; Cunha, Thiago M. ; Alves-Filho, José C. ; Liew, Foo Y. ; LOUZADA-JUNIOR, PAULO ; DE QUEIROZ CUNHA, FERNANDO . Smoking-induced aggravation of experimental arthritis is dependent of aryl hydrocarbon receptor activation in Th17 cells. ARTHRITIS RESEARCH & THERAPY (ONLINE), v. 20, p. 119, 2018.
+
+7.
+STAURENGO-FERRARI, LARISSA ; Trevelin, Silvia C. ; FATTORI, VICTOR ; Nascimento, Daniele C. ; DE LIMA, KALIL A. ; PELAYO, JACINTA S. ; FIGUEIREDO, FLORÊNCIO ; CASAGRANDE, RUBIA ; Fukada, Sandra Y. ; Teixeira, Mauro M. ; Cunha, Thiago M. ; Liew, Foo Y. ; OLIVEIRA, RENE D. ; LOUZADA-JUNIOR, PAULO ; Cunha, Fernando Q. ; Alves-Filho, José C. ; VERRI, WALDICEU A. . Interleukin-33 Receptor (ST2) Deficiency Improves the Outcome of Staphylococcus aureus-Induced Septic Arthritis. Frontiers in Immunology, v. 9, p. 962, 2018.
+
+8.
+RUIZ-MIYAZAWA, KENJI W. ; PINHO-RIBEIRO, FELIPE A. ; BORGHI, SERGIO M. ; STAURENGO-FERRARI, LARISSA ; FATTORI, VICTOR ; AMARAL, FLAVIO A. ; Teixeira, Mauro M. ; Alves-Filho, Jose C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . Hesperidin Methylchalcone Suppresses Experimental Gout Arthritis in Mice by Inhibiting NF-?B Activation. JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY, v. 66, p. 6269-6280, 2018.
+
+9.
+SILVA, MARIA C. ; DAVOLI-FERREIRA, MARCELA ; MEDINA, TIAGO S. ; SESTI-COSTA, RENATA ; SILVA, GRACE K. ; LOPES, CARLA D. ; CARDOZO, LUCAS E. ; GAVA, FÁBIO N. ; LYRONI, KONSTANTINA ; DIAS, FABRÍCIO C. ; FRADE, AMANDA F. ; BARON, MONIQUE ; NAKAYA, HELDER I. ; FIGUEIREDO, FLORÊNCIO ; Alves-Filho, José C. ; Cunha, Fernando Q. ; TSATSANIS, CHRISTOS ; CHEVILLARD, CHRISTOPHE ; CUNHA-NETO, EDECIO ; HIRSCH, EMILIO ; Silva, João S. ; Cunha, Thiago M. . Canonical PI3K? signaling in myeloid cells restricts Trypanosoma cruzi infection and dampens chagasic myocarditis. Nature Communications, v. 9, p. 1513, 2018.
+
+10.
+CASTANHEIRA, FERNANDA V. E SILVA ; BORGES, VANESSA ; Sônego, Fabiane ; KANASHIRO, ALEXANDRE ; DONATE, PAULA B. ; MELO, PAULO H. ; PALLAS, KENNETH ; RUSSO, REMO C. ; AMARAL, FLÁVIO A. ; Teixeira, Mauro M. ; RAMALHO, FERNANDO S. ; Cunha, Thiago M. ; Liew, Foo Y. ; Alves-Filho, José C. ; GRAHAM, GERARD J. ; Cunha, Fernando Q. . The Atypical Chemokine Receptor ACKR2 is Protective Against Sepsis. SHOCK, v. 49, p. 682-689, 2018.
+
+11.
+Sônego, Fabiane ; CASTANHEIRA, FERNANDA V. S. ; HORTA, CATARINA V. ; KANASHIRO, ALEXANDRE ; CZAIKOSKI, PAULA G. ; Zamboni, Dario S. ; ALVES-FILHO, JOSÉ CARLOS ; Cunha, Fernando Q. . The host control of a clinical isolate strain of P. aeruginosa infection is independent of Nod-1 but depends on MyD88. INFLAMMATION RESEARCH, v. 67, p. 435-443, 2018.
+
+12.
+PERES, RAPHAEL S. ; DONATE, PAULA B. ; TALBOT, JHIMMY ; CECILIO, NERRY T. ; LOBO, PATRICIA R. ; MACHADO, CAIO C. ; LIMA, KALIL W.A. ; OLIVEIRA, RENE D. ; CARREGARO, VANESSA ; NAKAYA, HELDER I. ; Cunha, Thiago M. ; ALVES-FILHO, JOSÉ CARLOS ; Liew, Foo Y. ; LOUZADA-JUNIOR, PAULO ; Cunha, Fernando Q. . TGF-? signalling defect is linked to low CD39 expression on regulatory T cells and methotrexate resistance in rheumatoid arthritis. JOURNAL OF AUTOIMMUNITY, v. 90, p. 49-58, 2018.
+
+13.
+AZEVEDO, PATRICK O. ; SENA, ISADORA F.G. ; ANDREOTTI, JULIA P. ; CARVALHO-TAVARES, JULIANA ; Alves-Filho, José C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; MINTZ, AKIVA ; BIRBRAIR, ALEXANDER . Pericytes modulate myelination in the central nervous system. JOURNAL OF CELLULAR PHYSIOLOGY, v. 233, p. 5523-5529, 2018.
+Citações:5
+
+14.
+FERREIRA, RAPHAEL G. ; RODRIGUES, LILIAN C. ; Nascimento, Daniele C. ; KANASHIRO, ALEXANDRE ; MELO, PAULO H. ; BORGES, VANESSA F. ; GOZZI, ALINE ; DA SILVA PRADO, DOUGLAS ; BORGES, MARCOS C. ; RAMALHO, FERNANDO S. ; STOWELL, SEAN R. ; CUMMINGS, RICHARD D. ; DIAS-BARUFFI, MARCELO ; Cunha, Fernando Q. ; Alves-Filho, Jose C. . Galectin-3 aggravates experimental polymicrobial sepsis by impairing neutrophil recruitment to the infectious focus. JOURNAL OF INFECTION, v. x, p. x, 2018.
+
+15.
+CAMPA, CARLO C. ; SILVA, RANGEL L. ; MARGARIA, JEAN P. ; PIRALI, TRACEY ; MATTOS, MATHEUS S. ; KRAEMER, LUCAS R. ; REIS, DIEGO C. ; GROSA, GIORGIO ; COPPERI, FRANCESCA ; DALMARCO, EDUARDO M. ; LIMA-JÚNIOR, ROBERTO C. P. ; APRILE, SILVIO ; SALA, VALENTINA ; DAL BELLO, FEDERICA ; PRADO, DOUGLAS SILVA ; ALVES-FILHO, JOSE CARLOS ; MEDANA, CLAUDIO ; CASSALI, GEOVANNI D. ; TRON, GIAN CESARE ; Teixeira, Mauro M. ; CIRAOLO, ELISA ; RUSSO, REMO C. ; HIRSCH, EMILIO . Inhalation of the prodrug PI3K inhibitor CL27c improves lung function in asthma and fibrosis. Nature Communications, v. 9, p. 5232, 2018.
+
+16.
+DE LIMA, KALIL ALVES ; DONATE, PAULA BARBIM ; TALBOT, JHIMMY ; DAVOLI-FERREIRA, MARCELA ; PERES, RAPHAEL SANCHES ; CUNHA, THIAGO MATTAR ; ALVES-FILHO, JOSÉ CARLOS ; Cunha, Fernando Queiroz . TGF?1 signaling sustains aryl hydrocarbon receptor (AHR) expression and restrains the pathogenic potential of TH17 cells by an AHR-independent mechanism. Cell Death & Disease, v. 9, p. 1130, 2018.
+
+17.
+MANCHOPE, MARÍLIA F. ; ARTERO, NAYARA A. ; FATTORI, VICTOR ; MIZOKAMI, SANDRA S. ; PITOL, DIMITRIUS L. ; ISSA, JOÃO P. M. ; Fukada, Sandra Y. ; Cunha, Thiago M. ; Alves-Filho, José C. ; Cunha, Fernando Q. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . Naringenin mitigates titanium dioxide (TiO2)-induced chronic arthritis in mice: role of oxidative stress, cytokines, and NF?B. INFLAMMATION RESEARCH, v. 67, p. 997-1012, 2018.
+
+18.
+STAURENGO-FERRARI, LARISSA ; RUIZ-MIYAZAWA, KENJI W. ; PINHO-RIBEIRO, FELIPE A. ; FATTORI, VICTOR ; ZANINELLI, TIAGO H. ; BADARO-GARCIA, STEPHANIE ; BORGHI, SERGIO M. ; CARVALHO, THACYANA T. ; Alves-Filho, Jose C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . Trans-Chalcone Attenuates Pain and Inflammation in Experimental Acute Gout Arthritis in Mice. Frontiers in Pharmacology, v. 9, p. 1123, 2018.
+
+19.
+FATTORI, VICTOR ; ZARPELON, ANA C. ; STAURENGO-FERRARI, LARISSA ; BORGHI, SERGIO M. ; ZANINELLI, TIAGO H. ; DA COSTA, FERNANDO B. ; Alves-Filho, Jose C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; CASAGRANDE, RUBIA ; ARAKAWA, NILTON S. ; VERRI, WALDICEU A. . Budlein A, a Sesquiterpene Lactone From Viguiera robusta, Alleviates Pain and Inflammation in a Model of Acute Gout Arthritis in Mice. Frontiers in Pharmacology, v. 9, p. 1076, 2018.
+
+20.
+RUIZ-MIYAZAWA, KENJI W. ; STAURENGO-FERRARI, LARISSA ; PINHO-RIBEIRO, FELIPE A. ; FATTORI, VICTOR ; ZANINELLI, TIAGO H. ; BADARO-GARCIA, STEPHANIE ; BORGHI, SERGIO M. ; ANDRADE, KETLEM C. ; CLEMENTE-NAPIMOGA, JULIANA T. ; Alves-Filho, Jose C. ; Cunha, Thiago M. ; FRACETO, LEONARDO F. ; Cunha, Fernando Q. ; NAPIMOGA, MARCELO H. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . 15d-PGJ2-loaded nanocapsules ameliorate experimental gout arthritis by reducing pain and inflammation in a PPAR-gamma-sensitive manner in mice. Scientific Reports, v. 8, p. 13979, 2018.
+
+21.
+SISTI, F. ; WANG, S. ; BRANDT, S. L. ; GLOSSON-BYERS, N. ; MAYO, L. D. ; SON, Y. M. ; STURGEON, S. ; FILGUEIRAS, L. ; JANCAR, S. ; WON, H. ; CRUZ, C. S. D. ; ANDREWS, N. ; ALVES-FILHO, J. C. ; CUNHA, F. Q. ; SEREZANI, C. H. . Nuclear PTEN enhances the maturation of a microRNA regulon to limit MyD88-dependent susceptibility to sepsis. Science Signaling, v. 11, p. eaai9085, 2018.
+
+22.
+PIÑEROS, A. R. ; CAMPOS, L. W. ; FONSECA, D. M. ; BERTOLINI, T. B. ; GEMBRE, A. F. ; PRADO, R. Q. ; ALVES-FILHO, J. C. ; RAMOS, S. G. ; RUSSO, M. ; BONATO, V. L. D. . M2 macrophages or IL-33 treatment attenuate ongoing Mycobacterium tuberculosis infection. Scientific Reports, v. 7, p. 41240, 2017.
+
+23.
+KANASHIRO, ALEXANDRE ; Sônego, Fabiane ; FERREIRA, RAPHAEL G. ; CASTANHEIRA, FERNANDA V.S. ; LEITE, CAIO A. ; BORGES, VANESSA F. ; Nascimento, Daniele C. ; CÓLON, DAVID F. ; ALVES-FILHO, JOSÉ CARLOS ; ULLOA, LUIS ; Cunha, Fernando Q. . Therapeutic potential and limitations of cholinergic anti-inflammatory pathway in sepsis. Pharmacological Research, v. 117, p. 1-8, 2017.
+
+24.
+PERES, RAPHAEL S. ; SANTOS, GABRIELA B. ; CECILIO, NERRY T. ; JABOR, VALQUÍRIA A. P. ; NIEHUES, MICHAEL ; TORRES, BRUNA G. S. ; BUQUI, GABRIELA ; SILVA, CARLOS H. T. P. ; COSTA, TERESA DALLA ; LOPES, NORBERTO P. ; NONATO, MARIA C. ; RAMALHO, FERNANDO S. ; LOUZADA-JÚNIOR, PAULO ; Cunha, Thiago M. ; Cunha, Fernando Q. ; EMERY, FLAVIO S. ; Alves-Filho, Jose C. . Lapachol, a compound targeting pyrimidine metabolism, ameliorates experimental autoimmune arthritis. ARTHRITIS RESEARCH & THERAPY (ONLINE), v. 19, p. 47, 2017.
+
+25.
+PIÑEROS ALVAREZ, ANNIE ROCIO ; GLOSSON-BYERS, NICOLE ; BRANDT, STEPHANIE ; WANG, SOUJUAN ; WONG, HECTOR ; STURGEON, SARAH ; MCCARTHY, BRIAN PAUL ; TERRITO, PAUL R. ; ALVES-FILHO, JOSE CARLOS ; SEREZANI, C. HENRIQUE . SOCS1 is a negative regulator of metabolic reprogramming during sepsis. JCI Insight, v. 2, p. 92530, 2017.
+
+26.
+Nascimento, Daniele C. ; MELO, PAULO H. ; PIÑEROS, ANNIE R. ; FERREIRA, RAPHAEL G. ; COLÓN, DAVID F. ; DONATE, PAULA B. ; CASTANHEIRA, FERNANDA V. ; GOZZI, ALINE ; CZAIKOSKI, PAULA G. ; Niedbala, Wanda ; BORGES, MARCOS C. ; Zamboni, Dario S. ; Liew, Foo Y. ; Cunha, Fernando Q. ; Alves-Filho, Jose C. . IL-33 contributes to sepsis-induced long-term immunosuppression by expanding the regulatory T cell population. Nature Communications, v. 8, p. 14919, 2017.
+Citações:8|12
+
+27.
+ZUCOLOTO, AMANDA Z. ; MANCHOPE, MAR?LIA F. ; STAURENGO-FERRARI, LARRISA ; ALVES-FILHO, JOS? C. ; Cunha, Thiago M. ; ANTUNES, MA?SA M. ; MENEZES, GUSTAVO B. ; Cunha, Fernando Q. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . Probucol attenuates overt pain-like behavior and carrageenan-induced inflammatory hyperalgesia and leukocyte recruitment by inhibiting NF-?B activation and cytokine production without antioxidant effects. INFLAMMATION RESEARCH, v. 66, p. 591-602, 2017.
+
+28.
+SOUZA, MARIA C. ; FONSECA, DENISE M. ; KANASHIRO, ALEXANDRE ; BENEVIDES, LUCIANA ; MEDINA, TIAGO S. ; DIAS, MURILO S. ; ANDRADE, WARRISON A. ; BONFÁ, GIULIANO ; SILVA, MARCONDES A. B. ; GOZZI, ALINE ; BORGES, MARCOS C. ; Gazzinelli, Ricardo T. ; Alves-Filho, José C. ; Cunha, Fernando Q. ; Silva, João S. . Chronic Toxoplasma gondii Infection Exacerbates Secondary Polymicrobial Sepsis. Frontiers in Cellular and Infection Microbiology, v. 7, p. 116, 2017.
+
+29.
+ZUCOLOTO, AMANDA Z. ; MANCHOPE, MAR?LIA F. ; STAURENGO-FERRARI, LARISSA ; PINHO-RIBEIRO, FELIPE A. ; ZARPELON, ANA C. ; SARAIVA, ANDR? L.L. ; CEC?LIO, NERRY TATIANA ; ALVES-FILHO, JOS? C. ; Cunha, Thiago M. ; MENEZES, GUSTAVO B. ; Cunha, Fernando Q. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . Probucol attenuates lipopolysaccharide-induced leukocyte recruitment and inflammatory hyperalgesia: effect on NF-?B activation and cytokine production. EUROPEAN JOURNAL OF PHARMACOLOGY, v. 809, p. 52-63, 2017.
+
+30.
+SILVA, JAQUELINE R. ; LOPES, ALEXANDRE H. ; TALBOT, JHIMMY ; CECILIO, NERRY T. ; ROSSATO, MATEUS F. ; SILVA, RANGEL L. ; SOUZA, GUILHERME R. ; SILVA, CASSIA R. ; LUCAS, GUILHERME ; FONSECA, BENEDITO A. ; ARRUDA, EURICO ; Alves-Filho, Jose C. ; Cunha, Fernando Q. ; Cunha, Thiago M. . Neuroimmune-Glia Interactions in the Sensory Ganglia Account for the Development of Acute Herpetic Neuralgia. JOURNAL OF NEUROSCIENCE, v. 37, p. 6408-6422, 2017.
+
+31.
+BERTOZZI, MARIANA M. ; ROSSANEIS, ANA C. ; FATTORI, VICTOR ; LONGHI-BALBINOT, DANIELA T. ; Freitas, Andressa ; Cunha, Fernando Q. ; Alves-Filho, José C. ; Cunha, Thiago M. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . Diosmin reduces chronic constriction injury-induced neuropathic pain in mice. CHEMICO-BIOLOGICAL INTERACTIONS, v. 273, p. 180-189, 2017.
+
+32.
+SOARES, FERNANDA S. ; AMARAL, FLÁVIA C. ; SILVA, NATÁLIA L. C. ; VALENTE, MATHEUS R. ; SANTOS, LORENA K. R. ; YAMASHIRO, LÍVIA H. ; SCHEFFER, MARA C. ; CASTANHEIRA, FERNANDA V. E. S. ; FERREIRA, RAPHAEL G. ; GEHRKE, LAURA ; Alves-Filho, José C. ; SILVA, LUCIANO P. ; BÁFICA, ANDRÉ ; Spiller, Fernando . Antibiotic-Induced Pathobiont Dissemination Accelerates Mortality in Severe Experimental Pancreatitis. Frontiers in Immunology, v. 8, p. 1890, 2017.
+
+33.
+FATTORI, VICTOR ; HOHMANN, MIRIAM S. N. ; ROSSANEIS, ANA C. ; MANCHOPE, MARILIA F. ; Alves-Filho, Jose C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; VERRI, WALDICEU A. . Targeting IL-33/ST2 signaling: regulation of immune function and analgesia. EXPERT OPINION ON THERAPEUTIC TARGETS, v. 21, p. 1141-1152, 2017.
+
+34.
+LOPES, ALEXANDRE H. ; BRANDOLINI, LAURA ; ARAMINI, ANDREA ; BIANCHINI, GIANLUCA ; SILVA, RANGEL L. ; ZAPERLON, ANA C. ; VERRI, WALDICEU A. ; Alves-Filho, José C. ; Cunha, Fernando Q. ; Teixeira, Mauro M. ; ALLEGRETTI, MARCELLO ; Cunha, Thiago M. . DF2755A, a novel non-competitive allosteric inhibitor of CXCR1/2, reduces inflammatory and post-operative pain. Pharmacological Research, v. 103, p. 69-79, 2016.
+Citações:4|5
+
+35.
+ZARPELON, A. C. ; RODRIGUES, F. C. ; LOPES, A. H. ; SOUZA, G. R. ; CARVALHO, T. T. ; PINTO, L. G. ; XU, D. ; FERREIRA, S. H. ; ALVES-FILHO, J. C. ; MCINNES, I. B. ; Ryffel, B. ; QUESNIAUX, V. F. J. ; REVERCHON, F. ; MORTAUD, S. ; MENUET, A. ; LIEW, F. Y. ; CUNHA, F. Q. ; CUNHA, T. M. ; Verri, W. A. . Spinal cord oligodendrocyte-derived alarmin IL-33 mediates neuropathic pain. The FASEB Journal, v. 30, p. 54-65, 2016.
+Citações:12|13
+
+36.
+Alves-Filho, Jose C.; PÅLSSON-MCDERMOTT, EVA M. . Pyruvate Kinase M2: A Potential Target for Regulating Inflammation. Frontiers in Immunology (Online), v. 7, p. 1, 2016.
+Citações:10|14
+
+37.
+Czaikoski, Paula Giselle ; MOTA, JOSÉ MAURÍCIO SEGUNDO CORREIA ; Nascimento, Daniele Carvalho ; Sônego, Fabiane ; CASTANHEIRA, FERNANDA VARGAS E SILVA ; MELO, PAULO HENRIQUE ; SCORTEGAGNA, GABRIELA TRENTIN ; SILVA, RANGEL LEAL ; BARROSO-SOUSA, ROMUALDO ; SOUTO, FABRÍCIO OLIVEIRA ; PAZIN-FILHO, ANTONIO ; FIGUEIREDO, FLORENCIO ; ALVES-FILHO, JOSÉ CARLOS ; CUNHA, FERNANDO QUEIRÓZ . Neutrophil Extracellular Traps Induce Organ Damage during Experimental and Clinical Sepsis. Plos One, v. 11, p. e0148142, 2016.
+Citações:29|32
+
+38.
+MOTA, J. M. ; LEITE, C. A. ; SOUZA, L. E. B. ; MELO, P. H. ; Nascimento, D. C. ; DE DEUS WAGATSUMA, V. M. ; TEMPORAL, J. ; FIGUEIREDO, F. ; NOUSHMEHR, H. ; Alves-Filho, J. C. F. ; CUNHA, F. Q. ; REGO, E. M. . Post-sepsis state induces tumor-associated macrophage accumulation through CXCR4/CXCL12 and favors tumor progression in mice. CANCER IMMUNOL RES, v. 4, p. 312-322, 2016.
+Citações:5|4
+
+39.
+Trevelin, Silvia Cellone ; DOS SANTOS, CÉLIO XAVIER ; FERREIRA, RAPHAEL GOMES ; DE SÁ LIMA, LARISSA ; SILVA, RANGEL LEAL ; SCAVONE, CRISTOFORO ; CURI, RUI ; ALVES-FILHO, JOSÉ CARLOS ; CUNHA, THIAGO MATTAR ; ROXO-JÚNIOR, PÉRSIO ; CERVI, MARIA-CÉLIA ; LAURINDO, FRANCISCO RAFAEL MARTINS ; HOTHERSALL, JOHN STEPHEN ; COBB, ANDREW M. ; ZHANG, MIN ; IVETIC, ALEKSANDAR ; SHAH, AJAY M. ; LOPES, LUCIA ROSSETTI ; Cunha, Fernando Queiroz . Apocynin and Nox2 regulate NF-?B by modifying thioredoxin-1 redox-state. Scientific Reports, v. 6, p. 34581, 2016.
+
+40.
+GUERRERO, ANA T.G. ; PINTO, LARISSA G. ; Cunha, Fernando Q. ; Ferreira, Sérgio H. ; Alves-Filho, Jose C. ; VERRI, WALDICEU A. ; Cunha, Thiago M. . Mechanisms underlying the hyperalgesic responses triggered by joint activation of TLR4. Pharmacological Reports, v. 68, p. 1293-1300, 2016.
+
+41.
+GONZAGA, NATÁLIA A. ; SIMPLICIO, JANAINA A. ; LEITE, LETÍCIA N. ; VALE, GABRIEL T. ; CARBALLIDO, JOSÉ M. ; Alves-Filho, José C. ; TIRAPELLI, CARLOS R. . Data on the mechanisms underlying succinate-induced aortic contraction. Data in Brief, v. 9, p. 206-212, 2016.
+
+42.
+FRANCHIN, MARCELO ; ROSALEN, PEDRO LUIZ ; DA CUNHA, MARCOS GUILHERME ; SILVA, RANGEL LEAL ; COLÓN, DAVID F. ; BASSI, GABRIEL SHIMIZU ; DE ALENCAR, SEVERINO MATIAS ; IKEGAKI, MASAHARU ; Alves-Filho, José C. ; Cunha, Fernando Q. ; BEUTLER, JOHN A. ; CUNHA, THIAGO MATTAR . Cinnamoyloxy-mammeisin Isolated from Geopropolis Attenuates Inflammatory Process by Inhibiting Cytokine Production: Involvement of MAPK, AP-1, and NF-?B. Journal of Natural Products (Print), v. 79, p. 1828-1833, 2016.
+
+43.
+FRANCA, RAFAEL F. O. ; COSTA, RENATA S. ; SILVA, JAQUELINE R. ; PERES, RAPHAEL S. ; MENDONÇA, LEILA R. ; COLÓN, DAVID F. ; ALVES-FILHO, JOSÉ CARLOS ; Cunha, Fernando Q. . IL-33 signaling is essential to attenuate viral-induced encephalitis development by downregulating iNOS expression in the central nervous system. Journal of Neuroinflammation, v. 13, p. 1-8, 2016.
+Citações:7|5
+
+44.
+LONGHI-BALBINOT, DANIELA T. ; ROSSANEIS, ANA C. ; PINHO-RIBEIRO, FELIPE A. ; BERTOZZI, MARIANA M. ; Cunha, Fernando Q. ; Alves-Filho, José C. ; Cunha, Thiago M. ; PERON, JEAN P.S. ; MIRANDA, KATRINA M. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . The nitroxyl donor, Angeli?s salt, reduces chronic constriction injury-induced neuropathic pain. Chemico-Biological Interactions (Print), v. 256, p. 1-8, 2016.
+Citações:6|6
+
+45.
+PINHO-RIBEIRO, FELIPE A. ; ZARPELON, ANA C. ; MIZOKAMI, SANDRA S. ; BORGHI, SERGIO M. ; BORDIGNON, JULIANO ; SILVA, RANGEL L. ; Cunha, Thiago M. ; Alves-Filho, Jose C. ; Cunha, Fernando Q. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . The citrus flavonone naringenin reduces lipopolysaccharide-induced inflammatory pain and leukocyte recruitment by inhibiting NF-?B activation. Journal of Nutritional Biochemistry, v. 33, p. 8-14, 2016.
+Citações:14|17
+
+46.
+SANT?ANNA, MORENA B. ; KUSUDA, RICARDO ; BOZZO, TIAGO A. ; BASSI, GABRIEL S. ; Alves-Filho, José C. ; Cunha, Fernando Q. ; FERREIRA, SERGIO H. ; SOUZA, GUILHERME R. ; Cunha, Thiago M. . Medial plantar nerve ligation as a novel model of neuropathic pain in mice: pharmacological and molecular characterization. Scientific Reports, v. 6, p. 26955, 2016.
+Citações:3|3
+
+47.
+Sônego, Fabiane ; CASTANHEIRA, FERNANDA VARGAS E SILVA ; FERREIRA, RAPHAEL GOMES ; KANASHIRO, ALEXANDRE ; LEITE, CAIO ABNER VITORINO GONÇALVES ; Nascimento, Daniele Carvalho ; COLÓN, DAVID FERNANDO ; BORGES, VANESSA DE FÁTIMA ; ALVES-FILHO, JOSÉ CARLOS ; CUNHA, FERNANDO QUEIRÓZ . Paradoxical Roles of the Neutrophil in Sepsis: Protective and Deleterious. Frontiers in Immunology (Online), v. 7, p. 155, 2016.
+Citações:2|14
+
+48.
+PINHO-RIBEIRO, FELIPE A. ; FATTORI, VICTOR ; ZARPELON, ANA C. ; BORGHI, SERGIO M. ; STAURENGO-FERRARI, LARISSA ; CARVALHO, THACYANA T. ; Alves-Filho, Jose C. ; Cunha, Fernando Q. ; Cunha, Thiago M. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . Pyrrolidine dithiocarbamate inhibits superoxide anion-induced pain and inflammation in the paw skin and spinal cord by targeting NF-?B and oxidative stress. Inflammopharmacology (Dordrecht. Print), v. 24, p. 97-107, 2016.
+Citações:5|4
+
+49.
+FATTORI, VICTOR ; SERAFIM, KARLA G. G. ; ZARPELON, ANA C. ; BORGHI, SERGIO M. ; PINHO-RIBEIRO, FELIPE A. ; Alves-Filho, José C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; CASAGRANDE, RÚBIA ; VERRI, WALDICEU A. . Differential regulation of oxidative stress and cytokine production by endothelin ET A and ET B receptors in superoxide anion-induced inflammation and pain in mice. JOURNAL OF DRUG TARGETING, v. 5, p. 1-27, 2016.
+
+50.
+MASSIS, LILIANA M. ; ASSIS-MARQUES, MARIANA A. ; CASTANHEIRA, FERNANDA V. S. ; CAPOBIANCO, YASMIN J. ; BALESTRA, ANDIAMIRA C. ; ESCOLL, PEDRO ; WOOD, REBECCA E. ; MANIN, GRAZIELE Z. ; CORREA, VANI M. A. ; Alves-Filho, José C. ; Cunha, Fernando Q. ; BUCHRIESER, CARMEN ; BORGES, MARCOS C. ; NEWTON, HAYLEY J. ; Zamboni, Dario S. . Legionella longbeachae is immunologically silent and highly virulent in vivo. JOURNAL OF INFECTIOUS DISEASES, v. 215, p. 440-451, 2016.
+Citações:1|1
+
+51.
+BRUDER-NASCIMENTO, THIAGO ; FERREIRA, NATHANNE S. ; ZANOTTO, CAMILA Z. ; RAMALHO, FERNANDA ; PEQUENO, ISABELA O. ; OLIVON, VANIA C. ; NEVES, KARLA B. ; ALVES-LOPES, RHEURE ; CAMPOS, EDUARDO ; SILVA, CARLOS ALBERTO A. ; FAZAN, RUBENS ; CARLOS, DANIELA ; MESTRINER, FABIOLA L. ; PRADO, DOUGLAS ; PEREIRA, FELIPE V. ; BRAGA, TARCIO ; LUIZ, JOAO PAULO M. ; CAU, STEFANY B. ; ELIAS, PAULA C. ; MOREIRA, AYRTON C. ; CÂMARA, NIELS O. ; Zamboni, Dario S. ; ALVES-FILHO, JOSE CARLOS ; TOSTES, RITA C. . NLRP3 Inflammasome Mediates Aldosterone-Induced Vascular DamageClinical Perspective. CIRCULATION, v. 134, p. 1866-1880, 2016.
+Citações:6|8
+
+52.
+LEITE, LETÍCIA N. ; GONZAGA, NATÁLIA A. ; SIMPLICIO, JANAINA A. ; DO VALE, GABRIEL T. ; CARBALLIDO, JOSÉ M. ; Alves-Filho, José C. ; TIRAPELLI, CARLOS R. . Pharmacological characterization of the mechanisms underlying the vascular effects of succinate. European Journal of Pharmacology, v. 789, p. 334-343, 2016.
+
+53.
+ TALBOT, JHIMMY ; BIANCHINI, FRANCINE J. ; NASCIMENTO, DANILELE C. ; OLIVEIRA, RENE D.R. ; Souto, Fabricio O. ; PINTO, LARISSA G. ; PERES, RAPHAEL S. ; SILVA, JAQUELINE R. ; ALMEIDA, SERGIO C.L. ; LOUZADA-JUNIOR, PAULO ; Cunha, Thiago M. ; Cunha, Fernando Q. ; Alves-Filho, Jose C. . CCR2 expression in neutrophils plays a critical role in their migration into joints in rheumatoid arthritis. Arthritis & Rheumatology, v. 67, p. 1751-1759, 2015.
+Citações:13|25
+
+54.
+PERES, RAPHAEL SANCHES ; Liew, Foo Y. ; TALBOT, JHIMMY ; CARREGARO, VANESSA ; OLIVEIRA, RENE D. ; ALMEIDA, SERGIO L. ; FRANÇA, RAFAEL F. O. ; DONATE, PAULA B. ; PINTO, LARISSA G. ; FERREIRA, FLAVIA I. S. ; COSTA, DIEGO L. ; DEMARQUE, DANIEL P. ; GOUVEA, DAYANA RUBIO ; LOPES, NORBERTO P. ; QUEIROZ, REGINA HELENA C. ; SILVA, JOAO SANTANA ; FIGUEIREDO, FLORENCIO ; ALVES-FILHO, JOSE CARLOS ; Cunha, Thiago M. ; Ferreira, Sérgio H. ; LOUZADA-JUNIOR, PAULO ; Cunha, Fernando Q. . Low expression of CD39 on regulatory T cells as a biomarker for resistance to methotrexate therapy in rheumatoid arthritis. Proceedings of the National Academy of Sciences of the United States of America, v. 112, p. 2509-2514, 2015.
+Citações:15|26
+
+55.
+BORGHI, SERGIO M. ; PINHO-RIBEIRO, FELIPE A. ; ZARPELON, ANA C. ; Cunha, Thiago M. ; Alves-Filho, Jose C. ; FERREIRA, SERGIO H. ; Cunha, Fernando Q. ; CASAGRANDE, RUBIA ; JR, WALDICEU A. VERRI . Interleukin-10 limits intense acute swimming-induced muscle mechanical hyperalgesia in mice. Experimental Physiology (Print), v. 100, p. 531-544, 2015.
+Citações:10|15
+
+56.
+XAVIER-ELSAS, PEDRO ; DE LUCA, BIANCA ; QUETO, TÚLIO ; VIEIRA, BRUNO MARQUES ; MASID-DE-BRITO, DANIELA ; DAHAB, ELIZABETH CHEN ; ALVES FILHO, JOSÉ CARLOS ; Cunha, Fernando Q. ; GASPAR-ELSAS, MARIA IGNEZ C. . Blockage of Eosinopoiesis by IL-17A Is Prevented by Cytokine and Lipid Mediators of Allergic Inflammation. Mediators of Inflammation (Print), v. 2015, p. 1-11, 2015.
+Citações:1
+
+57.
+MOLINARO, RAPHAEL ; PECLI, CYNTIA ; GUILHERME, RAFAEL F. ; ALVES-FILHO, JOSÉ CARLOS ; Cunha, Fernando Q. ; CANETTI, CLAUDIO ; KUNKEL, STEVEN L. ; BOZZA, MARCELO T. ; BENJAMIM, CLAUDIA F. . CCR4 Controls the Suppressive Effects of Regulatory T Cells on Early and Late Events during Severe Sepsis. Plos One, v. 10, p. e0133227, 2015.
+Citações:3|7
+
+58.
+LIMA, CRISTIANO XAVIER ; SOUZA, DANIELLE GLORIA ; AMARAL, FLAVIO ALMEIDA ; FAGUNDES, CAIO TAVARES ; RODRIGUES, IRLA PAULA STOPA ; ALVES-FILHO, JOSE CARLOS ; KOSCO-VILBOIS, MARIE ; FERLIN, WALTER ; SHANG, LIMIN ; ELSON, GREG ; TEIXEIRA, MAURO MARTINS . Therapeutic Effects of Treatment with Anti-TLR2 and Anti-TLR4 Monoclonal Antibodies in Polymicrobial Sepsis. Plos One, v. 10, p. e0132336, 2015.
+Citações:4|5
+
+59.
+CARDOSO, CRISTINA PADRE ; OLIVEIRA, ARGENIL JOSÉ DE ASSIS DE ; BOTONI, FERNANDO ANTÔNIO ; REZENDE, ISABELA CRISTINA PORTO ; ALVES-FILHO, JOSE CARLOS ; CUNHA, FERNANDO DE QUEIROZ ; ESTANISLAU, JULIANA DE ASSIS SILVA GOMES ; MAGNO, LUIZ ALEXANDRE VIANA ; RIOS-SANTOS, FABRICIO . Interleukin-10 rs2227307 and CXCR2 rs1126579 polymorphisms modulate the predisposition to septic shock. Memórias do Instituto Oswaldo Cruz (Online), v. 110, p. 00-00, 2015.
+Citações:2|1
+
+60.
+RUIZ-MIYAZAWA, KENJI W. ; PINHO-RIBEIRO, FELIPE A. ; ZARPELON, ANA C. ; STAURENGO-FERRARI, LARISSA ; SILVA, RANGEL L. ; Alves-Filho, Jose C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . Vinpocetine reduces lipopolysaccharide-induced inflammatory pain and neutrophil recruitment in mice by targeting oxidative stress, cytokines and NF-?B. Chemico-Biological Interactions (Print), v. 237, p. 9-17, 2015.
+Citações:7|13
+
+61.
+VERAS, FLÁVIO P. ; PERES, RAPHAEL S. ; SARAIVA, ANDRÉ L. L. ; PINTO, LARISSA G. ; LOUZADA-JUNIOR, PAULO ; Cunha, Thiago M. ; PASCHOAL, JONAS A. R. ; Cunha, Fernando Q. ; Alves-Filho, José C. . Fructose 1,6-bisphosphate, a high-energy intermediate of glycolysis, attenuates experimental arthritis by activating anti-inflammatory adenosinergic pathway. Scientific Reports, v. 5, p. 15171, 2015.
+Citações:4|9
+
+62.
+FATTORI, VICTOR ; PINHO-RIBEIRO, FELIPE A. ; BORGHI, SERGIO M. ; Alves-Filho, José C. ; Cunha, Thiago M. ; Cunha, Fernando Q. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . Curcumin inhibits superoxide anion-induced pain-like behavior and leukocyte recruitment by increasing Nrf2 expression and reducing NF-?B activation. Inflammation Research (Printed ed.), v. 64, p. 993-1003, 2015.
+Citações:10|18
+
+63.
+SERAFIM, KARLA G. G. ; NAVARRO, SUELEN A. ; ZARPELON, ANA C. ; PINHO-RIBEIRO, FELIPE A. ; FATTORI, VICTOR ; Cunha, Thiago M. ; Alves-Filho, Jose C. ; Cunha, Fernando Q. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . Bosentan, a mixed endothelin receptor antagonist, inhibits superoxide anion-induced pain and inflammation in mice. Naunyn-Schmiedeberg's Archives of Pharmacology, v. 388, p. 1211-1221, 2015.
+Citações:8|5
+
+64.
+YAMACITA-BORIN, FABIANE Y. ; ZARPELON, ANA C. ; PINHO-RIBEIRO, FELIPE A. ; FATTORI, VICTOR ; Alves-Filho, Jose C. ; Cunha, Fernando Q. ; Cunha, Thiago M. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . Superoxide anion-induced pain and inflammation depends on TNF?/TNFR1 signaling in mice. Neuroscience Letters (Print), v. 605, p. 53-58, 2015.
+Citações:5|14
+
+65.
+CALIL, IGOR L. ; ZARPELON, ANA C. ; GUERRERO, ANA T. G. ; Alves-Filho, Jose C. ; FERREIRA, SERGIO H. ; Cunha, Fernando Q. ; Cunha, Thiago M. ; VERRI, WALDICEU A. . Lipopolysaccharide Induces Inflammatory Hyperalgesia Triggering a TLR4/MyD88-Dependent Cytokine Cascade in the Mice Paw. Plos One, v. 9, p. e90013, 2014.
+Citações:21|36
+
+66.
+BORGHI, SERGIO M. ; ZARPELON, ANA C. ; PINHO-RIBEIRO, FELIPE A. ; CARDOSO, RENATO D. R. ; Cunha, Thiago M. ; Alves-Filho, José C. ; FERREIRA, SERGIO H. ; Cunha, Fernando Q. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . Targeting interleukin-1? reduces intense acute swimming-induced muscle mechanical hyperalgesia in mice. Journal of Pharmacy and Pharmacology, v. n/a, p. n/a-n/a, 2014.
+Citações:8|6
+
+67.
+Sônego, Fabiane ; ALVES-FILHO, JOSÉ CARLOS ; CUNHA, FERNANDO QUEIRÓZ . Targeting neutrophils in sepsis. Expert Review of Clinical Immunology, v. 28, p. 1-10, 2014.
+Citações:9|13
+
+68.
+BARBOUR, MARK ; Allan, Debbie ; XU, HEPING ; PEI, CHENG ; CHEN, MEI ; Niedbala, Wanda ; Fukada, Sandra Y. ; Besnard, Anne-Galle ; Alves-Filho, Jose C. ; TONG, XIAOGUANG ; FORRESTER, JOHN V. ; LIEW, FOO YEW ; Jiang, Hui-Rong . IL-33 attenuates the development of experimental autoimmune uveitis. European Journal of Immunology, v. 44, p. 3320-3329, 2014.
+Citações:18|17
+
+69.
+Sônego, Fabiane ; CASTANHEIRA, FERNANDA V. S. ; CZAIKOSKI, PAULA G. ; KANASHIRO, ALEXANDRE ; Souto, Fabricio O. ; FRANÇA, RAFAEL O. ; Nascimento, Daniele C. ; Freitas, Andressa ; Spiller, Fernando ; CUNHA, LARISSA D. ; Zamboni, Dario S. ; Alves-Filho, José C. ; Cunha, Fernando Q. . MyD88-, but Not Nod1- and/or Nod2-Deficient Mice, Show Increased Susceptibility to Polymicrobial Sepsis due to Impaired Local Inflammatory Response. Plos One, v. 9, p. e103734, 2014.
+Citações:2|2
+
+70.
+STAURENGO-FERRARI, LARISSA ; ZARPELON, ANA C. ; LONGHI-BALBINOT, DANIELA T. ; MARCHESI, MARIO ; Cunha, Thiago M. ; Alves-Filho, José C. ; Cunha, Fernando Q. ; FERREIRA, SERGIO H. ; CASAGRANDE, RUBIA ; MIRANDA, KATRINA M. ; VERRI, WALDICEU A. . Nitroxyl inhibits overt pain-like behavior in mice: Role of cGMP/PKG/ATP-sensitive potassium channel signaling pathway. Pharmacological Reports, v. 66, p. 691-698, 2014.
+Citações:3|3
+
+71.
+FERREIRA, A. E. ; SISTI, F. ; SÔNEGO, F. ; WANG, S. ; FILGUEIRAS, L. R. ; BRANDT, S. ; SEREZANI, A. P. M. ; DU, H. ; CUNHA, F. Q. ; ALVES-FILHO, J. C. ; SEREZANI, C. H. . PPAR- /IL-10 Axis Inhibits MyD88 Expression and Ameliorates Murine Polymicrobial Sepsis. The Journal of Immunology (1950), v. 192, p. 2357-2365, 2014.
+Citações:19|25
+
+72.
+ZARPELON, A C ; CUNHA, T M ; ALVES-FILHO, J C ; PINTO, L G ; FERREIRA, S H ; MCINNES, I B ; XU, D ; LIEW, F Y ; CUNHA, F Q ; VERRI JR, W A . Interleukin-33/ST2 signalling contributes to carrageenin-induced innate inflammation and inflammatory pain: role of cytokines, endothelin-1 and prostaglandin E 2. British Journal of Pharmacology, v. 1, p. n/a-n/a, 2013.
+Citações:29|30
+
+73.
+GARCIA, CRISTIANA C. ; WESTON-DAVIES, WYNNE ; RUSSO, REMO C. ; TAVARES, LUCIANA P. ; RACHID, MILENE A. ; Alves-Filho, José C. ; MACHADO, ALEXANDRE V. ; RYFFEL, BERNHARD ; NUNN, MILES A. ; Teixeira, Mauro M. . Complement C5 Activation during Influenza A Infection in Mice Contributes to Neutrophil Recruitment and Lung Injury. Plos One, v. 8, p. e64443, 2013.
+Citações:22|18
+
+74.
+Niedbala, W. ; BESNARD, A.-G. ; JIANG, H. R. ; ALVES-FILHO, J. C. ; Fukada, S. Y. ; NASCIMENTO, D. ; Mitani, A. ; PUSHPARAJ, P. ; ALQAHTANI, M. H. ; LIEW, F. Y. . Nitric Oxide-Induced Regulatory T Cells Inhibit Th17 but Not Th1 Cell Differentiation and Function. The Journal of Immunology (1950), v. 191, p. 164-170, 2013.
+Citações:13|14
+
+75.
+SESTI-COSTA, R. ; SILVA, G. K. ; PROENCA-MODENA, J. L. ; Carlos, D. ; SILVA, M. L. ; ALVES-FILHO, J. C. ; ARRUDA, E. ; LIEW, F. Y. ; SILVA, J. S. . The IL-33/ST2 Pathway Controls Coxsackievirus B5-Induced Experimental Pancreatitis. The Journal of Immunology (1950), v. 1, p. 283-292, 2013.
+Citações:19|11
+
+76.
+MAGRO, D.A.C. ; HOHMANN, M.S.N. ; MIZOKAMI, S.S. ; CUNHA, T.M. ; ALVES-FILHO, J.C. ; CASAGRANDE, R. ; FERREIRA, S.H. ; LIEW, F.Y. ; CUNHA, F.Q. ; VERRI JR, W.A. . An interleukin-33/ST2 signaling deficiency reduces overt pain-like behaviors in mice. Brazilian journal of medical and biological research, v. 46, p. 601-606, 2013.
+Citações:14|13
+
+77.
+Carlos, D. ; SPILLER, F. ; SOUTO, F. O. ; TREVELIN, S. C. ; BORGES, V. F. ; de Freitas, A. ; ALVES-FILHO, J. C. ; SILVA, J. S. ; Ryffel, B. ; CUNHA, F. Q. . Histamine H2 Receptor Signaling in the Pathogenesis of Sepsis: Studies in a Murine Diabetes Model. The Journal of Immunology (1950. Online), v. 191, p. 1373-1382, 2013.
+Citações:3|2
+
+78.
+HOHMANN, MIRIAM S. N. ; CARDOSO, RENATO D. R. ; PINHO-RIBEIRO, FELIPE A. ; CRESPIGIO, JEFFERSON ; Cunha, Thiago M. ; Alves-Filho, José C. ; DA SILVA, ROSIANE V. ; PINGE-FILHO, PHILENO ; FERREIRA, SERGIO H. ; Cunha, Fernando Q. ; CASAGRANDE, RUBIA ; VERRI, WALDICEU A. . 5-Lipoxygenase Deficiency Reduces Acetaminophen-Induced Hepatotoxicity and Lethality. BioMed Research International, v. 2013, p. 1-13, 2013.
+Citações:13|14
+
+79.
+MENDONÇA, MARIA ANGÉLICA OLIVEIRA ; Souto, Fabrício O. ; MICHELI, DOUGLAS C. ; ALVES-FILHO, JOSÉ CARLOS ; Cunha, Fernando Q. ; MURTA, EDDIE FERNANDO C. ; TAVARES-MURTA, BEATRIZ M. . Mechanisms affecting neutrophil migration capacity in breast cancer patients before and after chemotherapy. Cancer Chemotherapy and Pharmacology, v. 73, p. 317-324, 2013.
+Citações:2|2
+
+80.
+CZAIKOSKI, PAULA GISELLE ; NASCIMENTO, DANIELE CARVALHO ; SÔNEGO, FABIANE ; DE FREITAS, ANDRESSA ; TURATO, WALTER MIGUEL ; DE CARVALHO, MICHEL A. ; SANTOS, RAQUEL SOUZA ; DE OLIVEIRA, GISELE PENA ; DOS SANTOS SAMARY, CYNTHIA ; TEFE-SILVA, CRISTIANE ; ALVES-FILHO, J. C. ; FERREIRA, SÉRGIO HENRIQUE ; ROSSI, M. A. ; ROCCO, PATRICIA RIEKEN MACEDO ; SPILLER, FERNANDO ; CUNHA, Fernando Queiroz . Heme Oxygenase Inhibition Enhances Neutrophil Migration Into the Bronchoalveolar Spaces and Improves the Outcome of Murine Pneumonia-Induced Sepsis. Shock (Augusta, Ga.), v. 39, p. 389-396, 2013.
+Citações:9|12
+
+81.
+SPILLER, F. ; Carlos, D. ; SOUTO, F. O. ; de Freitas, A. ; Soares, F. S. ; VIEIRA, S. M. ; Paula, F. J. A. ; ALVES-FILHO, J. C. ; CUNHA, F. Q. . Â 1-Acid Glycoprotein Decreases Neutrophil Migration and Increases Susceptibility to Sepsis in Diabetic Mice. Diabetes (New York, N.Y.), v. 61, p. 1584-1591, 2012.
+Citações:20|27
+
+82.
+Santiago, Helton C. ; Gonzalez Lombana, Claudia Z. ; Macedo, Juan P. ; Utsch, Lara ; Tafuri, Wagner L. ; Campagnole-Santos, Maria JosÃ© ; Alves, Rosana O. ; ALVES-FILHO, J. C. ; Romanha, Alvaro J. ; Cunha, Fernando Queiroz ; Teixeira, Mauro M. ; Radi, Rafael ; Vieira, Leda Q. . NADPH Phagocyte Oxidase Knockout Mice Control Trypanosoma cruzi Proliferation, but Develop Circulatory Collapse and Succumb to Infection. Plos Neglected Tropical Diseases, v. 6, p. e1492, 2012.
+Citações:7|10
+
+83.
+Trevelin, Silvia C. ; Alves-Filho, José C. ; Sônego, Fabiane ; Turato, Walter ; Nascimento, Daniele C. ; Souto, Fabricio O. ; Cunha, Thiago M. ; Gazzinelli, Ricardo T. ; Cunha, Fernando Q. . Toll-like receptor 9 activation in neutrophils impairs chemotaxis and reduces sepsis outcome. Critical Care Medicine, v. 40, p. 2631-2637, 2012.
+Citações:16|16
+
+84.
+Jiang, Hui-Rong ; Xu, Damo ; Milovanovi , Marija ; Alves-Filho, Jose C. ; Linington, Christopher ; Goodyear, Carl S. ; Liew, Foo Y. ; Lukic, Miodrag L. ; Fukada, Sandra Y. ; Besnard, Anne-Galle ; Allan, Debbie ; Togbe, Dieudonnée ; Milovanovi , Marija ; Niedbala, Wanda . IL-33 attenuates EAE by suppressing IL-17 and IFN- production and inducing alternatively activated macrophages. European Journal of Immunology, v. 42, p. n/a-n/a, 2012.
+Citações:89|108
+
+85.
+Paula-Neto, Heitor A. ; Alves-Filho, José C. ; Souto, Fabricio O. ; Spiller, Fernando ; Amêndola, Rafael S. ; Freitas, Andressa ; Cunha, Fernando Q. ; Barja-Fidalgo, Christina . Inhibition of Guanylyl Cyclase Restores Neutrophil Migration and Maintains Bactericidal Activity Increasing Survival in Sepsis. Shock (Augusta, Ga.), v. 35, p. 17-27, 2011.
+Citações:17|17
+
+86.
+SOUTO, F. O. ; ALVES-FILHO, J. C. ; Turato, W. M. ; Auxiliadora-Martins, M. ; Basile-Filho, A. ; CUNHA, F. Q. . Essential Role of CCR2 in Neutrophil Tissue Infiltration and Multiple Organ Dysfunction in Sepsis. American Journal of Respiratory and Critical Care Medicine, v. 183, p. 234-242, 2011.
+Citações:43|57
+
+87.
+Freitas, Andressa ; Alves-Filho, José C. ; Trevelin, Silvia Cellone ; Spiller, Fernando ; Suavinha, Marina Moreira ; Nascimento, Daniele Carvalho ; Pestana, Cezar Rangel ; Dal-Secco, Daniela ; Sônego, Fabiane ; Czaikoski, Paula Giselle ; Curti, Carlos ; Barja-Fidalgo, Christina ; Cunha, Fernando Q. . Divergent Role of Heme Oxygenase Inhibition in the Pathogenesis of Sepsis. Shock (Augusta, Ga.), v. 35, p. 550-559, 2011.
+Citações:8|6
+
+88.
+SPILLER, F. ; Costa, C. ; SOUTO, F. O. ; Vinchi, F. ; Mestriner, F. L. A. C. ; Laure, H. J. ; ALVES-FILHO, J. C. ; FREITAS, A. ; Rosa, J. C. ; FERREIRA, S. H. ; Altruda, F. ; Hirsch, E. ; Greene, L. J. ; Tolosano, E. ; CUNHA, F. Q. . Inhibition of Neutrophil Migration by Hemopexin Leads to Increased Mortality Due to Sepsis in Mice. American Journal of Respiratory and Critical Care Medicine, v. 183, p. 922-931, 2011.
+Citações:19|21
+
+89.
+Hueber, Axel J ; Alves-Filho, Jose C ; Asquith, Darren L ; Michels, Chesney ; Millar, Neal L ; Reilly, James H. ; Graham, Gerry J ; Liew, Foo Y ; Miller, Ashley M ; McInnes, Iain B . IL-33 induces skin inflammation with mast cell and neutrophil activation. European Journal of Immunology, v. 41, p. 2229-2237, 2011.
+Citações:75|80
+
+90.
+Niedbala, W. ; ALVES-FILHO, J. C. ; Fukada, S. Y. ; VIEIRA, S. M. ; Mitani, A. ; Sonego, F. ; Mirchandani, A. ; Nascimento, D. C. ; CUNHA, F. Q. ; LIEW, F. Y. . Regulation of type 17 helper T-cell function by nitric oxide during inflammation. Proceedings of the National Academy of Sciences of the United States of America, v. 108, p. 9220-9225, 2011.
+Citações:36|34
+
+91.
+Soares, Denis M. ; Figueiredo, Maria JosÃ© ; Martins, Juliano Manvailer ; Machado, Renes Resende ; Sorgi, Carlos ; Faciolli, Lucia Helena ; ALVES-FILHO, J. C. ; Cunha, Fernando Q. ; Souza, GlÃ³ria E. P. . A crucial role for IL-6 in the CNS of rats during fever induced by the injection of live E. coli. Medical Microbiology and Immunology, v. 201, p. 47-60, 2011.
+Citações:11|11
+
+92.
+Freitas, A. ; ALVES-FILHO, J. C. ; TREVELIN, SILVIA C. ; SPILLER, FERNANDO ; Suavinha, MM ; NASCIMENTO, D. C. ; PESTANA, C. R. ; Dal-Secco, D ; SÔNEGO, F. ; Czaikoski, PG ; CURTI, C. ; BARJA-FIDALGO, C. ; Cunha, Fernando Q. . Divergent role of heme oxygenase inhibition in the pathogenesis of sepsis. Shock (Philadelphia), v. 6, p. 550-559, 2011.
+Citações:6
+
+93.
+SPILLER, F. ; Orrico, M. I. L. ; Nascimento, D. C. ; Czaikoski, P. G. ; SOUTO, F. O. ; ALVES-FILHO, J. C. ; FREITAS, A. ; Carlos, D. ; Montenegro, M. F. ; Neto, A. F. ; FERREIRA, S. H. ; ROSSI, M. A. ; Hothersall, J. S. ; Assreuy, J. ; CUNHA, F. Q. . Hydrogen Sulfide Improves Neutrophil Migration and Survival in Sepsis via K+ATP Channel Activation. American Journal of Respiratory and Critical Care Medicine, v. 182, p. 360-368, 2010.
+Citações:60|66
+
+94.
+Dal-Secco, Daniela ; Freitas, Andressa ; Abreu, Monica A. ; Garlet, Thiago P. ; Rossi, Marcos A. ; Ferreira, Sérgio H. ; Silva, João S. ; Alves-Filho, José C. ; Cunha, Fernando Q. . Reduction of ICAM-1 expression by carbon monoxide via soluble guanylate cyclase activation accounts for modulation of neutrophil migration. Naunyn-Schmiedeberg's Archives of Pharmacology, v. 381, p. 483-493, 2010.
+Citações:12|12
+
+95.
+Verri, W. A. ; SOUTO, F. O. ; VIEIRA, S. M. ; Almeida, S. C. L. ; Fukada, S. Y. ; XU, D. ; ALVES-FILHO, J. C. ; CUNHA, T. M. ; Guerrero, A. T. G. ; MATTOS-GUIMARAES, R. B. ; Oliveira, F. R. ; TEIXEIRA, M. M. ; SILVA, J. S. ; MCINNES, I. B. ; FERREIRA, S. H. ; Louzada-Junior, P. ; LIEW, F. Y. ; CUNHA, F. Q. . IL-33 induces neutrophil migration in rheumatoid arthritis and is a target of anti-TNF therapy. Annals of the Rheumatic Diseases, v. 69, p. 1697-1703, 2010.
+Citações:114|131
+
+96.
+ Alves-Filho, Jose C; Sônego, Fabiane ; Souto, Fabricio O ; Freitas, Andressa ; Verri, Waldiceu A ; Auxiliadora-Martins, Maria ; Basile-Filho, Anibal ; McKenzie, Andrew N ; Xu, Damo ; Cunha, Fernando Q ; Liew, Foo Y . Interleukin-33 attenuates sepsis by enhancing neutrophil influx to the site of infection. Nature Medicine, v. 16, p. 708-712, 2010.
+Citações:184|199
+
+97.
+Nascimento, Daniele C. ; Alves-Filho, José C. ; Sônego, Fabiane ; Fukada, Sandra Y. ; Pereira, Marcelo S. ; Benjamim, Claudia ; Zamboni, Dario S. ; Silva, João S. ; Cunha, Fernando Q. . Role of regulatory T cells in long-term immune dysfunction associated with severe sepsis. Critical Care Medicine, v. 38, p. 1718-1725, 2010.
+Citações:44|52
+
+98.
+Alves-Filho, José C.; Spiller, Fernando ; Cunha, Fernando Q. . NEUTROPHIL PARALYSIS IN SEPSIS. Shock (Augusta, Ga.), v. 34, p. 15-21, 2010.
+Citações:65|90
+
+99.
+MARTIN, E. L. ; SOUZA, D. G. ; Fagundes, C. T. ; Amaral, F. A. ; Assenzio, B. ; Puntorieri, V. ; Del Sorbo, L. ; Fanelli, V. ; Bosco, M. ; Delsedime, L. ; Pinho, J. F. ; Lemos, V. S. ; SOUTO, F. O. ; ALVES-FILHO, J. C. ; CUNHA, F. Q. ; Slutsky, A. S. ; RUCKLE, T. ; Hirsch, E. ; TEIXEIRA, M. M. ; Ranieri, V. M. . Phosphoinositide-3 Kinase   Activity Contributes to Sepsis and Organ Damage by Altering Neutrophil Recruitment. American Journal of Respiratory and Critical Care Medicine, v. 182, p. 762-773, 2010.
+Citações:24|24
+
+100.
+ ALVES-FILHO, J. C.; FREITAS, A. ; SOUTO, F. O. ; SPILLER, F. ; Paula-Neto, H. ; SILVA, J. S. ; Gazzinelli, R. T. ; TEIXEIRA, M. M. ; FERREIRA, S. H. ; CUNHA, F. Q. . Regulation of chemokine receptor by Toll-like receptor 2 is critical to neutrophil migration and resistance to polymicrobial sepsis. PNAS. Proceedings of the National Academy of Sciences of the United States of America, v. 106, p. 4018-4023, 2009.
+Citações:119|117
+
+101.
+Secher, T. ; Vasseur, V. ; Poisson, D. M. ; Mitchell, J. A. ; CUNHA, F. Q. ; ALVES-FILHO, J. C. ; Ryffel, B. . Crucial Role of TNF Receptors 1 and 2 in the Control of Polymicrobial Sepsis. Journal of Immunology (Baltimore), v. 182, p. 7855-7864, 2009.
+Citações:23|29
+
+102.
+FREITAS, A. ; ALVES-FILHO, J. C. ; Victoni, T. ; Secher, T. ; Lemos, H. P. ; Sonego, F. ; CUNHA, F. Q. ; Ryffel, B. . IL-17 Receptor Signaling Is Required to Control Polymicrobial Sepsis. Journal of Immunology (Baltimore), v. 182, p. 7846-7854, 2009.
+Citações:45|54
+
+103.
+Valério, DA ; Ferreira, FI ; Cunha, TM ; ALVES-FILHO, J. C. ; Lima, FO ; De Oliveira, JR ; Ferreira, SH ; Cunha, FQ ; Queiroz, RH ; Verri Jr, WA . Fructose-1,6-bisphosphate reduces inflammatory pain-like behaviour in mice: role of adenosine acting on A1 receptors. British Journal of Pharmacology, v. 158, p. 558-568, 2009.
+Citações:16|14
+
+104.
+NAPIMOGA, M. H. ; VIEIRA, S. M. ; SECCO, D. ; FREITAS, A. ; SOUTO, F. O. ; MESTRINER, F. ; ALVES-FILHO, J. C. ; GRESPAN, R. ; KAWAI, T. ; FERREIRA, S. H. ; CUNHA, F. Q. . Peroxisome Proliferator-Activated Receptor-{gamma} Ligand, 15-Deoxy-{Delta}12,14-Prostaglandin J2, Reduces Neutrophil Migration via a Nitric Oxide Pathway. Journal of Immunology (Baltimore), v. 180, p. 609-617, 2008.
+Citações:37|44
+
+105.
+ALVES-FILHO, J. C.; FREITAS, A. ; SPILLER, F. ; SOUTO, F. O. ; CUNHA, F. Q. . THE ROLE OF NEUTROPHILS IN SEVERE SEPSIS. Shock (Augusta), v. 30, p. 3-9, 2008.
+Citações:34|116
+
+106.
+DAL-SECCO, D. ; CUNHA, T. M. ; FREITAS, A. ; ALVES-FILHO, J. C. ; SOUTO, F. O. ; FUKADA, S.Y. ; GRESPAN, R. ; ALENCAR, N. M. ; NETO, E ; ROSSI, M. A. ; FERREIRA, S. H. ; CUNHA, F. Q. . Hydrogen sulfide augments neutrophil migration through enhancement of adhesion molecule expression and prevention of CXCR2 internalization: role of ATP-sensitive potassium channels. Journal of Immunology (Baltimore), v. 181, p. 4287-4298, 2008.
+Citações:52|59
+
+107.
+Souza-Costa, Debora C. ; Figueiredo-Lopes, Livia ; Alves-Filho, Jose C. ; Semprini, Maria C. ; Gerlach, Raquel F. ; Cunha, Fernando Q. ; Tanus-Santos, Jose E. . Protective effects of atorvastatin in rat models of acute pulmonary embolism: Involvement of matrix metalloproteinase-9*. Critical Care Medicine, v. 35, p. 239-245, 2007.
+Citações:48|50
+
+108.
+ RIOS-SANTOS, F. ; ALVES-FILHO, J. C. ; SOUTO, F. O. ; SPILLER, F. ; FREITAS, A. ; LUTUFO, C. M. ; SOARES, M. B. ; RIBEIRO-DOS-SANTOS, R. ; TEIXEIRA, M. M. ; CUNHA, F. Q. . Down-regulation of CXCR2 on neutrophils in severe sepsis is mediated by iNOS-derived nitric oxide. American Journal of Respiratory and Critical Care Medicine, v. 175, p. 490-497, 2007.
+Citações:70|79
+
+109.
+NAPIMOGA, M ; CAVADA, B ; ALENCAR, N ; MOTA, M ; BITTENCOURT, F ; ALVES-FILHO, J. C. ; GRESPAN, R ; GONCALVES, R ; CLEMENTENAPIMOGA, J ; DEFREITAS, A . Lonchocarpus sericeus lectin decreases leukocyte migration and mechanical hypernociception by inhibiting cytokine and chemokines production. International Immunopharmacology, v. 7, p. 824-835, 2007.
+Citações:28|35
+
+110.
+Celes, Mara R??bia N. ; TORRES-DUEÑAS, D. ; ALVES-FILHO, J. C. ; Duarte, Djane B. ; Cunha, Fernando Q. ; Rossi, Marcos A. . Reduction of gap and adherens junction proteins and intercalated disc structural remodeling in the hearts of mice submitted to severe cecal ligation and puncture sepsis*. Critical Care Medicine, v. 35, p. 2176-2185, 2007.
+Citações:18|19
+
+111.
+TORRES-DUEÑAS, D. ; CELIS, M. R. ; FREITAS, A. ; ALVES-FILHO, J. C. ; SPILLER, F. ; SECCO, D. ; DALTO, V. F. ; ROSSI, M. A. ; FERREIRA, S. H. ; CUNHA, F. Q. . Peroxynitrite mediates neutrophil migration failure in severe polymicrobial sepsis. British Journal of Pharmacology, v. 152, p. 341-52, 2007.
+Citações:25|27
+
+112.
+Pinho, V. ; RUSSO, RC ; AMARAL, F.A. ; SOUSA, P. L. ; BARSANTE, M. M. ; SOUZA, G. D. ; ALVES-FILHO, J. C. ; CARA, C. D. ; HAYFLICK, J. S. ; ROMMEL, C. ; RUCKLE, T. ; ROSSI, A. G. ; TEIXEIRA, M. M. . Tissue- and stimulus-dependent role of phosphatidylinositol 3-kinase isoforms for neutrophil recruitment induced by chemoattractants in vivo. Journal of Immunology (Baltimore), v. 179, p. 7891-7898, 2007.
+Citações:41|40
+
+113.
+ ALVES-FILHO, J. C.; de Freitas, Andressa ; Russo, Momtchilo ; Cunha, Fernando Q. . Toll-like receptor 4 signaling leads to neutrophil migration impairment in polymicrobial sepsis*. Critical Care Medicine, v. 34, n.2, p. 461-470, 2006.
+Citações:81|91
+
+114.
+ALVES-FILHO, J. C.; TAVARES-MURTA, B. ; FIDALGO, C. B. ; BENJAMIM, C. ; BASILE FILHO, A. ; ARRAES, S. M. ; CUNHA, F. Q. . Neutrophil function in severe sepsis. Endocrine, Metabolic and Immune Disorders. Drug Targets, v. 6, n.2, p. 151-158, 2006.
+Citações:23
+
+115.
+MORENO, S. E. ; ALVES-FILHO, J. C. ; RIOS-SANTOS, F. ; SILVA, J. S. ; TEIXEIRA, M. M. . Signaling via PAF receptors accounts for the impairment of neutrophil migration in polymicrobial sepsis. Journal of Immunology (Baltimore), v. 177, n.2, p. 1264-1271, 2006.
+Citações:38|40
+
+116.
+Prado, Cibele M ; Ramos, Simone G ; ALVES-FILHO, J. C. ; Elias, Jorge ; Cunha, Fernando Q ; Rossi, Marcos A . Turbulent flow/low wall shear stress and stretch differentially affect aorta remodeling in rats. Journal of Hypertension, v. 24, n.3, p. 503???515, 2006.
+
+117.
+Lopes, R. Pestana ; LUNARDELLI, A. ; PREISSLER, T. ; LEITE, C. E. ; Alves-Filho, J. C. F. ; Nunes, F. Bordignon ; Oliveira, J. Rodrigues ; BAUER, M. E. . The effects of fructose-1,6-bisphosphate and dexamethasone on acute inflammation and T-cell proliferation. Inflammation Research, aceito, v. 55, p. 354-358, 2006.
+Citações:16|21
+
+118.
+MORENO, S. E. ; ALVES-FILHO, J. C. ; BERTOZI, G. ; ALFAYA, T. M. ; THEZE, J. ; FERREIRA, S. H. ; VARGAFTIG, B. B. . Systemic administration of Interleukin 2 inhibits inflammatory neutrophil migration: role of nitric oxide. British Journal of Pharmacology, aceito, v. 148, p. 1060-1066, 2006.
+Citações:14|15
+
+119.
+ALVES-FILHO, J. C.; CUNHA, F. Q. . Modulation of toll-like receptors expression: a further effect of statins?. Arteriosclerosis, Thrombosis, and Vascular Biology, v. 26, n.7, p. e128, 2006.
+Citações:2|3
+
+120.
+FREITAS, A. ; ALVES-FILHO, J. C. ; SECCO, D. ; FEDERMAN NETO, A. ; FIDALGO, C. B. ; CUNHA, F. Q. . Heme oxygenase/carbon monoxide-biliverdin pathway down regulates neutrophil rolling, adhesion and migration in acute inflammation. British Journal of Pharmacology, v. 149, p. 345-354, 2006.
+Citações:90|95
+
+121.
+MORENO, S. E. ; ALVES-FILHO, J. C. ; ALFAYA, T. M. ; SILVA, J. S. ; FERREIRA, S. H. ; LIEW, F. Y. . IL-12, but not IL-18, is critical to neutrophil activation and resistance to polymicrobial sepsis induced by cecal ligation and puncture. Journal of Immunology (Baltimore), v. 177, p. 3218-3224, 2006.
+Citações:49|58
+
+122.
+ARRAES, S. M. ; FREITAS, M. S. ; SILVA, S. V. ; PAULA NETO, H. A. ; ALVES-FILHO, J. C. ; MARTINS, M. A. ; BASILE FILHO, A. ; TAVARES-MURTA, B. ; FIDALGO, C. B. ; CUNHA, F. Q. . Impaired neutrophil chemotaxis in sepsis associates with GRK expression and inhibition of actin assembly and tyrosine phosphorylation. Blood (Philadelphia, PA), v. 108, p. 2906-2913, 2006.
+Citações:63|62
+
+123.
+MACHADO, D. P. ; NUNES, F. B. ; PIRES, M. G. S. ; LEITE, C. E. ; CUNHA, A. A. ; LUNARDELLI, A. ; De OLIVEIRA, J. R. ; ALVES-FILHO, J. C. ; CUNHA, F. Q. ; Dias FS ; Figueiredo CE . Effects of beta-lactam antibiotics and L-arginine in the treatment of experimental sepsis in rats. International Journal of Antimicrobial Agents, v. 28, p. 478-480, 2006.
+
+124.
+DASILVAMELO, D ; SACIURA, V ; POLONI, J ; OLIVEIRA, C ; ALVES-FILHO, J. C. ; PADILHA, R ; REICHEL, C ; NETO, E ; OLIVEIRA, R ; DAVILA, L . Evaluation of renal enzymuria and cellular excretion as an marker of acute nephrotoxicity due to an overdose of paracetamol in Wistar rats. Clinica Chimica Acta, v. 373, p. 88-91, 2006.
+Citações:10|18
+
+125.
+ALVES-FILHO, J. C.. Toll-like receptors on platelets: the key for disseminated intravascular coagulation in sepsis?. Thrombosis Research, Estados Unidos, v. 115, n.6, p. 537-538, 2005.
+Citações:4|6
+
+126.
+Alves-Filho, José Carlos; Benjamim, Claudia ; Tavares-Murta, Beatriz Martins ; Cunha, Fernando Q . Failure of neutrophil migration toward infectious focus in severe sepsis: a critical event for the outcome of this syndrome. Memórias do Instituto Oswaldo Cruz, Brasil, v. 100, n.(Suppl I), p. 223-226, 2005.
+Citações:32|34
+
+127.
+MORESCO, R. N. ; SANTOS, R. C. V. ; ALVES-FILHO, J. C. ; CUNHA, A. A. ; REIS, Cristine dos ; REICHEL, C. L. ; De OLIVEIRA, J. R. . Protective effect of Fructose-1,6-Bisphosphate in the cold storage solution for liver preservation in rat hepatic transplantation. Transplantation Proceedings, Estados Unidos, v. 36, n.5, p. 1261-1264, 2004.
+Citações:12|14
+
+128.
+ALVES-FILHO, J. C.; SANTOS, R. C. V. ; CASTAMAN, T. A. ; De OLIVEIRA, J. R. . Anti-inflammatory effects of fructose -1,6-bisphosphate on carrageenan-induced pleurisy in rat. Pharmacological Research, Itália, v. 49, n.3, p. 245-248, 2004.
+Citações:18|21
+
+129.
+NUNES, F. B. ; ALVES-FILHO, J. C. ; CABERLON, E. ; De OLIVEIRA, J. R. . Effect of chlorpropamide and fructose 1,6 bisphosphate on soluble TNF receptor II levels. Pharmacological Research, Itália, v. 49, n.5, p. 449-453, 2004.
+Citações:3|4
+
+130.
+MORESCO, R ; SANTOS, R ; ALVES-FILHO, J. C. ; DEOLIVEIRA, J . Effect of fructose-1,6-bisphosphate in the cold storage solution after 12 and 36 hours of rat liver preservation. Transplantation Proceedings, Estados Unidos, v. 36, n.9, p. 2593-2595, 2004.
+Citações:6|8
+
+131.
+AIUB, C. A. F. ; BORTOLINI, R. ; AZAMBUJA, A. A. ; ALVES-FILHO, J. C. ; NUNES, F. B. ; De OLIVEIRA, J. R. . Alterations in the indexes of apoptosis and necrosis induced by galactosamine in the liver of Wistar rats treated with fructose-1,6-bisphosphate. Hepatology Research, v. 25, n.1, p. 83-91, 2003.
+Citações:10|14
+
+132.
+NUNES, F. B. ; GASPARETO, P. ; SANTOS, R. C. V. ; ASSIS, M. ; GRAZIOTTIN, C. M. ; BIOLCHI, V. ; ALVES-FILHO, J. C. ; LUNARDELLI, A. ; DAVILA, L. ; PIRES, M. G. S. . Intravenous toxicity of fructose-1,6-bisphosphate in rats. Toxicology Letters, v. 143, n.1, p. 73-81, 2003.
+Citações:11|11
+
+133.
+NUNES, F. B. ; GRAZIOTTIN, C. M. ; ALVES-FILHO, J. C. ; LUNARDELLI, A. ; CABERLON, E. ; PERES, A. ; De OLIVEIRA, J. R. . An assessment of fructose-1,6-bisphophate as an antimicrobial and anti-inflamatory agent in sepsis. Pharmacological Research, Itália, v. 47, p. 35-41, 2003.
+Citações:16|19
+
+134.
+NUNES, F. B. ; GRAZIOTTIN, C. M. ; ALVES-FILHO, J. C. ; LUNARDELLI, A. ; CABERLON, E. ; PERES, A. ; De OLIVEIRA, J. R. . Immunomodulatory effect of fructose-1,6-bisphosphate on T-lymphocytes. International Immunopharmacology, Estados Unidos, v. 3, n.2, p. 267-272, 2003.
+Citações:17|22
+
+135.
+FILIPPIN, T. B. ; NUNES, F. B. ; CASTAMAN, T. A. ; SANTOS, R. C. V. ; ALVES-FILHO, J. C. ; De OLIVEIRA, J. R. . Sepse relacionada ao uso de cateter intravascular. Revista Brasileira de Análises Clínicas, Rio de Janeiro, v. 34, n.4, p. 197-199, 2002.
+
+136.
+NUNES, F. B. ; PIRES, M. G. S. ; ALVES-FILHO, J. C. ; WÄCHTER, P. H. ; De OLIVEIRA, J. R. . Physiopathological studies in septic rats and the use of fructose 1,6-bisphosphate as cellular protection. Critical Care Medicine, v. 30, p. 2069-2074, 2002.
+Citações:23|25

@@ -1,0 +1,243 @@
+1.
+DE ALMEIDA, JOÃO PAULO PEREIRA ; VÊNCIO, RICARDO Z. N. ; LORENZETTI, ALAN P. R. ; CATEN, FELIPE TEN- ; GOMES-FILHO, JOSÉ VICENTE ; KOIDE, TIE . The Primary Antisense Transcriptome of Halobacterium salinarum NRC-1. Genes, v. 10, p. 280, 2019.
+
+2.
+KANAN, ADELLE D. ; COREY, EVA ; VÊNCIO, RICARDO Z. N. ; ISHWAR, ARJUN ; Liu, Alvin Y. . Lineage relationship between prostate adenocarcinoma and small cell carcinoma. BMC CANCER, v. 19, p. 518, 2019.
+
+3.
+ TEN-CATEN, FELIPE ; VÊNCIO, RICARDO Z. N. ; LORENZETTI, ALAN PÉRICLES R. ; ZARAMELA, LÍVIA SOARES ; SANTANA, ANA CAROLINA ; KOIDE, TIE . Internal RNAs overlapping coding sequences can drive the production of alternative proteins in archaea. RNA Biology, v. 1, p. 1, 2018.
+
+4.
+Pascal, Laura E ; MASOODI, KHALID Z ; LIU, JUNE ; QIU, XIAONAN ; SONG, QIONG ; WANG, YUJUAN ; ZANG, YACHEN ; YANG, TIEJUN ; WANG, YAO ; RIGATTI, LORA H ; CHANDRAN, UMA ; COLLI, LEANDRO M ; VENCIO, RICARDO Z N ; LU, YI ; ZHANG, JIAN ; Wang, Zhou . Conditional deletion of ELL2 induces murine prostate intraepithelial neoplasia. JOURNAL OF ENDOCRINOLOGY, v. 235, p. 123-136, 2017.
+Citações:1|2
+
+5.
+BORGES, GISELY T. ; Vêncio, Eneida F. ; QUEK, SUE-ING ; CHEN, ADELINE ; SALVANHA, DIEGO M. ; Vêncio, Ricardo Z.N. ; NGUYEN, HOLLY M. ; VESSELLA, ROBERT L. ; Cavanaugh, Christopher ; Ware, Carol B. ; TROISCH, PAMELA ; Liu, Alvin Y. . Conversion of Prostate Adenocarcinoma to Small Cell Carcinoma-Like by Reprogramming. Journal of Cellular Physiology (Print), v. 1, p. n/a-n/a, 2016.
+Citações:3
+
+6.
+JIANG, YUXIANG ORON, TAL RONNEN CLARK, WYATT T. BANKAPUR, ASMA R. D?ANDREA, DANIEL LEPORE, ROSALBA FUNK, CHRISTOPHER S. KAHANDA, INDIKA VERSPOOR, KARIN M. BEN-HUR, ASA KOO, DA CHEN EMILY PENFOLD-BROWN, DUNCAN SHASHA, DENNIS YOUNGS, NOAH BONNEAU, RICHARD LIN, ALEXANDRA SAHRAEIAN, SAYED M. E. MARTELLI, PIER LUIGI PROFITI, GIUSEPPE CASADIO, RITA CAO, RENZHI ZHONG, ZHAOLONG CHENG, JIANLIN ALTENHOFF, ADRIAN SKUNCA, NIVES , et al. ; An expanded evaluation of protein function prediction methods shows an improvement in accuracy. GENOME BIOLOGY, v. 17, p. 184, 2016.
+Citações:5|40
+
+7.
+BORGES, G. T. ; VENCIO, E. F. ; VENCIO, R. Z. N. ; Vessella, Robert L ; Ware, Carol B ; Liu, Alvin Y . Reprogramming of Prostate Cancer Cells - Technical Challenges. Current Urology Reports (Print), v. 16, p. 468, 2015.
+
+8.
+SILVA, D. C. A. E. ; VENCIO, R. Z. N. . SIFTER-T: A scalable and optimized framework for the SIFTER phylogenomic method of probabilistic protein domain annotation. BioTechniques, v. 58, p. 140, 2015.
+
+9.
+ERNST, MADELEINE ; SILVA, DENISE B. ; SILVA, RICARDO ; MONGE, MARCELO ; SEMIR, JOÃO ; Vêncio, Ricardo Z.N. ; LOPES, NORBERTO P. . A metabolomic protocol for plant systematics by matrix-assisted laser-desorption/ionization time-of flight mass spectrometry. Analytica Chimica Acta (Print), v. 859, p. 46-58, 2015.
+Citações:2|3
+
+10.
+KHAN, ATLAS ; XUE, LI ZHENG ; WEI, WU ; QU, YANPENG ; HUSSAIN, AMIR ; VENCIO, RICARDO Z. N. . Convergence Analysis of a New Self Organizing Map Based Optimization (SOMO) Algorithm. Cognitive Computation, v. 7, p. 1, 2015.
+
+11.
+GOMES-FILHO, J. V. ; ZARAMELA, LIVIA S. ; ITALIANI, V. C. S. ; BALIGA, NITIN S. ; VENCIO, R. Z. N. ; KOIDE, TIE . Sense overlapping transcripts in IS 1341 -type transposase genes are functional non-coding RNAs in archaea. RNA Biology, v. 12, p. 490-500, 2015.
+Citações:7|6
+
+12.
+GUARDIA, GABRIELA D. A. ; PIRES, LUÍS FERREIRA ; VÊNCIO, RICARDO Z. N. ; MALMEGRIM, KELEN C. R. ; DE FARIAS, CLÉVER R. G. . A Methodology for the Development of RESTful Semantic Web Services for Gene Expression Analysis. Plos One, v. 10, p. e0134011, 2015.
+Citações:2|2
+
+13.
+QUEK, SUE-ING ; WONG, OLIVIA M. ; CHEN, ADELINE ; BORGES, GISELY T. ; ELLIS, WILLIAM J. ; SALVANHA, DIEGO M. ; Vêncio, Ricardo Z.N. ; WEAVER, BRANDI ; ENCH, YASMIN M. ; LEACH, ROBIN J. ; THOMPSON, IAN M. ; Liu, Alvin Y. . Processing of voided urine for prostate cancer RNA biomarker analysis. The Prostate (Print), v. 1, p. n/a-n/a, 2015.
+Citações:2|3
+
+14.
+SILVA, R. R. ; JOURDAN, F. ; SALVANHA, D. M. ; LETISSE, F. ; JAMIN, E. ; GUIDETTI-GONZALEZ, S. ; LABATE, C. A. ; VENCIO, R. Z. N. . ProbMetab: an R package for Bayesian probabilistic annotation of LC-MS based metabolomics. Bioinformatics (Oxford. Print), v. 30, p. 1, 2014.
+Citações:9|5
+
+15.
+ERNST, M. ; SILVA, D. B. ; SILVA, R. R. ; VENCIO, R. Z. N. ; LOPES, N. P. . Mass spectrometry in plant metabolomics strategies: from analytical platforms to data acquisition and processing. Natural Product Reports, v. 1, p. 1, 2014.
+Citações:32|29
+
+16.
+PERSINOTI, G. F. ; PERES, N. T. A. ; JACOB, T. R. ; ROSSI, A. ; VENCIO, R. Z. N. ; MARTINEZ-ROSSI, N. M. . RNA-sequencing analysis of Trichophyton rubrum transcriptome in response to sublethal doses of acriflavine. BMC Genomics, v. 15, p. S1, 2014.
+Citações:5
+
+17.
+ZARAMELA, LIVIA S. ; VÊNCIO, RICARDO Z. N. ; TEN-CATEN, FELIPE ; BALIGA, NITIN S. ; KOIDE, TIE . Transcription Start Site Associated RNAs (TSSaRNAs) Are Ubiquitous in All Domains of Life. Plos One, v. 9, p. e107680, 2014.
+Citações:2|2
+
+18.
+SU, F. ; CORREA, B. R. S. ; LUO, J. ; VENCIO, R ; Pascal, Laura E ; WANG, Z. . Gene Expression Profiling Reveals Regulation of ERK Phosphorylation by Androgen-Induced Tumor Suppressor U19/EAF2 in the Mouse Prostate. Cancer Microenvironment, v. 1, p. 23440596-1, 2013.
+Citações:8
+
+19.
+MIYAZAKI, F. A. ; GUARDIA, G. D. A. ; VENCIO, R ; FARIAS, C. R. G. . Semantic integration of gene expression analysis tools and data sources using software connectors. BMC Genomics, v. 14, p. S2, 2013.
+Citações:1|2
+
+20.
+LIU, A. Y. ; VENCIO, R ; PAGE, L. S. ; HO, M. ; Loprieno, Michelle A. ; TRUE, L. D. . Bladder expression of CD cell surface antigens and cell type-specific transcriptomes. Cell and Tissue Research (Print), v. 347, p. 1, 2012.
+Citações:10|10
+
+21.
+Vasconcelos, E.J.R. ; Terrão, M.C. ; Ruiz, J.C. ; VENCIO, R ; Cruz, A.K. . In silico identification of conserved intercoding sequences in Leishmania genomes: Unraveling putative cis-regulatory elements. Molecular and Biochemical Parasitology (Print), p. 1, 2012.
+Citações:4|3
+
+22.
+GUARDIA, G. D. A. ; VENCIO, R ; FARIAS, C. R. G. . A UML profile for the OBO relation ontology. BMC Genomics, v. 13, p. S3, 2012.
+Citações:14
+
+23.
+Vêncio, Eneida F. ; Nelson, Angelique M. ; Cavanaugh, Christopher ; Ware, Carol B. ; Milller, Daniel G. ; Garcia, Julio C.O. ; Vêncio, Ricardo Z.N. ; Loprieno, Michelle A. ; Liu, Alvin Y. . Reprogramming of prostate cancer-associated stromal cells to embryonic stem-like. The Prostate (Print), v. 71, p. n/a-n/a, 2012.
+Citações:12|8
+
+24.
+Pascal, Laura E. ; Ai, Junkui ; VENCIO, R ; Vêncio, Eneida F. ; Zhou, Yong ; Page, Laura S. ; True, Lawrence D. ; Wang, Zhou ; Liu, Alvin Y. . Differential Inductive Signaling of CD90+ Prostate Cancer-Associated Fibroblasts Compared to Normal Tissue Stromal Mesenchyme Cells. Cancer Microenvironment, v. 4, p. 51-59, 2011.
+Citações:12
+
+25.
+Pascal, Laura E ; VENCIO, R ; Vessella, Robert L ; Ware, Carol B ; Vencio, Eneida F ; Denyer, Gareth ; Liu, Alvin Y . Lineage relationship of prostate cancer cell types based on gene expression. BMC Medical Genomics, v. 4, p. 46, 2011.
+Citações:13|14
+
+26.
+Toledo, Sílvia Regina Caminada ; Zago, Marco Antonio ; Oliveira, Indhira Dias ; Proto-Siqueira, Rodrigo ; Okamoto, Oswaldo K. ; Severino, Patricia ; VENCIO, R ; Gamba, Francine Tesser ; Silva, Wilson A. ; Moreira-Filho, Carlos A. ; Torre, Cristiane A. Dalla ; Alves, Maria Tereza Seixas ; Garcia-Filho, Reynaldo J. ; Simpson, Andrew J. G. ; Petrilli, Antonio Sergio . Insights on PRAME and osteosarcoma by means of gene expression profiling. Journal of Orthopaedic Science (Print), p. 4, 2011.
+Citações:2|6
+
+27.
+Cortez, D.A. ; Tonon, A.P. ; Colepicolo, P. ; VENCIO, R . Combining P values to improve classification of differential gene expression in the HTself software. Genetics and Molecular Research, v. 10, p. 1, 2011.
+Citações:1|7
+
+28.
+LIU, A. Y. ; PASCAL, L. E. ; VENCIO, R ; VENCIO, E. F. . Stromal-epithelial interactions in early neoplasia. Cancer Biomarkers, v. 9, p. 141-155, 2011.
+Citações:4|6
+
+29.
+SILVA, I. T. ; VENCIO, R ; OLIVEIRA, T. Y. ; MOLFETTA, G. A. ; SILVA JUNIOR, W. A. . ProbFAST: Probabilistic Functional Analysis System Tool. BMC Bioinformatics, v. 11, p. 161, 2010.
+Citações:1|1
+
+30.
+FERNANDEZ-BECERRA, C. ; YAMAMOTO, M. M. ; VENCIO, R ; LACERDA, M. ; ROSANAS-URGELL, A. ; PORTILLO, H. A. . Plasmodium vivax and the importance of the subtelomeric multigene vir superfamily. Trends in Parasitology, v. 25, p. 44-51, 2009.
+Citações:31|29
+
+31.
+LEE, W. ; CUI, D. ; CZESNIKIEWICZ-GUZIK, M. ; VENCIO, R ; SHMULEVICH, I. ; ADEREM, A. ; WEYAND, C. M. ; GORONZY, J. J. . Age-dependent signature of metallothionein expression in primary CD4 T-cell responses is due to sustained zinc signaling. Rejuvenation Research, v. 11, p. 1001-1011, 2009.
+Citações:24|22
+
+32.
+IZAAC, S. M. S. ; KOIDE, T. ; VENCIO, R ; GOMES, S. L. . Global gene expression analysis during germination in the Chytridiomycete Blastocladiella emersonii. Eukaryotic Cell (Online), v. 8, p. 170-180, 2009.
+Citações:5|4
+
+33.
+PAPINI-TERZI, F. S. ; ROCHA, F. R. ; VENCIO, R ; FELIX, J. M. ; BRANCO, D. S. ; WACLAWOVSKY, A. J. ; DEL BEM, L. E. V. ; LEMBKE, C. G. ; COSTA, M. D. ; NISHIYAMA-JR, M. Y. ; VICENTINI, R. ; VINCENTZ, M. G. ; ULIAN, E. C. ; MENOSSI, M. ; SOUZA, G. M. . Sugarcane genes associated with sucrose content. BMC Genomics, v. 10, p. 120, 2009.
+Citações:49|67
+
+34.
+PASCAL, L. E. ; VENCIO, R ; GOO, Y. A. ; PAGE, L. S. ; SHADLE, C. P. ; LIU, A. Y. . Temporal expression profiling of the effects of secreted factors from prostate stromal cells on embryonal carcinoma stem cells. The Prostate, v. 69, p. 1353-1365, 2009.
+Citações:10|12
+
+35.
+FELIX, J. M. ; PAPINI-TERZI, F. S. ; ROCHA, F. R. ; VENCIO, R ; VICENTINI, R. ; NISHIYAMA-JR, M. Y. ; ULIAN, E. C. ; SOUZA, G. M. ; MENOSSI, M. . Expression Profile of Signal Transduction Components in a Sugarcane Population Segregating for Sugar Content. Tropical Plant Biology (Print), v. 2, p. 98-109, 2009.
+Citações:10
+
+36.
+PASCAL, L. E. ; VENCIO, R ; PAGE, L. S. ; LIEBESKIND, E. S. ; SHADLE, C. P. ; TROISCH, P. ; MARZOLF, B. ; TRUE, L. D. ; HOOD, L. E. ; LIU, A. Y. . Gene expression relationship between prostate cancer cells of Gleason 3, 4 and normal epithelial cells as revealed by cell type-specific transcriptomes. BMC Cancer (Online), v. 9, p. 452, 2009.
+Citações:28|40
+
+37.
+PASCAL, L. E. ; GOO, Y. A. ; VENCIO, R ; PAGE, L. S. ; CHAMBERS, A. A. ; LIEBESKIND, E. S. ; TAKAYAMA, T. K. ; TRUE, L. D. ; LIU, A. Y. . Gene expression down-regulation in CD90+ prostate tumor-associated stromal cells involves potential organ-specific genes. BMC Cancer (Online), v. 9, p. 317, 2009.
+Citações:27|25
+
+38.
+ZAINI, P. A. ; FOGACA, A. C. ; LUPO, F. N. G. ; NAKAYA, H. I. ; VENCIO, R. Z. N. ; SILVA, A. M. . The Iron Stimulon of Xylella fastidiosa Includes Genes for Type IV Pilus and Colicin V-Like Bacteriocins. Journal of Bacteriology, v. 190, p. 2368-2378, 2008.
+Citações:23|24
+
+39.
+QUEREC, T. ; AKONDY, R. S. ; LEE, E. K. ; CAO, W. ; NAKAYA, H. I. ; TEUWEN, D. ; PIRANI, A. ; GERNERT, K. ; DENG, J. ; MARZOLF, B. ; KENNEDY, K. ; WU, H. ; BENNOUNA, S. ; OLUOCH, H. ; MILLER, J. ; VENCIO, R ; MULLIGAN, M. ; ADEREM, A. ; AHMED, R. ; PULENDRAN, B. . Systems biology approach predicts immunogenicity of the yellow fever vaccine in humans. Nature Immunology, v. 10, p. 116-125, 2008.
+Citações:411|473
+
+40.
+PAPINI-TERZI, F. S. ; FELIX, J. M. ; ROCHA, F. R. ; WACLAWOVSKY, A. J. ; ULIAN, E. C. ; CHABREGAS, S. M. ; NISHIYAMA-JR, M. Y. ; VENCIO, R ; VICENTINI, R. ; MENOSSI, M. ; SOUZA, G. M. . The SUCEST-FUN Project: identifying genes that regulate sucrose content in sugarcane plants. Sugar Cane International, v. 26, p. 25-29, 2008.
+
+41.
+ROCHA, F. R. ; PAPINI-TERZI, F. S. ; NISHIYAMA-JR, M. Y. ; VENCIO, R ; VICENTINI, R. ; DUARTE, R. D. C. ; SILVA, F. V. ; MEDEIROS, A. H. ; FIGUEIRA, A. V. O. ; HEMERLY, A. S. ; ULIAN, E. C. ; MAURO, S. M. Z. ; MENOSSI, M. ; SOUZA, G. M. . Signal transduction-related responses to phytohormones and environmental challenges in sugarcane. BMC Genomics, v. 8, p. 71, 2007.
+Citações:44|70
+
+42.
+OKAMOTO, O. K. ; CARVALHO, A. C. S. R. ; MARTI, L. C. ; VENCIO, R. Z. N. ; MOREIRA-FILHO, C. A. . Common molecular pathways involved in human CD133+/CD34+ progenitor cell expansion and cancer. Cancer Cell International (Online), v. 7, p. 11, 2007.
+Citações:11|15
+
+43.
+VENCIO, R; VARUZZA, L. ; BRENTANI, H. ; PEREIRA, C. A. B. ; SHMULEVICH, I. . Simcluster: clustering enumeration gene expression data on the simplex space. BMC Bioinformatics, v. 8, p. 246, 2007.
+Citações:10|10
+
+44.
+COSTAFREDA, S. G. ; BRAMMER, M. J. ; VENCIO, R ; MOURAO, M. L. ; PORTELA, L. A. P. ; CASTRO, C. C. ; GIAMPIETRO, V. P. ; AMARO JUNIOR, E. . Multisite fMRI reproducibility of a motor task using identical MR systems. Journal of Magnetic Resonance Imaging, v. 26, p. 1122-1126, 2007.
+Citações:36|34
+
+45.
+SEVERINO, P. ; VENCIO, R ; DUSSURGET, O. ; DUMAS, E. ; GARRIDO, P. ; PADILLA, G. ; PIVETEAU, P. ; LEMAITRE, J. ; KUNST, F. ; GLASER, P. ; BUCHRIESER, C. . Comparative Transcriptome Analysis of Listeria monocytogenes Strains of the Two Major Lineages Reveals Differences in Virulence, Cell Wall, and Stress Response. Applied and Environmental Microbiology, v. 73, p. 6078-6088, 2007.
+Citações:39|36
+
+46.
+VENCIO, R; SHMULEVICH, I. . ProbCD: enrichment analysis accounting for categorization uncertainty. BMC Bioinformatics, v. 8, p. 383, 2007.
+Citações:13|17
+
+47.
+VENCIO, R; KOIDE, T. ; GOMES, S. L. ; PEREIRA, C. A. B. . BayGO: Bayesian analysis of ontology term enrichment in microarray data. BMC Bioinformatics, v. 7, p. 86, 2006.
+Citações:33|32
+
+48.
+PEIXOTO, B. R. ; VENCIO, R ; EGIDIO, C. M. ; MOTA-VIEIRA, L. ; VERJOVSKI-ALMEIDA, S. ; REIS, E. M. . Evaluation of reference-based two-color methods for measurement of gene expression ratios using spotted cDNA microarrays. BMC Genomics, v. 7, p. 35, 2006.
+Citações:13|13
+
+49.
+KOIDE, T. ; IZAAC, S. M. S. ; GOMES, S. L. ; VENCIO, R . SpotWhatR: a user-friendly microarray data analysis system. Genetics and Molecular Research, v. 5, n.1, p. 93-107, 2006.
+Citações:12|12
+
+50.
+VENCIO, R; PATRAO, D. F. C. ; BAPTISTA, C. S. ; PEREIRA, C. A. B. ; ZINGALES, B. . BayBoots: a model-free Bayesian tool to identify class markers from gene expression data. Genetics and Molecular Research, v. 5, n.1, p. 138-142, 2006.
+Citações:3|4
+
+51.
+KOIDE, T. ; VENCIO, R ; GOMES, S. L. . Global gene expression analysis of the heat shock response in the phytopathogen Xylella fastidiosa. Journal of Bacteriology, v. 188, p. 5821-5830, 2006.
+Citações:29|32
+
+52.
+BAPTISTA, C. S. ; VENCIO, R ; ABDALA, S. ; CARRANZA, J. C. ; WESTENBERGER, S. J. ; SILVA, M. N. ; PEREIRA, C. A. B. ; GALVAO, L. M. ; GONTIJO, E. D. ; CHIARI, E. ; STURM, N. R. ; ZINGALES, B. . Differential transcription profiles in Trypanosoma cruzi associated with clinical forms of Chagas disease: Maxicircle NADH dehydrogenase subunit 7 gene truncation in asymptomatic patient isolates. Molecular and Biochemical Parasitology, v. 150, p. 236-248, 2006.
+Citações:17|18
+
+53.
+VENCIO, R; OLIVEIRA, G. B. . Integração entre Biologia e Física: construindo redes de regulação gênica usando equações diferenciais. Revista Brasileira de Ensino de Bioquímica e Biologia Molecular, v. 1, p. 30-43, 2006.
+
+54.
+RIBICHICH, K. F. ; IZAAC, S. M. S. ; GEORG, R. C. ; VENCIO, R ; NAVARRO, L. D. ; GOMES, S. L. . Gene discovery and expression profile analysis through EST sequencing from different developmental stages of the chytridiomycete Blastocladiella emersonii. Eukaryotic Cell (Online), Estados Unidos, v. 4, n.5, p. 455-464, 2005.
+Citações:19|17
+
+55.
+PAPINI-TERZI, F. S. ; ROCHA, F. R. ; VENCIO, R ; OLIVEIRA, K. C. ; FELIX, J. M. ; VICENTINI, R. ; ROCHA, C. S. ; SIMOES, A. C. Q. ; ULIAN, E. C. ; MAURO, S. M. Z. ; SILVA, A. M. ; PEREIRA, C. A. B. ; MENOSSI, M. ; SOUZA, G. M. . Transcription profiling of signal transduction-related genes in sugarcane tissues. DNA Research, Japão, v. 12, n.1, p. 27-38, 2005.
+Citações:39|53
+
+56.
+PASHALIDIS, S. ; MOREIRA, L. M. ; ZAINI, P. A. ; CAMPANHARO, J. C. ; ALVES, L. M. C. ; CIAPINA, L. P. ; VENCIO, R ; LEMOS, E. G. M. ; SILVA, A. M. ; SILVA, A. C. R. . Whole-genome expression profiling of Xylella fastidiosa in response to growth on glucose. Journal of Integrative Biology / Omics (Larchmont), v. 9, n.1, p. 77-90, 2005.
+Citações:10|9
+
+57.
+FOLGUEIRA, M. A. A. K. ; CARRARO, D. M. ; BRENTANI, H. ; PATRAO, D. F. C. ; BARBOSA, E. M. ; KATAYAMA, M. L. H. ; SOARES, F. A. ; OLIVEIRA, C. T. ; REIS, L. F. L. ; CAMARGO, L. P. ; VENCIO, R ; SNITCOVSKY, I. M. L. ; MAKDISSI, F. B. A. ; BRENTANI, M. M. . Gene expression profile associated with response to doxorubicin-based therapy in breast cancer. Clinical Cancer Research, v. 11, n.20, p. 7434-7443, 2005.
+Citações:124|124
+
+58.
+VENCIO, R; KOIDE, T. . HTself: Self-Self Based Statistical Test for Low Replication Microarray Studies. DNA Research, v. 12, n.3, p. 211-214, 2005.
+Citações:31|32
+
+59.
+KOIDE, T. ; ZAINI, P. A. ; MOREIRA, L. M. ; VENCIO, R ; MATSUKUMA, A. Y. ; DURHAM, A. M. ; TEIXEIRA, D. C. ; EL-DORRY, H. ; MONTEIRO, P. B. ; SILVA, A. C. R. ; VERJOVSKI-ALMEIDA, S. ; SILVA, A. M. ; GOMES, S. L. . DNA Microarray-Based Genome Comparison of a Pathogenic and a Nonpathogenic Strain of Xylella fastidiosa Delineates Genes Important for Bacterial Virulence. Journal of Bacteriology, Estados Unidos, v. 186, n.16, p. 5442-5449, 2004.
+Citações:51|51
+
+60.
+VENCIO, R; BRENTANI, H. ; PATRAO, D. F. C. ; PEREIRA, C. A. B. . Bayesian model accounting for within-class biological variability in Serial Analysis of Gene Expression (SAGE). BMC Bioinformatics, Estados Unidos, v. 5, n.119, p. 119-0, 2004.
+Citações:48|48
+
+61.
+BAPTISTA, C. S. ; VENCIO, R ; ABDALA, S. ; VALADARES, M. P. ; MARTINS, C. ; PEREIRA, C. A. B. ; ZINGALES, B. . DNA microarrays for comparative genomics and analysis of gene expression in Trypanosoma cruzi. Molecular and Biochemical Parasitology, Estados Unidos, v. 138, n.2, p. 183-194, 2004.
+Citações:17|16
+
+62.
+COUTINHO, M. ; BALBACHEVSKY, E ; HOLZHACKER, D. O. ; PATRAO, D. F. C. ; VENCIO, R ; SILVA, R. L. M. ; LUCATELLI, M. L. G. ; REIS, L. F. ; MARIN, M. A. . Intellectual property and public research in biotechnology: the scientists opinion. Scientometrics, Hungria, v. 58, n.3, p. 641-656, 2003.
+Citações:7|10
+
+63.
+VENCIO, R; BRENTANI, H. ; PEREIRA, C. A. B. . Using credibility intervals instead of hypothesis tests in SAGE analysis. Bioinformatics (Oxford), v. 19, n.18, p. 2461-2464, 2003.
+Citações:22|23

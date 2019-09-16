@@ -1,0 +1,305 @@
+1.
+SOARES-SCHANOSKI, ALESSANDRA ; BAPTISTA CRUZ, NATÁLIA ; DE CASTRO-JORGE, LUÍZA ANTUNES ; DE CARVALHO, RENAN VILLANOVA HOMEM ; SANTOS, CLIOMAR ALVES DOS ; RÓS, NANCY DA ; OLIVEIRA, ÚRSULA ; COSTA, DANUZA DUARTE ; SANTOS, CECÍLIA LUÍZA SIMÕES DOS ; CUNHA, MARIELTON DOS PASSOS ; OLIVEIRA, MARIA LEONOR SARNO ; ALVES, JULIANA CARDOSO ; OCÉA, REGINA ADALVA DE LUCENA COUTO ; RIBEIRO, DANIELLE RODRIGUES ; GONÇALVES, ANDRÉ NICOLAU AQUIME ; GONZALEZ-DIAS, PATRICIA ; Suhrbier, Andreas ; ZANOTTO, PAOLO MARINHO DE ANDRADE ; AZEVEDO, INÁCIO JUNQUEIRA DE ; ZAMBONI, DARIO S. ; ALMEIDA, ROQUE PACHECO ; HO, PAULO LEE ; KALIL, JORGE ; NISHIYAMA, MILTON YUTAKA ; Nakaya, Helder I. . Systems analysis of subjects acutely infected with the Chikungunya virus. PLoS Pathogens, v. 15, p. e1007880, 2019.
+
+2.
+OLIVEIRA-DE-SOUZA, DEIVIDE ; VINHAES, CAIAN L. ; ARRIAGA, MARIA B. ; KUMAR, NATHELLA PAVAN ; CUBILLOS-ANGULO, JUAN M. ; SHI, RUIRU ; WEI, WANG ; YUAN, XING ; ZHANG, GUOLONG ; CAI, YING ; BARRY, CLIFTON E. ; VIA, LAURA E. ; SHER, ALAN ; BABU, SUBASH ; MAYER-BARBER, KATRIN D. ; Nakaya, Helder I. ; FUKUTANI, KIYOSHI F. ; ANDRADE, BRUNO B. . Molecular degree of perturbation of plasma inflammatory markers associated with tuberculosis reveals distinct disease profiles between Indian and Chinese populations. Scientific Reports, v. 9, p. 1, 2019.
+
+3.
+CARDOZO, LUCAS E. ; RUSSO, PEDRO S. T. ; GOMES-CORREIA, BRUNO ; ARAUJO-PEREIRA, MARIANA ; SEPÚLVEDA-HERMOSILLA, GONZALO ; MARACAJA-COUTINHO, VINICIUS ; Nakaya, Helder I. . webCEMiTool: Co-expression Modular Analysis Made Easy. Frontiers in Genetics, v. 10, p. 1, 2019.
+
+4.
+RUSSO, PEDRO S. T. ; FERREIRA, GUSTAVO R. ; CARDOZO, LUCAS E. ; BÜRGER, MATHEUS C. ; ARIAS-CARRASCO, RAUL ; MARUYAMA, SANDRA R. ; HIRATA, THIAGO D. C. ; LIMA, DIÓGENES S. ; PASSOS, FERNANDO M. ; FUKUTANI, KIYOSHI F. ; LEVER, MELISSA ; SILVA, JOÃO S. ; MARACAJA-COUTINHO, VINICIUS ; Nakaya, Helder I. . CEMiTool: a Bioconductor package for performing comprehensive modular co-expression analyses. BMC BIOINFORMATICS, v. 19, p. 1, 2018.
+
+5.
+ARIAS-CARRASCO, RAÚL ; VÁSQUEZ-MORÁN, YESSENIA ; Nakaya, Helder I. ; MARACAJA-COUTINHO, VINICIUS . StructRNAfinder: an automated pipeline and web server for RNA families prediction. BMC BIOINFORMATICS, v. 19, p. 55, 2018.
+
+6.
+PERES, RAPHAEL S. ; DONATE, PAULA B. ; TALBOT, JHIMMY ; CECILIO, NERRY T. ; LOBO, PATRICIA R. ; MACHADO, CAIO C. ; LIMA, KALIL W.A. ; OLIVEIRA, RENE D. ; CARREGARO, VANESSA ; Nakaya, Helder I. ; CUNHA, THIAGO M. ; ALVES-FILHO, JOSÉ CARLOS ; LIEW, FOO Y. ; LOUZADA-JUNIOR, PAULO ; CUNHA, FERNANDO Q. . TGF-? signalling defect is linked to low CD39 expression on regulatory T cells and methotrexate resistance in rheumatoid arthritis. JOURNAL OF AUTOIMMUNITY, v. 1, p. 1, 2018.
+
+7.
+CAIRES-JÚNIOR, LUIZ CARLOS GOULART, ERNESTO MELO, UIRÁ SOUTO ARAUJO, BRUNO SILVA HENRIQUE ALVIZI, LUCAS SOARES-SCHANOSKI, ALESSANDRA DE OLIVEIRA, DANYLLO FELIPE KOBAYASHI, GERSON SHIGERU GRIESI-OLIVEIRA, KARINA MUSSO, CAMILA MANSO AMARAL, MURILO SENA DASILVA, LUCAS FERREIRA ASTRAY, RENATO MANCINI SUÁREZ-PATIÑO, SANDRA FERNANDA VENTINI, DANIELLA CRISTINA GOMES DA SILVA, SÉRGIO YAMAMOTO, GUILHERME LOPES EZQUINA, SUZANA NASLAVSKY, MICHEL SATYA TELLES-SILVA, KAYQUE ALVES WEINMANN, KARINA VAN DER LINDEN, VANESSA VAN DER LINDEN, HELIO DE OLIVEIRA, JOÃO MENDES RICARDO ARRAIS, NIVIA RODRIGUES MARIA , et al. ; Discordant congenital Zika syndrome twins show differential in vitro viral susceptibility of neural progenitor cells. Nature Communications, v. 9, p. 1, 2018.
+
+8.
+AMARAL, PAULO P. ; LEONARDI, TOMMASO ; HAN, NAMSHIK ; VIRÉ, EMMANUELLE ; GASCOIGNE, DENNIS K. ; ARIAS-CARRASCO, RAÚL ; BÜSCHER, MAGDALENA ; PANDOLFINI, LUCA ; ZHANG, ANDA ; PLUCHINO, STEFANO ; MARACAJA-COUTINHO, VINICIUS ; Nakaya, Helder I. ; HEMBERG, MARTIN ; SHIEKHATTAR, RAMIN ; ENRIGHT, ANTON J. ; KOUZARIDES, TONY . Genomic positional conservation identifies topological anchor point RNAs linked to developmental loci. GENOME BIOLOGY, v. 19, p. 1, 2018.
+Citações:2|3
+
+9.
+HUTTNER, ANGELA AGNANDJI, SELIDJI TODAGBE COMBESCURE, CHRISTOPHE FERNANDES, JOSÉ F BACHE, EMMANUEL BACHE KABWENDE, LUMEKA NDUNGU, FRANCIS MAINA BROSNAHAN, JESSICA MONATH, THOMAS P LEMAÎTRE, BARBARA GRILLET, STÉPHANE BOTTO, MIRIAM ENGLER, OLIVIER PORTMANN, JASMINE SIEGRIST, DENISE BEJON, PHILIP SILVERA, PETER KREMSNER, PETER SIEGRIST, CLAIRE-ANNE KRISHNA, SANJEEV ADDO, MARYLYN M. BECKER, STEPHAN KRÄHLING, VERENA NJUGUNA, PATRICIA KIENY, MARIE-PAULE , et al. ; Determinants of antibody persistence across doses and continents after single-dose rVSV-ZEBOV vaccination for Ebola virus disease: an observational cohort study. LANCET INFECTIOUS DISEASES, v. 18, p. 738-748, 2018.
+
+10.
+SILVA, MARIA C. ; DAVOLI-FERREIRA, MARCELA ; MEDINA, TIAGO S. ; SESTI-COSTA, RENATA ; SILVA, GRACE K. ; LOPES, CARLA D. ; CARDOZO, LUCAS E. ; GAVA, FÁBIO N. ; LYRONI, KONSTANTINA ; DIAS, FABRÍCIO C. ; FRADE, AMANDA F. ; BARON, MONIQUE ; Nakaya, Helder I. ; FIGUEIREDO, FLORÊNCIO ; ALVES-FILHO, JOSÉ C. ; CUNHA, FERNANDO Q. ; TSATSANIS, CHRISTOS ; CHEVILLARD, CHRISTOPHE ; CUNHA-NETO, EDECIO ; HIRSCH, EMILIO ; SILVA, JOÃO S. ; CUNHA, THIAGO M. . Canonical PI3K? signaling in myeloid cells restricts Trypanosoma cruzi infection and dampens chagasic myocarditis. Nature Communications, v. 9, p. 1513, 2018.
+
+11.
+FERREIRA, GUSTAVO RODRIGUES ; Nakaya, Helder Imoto ; COSTA, LUCIANO DA FONTOURA . Gene regulatory and signaling networks exhibit distinct topological distributions of motifs. PHYSICAL REVIEW E, v. 97, p. 1, 2018.
+
+12.
+BARROS, JÉSSICA BARLETTO DE SOUSA ; SILVA, PAULO ALEX NEVES DA ; KOGA, ROSEMARY DE CARVALHO ROCHA ; GONZALEZ-DIAS, PATRÍCIA ; CARMO FILHO, JOSÉ RODRIGUES ; NAGIB, PATRÍCIA RESENDE ALO ; COELHO, VERÔNICA ; Nakaya, Helder I. ; FONSECA, SIMONE GONÇALVES ; PFRIMER, IRMTRAUT ARACI HOFFMANN . Acute Zika Virus Infection in an Endemic Area Shows Modest Proinflammatory Systemic Immunoactivation and Cytokine-Symptom Associations. Frontiers in Immunology, v. 9, p. 1, 2018.
+
+13.
+HIRAKO, ISABELLA CRISTINA ; ASSIS, PATRÍCIA APARECIDA ; HOJO-SOUZA, NATÁLIA SATCHIKO ; REED, GEORGE ; NAKAYA, HELDER ; GOLENBOCK, DOUGLAS TAYLOR ; COIMBRA, RONEY SANTOS ; GAZZINELLI, RICARDO TOSTES . Daily Rhythms of TNF? Expression and Food Intake Regulate Synchrony of Plasmodium Stages with the Host Circadian Cycle. Cell Host & Microbe, v. 1, p. 1, 2018.
+
+14.
+BITTENCOURT, NAJARA C. ; LEITE, JULIANA A. ; SILVA, ANA BEATRIZ I. E. ; PIMENTA, TAMIRYS S. ; SILVA-FILHO, JOÃO LUIZ ; CASSIANO, GUSTAVO C. ; LOPES, STEFANIE C. P. ; DOS-SANTOS, JOAO C. K. ; BOURGARD, CATARINA ; Nakaya, Helder I. ; DA SILVA VENTURA, ANA MARIA REVORÊDO ; LACERDA, MARCUS V. G. ; FERREIRA, MARCELO U. ; MACHADO, RICARDO L. D. ; ALBRECHT, LETUSA ; COSTA, FABIO T. M. . Genetic sequence characterization and naturally acquired immune response to Plasmodium vivax Rhoptry Neck Protein 2 (PvRON2). MALARIA JOURNAL, v. 17, p. 1-1, 2018.
+
+15.
+FUKUTANI, KIYOSHI F. ; NASCIMENTO-CARVALHO, CRISTIANA M. ; BOUZAS, MAIARA L. ; OLIVEIRA, JULIANA R. ; BARRAL, ALDINA ; DIERCKX, TIM ; KHOURI, RICARDO ; Nakaya, Helder I. ; ANDRADE, BRUNO B. ; VAN WEYENBERGH, JOHAN ; DE OLIVEIRA, CAMILA I. . In situ Immune Signatures and Microbial Load at the Nasopharyngeal Interface in Children With Acute Respiratory Infection. Frontiers in Microbiology, v. 9, p. 1-1, 2018.
+
+16.
+VAN DER HEIJDEN, YURI F. ; ABDULLAH, FAREED ; ANDRADE, BRUNO B. ; ANDREWS, JASON R. ; CHRISTOPHER, DEVASAHAYAM J. ; CRODA, JULIO ; EWING, HEATHER ; HAAS, DAVID W. ; HATHERILL, MARK ; HORSBURGH, C. ROBERT ; MAVE, VIDYA ; Nakaya, Helder I. ; ROLLA, VALERIA ; SRINIVASAN, SUDHA ; SUGIYONO, RETNA INDAH ; UGARTE-GIL, CESAR ; HAMILTON, CAROL . Building capacity for advances in tuberculosis research; proceedings of the third RePORT international meeting. TUBERCULOSIS, v. 113, p. 153-162, 2018.
+
+17.
+JOCHEMS, SIMON P. ; MARCON, FERNANDO ; CARNIEL, BEATRIZ F. ; HOLLOWAY, MARK ; MITSI, ELENA ; SMITH, EMMA ; GRITZFELD, JENNA F. ; SOLÓRZANO, CARLA ; REINÉ, JESÚS ; POJAR, SHERIN ; NIKOLAOU, ELISSAVET ; GERMAN, ESTHER L. ; HYDER-WRIGHT, ANGIE ; HILL, HELEN ; HALES, CAZ ; DE STEENHUIJSEN PITERS, WOUTER A. A. ; BOGAERT, DEBBY ; ADLER, HUGH ; ZAIDI, SEHER ; CONNOR, VICTORIA ; GORDON, STEPHEN B. ; RYLANCE, JAMIE ; Nakaya, Helder I. ; FERREIRA, DANIELA M. . Inflammation induced by influenza virus impairs human innate immune control of pneumococcus. NATURE IMMUNOLOGY, v. 1, p. 1, 2018.
+
+18.
+LEVER, MELISSA ; SILVEIRA, EDUARDO L. ; Nakaya, Helder I. . Systems Vaccinology Applied to DNA Vaccines: Perspective and Challenges. CURRENT ISSUES IN MOLECULAR BIOLOGY, v. 1, p. 1-16, 2017.
+
+19.
+KAZMIN, DMITRI ; Nakaya, Helder I. ; LEE, EVA K. ; JOHNSON, MATTHEW J. ; VAN DER MOST, ROBBERT ; VAN DEN BERG, ROBERT A. ; BALLOU, W. RIPLEY ; JONGERT, ERIK ; WILLE-REECE, ULRIKE ; OCKENHOUSE, CHRISTIAN ; Aderem, Alan ; ZAK, DANIEL E. ; SADOFF, JERALD ; HENDRIKS, JENNY ; Wrammert, Jens ; Ahmed, Rafi ; Pulendran, Bali . Systems analysis of protective immune responses to RTS,S malaria vaccination in humans. PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA, v. 114, p. 2425-2430, 2017.
+Citações:9|28
+
+20.
+COSTA, VIVIAN V. ; DEL SARTO, JULIANA L. ; ROCHA, REBECA F. ; SILVA, FLAVIA R. ; DORIA, JULIANA G. ; OLMO, ISABELLA G. ; MARQUES, RAFAEL E. ; QUEIROZ-JUNIOR, CELSO M. ; FOUREAUX, GISELLE ; ARAÚJO, JULIA MARIA S. ; CRAMER, ALLYSSON ; REAL, ANA LUÍZA C. V. ; RIBEIRO, LUCAS S. ; SARDI, SILVIA I. ; FERREIRA, ANDERSON J. ; MACHADO, FABIANA S. ; DE OLIVEIRA, ANTÔNIO C. ; TEIXEIRA, ANTÔNIO L. ; Nakaya, Helder I. ; SOUZA, DANIELLE G. ; RIBEIRO, FABIOLA M. ; TEIXEIRA, MAURO M. . N -Methyl-d-Aspartate (NMDA) Receptor Blockade Prevents Neuronal Death Induced by Zika Virus Infection. mBio, v. 8, p. e00350-17, 2017.
+
+21.
+Li, Shuzhao SULLIVAN, NICOLE L. Rouphael, Nadine YU, TIANWEI BANTON, SOPHIA MADDUR, MOHAN S. McCausland, Megan CHIU, CHRISTOPHER CANNIFF, JENNIFER DUBEY, SHERI LIU, KEN TRAN, VILINH HAGAN, THOMAS DURAISINGHAM, SAI WIELAND, ANDREAS MEHTA, ANEESH K. WHITAKER, JENNIFER A. SUBRAMANIAM, SHANKAR JONES, DEAN P. SETTE, ALESSANDRO VORA, KALPIT WEINBERG, ADRIANA MULLIGAN, MARK J. Nakaya, Helder I. LEVIN, MYRON , et al. ; Metabolic Phenotypes of Response to Vaccination in Humans. CELL, v. 169, p. 862-877.e17, 2017.
+Citações:11|9
+
+22.
+PRADA-MEDINA, CESAR A. ; FUKUTANI, KIYOSHI F. ; PAVAN KUMAR, NATHELLA ; GIL-SANTANA, LEONARDO ; BABU, SUBASH ; LICHTENSTEIN, FLÁVIO ; WEST, KIM ; SIVAKUMAR, SHANMUGAM ; MENON, PRADEEP A. ; VISWANATHAN, VIJAY ; ANDRADE, BRUNO B. ; Nakaya, Helder I. ; KORNFELD, HARDY . Systems Immunology of Diabetes-Tuberculosis Comorbidity Reveals Signatures of Disease Complications. Scientific Reports, v. 7, p. 1, 2017.
+Citações:2
+
+23.
+DE OLIVEIRA, ÉRICA APARECIDA ; DE LIMA, DIOGENES SAULO ; CARDOZO, LUCAS ESTEVES ; DE SOUZA, GARCIA FERREIRA ; DE SOUZA, NAYANE ; ALVES-FERNANDES, DEBORA KRISTINA ; FAIÃO-FLORES, FERNANDA ; PABLO QUINCOCES, JOSÉ AGUSTÍN ; DE MORAES BARROS, SILVIA BERLANGA ; Nakaya, Helder I. ; MONTEIRO, GISELE ; MARIA-ENGLER, SILVYA STUCHI . Toxicogenomic and bioinformatics platforms to identify key molecular mechanisms of a curcumin-analogue DM-1 toxicity in melanoma cells. PHARMACOLOGICAL RESEARCH, v. 1, p. 1, 2017.
+Citações:28
+
+24.
+OLIVEIRA, ANA-CAROLINA ; GOMES-NETO, JOÃO FRANCISCO ; BARBOSA, CARLOS-HENRIQUE DANTAS ; GRANATO, ALESSANDRA ; REIS, BERNARDO S ; SANTOS, BRUNO MAIA ; FUCS, RITA ; CANTO, FÁBIO B ; Nakaya, Helder I ; NÓBREGA, ALBERTO ; BELLIO, MARIA . Crucial role for T cell-intrinsic IL-18R-MyD88 signaling in cognate immune response to intracellular parasite infection. eLife, v. 6, p. 1, 2017.
+
+25.
+CHEN, WEIQIANG ; FOO, SUAN-SIN ; ZAID, ALI ; TENG, TERK-SHIN ; HERRERO, LARA J. ; WOLF, STEFAN ; THARMARAJAH, KOTHILA ; VU, LUAN D. ; VAN VREDEN, CARYN ; TAYLOR, ADAM ; FREITAS, JOSEPH R. ; LI, RACHEL W. ; WOODRUFF, TRENT M. ; GORDON, RICHARD ; OJCIUS, DAVID M. ; Nakaya, Helder I. ; KANNEGANTI, THIRUMALA-DEVI ; O?NEILL, LUKE A. J. ; ROBERTSON, AVRIL A. B. ; KING, NICHOLAS J. ; Suhrbier, Andreas ; COOPER, MATTHEW A. ; NG, LISA F. P. ; MAHALINGAM, SURESH . Specific inhibition of NLRP3 in chikungunya disease reveals a role for inflammasomes in alphavirus-induced inflammation. Nature Microbiology, v. 2, p. 1435-1445, 2017.
+Citações:1|2
+
+26.
+Racioppi, Luigi ; LENTO, WILLIAM ; HUANG, WEI ; ARVAI, STEPHANIE ; DOAN, PHUONG L ; HARRIS, JEFFREY R ; MARCON, FERNANDO ; Nakaya, Helder I ; LIU, YAPING ; CHAO, NELSON . Calcium/calmodulin-dependent kinase kinase 2 regulates hematopoietic stem and progenitor cell regeneration. Cell Death & Disease, v. 8, p. e3076, 2017.
+
+27.
+BLOHMKE, CHRISTOPH J. ; HILL, JENNIFER ; DARTON, THOMAS C. ; CARVALHO-BURGER, MATHEUS ; EUSTACE, ANDREW ; JONES, CLAIRE ; SCHREIBER, FERNANDA ; GOODIER, MARTIN R. ; DOUGAN, GORDON ; Nakaya, Helder I. ; POLLARD, ANDREW J. . Induction of Cell Cycle and NK Cell Responses by Live-Attenuated Oral Vaccines against Typhoid Fever. Frontiers in Immunology, v. 8, p. 1, 2017.
+
+28.
+PROW, NATALIE A. ; TANG, BING ; Gardner, Joy ; LE, THUY T. ; TAYLOR, ADAM ; POO, YEE S. ; NAKAYAMA, ERI ; HIRATA, THIAGO D. C. ; Nakaya, Helder I. ; SLONCHAK, ANDRII ; MUKHOPADHYAY, PAMELA ; MAHALINGAM, SURESH ; SCHRODER, WAYNE A. ; KLIMSTRA, WILLIAM ; Suhrbier, Andreas . Lower temperatures reduce type I interferon activity and promote alphaviral arthritis. PLoS Pathogens, v. 13, p. e1006788, 2017.
+
+29.
+FERREIRA, LUDMILA RODRIGUES PINTO ; FERREIRA, FREDERICO MORAES ; LAUGIER, LAURIE ; CABANTOUS, SANDRINE ; NAVARRO, ISABELA CUNHA ; DA SILVA CÂNDIDO, DARLAN ; RIGAUD, VAGNER CARVALHO ; REAL, JULIANA MONTE ; PEREIRA, GLAUCIA VILAR ; PEREIRA, ISABELA RESENDE ; RUIVO, LEONARDO ; PANDEY, RAMENDRA PATI ; SAVOIA, MARILDA ; KALIL, JORGE ; LANNES-VIEIRA, JOSELI ; NAKAYA, HELDER ; CHEVILLARD, CHRISTOPHE ; CUNHA-NETO, EDECIO . Integration of miRNA and gene expression profiles suggest a role for miRNAs in the pathobiological processes of acute Trypanosoma cruzi infection. Scientific Reports, v. 7, p. 1, 2017.
+Citações:2
+
+30.
+SCHONS-FONSECA, LUCIANE ; DA SILVA, JOSEFA B. ; MILANEZ, JULIANA S. ; DOMINGOS, RENAN H. ; SMITH, JANET L. ; Nakaya, Helder I. ; GROSSMAN, ALAN D. ; HO, PAULO L. ; DA COSTA, RENATA MA . Analysis of LexA binding sites and transcriptomics in response to genotoxic stress in. Nucleic Acids Research, v. 1, p. gkv1536, 2016.
+Citações:1|2
+
+31.
+Nakaya, Helder I.; CLUTTERBUCK, ELIZABETH ; KAZMIN, DMITRI ; WANG, LILI ; CORTESE, MARIO ; BOSINGER, STEVEN E. ; PATEL, NIRAV B. ; ZAK, DANIEL E. ; Aderem, Alan ; DONG, TAO ; DEL GIUDICE, GIUSEPPE ; RAPPUOLI, RINO ; CERUNDOLO, VINCENZO ; POLLARD, ANDREW J. ; Pulendran, Bali ; SIEGRIST, CLAIRE-ANNE . Systems biology of immunity to MF59-adjuvanted versus nonadjuvanted trivalent seasonal influenza vaccines in early childhood. Proceedings of the National Academy of Sciences of the United States of America, v. 1, p. 201519690, 2016.
+Citações:9|12
+
+32.
+SCHRODER, WAYNE A. ; ANRAKU, ITARU ; LE, THUY T. ; HIRATA, THIAGO D.C. ; Nakaya, Helder I. ; Major, Lee ; ELLIS, JONATHAN J. ; Suhrbier, Andreas . SerpinB2 Deficiency Results in a Stratum Corneum Defect and Increased Sensitivity to Topically Applied Inflammatory Agents. The American Journal of Pathology (Print), v. 1, p. 1, 2016.
+Citações:21
+
+33.
+Ravindran, Rajesh ; LOEBBERMANN, JENS ; Nakaya, Helder I. ; Khan, Nooruddin ; MA, HUALING ; GAMA, LEONARDO ; MACHIAH, DEEPA K. ; LAWSON, BENTON ; HAKIMPOUR, PAUL ; WANG, YI-CHONG ; Li, Shuzhao ; SHARMA, PRACHI ; KAUFMAN, RANDAL J. ; MARTINEZ, JENNIFER ; Pulendran, Bali . The amino acid sensor GCN2 controls gut inflammation by inhibiting inflammasome activation. Nature (London), v. 531, p. 523-527, 2016.
+Citações:18|29
+
+34.
+IM, SE JIN ; HASHIMOTO, MASAO ; GERNER, MICHAEL Y. ; LEE, JUNGHWA ; KISSICK, HAYDN T. ; BURGER, MATHEUS C. ; SHAN, QIANG ; HALE, J. SCOTT ; LEE, JUDONG ; NASTI, TAHSEEN H. ; SHARPE, ARLENE H. ; FREEMAN, GORDON J. ; GERMAIN, RONALD N. ; Nakaya, Helder I. ; XUE, HAI-HUI ; Ahmed, Rafi . Defining CD8+ T cells that provide the proliferative burst after PD-1 therapy. Nature (London), v. 1, p. 1, 2016.
+Citações:20|84
+
+35.
+ELLEBEDY, ALI H ; JACKSON, KATHERINE J L ; KISSICK, HAYDN T ; Nakaya, Helder I ; DAVIS, CARL W ; ROSKIN, KRISHNA M ; MCELROY, ANITA K ; OSHANSKY, CHRISTINE M ; Elbein, Rivka ; THOMAS, SHINE ; LYON, GEORGE M ; SPIROPOULOU, CHRISTINA F ; Mehta, Aneesh K ; THOMAS, PAUL G ; BOYD, SCOTT D ; Ahmed, Rafi . Defining antigen-specific plasmablast and memory B cell subsets in human blood after viral infection or vaccination. Nature Immunology (Print), v. 1, p. 1, 2016.
+Citações:18|20
+
+36.
+Kasturi, Sudhir Pai ; KOZLOWSKI, PAMELA A. ; Nakaya, Helder I ; BURGER, MATHEUS C. ; RUSSO, PEDRO ; PHAM, MATHEW ; KOVALENKOV, YEVGENIY ; SILVEIRA, EDUARDO L. V. ; HAVENAR-DAUGHTON, COLIN ; BURTON, SAMANTHA L. ; KILGORE, KATIE M. ; JOHNSON, MATHEW J. ; NABI, RAFIQ ; LEGERE, TRACI ; SHER, ZARPHEEN JINNAH ; CHEN, XUEMIN ; AMARA, RAMA R. ; HUNTER, ERIC ; BOSINGER, STEVEN E. ; SPEARMAN, PAUL ; CROTTY, SHANE ; Villinger, Francois ; DERDEYN, CYNTHIA A. ; Wrammert, Jens ; Pulendran, Bali . Adjuvanting an SIV vaccine with TLR ligands encapsulated in nanoparticles induces persistent antibody responses and enhanced protection in TRIM5? restrictive macaques. Journal of Virology (Print), v. 1, p. JVI.01844-16, 2016.
+
+37.
+MUÑOZ, MINDY ; CRASKE, MADELEINE ; SEVERINO, PATRICIA ; DE LIMA, THAIS MARTINS ; LABHART, PAUL ; CHAMMAS, ROGER ; VELASCO, IRINEU TADEU ; MACHADO, MARCEL CERQUEIRA CÉSAR ; EGAN, BRIAN ; Nakaya, Helder I ; PINHEIRO DA SILVA, FABIANO . Antimicrobial peptide LL-37 participates in the transcriptional regulation of melanoma cells. Journal of Cancer, v. 7, p. 2341-2345, 2016.
+
+38.
+FERREIRA, LUDMILA RODRIGUES PINTO ; FERREIRA, FREDERICO MORAES ; Nakaya, Helder Imoto ; DENG, XUTAO ; CÂNDIDO, DARLAN DA SILVA ; DE OLIVEIRA, LEA CAMPOS ; BILLAUD, JEAN-NOEL ; LANTERI, MARION C. ; RIGAUD, VAGNER OLIVEIRA-CARVALHO ; SEIELSTAD, MARK ; KALIL, JORGE ; FERNANDES, FABIO ; RIBEIRO, ANTÔNIO LUIZ P. ; SABINO, ESTER CERDEIRA ; CUNHA-NETO, EDECIO . Blood Gene Signatures of Chagas disease Cardiomyopathy with or without ventricular dysfunction. The Journal of Infectious Diseases, v. 1, p. jiw540, 2016.
+
+39.
+VIEIRA GERALDO, MURILO ; IMOTO NAKAYA, HELDER ; TERUKO KIMURA, EDNA . Down-regulation of 14q32-encoded miRNAs and tumor suppressor role for miR-654-3p in papillary thyroid cancer. OncoTarget, v. 1, p. 1-10, 2016.
+
+40.
+AKONDY, RAMA S. ; JOHNSON, PHILIP L. F. ; Nakaya, Helder I. ; EDUPUGANTI, SRILATHA ; MULLIGAN, MARK J. ; LAWSON, BENTON ; MILLER, JOSEPH D. ; Pulendran, Bali ; ANTIA, RUSTOM ; Ahmed, Rafi . Initial viral load determines the magnitude of the human CD8 T cell response to yellow fever vaccination. Proceedings of the National Academy of Sciences of the United States of America, v. 112, p. 3050-3055, 2015.
+Citações:9|16
+
+41.
+Nakaya, Helder I; BRUNA-ROMERO, OSCAR . Is the gut microbiome key to modulating vaccine efficacy?. Expert Review of Vaccines, v. 1, p. 1-3, 2015.
+Citações:4|6
+
+42.
+NAKAYA, H. I.; Pulendran, B. . Vaccinology in the era of high-throughput biology. Philosophical Transactions - Royal Society. Biological Sciences (Print), v. 370, p. 20140146-20140146, 2015.
+Citações:4|6
+
+43.
+HAGAN, THOMAS ; Nakaya, Helder I. ; SUBRAMANIAM, SHANKAR ; Pulendran, Bali . Systems vaccinology: Enabling rational vaccine design with systems biological approaches. Vaccine (Guildford), v. 1, p. 1, 2015.
+Citações:11|27
+
+44.
+NAVARRO, ISABELA CUNHA ; FERREIRA, FREDERICO MORAES ; Nakaya, Helder I. ; BARON, MONIQUE ANDRADE ; VILAR-PEREIRA, GLÁUCIA ; PEREIRA, ISABELA RESENDE ; SILVA, ANA MARIA GONÇALVES ; REAL, JULIANA MONTE ; DE BRITO, THALES ; CHEVILLARD, CHRISTOPHE ; LANNES-VIEIRA, JOSELI ; KALIL, JORGE ; CUNHA-NETO, EDECIO ; FERREIRA, LUDMILA RODRIGUES PINTO . MicroRNA Transcriptome Profiling in Heart of Trypanosoma cruzi-Infected Mice: Parasitological and Cardiological Outcomes. PLoS Neglected Tropical Diseases (Online), v. 9, p. e0003828, 2015.
+Citações:5|10
+
+45.
+UREN, PHILIP J. ; VO, DAT T. ; ROSA DE ARAUJO, PATRICIA ; PÖTSCHKE, REBECCA ; BURNS, SUZANNE C. ; BAHRAMI-SAMANI, EMAD ; QIAO, MEI ; DE SOUSA ABREU, RAQUEL ; Nakaya, Helder I ; CORREA, BRUNA R. ; KÜHNÖL, CASPAR ; ULE, JERNEJ ; MARTINDALE, JENNIFER L. ; ABDELMOHSEN, KOTB ; GOROSPE, MYRIAM ; SMITH, ANDREW D. ; PENALVA, LUIZ O.F. . The RNA-binding protein Musashi1 is a central regulator of adhesion pathways in glioblastoma. Molecular and Cellular Biology (Print), v. 1, p. MCB.00410-15, 2015.
+Citações:5|6
+
+46.
+ALMEIDA, GIULLIANA T. ; LAGE, REGINA C. G. ; ANDERSON, LETICIA ; VENANCIO, THIAGO M. ; Nakaya, Helder I. ; MIYASATO, PATRÍCIA A. ; ROFATTO, HENRIQUE K. ; ZERLOTINI, ADHEMAR ; NAKANO, ELIANA ; OLIVEIRA, GUILHERME ; Verjovski-Almeida, Sergio . Synergy of Omeprazole and Praziquantel In Vitro Treatment against Schistosoma mansoni Adult Worms. PLoS Neglected Tropical Diseases (Online), v. 9, p. e0004086, 2015.
+Citações:1|5
+
+47.
+NAKAYA, HELDER I.; HAGAN, THOMAS ; DURAISINGHAM, SAI S. ; LEE, EVA K. ; Kwissa, Marcin ; Rouphael, Nadine ; FRASCA, DANIELA ; GERSTEN, MERRIL ; MEHTA, ANEESH K. ; GAUJOUX, RENAUD ; Li, Gui-Mei ; GUPTA, SHAKTI ; Ahmed, Rafi ; MULLIGAN, MARK J. ; SHEN-ORR, SHAI ; BLOMBERG, BONNIE B. ; SUBRAMANIAM, SHANKAR ; Pulendran, Bali . Systems Analysis of Immunity to Influenza Vaccination across Multiple Years and in Diverse Populations Reveals Shared Molecular Signatures. Immunity (Cambridge, Mass.), v. 43, p. 1186-1198, 2015.
+Citações:16|24
+
+48.
+OKADA, SABRINA SAYORI ; DE OLIVEIRA, EDSON MENDES ; DE ARAÚJO, TOMAZ HENRIQUE ; RODRIGUES, MARIA RITA ; ALBUQUERQUE, RENATA CHAVES ; MORTARA, RENATO ARRUDA ; TANIWAKI, NOEMI NOSOMI ; Nakaya, Helder Imoto ; CAMPA, ANA ; MORENO, ANA CAROLINA RAMOS . Myeloperoxidase in human peripheral blood lymphocytes: Production and subcellular localization. Cellular Immunology (Print), v. 2015, p. 2015, 2015.
+Citações:2|2
+
+49.
+TAMIM, SALEH ; VO, DAT T. ; UREN, PHILIP J. ; QIAO, MEI ; BINDEWALD, ECKART ; KASPRZAK, WOJCIECH K. ; SHAPIRO, BRUCE A. ; Nakaya, Helder I. ; BURNS, SUZANNE C. ; ARAUJO, PATRICIA R. ; NAKANO, ICHIRO ; RADEK, AGNES J. ; KUERSTEN, SCOTT ; SMITH, ANDREW D. ; PENALVA, LUIZ O. F. . Genomic Analyses Reveal Broad Impact of miR-137 on Genes Associated with Malignant Transformation and Neuronal Differentiation in Glioblastoma Cells. Plos One, v. 9, p. e85591, 2014.
+Citações:11|16
+
+50.
+POO, Y. S. ; Nakaya, H. ; GARDNER, J. ; LARCHER, T. ; SCHRODER, W. A. ; LE, T. T. ; MAJOR, L. D. ; SUHRBIER, A. . CCR2 Deficiency Promotes Exacerbated Chronic Erosive Neutrophil-Dominated Chikungunya Virus Arthritis. Journal of Virology (Print), v. 10, p. 1000, 2014.
+Citações:32|23
+
+51.
+MEDINA-ACOSTA, ENRIQUE ; NAKAYA, HELDER TAKASHI IMOTO ; PONTILLO, ALESSANDRA ; DE SOUZA CAMPOS FERNANDES, REGINA CÉLIA . Genetic Control of Immune Response and Susceptibility to Infectious Diseases. BioMed Research International, v. 2014, p. 1-3, 2014.
+Citações:3
+
+52.
+Kwissa, Marcin ; NAKAYA, HELDER I. ; ONLAMOON, NATTAWAT ; Wrammert, Jens ; Villinger, Francois ; PERNG, GUEY CHUEN ; YOKSAN, SUTEE ; PATTANAPANYASAT, KOVIT ; CHOKEPHAIBULKIT, KULKANYA ; Ahmed, Rafi ; Pulendran, Bali . Dengue Virus Infection Induces Expansion of a CD14+CD16+ Monocyte Population that Stimulates Plasmablast Differentiation. Cell Host & Microbe, v. 16, p. 1-13, 2014.
+Citações:11|46
+
+53.
+OH, JASON Z. ; Ravindran, Rajesh ; CHASSAING, BENOIT ; CARVALHO, FREDERIC A. ; MADDUR, MOHAN S. ; BOWER, MAUREEN ; HAKIMPOUR, PAUL ; GILL, KIRAN P. ; NAKAYA, HELDER I. ; YAROVINSKY, FELIX ; SARTOR, R. BALFOUR ; GEWIRTZ, ANDREW T. ; Pulendran, Bali . TLR5-Mediated Sensing of Gut Microbiota Is Necessary for Antibody Responses to Seasonal Influenza Vaccination. Immunity (Cambridge, Mass.), v. 41, p. 478-492, 2014.
+Citações:63|82
+
+54.
+POO, YEE SUAN ; RUDD, PENNY A. ; Gardner, Joy ; WILSON, JANE A. C. ; LARCHER, THIBAUT ; COLLE, MARIE-ANNE ; LE, THUY T. ; Nakaya, Helder I. ; WARRILOW, DAVID ; ALLCOCK, RICHARD ; BIELEFELDT-OHMANN, HELLE ; SCHRODER, WAYNE A. ; KHROMYKH, ALEXANDER A. ; LOPEZ, JOSÉ A. ; Suhrbier, Andreas . Multiple Immune Factors Are Involved in Controlling Acute and Chronic Chikungunya Virus Infection. PLoS Neglected Tropical Diseases (Online), v. 8, p. e3354, 2014.
+Citações:25|54
+
+55.
+NORRIS, BRIAN A. ; UEBELHOER, LUKE S. ; NAKAYA, HELDER I. ; PRICE, ARYN A. ; GRAKOUI, ARASH ; Pulendran, Bali . Chronic but Not Acute Virus Infection Induces Sustained Expansion of Myeloid Suppressor Cell Numbers that Inhibit Viral-Specific T Cell Immunity. Immunity (Cambridge, Mass.), v. 38, p. 309-321, 2013.
+Citações:37|47
+
+56.
+Li, Shuzhao ; Nakaya, Helder I. ; KAZMIN, DMITRI A. ; OH, JASON Z. ; Pulendran, Bali . Systems biological approaches to measure and understand vaccine immunity in humans. Seminars in Immunology, v. press, p. press, 2013.
+Citações:22|21
+
+57.
+Pulendran, Bali ; OH, JASON Z. ; Nakaya, Helder I. ; Ravindran, Rajesh ; KAZMIN, DMITRI A. . Immunity to viruses: learning from successful human vaccines. Immunological Reviews, v. 255, p. 243-255, 2013.
+Citações:28|26
+
+58.
+BECKEDORFF, FELIPE C. ; AYUPE, ANA C. ; CROCCI-SOUZA, RENAN ; AMARAL, MURILO S. ; Nakaya, Helder I. ; SOLTYS, DANIELA T. ; MENCK, CARLOS F. M. ; Reis, Eduardo M. ; VERJOVSKI-ALMEIDA, Sergio . The Intronic Long Noncoding RNA ANRASSF1 Recruits PRC2 to the RASSF1A Promoter, Reducing the Expression of RASSF1A and Increasing Cell Proliferation. PLOS Genetics (Online), v. 9, p. e1003705, 2013.
+Citações:53|58
+
+59.
+TAN, YAN ; TAMAYO, PABLO ; NAKAYA, HELDER ; Pulendran, Bali ; MESIROV, JILL P. ; HAINING, W. NICHOLAS . Gene signatures related to B-cell proliferation predict influenza vaccine-induced antibody response. European Journal of Immunology, v. press, p. n/a-n/a, 2013.
+Citações:30|20
+
+60.
+Ravindran, R. ; KHAN, N. ; NAKAYA, H. I. ; LI, S. ; LOEBBERMANN, J. ; MADDUR, M. S. ; PARK, Y. ; JONES, D. P. ; CHAPPERT, P. ; DAVOUST, J. ; WEISS, D. S. ; VIRGIN, H. W. ; RON, D. ; Pulendran, B. . Vaccine Activation of the Nutrient Sensor GCN2 in Dendritic Cells Enhances Antigen Presentation. Science (New York, N.Y.), v. press, p. press, 2013.
+Citações:66|72
+
+61.
+Li, Shuzhao ; Rouphael, Nadine ; DURAISINGHAM, SAI ; ROMERO-STEINER, SANDRA ; PRESNELL, SCOTT ; DAVIS, CARL ; SCHMIDT, DANIEL S ; JOHNSON, SCOTT E ; MILTON, ANDREA ; RAJAM, GOWRISANKAR ; KASTURI, SUDHIR ; CARLONE, GEORGE M ; QUINN, CHARLIE ; CHAUSSABEL, DAMIEN ; PALUCKA, A KAROLINA ; MULLIGAN, MARK J ; Ahmed, Rafi ; STEPHENS, DAVID S ; Nakaya, Helder I ; Pulendran, Bali . Molecular signatures of antibody responses derived from a systems biology study of five human vaccines. Nature Immunology (Print), v. x, p. 1, 2013.
+Citações:116|108
+
+62.
+Nakaya, Helder I.; Pulendran, Bali . Systems vaccinology. Current Opinion in HIV and AIDS (Print), v. 7, p. 24-31, 2012.
+Citações:24|32
+
+63.
+Kwissa, M. ; NAKAYA, H. I. ; Oluoch, H. ; Pulendran, B. . Distinct TLR adjuvants differentially stimulate systemic and local innate immune responses in non-human primates. Blood (Philadelphia, PA), v. 119, p. n/a, 2012.
+Citações:44|61
+
+64.
+Jones, Crystal L. ; Sampson, Timothy R. ; Nakaya, Helder I. ; Pulendran, Bali ; Weiss, David S. . Repression of Bacterial Lipoprotein Production by F. novicida Facilitates Evasion of Innate Immune Recognition. Cellular Microbiology (Print), v. 15, p. n/a-n/a, 2012.
+Citações:15|22
+
+65.
+Nakaya, Helder I; Gardner, Joy ; Poo, Yee-Suan ; Major, Lee ; Pulendran, Bali ; Suhrbier, Andreas . Gene profiling of chikungunya virus arthritis reveals significant overlap with rheumatoid arthritis. Arthritis and Rheumatism, v. 64, p. n/a-n/a, 2012.
+Citações:40|38
+
+66.
+VARANI, ALESSANDRO M. ; MONTEIRO-VITORELLO, CLAUDIA BARROS ; Nakaya, Helder I. ; Van Sluys, Marie-Anne . The Role of Prophage in Plant-Pathogenic Bacteria. Annual Review of Phytopathology (Print), v. 51, p. 130531172133008, 2012.
+Citações:19|25
+
+67.
+Kasturi, Sudhir Pai ; Skountzou, Ioanna ; Albrecht, Randy A. ; Koutsonanos, Dimitrios ; Hua, Tang ; Nakaya, Helder I. ; Ravindran, Rajesh ; Stewart, Shelley ; Alam, Munir ; Kwissa, Marcin ; Villinger, Francois ; Murthy, Niren ; Steel, John ; Jacob, Joshy ; Hogan, Robert J. ; García-Sastre, Adolfo ; Compans, Richard ; Pulendran, Bali . Programming the magnitude and persistence of antibody responses with innate immunity. Nature (London), v. 470, p. 543-547, 2011.
+Citações:360|340
+
+68.
+Duraiswamy, J. ; Ibegbu, C. C. ; Masopust, D. ; Miller, J. D. ; Araki, K. ; Doho, G. H. ; Tata, P. ; Gupta, S. ; Zilliox, M. J. ; NAKAYA, H. I. ; Pulendran, B. ; Haining, W. N. ; Freeman, G. J. ; Ahmed, R. . Phenotype, Function, and Gene Expression Profiles of Programmed Death-1hi CD8 T Cells in Healthy Human Adults. The Journal of Immunology (1950), v. 186, p. 4200-4212, 2011.
+Citações:68|70
+
+69.
+ Nakaya, Helder I; Wrammert, Jens ; Lee, Eva K ; Racioppi, Luigi ; Marie-Kunze, Stephanie ; Haining, W Nicholas ; Means, Anthony R ; Kasturi, Sudhir P ; Khan, Nooruddin ; Li, Gui-Mei ; McCausland, Megan ; Kanchan, Vibhu ; Kokko, Kenneth E ; Li, Shuzhao ; Elbein, Rivka ; Mehta, Aneesh K ; Aderem, Alan ; Subbarao, Kanta ; Ahmed, Rafi ; Pulendran, Bali . Systems biology of vaccination for seasonal influenza in humans. Nature Immunology (Print), v. 12, p. 786-795, 2011.
+Citações:290|263
+
+70.
+Nakaya, Helder I.; Li, Shuzhao ; Pulendran, Bali . Systems vaccinology: learning to compute the behavior of vaccine induced immunity. WIRES SYST BIOL MED, v. 19, p. n/a-n/a, 2011.
+Citações:38|47
+
+71.
+Tang, Hua ; Cao, Weiping ; Kasturi, Sudhir Pai ; Ravindran, Rajesh ; Nakaya, Helder I ; Kundu, Kousik ; Murthy, Niren ; Kepler, Thomas B ; Malissen, Bernard ; Pulendran, Bali . The T helper type 2 response to cysteine proteases requires dendritic cell basophil cooperation via ROS-mediated signaling. Nature Immunology, v. 11, p. 608-617, 2010.
+Citações:164|183
+
+72.
+Manicassamy, S. ; Reizis, B. ; Ravindran, R. ; Nakaya, H. ; Salazar-Gonzalez, R. M. ; Wang, Y.-c. ; Pulendran, B. . Activation of  -Catenin in Dendritic Cells Regulates Immunity Versus Tolerance in the Intestine. Science (New York, N.Y.), v. 329, p. 849-853, 2010.
+Citações:226|236
+
+73.
+Pulendran, Bali ; Li, Shuzhao ; Nakaya, Helder I. . Systems Vaccinology. Immunity (Cambridge, Mass.), v. 33, p. 516-529, 2010.
+Citações:160|193
+
+74.
+Zaini, P. A. ; Fogaca, A. C. ; Lupo, F. G. N. ; NAKAYA, H. I. ; Vencio, R. Z. N. ; da Silva, A. M. . The Iron Stimulon of Xylella fastidiosa Includes Genes for Type IV Pilus and Colicin V-Like Bacteriocins. Journal of Bacteriology, v. 190, p. 2368-2378, 2008.
+Citações:23|24
+
+75.
+LOURO, R ; ELJUNDI, T ; NAKAYA, H ; REIS, E ; VERJOVSKIALMEIDA, S . Conserved tissue expression signatures of intronic noncoding RNAs transcribed from human and mouse loci. Genomics (San Diego), v. 92, p. 18-25, 2008.
+Citações:35|52
+
+76.
+ Querec, Troy D ; Akondy, Rama S ; Lee, Eva K ; Cao, Weiping ; Nakaya, Helder I ; Teuwen, Dirk ; Pirani, Ali ; Gernert, Kim ; Deng, Jiusheng ; Marzolf, Bruz ; Kennedy, Kathleen ; Wu, Haiyan ; Bennouna, Soumaya ; Oluoch, Herold ; Miller, Joseph ; Vencio, Ricardo Z ; Mulligan, Mark ; Aderem, Alan ; Ahmed, Rafi ; Pulendran, Bali . Systems biology approach predicts immunogenicity of the yellow fever vaccine in humans. Nature Immunology, v. 10, p. 116-125, 2008.
+Citações:411|473
+
+77.
+de Mello Varani, Alessandro ; Souza, Rangel Celso ; NAKAYA, H. I. ; LIMA, WC ; Paula de Almeida, Luiz Gonzaga ; Kitajima, Elliot Watanabe ; Chen, Jianchi ; Civerolo, Edwin ; Vasconcelos, Ana Tereza Ribeiro ; Van Sluys, Marie-Anne . Origins of the Xylella fastidiosa Prophage-Like Regions and Their Impact in Genome Differentiation. Plos One, v. 3, p. e4059, 2008.
+Citações:19|22
+
+78.
+LOURO, R. ; NAKAYA, H. I. ; AMARAL, P. P. ; SOGAYAR, Mari C ; SILVA, Aline M da ; VERJOVSKI-ALMEIDA, Sergio ; REIS, E. M. . Androgen responsive intronic non-coding RNAs. BMC BIOLOGY, v. 5, p. 5, 2007.
+Citações:43|48
+
+79.
+ NAKAYA, H. I.; AMARAL, P. P. ; LOURO, R. ; Lopes A ; FACHEL, A. A. ; Moreira, YB ; El-Jundi, TA ; SILVA, Aline M da ; REIS, E. M. ; Verjovski-Alemida, S. . Genome mapping and expression analyses of human intronic noncoding RNAs reveal tissue-specific patterns and enrichment in genes related to regulation of transcription. Genome Biology, v. 8, p. R43, 2007.
+Citações:106|138
+
+80.
+NAKAYA, H; BECKEDORFF, F ; BALDINI, M ; FACHEL, A ; REIS, E ; VERJOVSKIALMEIDA, S . Splice variants of TLE family genes and up-regulation of a TLE3 isoform in prostate tumors. Biochemical and Biophysical Research Communications, v. 364, p. 918-923, 2007.
+Citações:7|9
+
+81.
+Reis, Eduardo M. ; Louro, Rodrigo ; Nakaya, Helder I. ; VERJOVSKI-ALMEIDA, Sergio . As Antisense RNA Gets Intronic. Journal of Integrative Biology / Omics (Larchmont), New Rochelle, NY, v. 9, n.1, p. 2-12, 2005.
+Citações:25|28
+
+82.
+ Reis, Eduardo M Nakaya, Helder I Louro, Rodrigo CANAVEZ, Flavio C Flatschart, Áurea V F ALMEIDA, Giulliana T EGIDIO, Camila M Paquola, Apuã C MACHADO, Abimael A FESTA, Fernanda YAMAMOTO, Denise ALVARENGA, Renato da Silva, Camille C BRITO, Glauber C Simon, Sérgio D MOREIRA-FILHO, Carlos A LEITE, Katia R CAMARA-LOPES, Luiz H CAMPOS, Franz S GIMBA, Etel VIGNAL, Giselle M EL-DORRY, Hamza SOGAYAR, Mari C BARCINSKI, Marcello A da Silva, Aline M , et al. ; Antisense intronic non-coding RNA levels correlate to the degree of tumor differentiation in prostate cancer. Oncogene (Basingstoke), v. 23, n.39, p. 6684-6692, 2004.
+Citações:93|104
+
+83.
+LOURO, R. ; NAKAYA, H. I. ; PAQUOLA, Apua C M ; MARTINS, Elizabeth A L ; SILVA, Aline M da ; VERJOVSKI-ALMEIDA, Sergio ; REIS, E. M. . RASL11A, member of a novel small monomeric GTPase gene family, is down-regulated in prostate tumors. Biochemical and Biophysical Research Communications, Estados Unidos, v. 316, n.3, p. 618-627, 2004.
+Citações:14|12

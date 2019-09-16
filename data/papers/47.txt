@@ -1,0 +1,44 @@
+1.
+SILVA, A. C. ; CANDIDO, D. ; MONTEIRO, S. M. ; LEMOS, F. B. C. ; SAITOVITCH, D. ; NORONHA, I. L. ; ALVES, L. F. ; GERALDO, MURILO V ; KALIL, J. ; CUNHA-NETO, E. ; FERREIRA, L. R. P. ; COELHO, V. . Differential microRNA Profile in Operational Tolerance: A Potential Role in Favoring Cell Survival. Frontiers in Immunology, v. 10, p. 1-13, 2019.
+
+2.
+FORT, R. ; MATHO, C. ; GERALDO, M. V. ; OTTATI, M. C. ; YAMASHITA, A. S. ; SAITO, K. ; LEITE, K. R. ; MENDEZ, M. ; MAEDO, N. ; MENDEZ, L. ; GARAT, B. ; KIMURA, E. T. ; SOTELO-SILVEIRA, J. R. ; DUHAGON, M. A. . nc886 is epigenetically repressed in prostate cancer and acts as a tumor suppressor through the inhibition of cell growth. BMC CANCER, v. 18, p. 1-13, 2018.
+
+3.
+LIMA, C. R. ; GERALDO, M. V. ; FUZIWARA, C. S. ; KIMURA, E. T. ; SANTOS, M. F. . MiRNA-146b-5p upregulates migration and invasion of different Papillary Thyroid Carcinoma cells. BMC Cancer (Online), v. 16, p. 1-13, 2016.
+Citações:4|18
+
+4.
+GERALDO, M. V.; NAKAYA, H. I. ; KIMURA, E. T. . Down-regulation of 14q32-encoded miRNAs and tumor suppressor role for miR-654-3p in papillary thyroid cancer. OncoTarget, p. 1-11, 2016.
+
+5.
+BORGES JR., EDSON ; SETTI, AMANDA SOUZA ; BRAGA, DANIELA P.A.F. ; GERALDO, MURILO V ; FIGUEIRA, RITA DE CÁSSIA S ; IACONELLI JR., ASSUMPTO . miR-142-3p as a biomarker of blastocyst implantation failure - A pilot study. Jornal Brasileiro de Reprodução Assistida (On-line), v. 20, p. 200-205, 2016.
+Citações:1|1
+
+6.
+CAMARGO, R. G. ; RIBEIRAO, H. ; GERALDO, M. V. ; MATOS-NETO, E. ; NEVES, R. ; CARNEVALLI, L. ; DONATTO, F. ; ALCANTARA, P. ; OTOCH, J. P. ; SEELAENDER, M. . Cancer Cachexia and MicroRNAs. Mediators of Inflammation, v. 2015, p. 1-5, 2015.
+Citações:2|6
+
+7.
+ GERALDO, M. V.; KIMURA, E. T. . Integrated Analysis of Thyroid Cancer Public Datasets Reveals Role of Post-Transcriptional Regulation on Tumor Progression by Targeting of Immune System Mediators. Plos One, v. 10, p. e0141726, 2015.
+Citações:3|9
+
+8.
+YAMASHITA, A. S. ; GERALDO, M. V. ; FUZIWARA, C. S. ; KULCSAR, M. A.V. ; FRIGUGLIETTI, C. U. M. ; COSTA, R. B. ; BAIA, G. S. ; KIMURA, E. T. . Notch pathway is activated by MAPK signaling and influences papillary thyroid cancer proliferation.. Translational Oncology (Online), v. 6, p. 197-205, 2013.
+Citações:23
+
+9.
+GERALDO, M. V.; FUZIWARA, C. S. ; FRIGUGLIETTI, C. U. M. ; COSTA, R. B. ; KULCSAR, M. A.V. ; YAMASHITA, A. S. ; KIMURA, E. T. . MicroRNAs miR-146-5p and let-7f as prognostic tools for aggressive papillary thyroid carcinoma: a case report. Arquivos Brasileiros de Endocrinologia e Metabologia (Impresso), v. 56, p. 552-557, 2012.
+Citações:16|4|24
+
+10.
+ Geraldo, M V; Yamashita, A S ; Kimura, E T . MicroRNA miR-146b-5p regulates signal transduction of TGF-Î² by repressing SMAD4 in thyroid cancer. Oncogene (Basingstoke), v. 31, p. 1910-1922, 2011.
+Citações:65|96
+
+11.
+Bettoni, Fabiana ; Filho, Fernando Camargo ; Grosso, Daniela M. ; Galante, Pedro A.F. ; Parmigiani, Raphael B. ; Geraldo, Murilo V. ; Henrique-Silva, Flávio ; Oba-Shinjo, Sueli M. ; Marie, Suely K.N. ; Soares, Fernando A. ; BRENTANI, HELENA P. ; SIMPSON, ANDREW J.G. ; DE SOUZA, SANDRO J. ; CAMARGO, ANAMARIA A. . Identification of FAM46D as a novel cancer/testis antigen using EST data and serological analysis. Genomics (San Diego, Calif.), v. 94, p. 153-160, 2009.
+Citações:9|11
+
+12.
+GERALDO, M. V.; SILBER, A. ; PEREIRA, C. A. ; ULIANA, S. R. B. . Characterisation of a developmentally regulated amino acid transporter gene from Leishmania amazonensis.. FEMS Microbiology Letters, v. 242, p. 275-280, 2005.
+Citações:14|17

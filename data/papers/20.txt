@@ -1,0 +1,856 @@
+1.
+RIBEIRO, GEOVANI ; LUCHS, ADRIANA ; MILAGRES, FLÁVIO ; KOMNINAKIS, SHIRLEY ; GILL, DANIELLE ; LOBATO, MÁRCIA ; BRUSTULIN, RAFAEL ; CHAGAS, ROGÉRIO ; ABRÃO, MARIA ; SOARES, CASSIA ; WITKIN, STEVEN ; VILLANOVA, FABIOLA ; DENG, XUTAO ; Sabino, Ester ; DELWART, ERIC ; DA COSTA, ANTONIO ; LEAL, ÉLCIO . Detection and Characterization of Enterovirus B73 from a Child in Brazil. Viruses-Basel, v. 11, p. 16, 2019.
+
+2.
+FERREIRA, JERENICE E. ; FERREIRA, SUZETE C. ; ALMEIDA-NETO, CESAR ; Nishiya, Anna S. ; ALENCAR, CECILIA S. ; GOUVEIA, GISELE R. ; CAIAFFA-FILHO, HELIO ; GOMES, HELIO ; DE MACEDO SANTOS, RAIMUNDA TELMA ; WITKIN, STEVEN S. ; MENDRONE-JUNIOR, ALFREDO ; Sabino, Ester C. . Molecular characterization of viruses associated with encephalitis in São Paulo, Brazil. PLoS One, v. 14, p. e0209993, 2019.
+
+3.
+RIBEIRO, GEOVANI DE OLIVEIRA ; MONTEIRO, FRED JULIO COSTA ; REGO, MARLISSON OCTAVIO DA S ; RIBEIRO, EDCELHA SOARES D?ATHAIDE ; CASTRO, DANIELA FUNAYAMA DE ; CASEIRO, MARCOS MONTANI ; SOUZA MARINHO, ROBSON DOS SANTOS ; KOMNINAKIS, SHIRLEY VASCONCELOS ; WITKIN, STEVEN S. ; DENG, XUTAO ; DELWART, ERIC ; SABINO, Ester Cerdeira ; da Costa, Antonio Charlys ; LEAL, ÉLCIO . Detection of RNA-Dependent RNA Polymerase of Hubei Reo-Like Virus 7 by Next-Generation Sequencing in Aedes aegypti and Culex quinquefasciatus Mosquitoes from Brazil. Viruses-Basel, v. 11, p. 147, 2019.
+
+4.
+LUCHS, ADRIANA ; da Costa, Antonio Charlys ; CILLI, AUDREY ; KOMNINAKIS, SHIRLEY CAVALCANTE VASCONCELOS ; CARMONA, RITA DE CÁSSIA COMPAGNOLI ; MORILLO, SIMONE GUADAGNUCCI ; SABINO, Ester Cerdeira ; TIMENETSKY, MARIA DO CARMO SAMPAIO TAVARES . First Detection of DS-1-like G1P[8] Double-gene Reassortant Rotavirus Strains on The American Continent, Brazil, 2013. Scientific Reports, v. 9, p. 2210, 2019.
+
+5.
+OLIVEIRA, LÉA CAMPOS DE ; LEE, TZONG-HAE ; FERREIRA, ARIELA MOTA ; BIERRENBACH, ANA LUIZA ; SOUZA-BASQUEIRA, MARCELA DE ; OLIVEIRA, CLÁUDIA DI LORENZO ; Cardoso, Clareci Silva ; MOREIRA, CARLOS HENRIQUE VALENTE ; OIKAWA, MARCIO K. ; RIBEIRO, ANTONIO LUIZ P. ; BUSCH, MICHAEL P ; SABINO, Ester Cerdeira . Lack of evidence of seronegative infection in an endemic area of Chagas disease. REVISTA DO INSTITUTO DE MEDICINA TROPICAL DE SÃO PAULO, v. 61, p. e:11, 2019.
+
+6.
+NAVECA, FELIPE GOMES CLARO, INGRA GIOVANETTI, MARTA DE JESUS, JAQUELINE GOES XAVIER, JOILSON IANI, FELIPE CAMPOS DE MELO DO NASCIMENTO, VALDINETE ALVES DE SOUZA, VICTOR COSTA SILVEIRA, PAOLA PAZ LOURENÇO, JOSÉ SANTILLANA, MAURICIO KRAEMER, MORITZ U. G. QUICK, JOSH HILL, SARAH C. THÉZÉ, JULIEN CARVALHO, RODRIGO DIAS DE OLIVEIRA AZEVEDO, VASCO SALLES, FLAVIA CRISTINA DA SILVA NUNES, MÁRCIO ROBERTO TEIXEIRA LEMOS, POLIANA DA SILVA CANDIDO, DARLAN DA SILVA PEREIRA, GLAUCO DE CARVALHO OLIVEIRA, MARLUCE APARECIDA ASSUNÇÃO MENESES, CÁTIA ALEXANDRA RIBEIRO MAITO, RODRIGO MELO , et al. ; Genomic, epidemiological and digital surveillance of Chikungunya virus in the Brazilian Amazon. PLoS Neglected Tropical Diseases, v. 13, p. e0007065, 2019.
+
+7.
+COSTA, A. C. ; LEAL, ELCIO ; GILL, DANIELLE ; MILAGRES, FLAVIO AUGUSTO DE PÁDUA ; KOMNINAKIS, SHIRLEY VASCONCELOS ; BRUSTULIN, RAFAEL ; TELES, MARIA DA APARECIDA RODRIGUES ; LOBATO, MÁRCIA CRISTINA ALVES BRITO SAYÃO ; DAS CHAGAS, ROGÉRIO TOGISAKI ; ABRÃO, MARIA DE FÁTIMA NEVES DOS SANTOS ; SOARES, CASSIA VITÓRIA DE DEUS ALVES ; DENG, XUTAO ; DELWART, ERIC ; SABINO, Ester Cerdeira ; LUCHS, ADRIANA . Discovery of Cucumis melo endornavirus by deep sequencing of human stool samples in Brazil. VIRUS GENES, v. 55, p. 1-4, 2019.
+
+8.
+CUNHA, MARIANA SEQUETIN ; COSTA, A. C. ; DE AZEVEDO FERNANDES, NATÁLIA COELHO COUTO ; GUERRA, JULIANA MARIOTTI ; DOS SANTOS, FABIANA CRISTINA PEREIRA ; NOGUEIRA, JULIANA SILVA ; D?AGOSTINO, LEANDRO GUARIGLIA ; KOMNINAKIS, SHIRLEY VASCONCELOS ; WITKIN, STEVEN S. ; RESSIO, RODRIGO ALBERGARIA ; MAEDA, ADRIANA YURIKA ; VASAMI, FERNANDA GISELE SILVA ; KAIGAWA, URSULA MITSUE ABREU ; DE AZEVEDO, LAÍS SAMPAIO ; DE SOUZA FACIOLI, PALOMA ALANA ; MACEDO, FERNANDO LUIZ LIMA ; SABINO, Ester Cerdeira ; LEAL, ÉLCIO ; DE SOUZA, RENATO PEREIRA . Epizootics due to Yellow Fever Virus in São Paulo State, Brazil: viral dissemination to new areas (2016-2017). Scientific Reports, v. 9, p. 41950-3, 2019.
+
+9.
+CILLI, AUDREY ; LUCHS, ADRIANA ; LEAL, ELCIO ; GILL, DANIELLE ; MILAGRES, FLAVIO AUGUSTO DE PÁDUA ; KOMNINAKIS, SHIRLEY VASCONCELOS ; BRUSTULIN, RAFAEL ; TELES, MARIA DA APARECIDA RODRIGUES ; LOBATO, MÁRCIA CRISTINA ALVES BRITO SAYÃO ; CHAGAS, ROGÉRIO TOGISAKI DAS ; ABRÃO, MARIA DE FÁTIMA NEVES DOS SANTOS ; SOARES, CASSIA VITÓRIA DE DEUS ALVES ; DENG, XUTAO ; DELWART, ERIC ; SABINO, Ester Cerdeira ; COSTA, A. C. . Human sapovirus GI.2 and GI.3 from children with acute gastroenteritis in northern Brazil. Memórias do Instituto Oswaldo Cruz, v. 114, p. 1, 2019.
+
+10.
+DEZAN, MARCIA REGINA ; NETO, ABEL COSTA ; GOMES, CAROLINA NUNES ; RIBEIRO, INGRID HELENA ; OLIVEIRA, VALÉRIA BRITO ; CONRADO, MARINA C.A.V. ; OLIVEIRA, THÉO GREMEN M. ; PERES DE CARVALHO, MARIANA L. ; ARANHA, ALINE FERNANDA ; BOSI, SILVIA R.A. ; Salles, Nanci A. ; KRIEGER, JOSÉ EDUARDO ; PEREIRA, ALEXANDRE COSTA ; SABINO, Ester Cerdeira ; ROCHA, VANDERSON ; MENDRONE-JÚNIOR, ALFREDO ; DINARDO, CARLA LUANA ; Levi, José Eduardo . SMIM1 intron 2 gene variations leading to variability in Vel antigen expression among Brazilian blood donors. BLOOD CELLS MOLECULES AND DISEASES, v. 77, p. 23-28, 2019.
+
+11.
+TOZETTO-MENDOZA, TANIA REGINA ; AVELINO-SILVA, VIVIAN IIDA ; FONSECA, SILVIA ; CLARO, INGRA MORALES ; PAULA, ANDERSON VICENTE DE ; LEVIN, ANNA SARA ; SABINO, Ester Cerdeira ; MENDES-CORREA, MARIA CASSIA ; FIGUEIREDO, WALTER MANSO ; FELIX, ALVINA CLARA ; SOUZA, NATHALIA C. SANTIAGO ; COSTA, ANGELA APARECIDA ; INENAMI, MARTA ; SILVA, ROSANGELA M. GASPARETTO DA ; Levi, José Eduardo ; Romano, Camila Malta ; PARANHOS-BACCALÀ, GLAUCIA ; SEGURADO, ALUISIO COTRIM ; MAYAUD, PHILIPPE . Zika virus infection among symptomatic patients from two healthcare centers in Sao Paulo State, Brazil: prevalence, clinical characteristics, viral detection in body fluids and serodynamics. REVISTA DO INSTITUTO DE MEDICINA TROPICAL DE SÃO PAULO, v. 61, p. 1-9, 2019.
+
+12.
+Moreno, Elizabeth C. ; BRUHN, ROBERTA ; Sabino, Ester C. ; BOLINA-SANTOS, EDUARDA ; Miranda, Carolina ; CARNEIRO-PROIETTI, ANNA BARBARA ; LOPES, MARIA ESTHER ; ALMEIDA-NETO, CESAR DE ; Loureiro, Paula ; Capuani, Ligia ; Takecian, Pedro L. ; Custer, Brian ; Goncalez, Thelma T. . Test seeking: are healthcare professionals referring people to blood centers for infections marker testing?. Hematology, Transfusion and Cell Therapy, v. x, p. x, 2019.
+
+13.
+KALLAS, ESPER G ; D'ELIA ZANELLA, LUIZ GONZAGA F A B ; MOREIRA, CARLOS HENRIQUE V ; BUCCHERI, RENATA ; DINIZ, GABRIELA B F ; CASTIÑEIRAS, ANNA CARLA P ; COSTA, PRISCILLA R ; DIAS, JULIANA Z C ; MARMORATO, MARIANA P ; SONG, ALICE T W ; MAESTRI, ALVINO ; BORGES, IGOR C ; JOELSONS, DANIEL ; CERQUEIRA, NATALIA B ; SANTIAGO E SOUZA, NATHÁLIA C ; MORALES CLARO, INGRA ; Sabino, Ester C ; Levi, José Eduardo ; AVELINO-SILVA, VIVIAN I ; HO, YEH-LI . Predictors of mortality in patients with yellow fever: an observational cohort study. LANCET INFECTIOUS DISEASES, v. x, p. x, 2019.
+Citações:1
+
+14.
+LEAL, ÉLCIO ; LUCHS, ADRIANA ; MILAGRES, FLÁVIO AUGUSTO DE PÁDUA ; KOMNINAKIS, SHIRLEY VASCONCELOS ; GILL, DANIELLE ELISE ; LOBATO, MÁRCIA CRISTINA ALVES BRITO SAYÃO ; BRUSTULIN, RAFAEL ; CHAGAS, ROGÉRIO TOGISAKI DAS ; ABRÃO, MARIA DE FÁTIMA NEVES DOS SANTOS ; SOARES, CÁSSIA VITÓRIA DE DEUS ALVES ; VILLANOVA, FABIOLA ; WITKIN, STEVEN S. ; DENG, XUTAO ; SABINO, Ester Cerdeira ; DELWART, ERIC ; COSTA, A. C. . Recombinant Strains of Human Parechovirus in Rural Areas in the North of Brazil. Viruses-Basel, v. 11, p. 488, 2019.
+
+15.
+GONÇALEZ, THELMA T. ; SABINO, Ester Cerdeira ; KAIDAROVA, ZHANNA ; CARNEIRO'PROIETTI, ANNA BARBARA F. ; TEIXEIRA, C. M. ; LOUREIRO, PAULA ; LOPES, MARIA ESTHER ; ALMEIDA'NETO, CESAR ; SCHLUMPF, KAREN S. ; WRIGHT, DAVID J. ; MURPHY, EDWARD L. ; CUSTER, BRIAN ; FOR THE NHLBI RETROVIRUS EPIDEMIOLOGY DONOR STUDY'II (REDS'II), INTERNATIONAL COMPONENT, BRAZIL . Does deferral for high-risk behaviors improve the safety of the blood supply?. TRANSFUSION (ONLINE), v. 00, p. 01-10, 2019.
+
+16.
+SALOMON, TASSILA ; GOMES, ISABEL ; OZAHATA, MINA CINTHO ; MOREIRA, CARLOS HENRIQUE VALENTE ; OLIVEIRA, CLAUDIA DI LORENZO ; Gonçalez, Thelma T. ; DUARTE, MARIA ESTHER ; Miranda, Carolina ; CARNEIRO PROIETTI, ANNA BÁRBARA ; Sabino, Ester ; ALMEIDA NETO, CESAR ; Custer, Brian ; FOR THE NHLBI RETROVIRUS EPIDEMIOLOGY DONOR STUDY'II (REDS'II), INTERNATIONAL COMPONENT . Social and behavioral characteristics of male blood donors and their sexual partners: an analysis to define risk subsets. TRANSFUSION, v. 59, p. 2584-2592, 2019.
+
+17.
+FLOR-PARK, MIRIAM V. ; KELLY, SHANNON ; PREISS, LILIANA ; Custer, Brian ; Carneiro-Proietti, A. B. ; ARAUJO, ADERSON S. ; Loureiro, Paula ; MAXIMO, CLAUDIA ; RODRIGUES, DANIELA O.W. ; MOTA, ROSIMERE A. ; SABINO, Ester Cerdeira ; ROCHA, VANDERSON . Identification and characterization of hematopoietic stem cell transplant candidates in a sickle cell disease cohort. BIOLOGY OF BLOOD AND MARROW TRANSPLANTATION, v. 1, p. 1, 2019.
+
+18.
+ZREIN, MAAN ; GRANJON, ELODIE ; GUEYFFIER, LUCIE ; CAILLAUDEAU, JULIE ; LIEHL, PETER ; POTTEL, HANS ; CARDOSO, CLARECI SILVA ; OLIVEIRA, CLAUDIA DI LORENZO ; DE OLIVEIRA, LEA CAMPOS ; Lee, Tzong-Hae ; FERREIRA, ARIELA MOTA ; RIBEIRO, ANTONIO LUIZ P. ; Busch, Michael P. ; SABINO, Ester Cerdeira . A novel antibody surrogate biomarker to monitor parasite persistence in Trypanosoma cruzi-infected patients. PLoS Neglected Tropical Diseases, v. 12, p. e0006226, 2018.
+
+19.
+CARRARO, DS ; CARRARO, RM ; CAMPOS, SV ; IUAMOTO, LR ; BRAGA, KA ; OLIVEIRA, LC ; SABINO, EC ; ROSSI, F ; PÊGO-FERNANDES, PM . Burkholderia cepacia, cystic fibrosis and outcomes following lung transplantation: experiences from a single center in Brazil. Clinics, v. 73, p. e166, 2018.
+
+20.
+WATANABE, ARIPUANÃ SAKURADA ARANHA ; LUCHS, ADRIANA ; LEAL, ÉLCIO ; MILAGRES, FLAVIO AUGUSTO DE PÁDUA ; KOMNINAKIS, SHIRLEY VASCONCELOS ; GILL, DANIELLE ELISE ; LOBATO, MÁRCIA CRISTINA ALVES BRITO SAYÃO ; BRUSTULIN, RAFAEL ; DAS CHAGAS, ROGÉRIO TOGISAKI ; ABRÃO, MARIA DE FÁTIMA NEVES DOS SANTOS ; SOARES, CASSIA VITÓRIA DE DEUS ALVES ; DENG, XUTAO ; SABINO, Ester Cerdeira ; DELWART, ERIC ; da Costa, Antonio Charlys . Complete Genome Sequences of Six Human Bocavirus Strains from Patients with Acute Gastroenteritis in the North Region of Brazil. GENOME ANNOUNCEMENTS, v. 6, p. e00235-18, 2018.
+
+21.
+DEZAN, MARCIA REGINA ; OLIVEIRA, VALÉRIA B. ; GOMES, ÇAROLINA NUNES ; LUZ, FABIO ; GALLUCCI, ANTÔNIO J. ; BONIFÁCIO, SILVIA L. ; SALETE, CECILIA ; Sabino, Ester C. ; PEREIRA, ALEXANDRE C. ; KRIEGER, JOSE E. ; ROCHA, VANDERSON ; MENDRONE-JUNIOR, ALFREDO ; DINARDO, CARLA L. . High frequency of variant RHD genotypes among donors and patients of mixed origin with serologic weak-D phenotype. JOURNAL OF CLINICAL LABORATORY ANALYSIS, v. xx, p. e22596, 2018.
+
+22.
+CARNEIRO-PROIETTI, ANNA B. F. ; KELLY, SHANNON ; MIRANDA TEIXEIRA, CAROLINA ; SABINO, Ester Cerdeira ; ALENCAR, CECILIA S. ; Capuani, Ligia ; SALOMON SILVA, TASSILA P. ; ARAUJO, ADERSON ; LOUREIRO, PAULA ; MÁXIMO, CLÁUDIA ; LOBO, CLARISSE ; FLOR-PARK, MIRIAM V. ; RODRIGUES, DANIELA O. W. ; MOTA, ROSIMERE A. ; Gonçalez, Thelma T. ; HOPPE, CAROLYN ; FERREIRA, J. E. ; OZAHATA, MINA ; PAGE, GRIER P. ; GUO, YUELONG ; PREISS, LILIANA R. ; BRAMBILLA, DONALD ; Busch, Michael P. ; Custer, Brian . Clinical and genetic ancestry profile of a large multi-centre sickle cell disease cohort in Brazil. BRITISH JOURNAL OF HAEMATOLOGY, v. 1, p. bjh.15462, 2018.
+
+23.
+da Costa, Antonio Charlys ; LUCHS, ADRIANA ; MILAGRES, FLAVIO AUGUSTO DE PÁDUA ; KOMNINAKIS, SHIRLEY VASCONCELOS ; GILL, DANIELLE ELISE ; LOBATO, MÁRCIA CRISTINA ALVES BRITO SAYÃO ; BRUSTULIN, RAFAEL ; DAS CHAGAS, ROGÉRIO TOGISAKI ; ABRÃO, MARIA DE FÁTIMA NEVES DOS SANTOS ; SOARES, CASSIA VITÓRIA DE DEUS ALVES ; DENG, XUTAO ; SABINO, Ester Cerdeira ; DELWART, ERIC ; LEAL, ÉLCIO . Near full length genome of a recombinant (E/D) cosavirus strain from a rural area in the central region of Brazil. Scientific Reports, v. 8, p. 12304, 2018.
+
+24.
+FARIA, N. R. KRAEMER, M. U. G. HILL, S. C. GOES DE JESUS, J. AGUIAR, R. S. IANI, F. C. M. XAVIER, J. QUICK, J. DU PLESSIS, L. DELLICOUR, S. THÉZÉ, J. CARVALHO, R. D. O. BAELE, G. WU, C.-H. SILVEIRA, P. P. ARRUDA, M. B. PEREIRA, M. A. PEREIRA, G. C. LOURENÇO, J. OBOLSKI, U. ABADE, L. VASYLYEVA, T. I. GIOVANETTI, M. YI, D. WEISS, D. J. , et al. ; Genomic and epidemiological monitoring of yellow fever virus transmission potential. SCIENCE, v. 361, p. eaat7115, 2018.
+
+25.
+COSTA, A. C. ; LUCHS, ADRIANA ; MILAGRES, FLÁVIO ; KOMNINAKIS, SHIRLEY ; GILL, DANIELLE ; LOBATO, MÁRCIA ; BRUSTULIN, RAFAEL ; DAS CHAGAS, ROGÉRIO ; ABRÃO, MARIA ; SOARES, CASSIA ; DENG, XUTAO ; SABINO, Ester Cerdeira ; DELWART, ERIC ; LEAL, ÉLCIO . Recombination Located over 2A-2B Junction Ribosome Frameshifting Region of Saffold Cardiovirus. Viruses-Basel, v. 10, p. 520, 2018.
+
+26.
+Cardoso, Clareci Silva ; RIBEIRO, A.L. ; OLIVEIRA, CLAUDIA DI LORENZO ; OLIVEIRA, LEA CAMPOS ; FERREIRA, ARIELA MOTA ; BIERRENBACH, ANA LUIZA ; SILVA, JOSÉ LUIZ PADILHA ; Colosimo, Enrico Antonio ; FERREIRA, JOÃO EDUARDO ; LEE, TZONG-HAE ; BUSCH, MICHAEL P. ; REINGOLD, ARTHUR LAWRENCE ; SABINO, Ester Cerdeira . Beneficial effects of benznidazole in Chagas disease: NIH SaMi-Trop cohort study. PLoS Neglected Tropical Diseases, v. 12, p. e0006814, 2018.
+
+27.
+AVELINO-SILVA, VIVIAN IIDA ; ALVARENGA, CONRADO ; ABREU, CAROLINA ; TOZETTO-MENDOZA, TANIA REGINA ; CANTO, CYNTHIA LILIANE MOTTA DO ; MANULI, ERIKA REGINA ; MENDES-CORREA, MARIA CASSIA ; SABINO, Ester Cerdeira ; FIGUEIREDO, WALTER MANSO ; SEGURADO, ALUÍSIO COTRIM ; MAYAUD, PHILIPPE . Potential effect of Zika virus infection on human male fertility?. REVISTA DO INSTITUTO DE MEDICINA TROPICAL DE SÃO PAULO, v. 60, p. e64, 2018.
+
+28.
+LUCHS, ADRIANA ; COSTA, A. C. ; CILLI, AUDREY ; KOMNINAKIS, SHIRLEY CAVALCANTE VASCONCELOS ; CARMONA, RITA DE CÁSSIA COMPAGNOLI ; BOEN, LAIS ; MORILLO, SIMONE GUADAGNUCCI ; SABINO, Ester Cerdeira ; TIMENETSKY, MARIA DO CARMO SAMPAIO TAVARES . Spread of the emerging equine-like G3P[8] DS-1-like genetic backbone rotavirus strain in Brazil and identification of potential genetic variants. JOURNAL OF GENERAL VIROLOGY, v. 99, p. 1-10, 2018.
+
+29.
+FERNANDES, LICIA NATAL ; COLETTI, THAÍS DE MOURA ; MONTEIRO, FRED JULIO COSTA ; REGO, MARLISSON OCTAVIO DA SILVA ; RIBEIRO, EDCELHA SOARES D?ATHAIDE ; RIBEIRO, GEOVANI DE OLIVEIRA ; MARINHO, ROBSON DOS SANTOS SOUZA ; KOMNINAKIS, SHIRLEY VASCONCELOS ; WITKIN, STEVEN S. ; DENG, XUTAO ; DELWART, ERIC ; SABINO, Ester Cerdeira ; LEAL, ÉLCIO ; COSTA, A. C. . A Novel Highly Divergent Strain of Cell Fusing Agent Virus (CFAV) in Mosquitoes from the Brazilian Amazon Region. Viruses-Basel, v. 10, p. 666, 2018.
+
+30.
+NUNES, MARIA CARMO P ; BADANO, LUIGI PAOLO ; MARIN-NETO, J ANTONIO ; EDVARDSEN, THOR ; FERNÁNDEZ-GOLFÍN, COVADONGA ; BUCCIARELLI-DUCCI, CHIARA ; POPESCU, BOGDAN A ; UNDERWOOD, RICHARD ; HABIB, GILBERT ; ZAMORANO, JOSE LUIS ; SARAIVA, ROBERTO MAGALHÃES ; SABINO, Ester Cerdeira ; BOTONI, FERNANDO A ; BARBOSA, MÁRCIA MELO ; BARROS, MARCIO VINICIUS L ; FALQUETO, EDUARDO ; SIMÕES, MARCUS VINICIUS ; SCHMIDT, ANDRÉ ; ROCHITTE, CARLOS EDUARDO ; ROCHA, MANOEL OTÁVIO COSTA ; RIBEIRO, A.L. ; LANCELLOTTI, PATRIZIO . Multimodality imaging evaluation of Chagas disease: an expert consensus of Brazilian Cardiovascular Imaging Department (DIC) and the European Association of Cardiovascular Imaging (EACVI). European Heart Journal-Cardiovascular Imaging, v. 19, p. 459-460n, 2018.
+
+31.
+BRITO, BRUNO OLIVEIRA DE FIGUEIREDO ; PINTO-FILHO, MARCELO MARTINS ; Cardoso, Clareci Silva ; DI LORENZO OLIVEIRA, CLAUDIA ; FERREIRA, ARIELA MOTA ; DE OLIVEIRA, LEA CAMPOS ; GOMES, PAULO ; NUNES, MARIA DO CARMO PEREIRA ; SABINO, Ester Cerdeira ; RIBEIRO, ANTONIO LUIZ PINHO . Association between typical electrocardiographic abnormalities and NT-proBNP elevation in a large cohort of patients with Chagas disease from endemic area. JOURNAL OF ELECTROCARDIOLOGY, v. 51, p. 1039-1043, 2018.
+
+32.
+RIBEIRO, ROBERTO MARQUES ; SOUZA-BASQUEIRA, MARCELA DE ; OLIVEIRA, LÉA CAMPOS DE ; SALLES, FLAVIA CRISTINA ; PEREIRA, NATALIA BUENO ; SABINO, Ester Cerdeira . An alternative storage method for characterization of the intestinal microbiota through next generation sequencing. REVISTA DO INSTITUTO DE MEDICINA TROPICAL DE SÃO PAULO, v. 60, p. 1-11, 2018.
+
+33.
+CAMPOS, FERNANDA MAGALHÃES FREIRE ; REPOLES, LAURA COTTA ; DE ARAÚJO, FERNANDA FORTES ; PERUHYPE-MAGALHÃES, VANESSA ; XAVIER, MARCELO ANTÔNIO PASCOAL ; SABINO, Ester Cerdeira ; DE FREITAS CARNEIRO PROIETTI, ANNA BÁRBARA ; ANDRADE, MARILÉIA CHAVES ; TEIXEIRA-CARVALHO, ANDRÉA ; MARTINS-FILHO, OLINDO ASSIS ; GONTIJO, CÉLIA MARIA FERREIRA . Usefulness of FC-TRIPLEX Chagas/Leish IgG1 as confirmatory assay for non-negative results in blood bank screening of Chagas disease. JOURNAL OF IMMUNOLOGICAL METHODS, v. 455, p. 34-40, 2018.
+
+34.
+Custer, Brian ; ZOU, SHIMIAN ; GLYNN, SIMONE A. ; MAKANI, JULIE ; TAYOU TAGNY, CLAUDE ; EL EKIABY, MAGDY ; Sabino, Ester C. ; CHOUDHURY, NABAJYOTI ; TEO, DIANA ; NELSON, KENRAD ; PEPRAH, EMMANUEL ; PRICE, LESHAWNDRA ; ENGELGAU, MICHAEL M. . Addressing gaps in international blood availability and transfusion safety in low- and middle-income countries: a NHLBI workshop. TRANSFUSION, v. 58, p. 1307-1317, 2018.
+
+35.
+LUCHS, ADRIANA ; LEAL, ELCIO ; KOMNINAKIS, SHIRLEY VASCONCELOS ; DE PÁDUA MILAGRES, FLAVIO AUGUSTO ; BRUSTULIN, RAFAEL ; DA APARECIDA RODRIGUES TELES, MARIA ; GILL, DANIELLE ELISE ; DENG, XUTAO ; DELWART, ERIC ; SABINO, Ester Cerdeira ; da Costa, Antonio Charlys . Wuhan large pig roundworm virus identified in human feces in Brazil. VIRUS GENES, v. 54, p. 470-473, 2018.
+
+36.
+ANTUNES, MURILLO DE OLIVEIRA ; ARTEAGA-FERNÁNDEZ, EDMUNDO ; FERNANDES, FABIO ; SOFFIATTI, CARLA DAVID ; BUCK, PAULA DE CÁSSIA ; SABINO, Ester Cerdeira ; MOREIRA, CARLOS HENRIQUE VALENTE ; MADY, CHARLES . Evaluation of Galectin-3 and Myocardial Fibrosis in Patients with Hypertrophic Cardiomyopathy. International Journal of Cardiovascular Sciences, v. 32, p. 152-157, 2018.
+
+37.
+STONE, MARS ; LANTERI, MARION C. ; BAKKOUR, SONIA ; DENG, XUTAO ; GALEL, SUSAN A. ; LINNEN, JEFFREY M. ; MUÑOZ-JORDÁN, JORGE L. ; LANCIOTTI, ROBERT S. ; RIOS, MARIA ; GALLIAN, PIERRE ; MUSSO, DIDIER ; LEVI, JOSÉ E. ; Sabino, Ester C. ; COFFEY, LARK L. ; Busch, Michael P. . Relative analytical sensitivity of donor nucleic acid amplification technology screening and diagnostic real-time polymerase chain reaction assays for detection of Zika virus RNA. Transfusion (Arlington, Va.), v. xx, p. xx-xx, 2017.
+Citações:7|12
+
+38.
+DEZAN, MARCIA R. ; RIBEIRO, INGRID HELENA ; OLIVEIRA, VALÉRIA B. ; VIEIRA, JULIANA B. ; GOMES, FRANCISCO C. ; FRANCO, LUCAS A.M. ; VARUZZA, LEONARDO ; RIBEIRO, ROBERTO ; CHINOCA, KAREN ZIZA ; Levi, José Eduardo ; KRIEGER, JOSÉ EDUARDO ; PEREIRA, ALEXANDRE COSTA ; GUALANDRO, SANDRA F.M. ; ROCHA, VANDERSON G. ; Mendrone-Junior, Alfredo ; SABINO, Ester Cerdeira ; DINARDO, CARLA LUANA . RHD and RHCE genotyping by next-generation sequencing is an effective strategy to identify molecular variants within sickle cell disease patients. Blood Cells, Molecules & Diseases (Print), v. 65, p. 8-15, 2017.
+Citações:1|3
+
+39.
+MACHADO, SORAIA MAFRA ; ALMEIDA NETO, CESAR DE ; PINHO, JOÃO RENATO REBELLO ; MALTA, FERNANDA DE MELLO ; Capuani, Ligia ; CAMPOS, ALÉIA FAUSTINA ; ABREU, FATIMA REGINA MARQUES ; NASTRI, ANA CATHARINA DE SEIXAS SANTOS ; SANTANA, RÚBIA ANITA FERRAZ ; SABINO, Ester Cerdeira ; MENDES-CORREA, MARIA CÁSSIA . Hepatitis C among blood donors: cascade of care and predictors of loss to follow-up. REVISTA DE SAÚDE PÚBLICA (ONLINE), v. 51, p. 40, 2017.
+
+40.
+Capuani, Ligia ; BIERRENBACH, ANA LUIZA ; PEREIRA ALENCAR, AIRLANE ; Mendrone, Alfredo ; Ferreira, João Eduardo ; Custer, Brian ; P. RIBEIRO, ANTONIO LUIZ ; CERDEIRA SABINO, ESTER . Mortality among blood donors seropositive and seronegative for Chagas disease (1996-2000) in São Paulo, Brazil: A death certificate linkage study. PLoS Neglected Tropical Diseases, v. 11, p. e0005542, 2017.
+Citações:1
+
+41.
+DINARDO, C. L. ; BIANCHI, J. V. ; DEZAN, M. R. ; OLIVEIRA, V. B. ; GOMES, F. C. A. ; GALLUCCI, A. J. O. ; LEVI, J. E. ; KRIEGER, J. E. ; PEREIRA, A. C. ; SANTOS, H. C. ; DOMINGUES, H. ; ROCHA, V. G. ; MENDRONE-JÚNIOR, A. ; SABINO, Ester Cerdeira . Implementing a fully automated high-throughput strategy for blood donor genotyping. Isbt Science Series (Print), v. 1, p. 1-8, 2017.
+
+42.
+FARIA, N. R. QUICK, J. CLARO, I.M. THÉZÉ, J. DE JESUS, J. G. GIOVANETTI, M. KRAEMER, M. U. G. HILL, S. C. BLACK, A. DA COSTA, A. C. FRANCO, L. C. SILVA, S. P. WU, C.-H. RAGHWANI, J. CAUCHEMEZ, S. DU PLESSIS, L. VEROTTI, M. P. DE OLIVEIRA, W. K. CARMO, E. H. COELHO, G. E. SANTELLI, A. C. F. S. VINHAL, L. C. HENRIQUES, C. M. SIMPSON, J. T. LOOSE, M. , et al. ; Establishment and cryptic transmission of Zika virus in Brazil and the Americas. NATURE, v. x, p. x, 2017.
+Citações:43
+
+43.
+QUICK, JOSHUA GRUBAUGH, NATHAN D PULLAN, STEVEN T CLARO, INGRA M SMITH, ANDREW D GANGAVARAPU, KARTHIK OLIVEIRA, GLENN ROBLES-SIKISAKA, REFUGIO ROGERS, THOMAS F BEUTLER, NATHAN A BURTON, DENNIS R LEWIS-XIMENEZ, LIA LAURA DE JESUS, JAQUELINE GOES GIOVANETTI, MARTA HILL, SARAH C BLACK, ALLISON BEDFORD, TREVOR CARROLL, MILES W NUNES, MARCIO ALCANTARA, LUIZ CARLOS Sabino, Ester C BAYLIS, SALLY A FARIA, NUNO R LOOSE, MATTHEW SIMPSON, JARED T , et al. ; Multiplex PCR method for MinION and Illumina sequencing of Zika and other virus genomes directly from clinical samples. Nature Protocols, v. 12, p. 1261-1276, 2017.
+Citações:21|23
+
+44.
+TRAMONTINI GOMES DE SOUSA CARDOZO, FRANCIELLE ; BAIMUKANOVA, GYULNAR ; LANTERI, MARION CHRISTINE ; KEATING, SHEILA MARIE ; MORAES FERREIRA, FREDERICO ; HEITMAN, JOHN ; PANNUTI, CL?UDIO S?RGIO ; PATI, SHIBANI ; Romano, Camila Malta ; CERDEIRA SABINO, ESTER . Serum from dengue virus-infected patients with and without plasma leakage differentially affects endothelial cells barrier function in vitro. PLoS One, v. 12, p. e0178820, 2017.
+
+45.
+OLIVEIRA, V. B. ; DEZAN, M. R. ; GOMES, F. C. A. ; MENOSI GUALANDRO, S. F. ; KRIEGER, J. E. ; PEREIRA, A. C. ; MARSIGLIA, J. D. ; LEVI, J. E. ; ROCHA, V. ; MENDRONE-JUNIOR, A. ; SABINO, Ester Cerdeira ; DINARDO, C. L. . -318C/T polymorphism of the gene is an independent risk factor for RBC alloimmunization among sickle cell disease patients. International Journal of Immunogenetics, v. 1, p. 1-1, 2017.
+Citações:2
+
+46.
+CHARLYS DA COSTA, ANTONIO ; THÉZÉ, JULIEN ; KOMNINAKIS, SHIRLEY CAVALCANTE VASCONCELOS ; SANZ-DURO, RODRIGO LOPES ; FELINTO, MARTA REJANE LEMOS ; MOURA, LÚCIA CRISTINA CORRÊA ; BARROSO, IVONEIDE MOREIRA DE OLIVEIRA ; SANTOS, LUCINEIDE ELIZIARIO CORREIA ; NUNES, MARDJANE ALVES DE LEMOS ; MOURA, ADRIANA AVILA ; LOURENÇO, JOSÉ ; DENG, XUTAO ; DELWART, ERIC L. ; GUIMARÃES, MARIA RAQUEL DOS ANJOS SILVA ; PYBUS, OLIVER G. ; Sabino, Ester C. ; FARIA, NUNO R. . Spread of Chikungunya Virus East/Central/South African Genotype in Northeast Brazil. EMERGING INFECTIOUS DISEASES, v. 23, p. 1742-1744, 2017.
+
+47.
+NUNES, LUISA M. ; RIBEIRO, ROBERTO ; NIEWIADONSKI, VIVIAN D.T. ; Sabino, Ester ; YAMAMOTO, GUILHERME L. ; BERTOLA, DÉBORA R. ; GABURO, NELSON ; DA SILVA FILHO, LUIZ VICENTE R.F. . A new insight into CFTR allele frequency in Brazil through next generation sequencing. PEDIATRIC PULMONOLOGY, v. 52, p. 1300-1305, 2017.
+
+48.
+FARIA, NUNO R. ; da Costa, Antonio Charlys ; LOURENÇO, JOSÉ ; Loureiro, Paula ; LOPES, MARIA ESTHER ; RIBEIRO, ROBERTO ; Alencar, Cecilia Salete ; KRAEMER, MORITZ U. G. ; VILLABONA-ARENAS, CHRISTIAN J. ; WU, CHIEH-HSI ; THÉZÉ, JULIEN ; KHAN, KAMRAN ; BRENT, SHANNON E. ; ROMANO, CAMILA ; DELWART, ERIC ; Custer, Brian ; Busch, Michael P. ; PYBUS, OLIVER G. ; Sabino, Ester C. . Genomic and epidemiological characterisation of a dengue virus outbreak among blood donors in Brazil. Scientific Reports, v. 7, p. 15216, 2017.
+
+49.
+MUSSO, DIDIER ; BOSSIN, HERVÉ ; MALLET, HENRI PIERRE ; BESNARD, MARIANNE ; BROULT, JULIEN ; BAUDOUIN, LAURE ; Levi, José Eduardo ; Sabino, Ester C ; GHAWCHE, FREDERIC ; LANTERI, MARION C ; BAUD, DAVID . Zika virus in French Polynesia 2013-14: anatomy of a completed outbreak. LANCET INFECTIOUS DISEASES, v. x, p. x, 2017.
+Citações:1
+
+50.
+DUARTE, SEBASTIÃO MAURO BEZERRA ; STEFANO, JOSÉ TADEU ; MIELE, LUCA ; PONZIANI, FRANCESCA ROMANA ; DE SOUZA, MARCELA ; RODRIGUES, LÍVIA ; DE BARROS COSTA, FERNANDO GOMES ; TODA, KARLA ; CAMPOS MAZO, DANIEL FERRAZ ; SABINO, Ester Cerdeira ; CARRILHO, FLAIR JOSÉ ; GASBARRINI, ANTONIO ; OLIVEIRA, CLAUDIA P. . Gut microbiome composition in lean patients with NASH is associated with liver damage independent from caloric intake: a prospective pilot study. NUTRITION METABOLISM AND CARDIOVASCULAR DISEASES, v. 28, p. 369-384, 2017.
+
+51.
+ Sabino, Ester C.; Loureiro, Paula ; LOPES, MARIA ESTHER ; Capuani, Ligia ; MCCLURE, CHRISTOPHER ; CHOWDHURY, DHULY ; DI-LORENZO-OLIVEIRA, CLAUDIA ; OLIVEIRA, LEA C. ; LINNEN, JEFFREY M. ; Lee, Tzong-Hae ; GONÇALEZ, THELMA ; BRAMBILLA, DONALD ; KLEINMAN, STEVE ; Busch, Michael P. ; Custer, Brian . Transfusion-Transmitted Dengue and Associated Clinical Symptoms During the 2012 Epidemic in Brazil. The Journal of Infectious Diseases, v. 213, p. 694-702, 2016.
+Citações:12|22
+
+52.
+MORENO, E. C. ; BOLINA-SANTOS, E. ; MENDES-OLIVEIRA, F. ; MIRANDA, C. ; SABINO, Ester Cerdeira ; CIOFFI, J. G. M. ; CAMARGOS, V. ; CAIAFFA, W. ; XAVIER, C. C. ; PROIETTI, F. A. ; Carneiro-Proietti, A. B. . Blood donation in a large urban centre of southeast Brazil: a population-based study. Transfusion Medicine (Print), v. 2016, p. n/a-n/a, 2016.
+
+53.
+GRANJON, ELODIE ; DICHTEL-DANJOY, MARIE-LAURE ; SABA, ESBER ; Sabino, Ester ; CAMPOS DE OLIVEIRA, LEA ; ZREIN, MAAN . Development of a Novel Multiplex Immunoassay Multi-cruzi for the Serological Confirmation of Chagas Disease. PLoS Neglected Tropical Diseases (Online), v. 10, p. e0004596, 2016.
+Citações:5|6
+
+54.
+PESSÔA, RODRIGO ; Loureiro, Paula ; ESTHER LOPES, MARIA ; CARNEIRO-PROIETTI, ANNA B. F. ; Sabino, Ester C ; Busch, Michael P. ; Sanabani, Sabri S . Ultra-Deep Sequencing of HIV-1 near Full-Length and Partial Proviral Genomes Reveals High Genetic Diversity among Brazilian Blood Donors. Plos One, v. 11, p. e0152499, 2016.
+Citações:2|7
+
+55.
+CARDOSO, CLARECI SILVA ; SABINO, Ester Cerdeira ; OLIVEIRA, CLAUDIA DI LORENZO ; DE OLIVEIRA, LEA CAMPOS ; FERREIRA, ARIELA MOTA ; CUNHA-NETO, EDÉCIO ; BIERRENBACH, ANA LUIZA ; Ferreira, João Eduardo ; HAIKAL, DESIRÉE SANT'ANA ; REINGOLD, ARTHUR L ; RIBEIRO, ANTONIO LUIZ P . Longitudinal study of patients with chronic Chagas cardiomyopathy in Brazil (SaMi-Trop project): a cohort profile. BMJ Open, v. 6, p. e011181, 2016.
+Citações:3|5
+
+56.
+LANTERI, MARION C. ; KLEINMAN, STEVEN H. ; GLYNN, SIMONE A. ; MUSSO, DIDIER ; KEITH HOOTS, W. ; CUSTER, BRIAN S. ; Sabino, Ester C. ; Busch, Michael P. . Zika virus: a new threat to the safety of the blood supply with worldwide impact and implications. Transfusion (Arlington, Va.), v. x, p. x-x, 2016.
+Citações:3|21
+
+57.
+Busch, Michael P. ; Sabino, Ester C. ; BRAMBILLA, DONALD ; LOPES, MARIA ESTHER ; Capuani, Ligia ; CHOWDHURY, DHULY ; MCCLURE, CHRISTOPHER ; LINNEN, JEFFREY M. ; PRINCE, HARRY ; SIMMONS, GRAHAM ; Lee, Tzong-Hae ; KLEINMAN, STEVEN ; Custer, Brian . Duration of Dengue Viremia in Blood Donors and Relationships Between Donor Viremia, Infection Incidence and Clinical Case Reports During a Large Epidemic. The Journal of Infectious Diseases, v. 214, p. 49-54, 2016.
+Citações:7|10
+
+58.
+HORA, BHAVNA ; KEATING, SHEILA M. ; CHEN, YUE ; SANCHEZ, ANA M. ; Sabino, Ester ; HUNT, GILLIAN ; LEDWABA, JOHANNA ; HACKETT, JOHN ; SWANSON, PRISCILLA ; HEWLETT, INDIRA ; RAGUPATHY, VISWANATH ; VIKRAM VEMULA, SAI ; ZENG, PEIBIN ; TEE, KOK-KENG ; CHOW, WEI ZHEN ; JI, HEZHAO ; SANDSTROM, PAUL ; DENNY, THOMAS N. ; Busch, Michael P. ; GAO, FENG . Genetic Characterization of a Panel of Diverse HIV-1 Isolates at Seven International Sites. Plos One, v. 11, p. e0157340, 2016.
+
+59.
+GASPARETO, KARINE V ; RIBEIRO, ROBERTO M ; DE M MALTA, FERNANDA ; GOMES-GOUVÊA, MICHELE S ; MUTO, NAIR H ; ROMANO, CAMILA M ; MENDES-CORREA, MARIA C ; CARRILHO, FLAIR J ; Sabino, Ester C ; REBELLO PINHO, JOÃO R . Resistance-associated variants in HCV subtypes 1a and 1b detected by Ion Torrent sequencing platform. Antiviral Therapy (London), v. x, p. xxx, 2016.
+
+60.
+ALMEIDA, FERNANDA NASCIMENTO ; TUNES, GISELA ; DA COSTA, JULIO CEZAR BRETTAS ; SABINO, Ester Cerdeira ; Alfredo Mendrone Jr. ; FERREIRA, JOÃO EDUARDO . A provenance model based on declarative specifications for intensive data analyses in hemotherapy information systems. Future Generation Computer Systems, v. 59, p. 105-113, 2016.
+Citações:1|1
+
+61.
+FARIA, NUNO RODRIGUES ; Sabino, Ester C. ; NUNES, MARCIO R. T. ; ALCANTARA, LUIZ CARLOS JUNIOR ; LOMAN, NICHOLAS J. ; PYBUS, OLIVER G. . Mobile real-time surveillance of Zika virus in Brazil. Genome Medicine, v. 8, p. 97, 2016.
+Citações:14|13
+
+62.
+BRUHN, ROBERTA ; MORENO, ELIZABETH ; Sabino, Ester C. ; FERREIRA, NAURA APARECIDA F. ; Carneiro-Proietti, Anna Barbara F. ; LOPES, MARIA ESTHER D. ; Sampaio, Divaldo ; Loureiro, Paula ; Custer, Brian ; Goncalez, Thelma T. . Self-reported historic human immunodeficiency virus (HIV) testing in a Brazilian blood donor HIV case-control study. Transfusion (Arlington, Va.), v. xx, p. xxx, 2016.
+
+63.
+GASPARETO, KARINE VIEIRA ; RIBEIRO, ROBERTO MARQUES ; DE MELLO MALTA, FERNANDA ; GOMES-GOUVÊA, MICHELE SOARES ; MUTO, NAIR HIDEKO ; MENDES-CORREA, MARIA CASSIA ; ROZANSKI, ANDREI ; CARRILHO, FLAIR JOSÉ ; SABINO, Ester Cerdeira ; PINHO, JOÃO RENATO REBELLO . HCV inter-subtype 1a/1b recombinant detected by complete-genome next-generation sequencing. Archives of Virology, v. 161, p. 2161-2168, 2016.
+
+64.
+FERREIRA, ARIELA MOTA ; SABINO, Ester Cerdeira ; DE OLIVEIRA, LEA CAMPOS ; OLIVEIRA, CLÁUDIA DI LORENZO ; CARDOSO, CLARECI SILVA ; RIBEIRO, ANTÔNIO LUIZ PINHO ; HAIKAL, DESIRÉE SANT?ANA . Benznidazole Use among Patients with Chronic Chagas' Cardiomyopathy in an Endemic Region of Brazil. Plos One, v. 11, p. e0165950, 2016.
+
+65.
+DEZAN, M. R. ; OLIVEIRA, V. B. ; BIANCHI, J. V. S. ; RODRIGUES, V. ; SOLANO, J. H. ; GOMES, F. C. ; BONIFÁCIO, S. L. ; LEVI, J. E. ; GUALLANDRO, S. F. M. ; KRIEGER, J. E. ; PEREIRA, A. C. ; Sabino, E. C. ; MENDRONE-JÚNIOR, A. ; DINARDO, C. L. . Effectiveness of a red cell antigen-matching transfusion protocol in sickle cell disease patients. Isbt Science Series (Print), v. NA, p. NA-NA, 2016.
+
+66.
+MAISTRO, SIMONE ; TEIXEIRA, NATALIA ; ENCINAS, GISELLY ; KATAYAMA, MARIA LUCIA HIRATA ; NIEWIADONSKI, VIVIAN DIONISIO TAVARES ; CABRAL, LARISSA GARCIA ; RIBEIRO, ROBERTO MARQUES ; GABURO JUNIOR, NELSON ; DE GOUVÊA, ANA CAROLINA RIBEIRO CHAVES ; CARRARO, DIRCE MARIA ; SABINO, Ester Cerdeira ; DIZ, MARIA DEL PILAR ESTEVEZ ; CHAMMAS, ROGER ; DE BOCK, GEERTRUIDA HENDRIKA ; FOLGUEIRA, MARIA APARECIDA AZEVEDO KOIKE . Germline mutations in BRCA1 and BRCA2 in epithelial ovarian cancer patients in Brazil. BMC Cancer (Online), v. 16, p. 934, 2016.
+Citações:4|4
+
+67.
+AVELINO-SILVA, VIVIAN I. ; MIYAJI, KARINA T. ; HUNT, PETER W. ; HUANG, YONG ; SIMOES, MARISOL ; LIMA, SHEILA B. ; FREIRE, MARCOS S. ; CAIAFFA-FILHO, HELIO H. ; HONG, MARISA A. ; COSTA, DAYANE ALVES ; DIAS, JULIANA ZANATTA C. ; CERQUEIRA, NATALIA B. ; NISHIYA, ANNA SHOKO ; SABINO, Ester Cerdeira ; SARTORI, ANA M. ; Kallas, Esper G. . CD4/CD8 Ratio and KT Ratio Predict Yellow Fever Vaccine Immunogenicity in HIV-Infected Patients. PLoS Neglected Tropical Diseases (Online), v. 10, p. e0005219, 2016.
+Citações:6
+
+68.
+ANTUNES, ANDRÉ PIRES ; RIBEIRO, ANTÔNIO LUIZ PINHO ; SABINO, Ester Cerdeira ; SILVEIRA, MARISE FAGUNDES ; OLIVEIRA, CLÁUDIA DI LORENZO ; BOTELHO, ANA CRISTINA DE CARVALHO . Benznidazole therapy for Chagas disease in asymptomatic Trypanosoma cruzi -seropositive former blood donors: evaluation of the efficacy of different treatment regimens. Sociedade Brasileira de Medicina Tropical. Revista, v. 49, p. 713-720, 2016.
+Citações:1
+
+69.
+FERREIRA, LUDMILA RODRIGUES PINTO ; FERREIRA, FREDERICO MORAES ; NAKAYA, HELDER IMOTO ; DENG, XUTAO ; CÂNDIDO, DARLAN DA SILVA ; DE OLIVEIRA, LEA CAMPOS ; BILLAUD, JEAN-NOEL ; LANTERI, MARION C. ; RIGAUD, VAGNER OLIVEIRA-CARVALHO ; SEIELSTAD, MARK ; KALIL, JORGE ; FERNANDES, FABIO ; RIBEIRO, ANTÔNIO LUIZ P. ; SABINO, Ester Cerdeira ; CUNHA-NETO, EDECIO . Blood Gene Signatures of Chagas disease Cardiomyopathy with or without ventricular dysfunction. JOURNAL OF INFECTIOUS DISEASES, v. 215, p. jiw540-395, 2016.
+
+70.
+SABINO, Ester Cerdeira; RIBEIRO, A.L. ; LEE, T. H ; OLIVEIRA, C. L. ; CARNEIRO-PROIETTI, A. B. ; ANTUNES, A. P. ; MENEZES, M. M. ; IANNI, B. M. ; SALEMI, V. M. ; NASTARI, L. ; FERNANDES, F. ; SACHDEV, V. ; CARRICK, D. M. ; DENG, X. ; WRIGHT, D. ; GONÇALEZ, T. T. ; MURPHY, E. L. ; CUSTER, B. ; BUSCH, M.P. . Detection of DNA in blood by PCR is associated with Chagas cardiomyopathy and disease severity. European Journal of Heart Failure, v. Epub, p. n/a-n/a, 2015.
+Citações:9|6
+
+71.
+OZAHATA, MINA CINTHO ; SABINO, Ester Cerdeira ; DIAZ, RICARDO SOBHIE ; CESAR-JR, ROBERTO M ; FERREIRA, J. E. . Data-intensive analysis of HIV mutations. BMC Bioinformatics, v. 16, p. 35, 2015.
+
+72.
+CARMO, ANDRE A.L. ; Rocha, Manoel O.C. ; SILVA, JOSE L.P. ; IANNI, BARBARA M. ; FERNANDES, FABIO ; SABINO, Ester Cerdeira ; RIBEIRO, A.L. . Amiodarone and Trypanosoma cruzi parasitemia in patients with Chagas disease. International Journal of Cardiology (Print), v. Epub, p. 1-3, 2015.
+Citações:1|5
+
+73.
+TEIXEIRA-CARVALHO, ANDRÉA ; CAMPOS, FERNANDA MAGALHÃES FREIRE ; GEIGER, STEFAN MICHAEL ; ROCHA, ROBERTA DIAS RODRIGUES ; DE ARAÚJO, FERNANDA FORTES ; VITELLI-AVELAR, DANIELLE MARQUETE ; ANDRADE, MARILÉIA CHAVES ; ARAÚJO, MÁRCIO SOBREIRA SILVA ; LEMOS, ELENICE MOREIRA ; DE FREITAS CARNEIRO PROIETTI, ANNA BÁRBARA ; SABINO, Ester Cerdeira ; CALDAS, RAFAELLA GAIOTTI ; FREITAS, CAROLINA RENATA CAMARGOS ; CAMPI-AZEVEDO, ANA CAROLINA ; ELÓI-SANTOS, SILVANA MARIA ; MARTINS-FILHO, OLINDO ASSIS . FC-TRIPLEX Chagas/Leish IgG1: A Multiplexed Flow Cytometry Method for Differential Serological Diagnosis of Chagas Disease and Leishmaniasis. Plos One, v. 10, p. e0122938, 2015.
+Citações:2|6
+
+74.
+DIONISIO TAVARES NIEWIADONSKI, VIVIAN ; DOS SANTOS BIANCHI, JULIANA VIEIRA ; de Almeida-Neto, Cesar ; GABURO, NELSON ; SABINO, Ester Cerdeira . Evaluation of a High Throughput Method for the Detection of Mutations Associated with Thrombosis and Hereditary Hemochromatosis in Brazilian Blood Donors. Plos One, v. 10, p. e0125460, 2015.
+Citações:2|2
+
+75.
+PESSÔA, RODRIGO ; Sabino, Ester C ; Sanabani, Sabri S . Frequency of coreceptor tropism in PBMC samples from HIV-1 recently infected blood donors by massively parallel sequencing: the REDS II study. Virology Journal, v. 12, p. 74, 2015.
+Citações:1
+
+76.
+REMESAR, MIRTA ; Sabino, Ester C. ; Del Pozo, Ana ; MAYER, ALLEN ; Busch, Michael P. ; Custer, Brian . Bimodal distribution of antibody levels in blood donors from a highly endemic area of Argentina: What is the significance of low-reactive samples?. Transfusion (Arlington, Va.), v. 55, p. 2499-2504, 2015.
+Citações:4|4
+
+77.
+Goncalez, Thelma T. ; BLATYTA, PAULA F. ; SANTOS, FERNANDA M. ; MONTEBELLO, SANDRA ; ESPOSTI, SANDRA P.D. ; HANGAI, FATIMA N. ; Salles, Nanci A. ; Mendrone, Alfredo ; TRUONG, HONG-HA M. ; Sabino, Ester C. ; McFarland, Willi . Does offering human immunodeficiency virus testing at the time of blood donation reduce transfusion transmission risk and increase disclosure counseling? Results of a randomized controlled trial, São Paulo, Brazil. Transfusion (Arlington, Va.), v. 55, p. n/a-n/a, 2015.
+Citações:3|3
+
+78.
+Levi, José Eduardo ; Nishiya, Anna ; FÉLIX, ALVINA CLARA ; Salles, Nanci Alves ; SAMPAIO, LUCIANA RIBEIRO ; HANGAI, FÁTIMA ; SABINO, Ester Cerdeira ; Mendrone, Alfredo . Real-time symptomatic case of transfusion-transmitted dengue. Transfusion (Arlington, Va.), v. 55, p. n/a-n/a, 2015.
+Citações:15|22
+
+79.
+KEATING, S.M. ; DENG, X. ; FERNANDES, F. ; CUNHA-NETO, E. ; RIBEIRO, A.L. ; ADESINA, B. ; BEYER, A.I. ; CONTESTABLE, P. ; CUSTER, B. ; BUSCH, M.P. ; SABINO, E.C. . Inflammatory and cardiac biomarkers are differentially expressed in Chagas disease. International Journal of Cardiology (Print), v. 199, p. 451-459, 2015.
+Citações:8|14
+
+80.
+NISHIYA, ANNA SHOKO ; DE ALMEIDA-NETO, CÉSAR ; Romano, Camila Malta ; ALENCAR, CECÍLIA SALETE ; FERREIRA, SUZETE CLEUSA ; DI-LORENZO-OLIVEIRA, CLAUDIA ; Levi, José Eduardo ; Salles, Nanci Alves ; MENDRONE-JUNIOR, ALFREDO ; SABINO, Ester Cerdeira . Phylogenetic analysis of the emergence of main hepatitis C virus subtypes in São Paulo, Brazil. The Brazilian Journal of Infectious Diseases (Impresso), v. 37, p. 306-315, 2015.
+Citações:2|2
+
+81.
+TRUONG, HONG-HA M. ; BLATYTA, PAULA F. ; SANTOS, FERNANDA M. ; MONTEBELLO, SANDRA ; ESPOSTI, SANDRA P. D. ; HANGAI, FATIMA N. ; Salles, Nanci Alves ; Mendrone, Alfredo ; Sabino, Ester C. ; McFarland, Willi ; Gonçalez, Thelma T. . Blood Donor Test-Seeking Motivation and Prior HIV Testing Experiences in São Paulo, Brazil. AIDS and Behavior, v. 19, p. 1574-1578, 2015.
+Citações:2|2
+
+82.
+DINARDO, CARLA LUANA ; FERNANDES, FREDERICO LEON ARRABAL ; SAMPAIO, LUCIANA RIBEIRO ; SABINO, Ester Cerdeira ; Mendrone, Alfredo . Transfusion of older red blood cell units, cytokine burst and alloimmunization: a case-control study. Revista Brasileira de Hematologia e Hemoterapia (Impresso), v. 37, p. 320-323, 2015.
+Citações:6
+
+83.
+DAUAR, ELOÍSA TEDESCHI ; Patavino, Giuseppina Maria ; MENDRONE JÚNIOR, ALFREDO ; GUALANDRO, SANDRA FÁTIMA MENOSI ; SABINO, Ester Cerdeira ; de Almeida-Neto, Cesar . Risk factors for deferral due to low hematocrit and iron depletion among prospective blood donors in a Brazilian center. Revista Brasileira de Hematologia e Hemoterapia (Impresso), v. 37, p. 306-315, 2015.
+Citações:3
+
+84.
+BIANCHI, J. V. S. ; DINARDO, C. L. ; NIEWIADONSKI, V. ; MOTA, M. ; MENDRONE-JUNIOR, A. ; Sabino, E. C. . Comparison of two high-throughput platforms for red blood cell and platelet antigens genotyping. Isbt Science Series (Print), v. 10, p. n/a-n/a, 2015.
+
+85.
+DIAZ, RICARDO SOBHIE ; INOCÊNCIO, LILIAN A. ; SUCUPIRA, Maria Cecilia Araripe ; PEREIRA, ANDERSON ALVARENGA ; HUNTER, JAMES ; Ferreira, João Eduardo ; ARAÚJO, LUCIANO V. ; SOUZA, DENISE F. C. ; SABINO, Ester Cerdeira . The Virological and Immunological Characteristics of the HIV-1-Infected Population in Brazil: From Initial Diagnosis to Impact of Antiretroviral Use. Plos One, v. 10, p. e0139677, 2015.
+Citações:3|3
+
+86.
+POZO, A. E. ; PEREZ-ROSALES, M. D. ; ALMEIDA-NETO, C. ; REMESAR, M. C. ; CORTES, A. D. ; DELGADO, R. B. ; Alfredo Mendrone Jr. ; SABINO, Ester Cerdeira . A comprehensive protocol to evaluate the use of blood and its components in Latin America and the Caribbean. Revista Panamericana de Salud Publica (Print), v. 37, p. 435-441, 2015.
+
+87.
+MENDES-OLIVEIRA, FRANCIANE ; BOLINA-SANTOS, EDUARDA ; SALOMON, TASSILA ; Miranda, Carolina ; CIOFFI, JÚNIA ; Sabino, Ester ; BARBOSA-STANCIOLI, EDEL ; MORENO, ELIZABETH ; Carneiro-Proietti, Anna Bárbara . Hepatitis C: prevalence of serologic markers and risk factors in blood donors at a large blood centre in South-eastern Brazil (2007-2010).. Transfusion and Apheresis Science, v. 53, p. 238-241, 2015.
+Citações:1|1
+
+88.
+AVELINO-SILVA, VIVIAN IIDA ; FREIRE, MARCOS DA SILVA ; ROCHA, VANDERSON ; RODRIGUES, CELSO ARRAIS ; NOVIS, YANA SARKIS ; Sabino, Ester C. ; Kallas, Esper Georges . Persistence of Yellow Fever vaccine-induced antibodies after cord blood stem cell transplant. Human Vaccines & Immunotherapeutics, v. 12, p. 00-00, 2015.
+Citações:1|1
+
+89.
+Nishiya, Anna S. ; de Almeida-Neto, Cesar ; FERREIRA, SUZETE C. ; Alencar, Cecília S. ; DI-LORENZO-OLIVEIRA, CLAUDIA ; LEVI, JOSÉ E. ; Salles, Nanci A. ; Mendrone, Alfredo ; Sabino, Ester C. . HCV Genotypes, Characterization of Mutations Conferring Drug Resistance to Protease Inhibitors, and Risk Factors among Blood Donors in São Paulo, Brazil. Plos One, v. 9, p. e86413, 2014.
+Citações:10|9
+
+90.
+LOUREIRO, PAULA ; ALMEIDA-NETO, CESAR DE ; PROIETTI, ANNA BÁRBARA CARNEIRO ; Capuani, Ligia ; GONÇALEZ, THELMA TEREZINHA ; OLIVEIRA, CLAUDIA DI LORENZO DE ; Leão, Silvana Carneiro ; LOPES, MARIA INÊS ; Sampaio, Divaldo ; Patavino, Giuseppina Maria ; FERREIRA, J. E. ; Blatyta, Paula Fraiman ; LOPES, MARIA ESTHER DUARTE ; MENDRONE-JUNIOR, ALFREDO ; Salles, Nanci Alves ; KING, MELISSA ; MURPHY, EDWARD ; Busch, Michael ; Custer, Brian ; SABINO, Ester Cerdeira . Contribution of the Retrovirus Epidemiology Donor Study (REDS) to research on blood transfusion safety in Brazil. Revista Brasileira de Hematologia e Hemoterapia (Impresso), v. 36, p. 152-158, 2014.
+Citações:1
+
+91.
+MIRANDA, C. ; MORENO, E. ; BRUHN, R. ; LARSEN, N. M. ; WRIGHT, D. J. ; OLIVEIRA, C. D. L. ; CARNEIRO-PROIETTI, A. B. F. ; LOUREIRO, P. ; DE ALMEIDA-NETO, C. ; CUSTER, B. ; Sabino, E. C. ; GONÇALEZ, T. T. ; FOR THE NHLBI RETROVIRUS EPIDEMIOLOGY DONOR STUDY-II (REDS-II), INTERNATIONAL COMPONENT . Knowledge of HIV testing and attitudes towards blood donation at three blood centres in Brazil. Vox Sanguinis (Basel. 1956), v. 106, p. 344-353, 2014.
+Citações:1|2
+
+92.
+FERREIRA, S. C. ; DE ALMEIDA-NETO, C. ; NISHIYA, A. S. ; DI-LORENZO-OLIVEIRA, C. ; FERREIRA, J. E. ; ALENCAR, C. S. ; LEVI, J. E. ; SALLES, N. A. ; MENDRONE-JUNIOR, A. ; Sabino, E. C. . Prevalence of Treponema pallidum DNA among blood donors with two different serologic tests profiles for syphilis in São Paulo, Brazil. Vox Sanguinis (Basel. 1956), v. 106, p. 376-378, 2014.
+Citações:1|2
+
+93.
+LUQUE, MARIA CAROLINA ; SANTOS, CAMILA C. ; MAIRENA, ELIANE C. ; WILKINSON, PETER ; BOUCHER, GENÈVIEVE ; SEGURADO, ALUISIO C. ; FONSECA, LUIZ A. ; Sabino, Ester ; KALIL, JORGE E. ; CUNHA-NETO, EDECIO . Gene expression profile in long-term non progressor HIV infected patients: In search of potential resistance factors. Molecular Immunology, v. 62, p. 63-70, 2014.
+Citações:4|5
+
+94.
+TANAKA, PAULA YURIE ; OHSHIMA, KOUICHI ; MATSUOKA, MASAO ; SABINO, Ester Cerdeira ; FERREIRA, SUZETE CLEUSA ; NISHYA, ANNA SHOKO ; OLIVEIRA COSTA, RENATA ; CALORE, EDENILSON EDUARDO ; PEREZ, NILDA MARIA ; PEREIRA, JULIANA . Epstein-Barr Viral Load is Associated to Response in AIDS-Related Lymphomas. INDIAN J HEMATOL BLO, v. 30, p. 191-4, 2014.
+Citações:1|1
+
+95.
+FERREIRA, S. C. ; DE ALMEIDA-NETO, C. ; NISHIYA, A. S. ; OLIVEIRA, C. D. L. ; FERREIRA, J. E. ; ALENCAR, C. S. ; LEVI, J. E. ; SALLES, N. A. ; MENDRONE JR., A. ; SABINO, Ester Cerdeira . Demographic, risk factors and motivations among blood donors with reactive serologic tests for syphilis in São Paulo, Brazil. Transfusion Medicine (Print), v. 24, p. 169-175, 2014.
+Citações:1|2
+
+96.
+Capuani, Ligia ; BIERRENBACH, ANA LUIZA ; ABREU, FATIMA ; TAKECIAN, PEDRO LOSCO ; Ferreira, João Eduardo ; SABINO, Ester Cerdeira . Accuracy of a probabilistic record-linkage methodology used to track blood donors in the Mortality Information System database. Cadernos de Saúde Pública (ENSP. Impresso), v. 30, p. 1623-1632, 2014.
+Citações:3|2
+
+97.
+LANGHI JÚNIOR, DANTE ; COVAS, DIMAS TADEU ; BIANCO, CELSO ; Sabino, Ester ; MARQUES, JOSÉ FRANCISCO COMENALLI ; Levi, José Eduardo ; Salles, Nanci Alves ; GONÇALES, NEIVA SELLAN LOPES ; KASHIMA, SIMONE . Official communique: Chikungunya virus - a press release of the Associação Brasileira de Hematologia, Hemoterapia e Terapia Celular regarding the safety of transfusions and transplants. Revista Brasileira de Hematologia e Hemoterapia (Impresso), v. 36, p. 309-310, 2014.
+
+98.
+Tarosso, Leandro F. ; SANABANI, SABRI S. ; RIBEIRO, SUSAN P. ; Sauer, Mariana M. ; Tomiyama, Helena I. ; SUCUPIRA, MARIA C. ; Diaz, Ricardo S. ; Sabino, Ester C. ; KALIL, JORGE ; Kallas, Esper G. . Short Communication: HIV Type 1 Subtype BF Leads to Faster CD4 + T Cell Loss Compared to Subtype B. AIDS Research and Human Retroviruses, v. 30, p. 190-194, 2014.
+Citações:3|3
+
+99.
+PESSÔA, RODRIGO ; WATANABE, JAQUELINE TOMOKO ; CALABRIA, PAULA ; FELIX, ALVINA CLARA ; Loureiro, Paula ; Sabino, Ester C. ; Busch, Michael P. ; SANABANI, SABRI S. . Deep Sequencing of HIV-1 near Full-Length Proviral Genomes Identifies High Rates of BF1 Recombinants Including Two Novel Circulating Recombinant Forms (CRF) 70_BF1 and a Disseminating 71_BF1 among Blood Donors in Pernambuco, Brazil. Plos One, v. 9, p. e112674, 2014.
+Citações:6|5
+
+100.
+PESSÔA, RODRIGO ; WATANABE, JAQUELINE TOMOKO ; CALABRIA, PAULA ; Alencar, Cecilia Salete ; Loureiro, Paula ; LOPES, MARIA ESTHER ; PROETTI, ANNA BARBARA ; FÉLIX, ALVINA CLARA ; Sabino, Ester C. ; Busch, Michael P. ; SANABANI, SABRI S. . Enhanced detection of viral diversity using partial and near full-length genomes of human immunodeficiency virus Type 1 provirus deep sequencing data from recently infected donors at four blood centers in Brazil. Transfusion (Arlington, Va.), v. 55, p. n/a-n/a, 2014.
+Citações:3|5
+
+101.
+Blatyta, Paula Fraiman ; Custer, Brian ; Liu, Jing ; Mendrone-Junior, Alfredo ; Wright, David J. ; Leão, Silvana Carneiro ; Lopes, Maria Inês ; Carneiro-Proietti, Anna Bárbara ; SABINO, Ester Cerdeira ; de Almeida-Neto, Cesar . The impact of policies to restrict the use of plasma containing products and apheresis platelets from female donors to mitigate transfusion related acute lung injury (TRALI) in Brazil. Transfusion and Apheresis Science, v. 48, p. 15-20, 2013.
+Citações:3|4
+
+102.
+AVELINO-SILVA, V I ; LEAL, F E ; Sabino, E C ; NISHIYA, A S ; DA SILVA FREIRE, M ; BLUMM, F ; ROCHA, V ; RODRIGUES, C A ; NOVIS, Y S ; KALLAS, E G . Yellow fever vaccine viremia following ablative BM suppression in AML. Bone Marrow Transplantation (Basingstoke), v. 48, p. 1008-1009, 2013.
+Citações:2|2
+
+103.
+RIBEIRO, ANTONIO L. ; Sabino, Ester C. ; MARCOLINO, MILENA S. ; SALEMI, VERA M. C. ; IANNI, BARBARA M. ; FERNANDES, FÁBIO ; NASTARI, LUCIANO ; ANTUNES, ANDRÉ ; MENEZES, MÁRCIA ; OLIVEIRA, CLÁUDIA DI LORENZO ; SACHDEV, VANDANA ; Carrick, Danielle M. ; Busch, Michael P. ; MURPHY, EDUARD L. . Electrocardiographic Abnormalities in Trypanosoma cruzi Seropositive and Seronegative Former Blood Donors. PLoS Neglected Tropical Diseases (Online), v. 7, p. e2078, 2013.
+Citações:16|16
+
+104.
+Takecian, Pedro L. ; OIKAWA, MARCIO K. ; BRAGHETTO, KELLY R. ; ROCHA, PAULO ; LUCENA, FRED ; KAVOUNIS, KATHERINE ; Schlumpf, Karen S. ; ACKER, SUSAN ; CARNEIRO-PROIETTI, ANNA B.F. ; Sabino, Ester C. ; Custer, Brian ; Busch, Michael P. ; Ferreira, João E. . Methodological Guidelines for Reducing the Complexity of Data Warehouse Development for Transactional Blood Bank Systems. Decision Support Systems, v. 55, p. 728-739, 2013.
+Citações:1|2
+
+105.
+Gonçalez, Thelma T. ; Sabino, Ester C. ; Schlumpf, Karen S. ; Wright, David J. ; Mendrone, Alfredo ; Lopes, Maria ; Leão, Silvana ; Miranda, Carolina ; Capuani, Ligia ; Carneiro-Proietti, Anna Barbara F. ; Basques, Fernando ; Ferreira, João E. ; Busch, Michael ; Custer, Brian . Analysis of donor deferral at three blood centers in Brazil. Transfusion (Arlington, Va.), v. 53, p. 531-538, 2013.
+Citações:7|9
+
+106.
+Blatyta, Paula Fraiman ; Custer, Brian ; GONÇALEZ, THELMA TEREZINHA ; BIRCH, REBECCA ; LOPES, MARIA ESTHER ; LOPES FERREIRA, MARIA INES ; CARNEIRO PROIETTI, ANNA BARBARA ; SABINO, Ester Cerdeira ; PAGE, KIMBERLY ; de Almeida-Neto, Cesar ; NHLBI RETROVIRUS EPIDEMIOLOGY DONOR STUDY-II (REDS-II), INTERNATIONAL COMPONENT . Undisclosed human immunodeficiency virus risk factors identified through a computer-based questionnaire program among blood donors in Brazil. Transfusion (Arlington, Va.), v. 53, p. 2734-2743, 2013.
+Citações:8|9
+
+107.
+ SABINO, Ester Cerdeira; RIBEIRO, A. L. ; SALEMI, V. M. C. ; DI LORENZO OLIVEIRA, C. ; ANTUNES, A. P. ; MENEZES, M. M. ; IANNI, B. M. ; NASTARI, L. ; FERNANDES, F. ; PATAVINO, G. M. ; SACHDEV, V. ; CAPUANI, L. ; DE ALMEIDA-NETO, C. ; CARRICK, D. M. ; WRIGHT, D. ; KAVOUNIS, K. ; GONCALEZ, T. T. ; Carneiro-Proietti, A. B. ; Carneiro-Proietti, A. B. ; Custer, B. ; BUSCH, M. P. ; MURPHY, E. L. . Ten-year Incidence of Chagas Cardiomyopathy among Asymptomatic, T. cruzi Seropositive Former Blood Donors. Circulation (Online), v. x, p. ISSN: 1524-4539, 2013.
+Citações:38|35
+
+108.
+De Almeida-Neto, Cesar ; SABINO, Ester Cerdeira ; Liu, Jing ; Blatyta, Paula Fraiman ; Mendrone-Junior, Alfredo ; Salles, Nanci Alves ; Leão, Silvana Carneiro ; Wright, David J. ; Basques, Fernando Valadares ; FERREIRA, J. E. ; Ferreira, João Eduardo ; Busch, Michael P. ; Murphy, Edward L. ; NHLBI RETROVIRUS EPIDEMIOLOGY DONOR STUDY-II (REDS-II), INTERNATIONAL COMPONENT . Prevalence of serologic markers for hepatitis B and C viruses in Brazilian blood donors and incidence and residual risk of transfusion transmission of hepatitis C virus. Transfusion (Arlington, Va.), v. 53, p. 827-834, 2013.
+Citações:13|21
+
+109.
+Sanabani, Sabri SAEED ; PESSÔA, RODRIGO ; SOARES DE OLIVEIRA, ANA CAROLINA ; Martinez, Vanessa POUZA ; GIRET, MARIA TERESA MAIDANA ; DE MENEZES SUCCI, REGINA CÉLIA ; CARVALHO, KARINA ; TOMIYAMA, CLAUDIA SATIKO ; NIXON, DOUGLAS F. ; SABINO, Ester Cerdeira ; Kallas, Esper Georges . Variability of HIV-1 Genomes among Children and Adolescents from São Paulo, Brazil. Plos One, v. 8, p. e62552, 2013.
+Citações:7|11
+
+110.
+Gonçalez, Thelma T. ; Di Lorenzo Oliveira, Claudia ; Carneiro-Proietti, Anna Barbara F. ; Moreno, Elizabeth C. ; Miranda, Carolina ; Larsen, Nina ; Wright, David ; Leão, Silvana ; Loureiro, Paula ; de Almeida-Neto, Cesar ; Lopes, Maria-Inês ; Proietti, Fernando A. ; Custer, Brian ; Sabino, Ester ; NHLBI RETROVIRUS EPIDEMIOLOGY DONOR STUDY-II (REDS-II), INTERNATIONAL COMPONENT . Motivation and social capital among prospective blood donors in three large blood centers in Brazil. Transfusion (Arlington, Va.), v. 53, p. 1291-1301, 2013.
+Citações:5|8
+
+111.
+ALENCAR, CS ; SABINO, EC ; CARVALHO, SMF ; LEAO, S ; CARNEIRO- PROIETTI, AB ; CAPUANI, L ; OLIVEIRA, CL ; CARRICK, D ; BIRCH, RJ ; GONÇALEZ, TT ; KEATING, S ; SWANSON, P ; HACKETT, J ; BUSCH, MP . HIV genotypes and primary drug resistance among HIV seropositive blood donors in Brazil. Journal of Acquired Immune Deficiency Syndromes (1999), v. 63, p. 1-392, 2013.
+Citações:23
+
+112.
+da Costa, A. C. ; BENDIT, I. ; BENDIT, I ; DE OLIVEIRA, A. C. S. ; KALLAS, E. G. ; SABINO, Ester Cerdeira ; SANABANI, S. S. . Investigation of human parvovirus B19 occurrence and genetic variability in different leukaemia entities. Clinical Microbiology and Infection (Print), v. 19, p. E31-E43, 2013.
+Citações:9|10
+
+113.
+Sabino, E. C.; RIBEIRO, A. L. ; SALEMI, V. M. C. ; IANNI, B. M. ; NASTARI, L. ; FERNANDES, F. ; DI LORENZO OLIVEIRA, C. ; ANTUNES, A. P. ; MENEZES, M. M. ; PATAVINO, G. M. ; CAPUANI, L. ; DE ALMEIDA-NETO, C. ; SACHDEV, V. ; CARRICK, D. M. ; WRIGHT, D. ; KAVOUNIS, K. ; GONZALEZ, T. T. ; CUSTER, B. ; BUSCH, M. P. ; MURPHY, E. L. ; CARNEIRO-PROIETTI, A.-B. . Response to Letters Regarding Article, 'Ten-Year Incidence of Chagas Cardiomyopathy Among Asymptomatic, Trypanosoma cruzi-Seropositive Former Blood Donors'. Circulation (New York, N.Y.), v. 128, p. e137-e138, 2013.
+
+114.
+SABA, ESBER S. ; GUEYFFIER, LUCIE ; DICHTEL-DANJOY, MARIE-LAURE ; POZZETTO, BRUNO ; BOURLET, THOMAS ; GUEYFFIER, FRANÇOIS ; MEKKI, YAHIA ; POTTEL, HANS ; Sabino, Ester C. ; VANHEMS, PHILIPPE ; ZREIN, MAAN A. . Anti-Trypanosoma cruzi Cross-Reactive Antibodies Detected at High Rate in Non-Exposed Individuals Living in Non-Endemic Regions: Seroprevalence and Association to Other Viral Serologies. Plos One, v. 8, p. e74493, 2013.
+Citações:3|4
+
+115.
+OLIVEIRA, CLAUDIA DI LORENZO ; ALMEIDA-NETO, CESAR DE ; LIU, EMILY JING ; SABINO, Ester Cerdeira ; Leão, Silvana Carneiro ; Loureiro, Paula ; Wright, David ; Custer, Brian ; GONÇALEZ, THELMA THEREZINHA ; Capuani, Ligia ; Busch, Michael ; PROIETTI, ANNA BÁRBARA DE FREITAS CARNEIRO . Temporal distribution of blood donations in three Brazilian blood centers and its repercussion on the blood supply. Revista Brasileira de Hematologia e Hemoterapia (Impresso), v. 35, p. 246-251, 2013.
+Citações:3
+
+116.
+SABINO, Ester Cerdeira; SALLES, N. ; LEVI, J. E ; LEVI, J. E ; BARRETO, C. ; Romano, Camila Malta ; MENDRONE, A. . Human immunodeficiency virus transfusion transmission despite nucleic acid testing. Transfusion (Arlington, Va.), v. 53, p. 2593-2595, 2013.
+Citações:6|6
+
+117.
+ALMEIDA, FERNANDA N. ; SABINO, Ester Cerdeira ; TUNES, GISELA ; SCHREIBER, GEORGE B. ; B. DA SILVA, PEDRO PAULO S. ; CARNEIRO-PROIETTI, ANNA BARBARA F. ; Carneiro-Proietti, A. B. ; Ferreira, João Eduardo ; MENDRONE-JUNIOR, ALFREDO . Predictors of low haematocrit among repeat donors in São Paulo, Brazil: eleven year longitudinal analysis. Transfusion and Apheresis Science, v. 49, p. 553-559, 2013.
+Citações:3|4
+
+118.
+DENG, XUTAO ; Sabino, Ester C. ; CUNHA-NETO, EDECIO ; RIBEIRO, ANTONIO L. ; IANNI, BARBARA ; MADY, CHARLES ; Busch, Michael P. ; SEIELSTAD, MARK ; COMPONENT, INTERNATIONAL . Genome Wide Association Study (GWAS) of Chagas Cardiomyopathy in Trypanosoma cruzi Seropositive Subjects. Plos One, v. 8, p. e79629, 2013.
+Citações:16|16
+
+119.
+TAROSSO, LEANDRO F. ; Sauer, Mariana M. ; Sanabani, Sabri ; Giret, Maria Teresa ; Tomiyama, Helena I. ; Sidney, John ; Piaskowski, Shari M. ; DIAZ, R. S. ; Diaz, Ricardo S. ; SABINO, Ester Cerdeira ; Sette, Alessandro ; Kalil-Filho, Jorge ; WATKINS, David I. ; Kallas, Esper G. . Correction: Unexpected Diversity of Cellular Immune Responses against Nef and Vif in HIV-1-Infected Patients Who Spontaneously Control Viral Replication. Plos One, v. 8, p. 15, 2013.
+
+120.
+Patavino, Giuseppina Maria ; de Almeida-Neto, Cesar ; Liu, Jing ; Wright, David J. ; Mendrone-Junior, Alfredo ; Ferreira, Maria Inês Lopes ; de Freitas Carneiro, Anna Bárbara ; Custer, Brian ; Ferreira, João Eduardo ; Busch, Michael P. ; SABINO, Ester Cerdeira . Number of recent sexual partners among blood donors in Brazil: associations with donor demographics, donation characteristics, and infectious disease markers. Transfusion (Arlington, Va.), v. 52, p. 151-159, 2012.
+Citações:8|9
+
+121.
+SUCUPIRA, Maria Cecilia Araripe ; Sanabani, Sabri ; Cortes, Rodrigo M. ; Giret, Maria Teresa M. ; Tomiyama, Helena ; Sauer, Mariana M. ; SABINO, Ester Cerdeira ; Janini, Luiz Mario ; Kallas, Esper Georges ; Diaz, Ricardo Sobhie . Faster HIV-1 Disease Progression among Brazilian Individuals Recently Infected with CXCR4-Utilizing Strains. Plos One, v. 7, p. e30292, 2012.
+Citações:16|22
+
+122.
+de Almeida Neto, Cesar ; Mendrone Jr, Alfredo ; Custer, Brian ; Liu, Jing ; Carneiro-Proietti, Anna BÃ¡rbara ; LeÃ£o, Silvana A. Carneiro ; Wright, David J. ; Murphy, Edward L. ; SABINO, Ester Cerdeira . Interdonation intervals and patterns of return among blood donors in Brazil. Transfusion (Arlington, Va.), v. 52, p. 722-728, 2012.
+Citações:4
+
+123.
+KALMAR, E. M. N. ; Sanabani, S. S. ; Charlys da Costa, A. ; Ferreira, S. ; BARRETO, C. C. ; CHEN, S. ; Sabino, E. C. . Evaluation of HIV-1 resistance to antiretroviral drugs among 150 patients after six months of therapeutic interruption. International Journal of STD & AIDS, v. 23, p. 120-125, 2012.
+Citações:2|1
+
+124.
+Goncalez, Thelma T. ; Sabino, Ester C. ; Capuani, Ligia ; Liu, Jing ; Wright, David J. ; Walsh, Judy H. ; Ferreira, Joao E. ; Chamone, Dalton A. ; Busch, Michael P. ; Custer, Brian . Blood transfusion utilization and recipient survival at Hospital das Clinicas in SÃ£o Paulo, Brazil. Transfusion (Arlington, Va.), v. 52, p. 729-738, 2012.
+Citações:6|9
+
+125.
+Carneiro-Proietti, Anna Bárbara F. ; Sabino, Ester C. ; Leão, Silvana ; Salles, Nanci A. ; Loureiro, Paula ; Sarr, Moussa ; Wright, David ; Busch, Michael ; Proietti, Fernando A. ; Murphy, for the NHLBI Retrovirus Ep, Edward L. . Human T-Lymphotropic Virus Type 1 and Type 2 Seroprevalence, Incidence, and Residual Transfusion Risk Among Blood Donors in Brazil During 2007 2009. AIDS Research and Human Retroviruses, p. 1265-1272, 2012.
+Citações:12|12
+
+126.
+de Oliveira, Ana Carolina S ; PESSÔA DE FARIAS, RODRIGO ; DA-COSTA, ANTONIO CHARLYS ; Sauer, Mariana M ; Bassichetto, Katia C ; OLIVEIRA, SOLANGE MARIA S ; COSTA, PRISCILLA R ; TOMIYAMA, CLAUDIA S ; TOMIYAMA, HELENA TOMOKO IWASHITA T ; Sabino, Ester C ; KALLAS, ESPER G ; Sanabani, Sabri S . Frequency of subtype B and F1 dual infection in HIV-1 positive, Brazilian men who have sex with men. Virology Journal, v. 9, p. 223, 2012.
+Citações:4|7
+
+127.
+GIRARDI, SAMIRA BARBOZA ; BARRETO, ANGELA MARIA EGYDIO DE CARVALHO ; BARRETO, CLAUDIA CORTESE ; PROIETTI, ANNA BARBARA ; DE CARVALHO, SILVIA MAIA FARIAS ; Loureiro, Paula ; SABINO, Ester Cerdeira . Evaluation of rapid tests for human immunodeficiency virus as a tool to detect recent seroconversion. The Brazilian Journal of Infectious Diseases (Impresso), v. 16, p. 452-456, 2012.
+Citações:2|2
+
+128.
+MANAK, MARK ; SINA, SILVANA ; ANEKELLA, BHARATHI ; HEWLETT, INDIRA ; SANDERS-BUELL, ERIC ; RAGUPATHY, VISWANATH ; KIM, JEROME ; VERMEULEN, MARION ; Stramer, Susan L. ; Sabino, Ester ; GRABARCZYK, PIOTR ; MICHAEL, NELSON ; PEEL, SHEILA ; GARRETT, PATRICIA ; TOVANABUTRA, SODSAI ; Busch, Michael P. ; SCHITO, MARCO . Pilot Studies for Development of an HIV Subtype Panel for Surveillance of Global Diversity. AIDS Research and Human Retroviruses, v. 28, p. 594-606, 2012.
+Citações:13|14
+
+129.
+SABINO, Ester Cerdeira; FERREIRA, J. E. ; Gonçalez, Thelma T. ; Carneiro-Proietti, Anna Bárbara ; Sarr, Moussa ; Ferreira, João Eduardo ; Sampaio, Divaldo A. ; Salles, Nanci A. ; Wright, David J. ; Custer, Brian ; Busch, Michael ; FOR THE NHLBI RETROVIRUS EPIDEMIOLOGY DONOR STUDY-II (REDS-II), INTERNATIONAL COMPONENT . Human immunodeficiency virus prevalence, incidence, and residual risk of transmission by transfusions at Retrovirus Epidemiology Donor Study-II blood centers in Brazil. Transfusion (Arlington, Va.), v. 52, p. 870-879, 2012.
+Citações:23|31
+
+130.
+Sanabani, Sabri Saeed ; Nukui, Youko ; PEREIRA, JULIANA ; da Costa, Antonio Charlys ; DE OLIVEIRA, ANA CAROLINA ; PESSÔA, RODRIGO ; LEAL, FABIO EUDES ; Segurado, Aluisio C ; KALLÁS, E. G. ; Kallas, Esper Georges ; SABINO, Ester Cerdeira . Lack of evidence to support the association of a single IL28B genotype SNP rs12979860 with the HTLV-1 clinical outcomes and proviral load. BMC Infectious Diseases (Online), v. 12, p. 374, 2012.
+Citações:8|8
+
+131.
+Sabino, Ester C.; Lee, Tzong-Hae ; Montalvo, Lani ; Nguyen, Megan L. ; Leiby, David A. ; Carrick, Danielle M. ; Otani, Marcia M. ; Vinelli, Elizabeth ; Wright, David ; Stramer, Susan L. ; Busch, Michael . Antibody levels correlate with detection of Trypanosoma cruzi DNA by sensitive polymerase chain reaction assays in seropositive blood donors and possible resolution of infection over time. Transfusion (Arlington, Va.), v. 53, p. 1257-1265, 2012.
+Citações:17|18
+
+132.
+Sabino, Ester C.; Salles, Nanci A. ; de Almeida-Neto, Cesar ; Barreto, Angela M. ; Basques, Fernando ; Barros, Emanuelle A. ; Mendrone Jr, Alfredo ; Busch, Michael P. . Performance of parallel screening of Brazilian blood donors with two human immunodeficiency virus immunoassays: implications for sequential immunoassay testing algorithms in other countries. Transfusion (Arlington, Va.), v. 51, p. 175-183, 2011.
+Citações:5|6
+
+133.
+GARCIA, S. O. ; KLEINE NETO, Walter ; COSTA, A. C. ; Al-Sanabani, S. S. M. A. ; MENDRONE JUNIOR, A. ; PEREIRA, J. ; SABINO, Ester Cerdeira . Parvovirus among patients with cytopenia of unknown origin in Brazil: a case control study. Journal of Clinical Microbiology (Print), v. 49, p. 1-4, 2011.
+Citações:2|3
+
+134.
+Giret, Maria Teresa M. ; Miraglia, João Luiz ; Sucupira, Maria Cecília Araripe ; Nishiya, Anna ; Levi, José Eduardo ; Diaz, Ricardo S. ; Sabino, Ester C. ; Kallas, Esper G. . Prevalence, Incidence Density, and Genotype Distribution of GB Virus C Infection in a Cohort of Recently HIV-1-Infected Subjects in Sao Paulo, Brazil. Plos One, v. 6, p. e18407, 2011.
+Citações:13|18
+
+135.
+Souza, Denise C. F. ; Sucupira, Maria Cecilia A. ; Brindeiro, Rodrigo M. ; Fernandez, Jose Carlos C. ; Sabino, Ester C. ; Inocencio, Lilian A. ; Diaz, Ricardo S. . The Brazilian Network for HIV-1 Genotyping External Quality Control Assurance Programme. Journal of the International AIDS Society, v. 14, p. 45, 2011.
+Citações:3|5
+
+136.
+Bermúdez-Aza, Elkin Hernan ; Kerr, Ligia Regina Franco Sansigolo ; Kendall, Carl ; Pinho, Adriana Araujo ; de Mello, Maeve Brito ; Mota, Rosa Salani ; Guimarães, Mark Drew Crosland ; Alencar, Cecilia Salete ; de Brito, Ana Maria ; Dourado, Ines Costa ; da Batista, Sonia Maria Batista ; Abreu, Fabiano ; de Oliveira, Lisangela Cristina ; de Souza Moraes, Adão ; Benzaken, Adele Schwartz ; Merchan-Hamann, Edgar ; de Freitas, Gisele Maria Brandão ; McFarland, Willi ; Albuquerque, Elizabeth ; Rutherford, George W ; Sabino, Ester . Antiretroviral Drug Resistance in a Respondent-Driven Sample of HIV-Infected Men Who Have Sex With Men in Brazil. Journal of Acquired Immune Deficiency Syndromes (1999), v. 57, p. S186-S192, 2011.
+Citações:12|15
+
+137.
+Sanabani, Sabri SAEED ; Pastena, Évelyn Regina de Souza ; da Costa, Antonio Charlys ; Martinez, Vanessa POUZA ; Kleine-Neto, Walter ; de Oliveira, Ana Carolina Soares ; Sauer, Mariana Melillo ; Bassichetto, Katia Cristina ; Oliveira, Solange Maria Santos ; Tomiyama, Helena Tomoko Iwashita ; SABINO, Ester Cerdeira ; Kallas, Esper Georges . Characterization of Partial and Near Full-Length Genomes of HIV-1 Strains Sampled from Recently Infected Individuals in São Paulo, Brazil. Plos One, v. 6, p. e25869, 2011.
+Citações:17|23
+
+138.
+de Almeida-Neto, Cesar ; Liu, Jing ; Wright, David J. ; Mendrone-Junior, Alfredo ; Takecian, Pedro L. ; Sun, Yu ; Ferreira, Joao Eduardo ; De Alencar Fischer Chamone, Dalton ; Busch, Michael P. ; SABINO, Ester Cerdeira . Demographic characteristics and prevalence of serologic markers among blood donors who use confidential unit exclusion (CUE) in SÃ£o Paulo, Brazil: implications for modification of CUE polices in Brazil. Transfusion (Arlington, Va.), v. 51, p. 191-197, 2011.
+Citações:6|11
+
+139.
+Neto, Walter K ; Da-Costa, Antonio C ; de Oliveira, Ana Carolina S ; Martinez, Vanessa P ; Nukui, Youko ; Sabino, Ester C ; Sanabani, Sabri S . Correlation between LTR point mutations and proviral load levels among Human T cell Lymphotropic Virus type 1 (HTLV-1) asymptomatic carriers. Virology journal, v. 8, p. 535, 2011.
+Citações:5|5
+
+140.
+Gonçalez, Thelma T. ; Sabino, Ester C. ; Schlumpf, Karen S. ; Wright, David J. ; Leao, Silvana ; Sampaio, Divaldo ; Takecian, Pedro L. ; Proitetti, Anna B. ; Murphy, Edward ; Busch, Michael ; Custer, Brian . Vasovagal reactions in whole blood donors at three REDS-II blood centers in Brazil. Transfusion (Arlington, Va.), v. 51, p. no-no, 2011.
+Citações:8|11
+
+141.
+GOUVEIA, G. R. ; FERREIRA, S. C. ; SABINO, Ester Cerdeira ; FERREIRA, S. C. ; PEREIRA, J. . Comparaçãoo de tres protocolos distintos para extração de RNA de amostras fixadas em formalina e emblocadas em parafina. Jornal Brasileiro de Patologia e Medicina Laboratorial (Impresso), v. 47, p. 649-654, 2011.
+Citações:4|2
+
+142.
+Gonçalez, Thelma T. ; Sabino, Ester C. ; Salles, Nanci Alves ; de Almeida-Neto, Cesar ; Mendrone-Jr, Alfredo ; Dorlhiac-Laccer, Pedro E. ; Liu, Jing ; Murphy, Edward L. ; Schreiber, George B. . The impact of simple donor education on donor behavioral deferral and infectious disease rates in São Paulo, Brazil. Transfusion (Arlington, Va.), v. 50, p. 909-917, 2010.
+Citações:8|15
+
+143.
+Carneiro-Proietti, Anna Bárbara ; Sabino, Ester C. ; Sampaio, Divaldo ; Proietti, Fernando A. ; Gonçalez, Thelma T. ; Oliveira, Cláudia D.L. ; Ferreira, João E. ; Liu, Jing ; Custer, Brian ; Schreiber, George B. ; Murphy, Edward L. ; Busch, Michael P. . Demographic profile of blood donors at three major Brazilian blood centers: results from the International REDS-II study, 2007 to 2008. Transfusion (Arlington, Va.), v. 50, p. 918-925, 2010.
+
+144.
+Sanabani, Sabri SAEED ; Pastena, Evelyn Regina DE SOUZA ; Neto, Walter KLEINE ; Martinez, Vanessa POUZA ; SABINO, Ester Cerdeira . Characterization and frequency of a newly identified HIV-1 BF1 intersubtype circulating recombinant form in Sao Paulo, Brazil. Virology journal, v. 7, p. 74, 2010.
+Citações:12|14
+
+145.
+Tarosso, Leandro F. ; Sauer, Mariana M. ; Sanabani, Sabri ; Giret, Maria Teresa ; Tomiyama, Helena I. ; Sidney, John ; Piaskowski, Shari M. ; Diaz, Ricardo S. ; Sabino, Ester C. ; Sette, Alessandro ; Kalil-Filho, Jorge ; Watkins, David I. ; Kallas, Esper G. . Unexpected Diversity of Cellular Immune Responses against Nef and Vif in HIV-1-Infected Patients Who Spontaneously Control Viral Replication. Plos One, v. 5, p. e11436, 2010.
+Citações:7|7
+
+146.
+Alencar, Cecília S. ; Nishiya, Anna S. ; Ferreira, Suzete ; Giret, Maria Teresa M. ; Diaz, Ricardo S. ; Sabino, Ester C. . Evaluation of Primary Resistance to HIV Entry Inhibitors Among Brazilian Patients Failing Reverse Transcriptase/Protease Inhibitors Treatment Reveal High Prevalence of Maraviroc Resistance-Related Mutations. AIDS Research and Human Retroviruses, v. 26, p. 1267-1271, 2010.
+Citações:9|9
+
+147.
+Sabino, Ester C.; Salles, Nanci A. ; Sarr, Moussa ; Barreto, Angela M. ; Oikawa, Marcio ; Oliveira, Cláudia D. ; Leao, Silvana C. ; Carneiro-Proietti, Anna B. ; Custer, Brian ; Busch, Michael P. . Enhanced classification of Chagas serologic results and epidemiologic characteristics of seropositive donors at three large blood centers in Brazil. Transfusion (Arlington, Va.), p. no-no, 2010.
+Citações:10|14
+
+148.
+Goncalez, Thelma ; Sabino, Ester ; Sales, Nanci ; Chen, Yea-Hung ; Chamone, Dalton ; Busch, Michael ; Murphy, Edward ; Custer, Brian ; McFarland, Willi . Human immunodeficiency virus test-seeking blood donors in a large blood bank in São Paulo, Brazil. Transfusion (Arlington, Va.), v. 50, p. 1806-1814, 2010.
+Citações:15|18
+
+149.
+SABINO, Ester Cerdeira; OTANI, M. M. ; VINELLI, E. ; del POZO, A. ; SANDS, A. ; Vercauteren, G. ; KIRCHHOFF, L. V. . Re: "WHO evaluation of the serologic assays for Chagas disease". Transfusion (Arlington, Va.), v. 50, p. 2507-2508, 2010.
+
+150.
+DUMANS, A. T. N. ; BARRETO, C. C. ; Santos, A. F. ; ARRUDA, Monica Barcelos ; Sousa, T. M. ; MACHADO, Elizabeth Stankiewicz ; BRINDEIRO, R. M. ; SABINO, Ester Cerdeira ; TANURI, A. ; DUARTE, A. J. S. ; SOARES, M. A. . Distinct resistance mutation and polymorphism acquisition in HIV-1 protease of subtypes B and F1 from children and adult patients under virological failure. Infection, Genetics and Evolution, v. 9, p. 62-70, 2009.
+Citações:19|21
+
+151.
+ALMEIDA NETO, C. ; MURPHY, E. L. ; MCFARLAND, W. ; MENDRONE JUNIOR, A. ; CHEN, S. ; SABINO, Ester Cerdeira . Profile of blood donors with serologic tests reactive for the presence of Syphilis in Sao Paulo, Brazil. Transfusion (Arlington, Va.), v. 49, p. 330-336, 2009.
+Citações:3|15
+
+152.
+MENDRONE JUNIOR, A. ; SABINO, Ester Cerdeira ; SAMPAIO, L. ; ALMEIDA NETO, C. ; SCHREIBER, G. B. ; CHAMONE, D. A. F. ; DORLHIAC-LLACER, P. E. . Anemia screening in potential female blood donors: comparison of two different quantitative methods. Transfusion (Arlington, Va.), v. 49, p. 662-668, 2009.
+Citações:14|21
+
+153.
+ OTANI, M. M. ; VINELLI, E. ; KIRCHHOFF, L. V. ; del POZO, A. ; SANDS, A. ; VERCAUTEREN, G. ; SABINO, Ester Cerdeira . WHO comparative evaluation of serologic assays for Chagas disease.. Transfusion (Arlington, Va.), v. 49, p. 1076-1082, 2009.
+Citações:69|92
+
+154.
+Nascimento, M. C. ; SUMITA, Laura Masami ; SOUZA, V. A. U. F. ; Weiss, H. A. ; Oliveira, J. ; QUIROGA, M. ; VELA, R. A. R. ; SABINO, Ester Cerdeira ; PANNUTI, C. S. ; Mayaud, P. . Seroprevalence of Kaposi sarcoma-associated herpesvirus and other serologic markers in the Brazilian Amazon. Emerging Infectious Diseases, v. 15, p. 663-667, 2009.
+Citações:4|7
+
+155.
+Batista, MD ; FERREIRA, S. C. ; Sauer, MM ; TOMIYAMA, H. ; GIRET, M. T. M. ; PANNUTI, C. S. ; DIAZ, R. S. ; SABINO, Ester Cerdeira ; KALLAS, E. G. . High human herpesvirus 8 (HHV-8) prevalence, clinical correlates and high incidence among recently HIV-1-infected subjects in Sao Paulo, Brazil. PloS one (San Francisco, CA), v. 4, p. e5613-e5617, 2009.
+Citações:15|14
+
+156.
+Al-Sanabani, S. S. M. A. ; Pastena, ERS ; KLEINE NETO, Walter ; BARRETO, C. C. ; Ferrari, K. T. ; KALMAR, E. M. N. ; FERREIRA, S. C. ; SABINO, Ester Cerdeira . Near full-length genome analysis of low prevalent human immunodeficiency virus type 1 subclade F1 in São Paulo, Brazil. Virology journal, v. 6, p. 1-11, 2009.
+Citações:7|7
+
+157.
+GARCIA, S. O. ; SABINO, Ester Cerdeira ; MARTINEZ, G. M. . Cells infected by erythrovirus B19. Revista Brasileira de Hematologia e Hemoterapia, v. 31, p. 54-54, 2009.
+
+158.
+MENDRONE JUNIOR, A. ; ARRAIS, C. A. ; ALMEIDA NETO, C. ; GUALANDRO, S. F. M. ; DORLHIAC-LLACER, P. E. ; CHAMONE, D. A. F. ; SABINO, Ester Cerdeira . Impact of allogeneic 2-RBC apheresis on iron stores of Brazilian blood donors. Transfusion and Apheresis Science, v. 40, p. 1-5, 2009.
+Citações:2|2
+
+159.
+Maidana-Giret, Maria Teresa ; Silva, Tânia M ; Sauer, Mariana M ; Tomiyama, Helena ; Levi, José Eduardo ; Bassichetto, Katia C ; Nishiya, Anna ; Diaz, Ricardo S ; SABINO, Ester Cerdeira ; Palacios, Ricardo ; Kallas, Esper Georges . GB virus type C infection modulates T-cell activation independently of HIV-1 viral load. AIDS (London), v. 23, p. 2277-2287, 2009.
+Citações:32|45
+
+160.
+Kleine Neto W ; Al-Sanabani, S. S. M. A. ; Jamal, L. F. ; SABINO, Ester Cerdeira . Prevalence, risk factors and genetic characterization of human T-cell lymphotropic virus types 1 and 2 in patients infected with human immunodeficiency virus type 1 in the cities of Ribeirão Preto and São Paulo. Revista da Sociedade Brasileira de Medicina Tropical (Impresso), v. 42, p. 264-270, 2009.
+Citações:1
+
+161.
+GARCIA, S. O. ; Pereira J ; GODOY, C. R. T. ; AL-SANABANI, Sabri Saeed Mohamed Ahmed ; KLEINE NETO, W. ; SABINO, Ester Cerdeira . Hematologic diseases associated with eritrovírus.. Revista Brasileira de Hematologia e Hemoterapia (Impresso), v. 31, p. 285-290, 2009.
+
+162.
+Nascimento, M. C. ; Mayaud, P. ; SABINO, Ester Cerdeira ; TORRES, K. L. ; FRANCHESI, S. . Prevalence of hepatitis B and C serological markers among first-time blood donors in Brazil: A multi-center serosurvey. Journal of Medical Virology, v. 80, p. 53-57, 2008.
+Citações:37|42
+
+163.
+SABINO, Ester Cerdeira; GONÇALEZ, T. T. ; CHEN, S. ; SALLES, N. A. ; CHAMONE, D. A. F. ; MCFARLAND, W. ; MURPHY, E. L. . Knowledge, Attitudes and Motivations Among Blood Donors in São Paulo, Brazil. AIDS and Behavior (Dordrecht. Online), v. 12, p. 39-47, 2008.
+Citações:15|22
+
+164.
+Nascimento, M. C. ; SOUZA, V. A. U. F. ; SUMITA, L. M. ; FREIRE, W. ; Weiss, H. A. ; SABINO, Ester Cerdeira ; FRANCHESI, S. ; PANNUTI, C. S. ; Mayaud, P. . Prevalence of, and risk factors for Kaposi's sarcoma-associated herpesvirus infection among blood donors in Brazil: A multi-center serosurvey. Journal of Medical Virology, v. 80, p. 1202-1210, 2008.
+Citações:9|10
+
+165.
+BARRETO, A. M. E. C. ; TAKEI, Kioko ; SABINO, Ester Cerdeira ; BELLESA, Maria Aparecida ; SALLES, N. A. ; BARRETO, C. C. ; NISHIYA, A. S. ; CHAMONE, D. A. F. . Cost-effective analysis of different algorithms for the diagnosis of hepatitis C virus infection. Brazilian Journal of Medical and Biological Research, v. 41, p. 126-134, 2008.
+Citações:6|9
+
+166.
+Linnen, J. M. ; VINELLI, E. ; SABINO, Ester Cerdeira ; TOBLER, L. H. ; Hyland, C. ; LEE, T. H. ; Kolk, D. P. ; Broulik, A. S. ; Collins, C. S. ; Lanciotti, R. S. ; BUSCH, M. P. . Dengue viremia in blood donors from Honduras, Brazil, and Australia.. Transfusion (Arlington, Va.), v. 47, p. 1355-1362, 2008.
+Citações:62|65
+
+167.
+Michaelsson, J. ; Barbosa, H. M. R. ; Jordan, K. A. ; Chapman, J. M. ; Brunialti, M. K. C. ; KLEINE NETO, Walter ; NUKUI, Y. ; SABINO, Ester Cerdeira ; Chieia, M. A. ; Oliveira, A. S. B. ; Nixon, D. F. ; KALLAS, E. G. . The frequency of CD127 low expressing CD4+CD25 high T regulatory cells is inversely correlated with human T lymphotrophic virus type-1 (HTLV-1) proviral load in HTLV-1-infection and HTLV-1-associated myelopathy/tropical spastic paraparesis.. BMC immunology (Online), v. 9, p. 41-44, 2008.
+Citações:17|16
+
+168.
+DIAZ, R. S. ; LEAL, Elcio de Souza ; Al-Sanabani, S. S. M. A. ; SUCUPIRA, Maria Cecilia Araripe ; SABINO, Ester Cerdeira ; JANINI, L. M. R. . Selective regimes and evolutionary rates of HIV-1 subtype B V3 variants in the Brazilian epidemic.. Virology, v. 381, p. 184-193, 2008.
+Citações:15|17
+
+169.
+CATROXO, M. H. B. ; NISHIYA, A. S. ; SABINO, Ester Cerdeira ; TEIXEIRA, P. S. ; PETRELLA, S. ; MILANELO, L. ; VIEIRA, J. C. F. ; DIAZ, R. S. ; DIAZ, R. S. . Torque Teno Virus (TTV) is Prevalent in Brazilian Non-human Primates and Chickens (Gallus gallus domesticus). International Journal of Morphology, v. 26, p. 363-372, 2008.
+Citações:4
+
+170.
+CATROXO, M. H. B. ; NISHIYA, A. S. ; SABINO, Ester Cerdeira ; TEIXEIRA, P. S. ; PETRELLA, S. M. C. N. ; MILANELO, L. ; VIEIRA, J. C. F. ; DIAZ, R. S. . Torque Teno Virus (TTV) es Prevalente en Primates No Humanos Brasileños y Pollos (Gallus gallus domesticus). International Journal of Morphology (Print), v. 26, p. 363-372, 2008.
+Citações:4
+
+171.
+ALMEIDA NETO, C. ; MCFARLAND, W. ; MURPHY, E. L. ; CHEN, S. ; MENDRONE JUNIOR, A. ; SALLES, N. A. ; CHAMONE, D. A. F. ; SABINO, Ester Cerdeira . Risk factors for human immunodeficiency virus infection among blood donors in Sao Paulo, Brazil, and their relevance to current donor deferral criteria.. Transfusion (Arlington, Va.), v. 47, p. 608-614, 2007.
+Citações:8|23
+
+172.
+SUCUPIRA, Maria Cecilia Araripe ; CASEIRO, M. M. ; ALVES, Katia ; TESCAROLLO, Graziela ; JANINI, L. M. R. ; SABINO, Ester Cerdeira ; CASTELO FILHO, A. ; PAGE-SHAFER, Kimberly ; DIAZ, R. S. . High Levels of Primary Antiretroviral Resistance Genotypic Mutations And B/F Recombinants in Santos, Brazil. AIDS patient care and STDs, v. 21, p. 116-128, 2007.
+Citações:39|41
+
+173.
+Nascimento, M. C. ; FERREIRA, S. C. ; SABINO, Ester Cerdeira ; Hamilton I ; Parry J ; PANNUTI, C. S. ; Mayaud, P. . Performance of the HerpeSelect (Focus) and Kalon Enzyme-Linked Immunosorbent Assays for Detection of Antibodies against Herpes Simplex Virus Type 2 by Use of Monoclonal Antibody-Blocking Enzyme Immunoassay and Clinicovirological Reference Standards in Brazil.. Journal of Clinical Microbiology, v. 45, p. 2309-2311, 2007.
+Citações:15|15
+
+174.
+SA FILHO, D. J. ; KALLAS, E. G. ; Al-Sanabani, S. S. M. A. ; SABINO, Ester Cerdeira ; SUCUPIRA, Maria Cecilia Araripe ; SANCHEZ-ROSA, A. C. D. ; TESCAROLLO, Graziela ; TOMIYAMA, H. ; BASSICHETTO, K. C. ; JANINI, L. M. R. ; DIAZ, R. S. . Characterization of the full-length human immunodeficiency virus-1 genome from recently infected subjects in Brazil.. AIDS Research and Human Retroviruses, v. 23, p. 1087-1094, 2007.
+Citações:2|5
+
+175.
+SA FILHO, D. J. ; SUCUPIRA, Maria Cecilia Araripe ; CASEIRO, M. M. ; SABINO, Ester Cerdeira ; DIAZ, R. S. ; JANINI, L. M. R. . Identification of Two HIV Type 1 Circulating Recombinant Forms in Brazil. AIDS Research and Human Retroviruses, Estados Unidos, v. 22, n.1, p. 1-13, 2006.
+Citações:44|75
+
+176.
+SILVA, W. P. ; SANTOS, D. E. M. ; LEAL, Elcio de Souza ; BRUNSTEIN, A. ; SUCUPIRA, Maria Cecilia Araripe ; SABINO, Ester Cerdeira ; DIAZ, R. S. . Reactivation of ancestral strains of HIV-1 in the gp120 V3 env region in patients failing antiretroviral therapy and subjected to structured treatment interruption. Virology, Inglaterra, v. 354, n.In press, p. 35-47, 2006.
+Citações:6|6
+
+177.
+Al-Sanabani, S. S. M. A. ; KLEINE NETO, Walter ; PEREIRA, J. ; SABINO, Ester Cerdeira . Sequence variability of human erythroviruses present in bone marrow of Brazilian patients with various parvovirus B19-related hematological symptoms.. Journal of Clinical Microbiology, Estados Unidos, v. 44, n.2, p. 604-606, 2006.
+Citações:57|58
+
+178.
+Al-Sanabani, S. S. M. A. ; KLEINE NETO, Walter ; SA FILHO, D. J. ; DIAZ, R. S. ; MUNERATO, Patricia ; JANINI, L. M. R. ; SABINO, Ester Cerdeira . Full-Length Genome Analysis of Human Immunodeficiency Virus Type 1 Subtype C in Brazil. AIDS Research and Human Retroviruses, Estados Unidos, v. 22, n.2, p. 171-176, 2006.
+Citações:27|36
+
+179.
+GONÇALEZ, T. T. ; SABINO, Ester Cerdeira ; MURPHY, E. L. ; CHEN, S ; CHAMONE, D. A. F. ; MCFARLAND, W. . Human immunodeficiency virus test-seeking motivation in blood donors, São Paulo, Brazil.. Vox Sanguinis (Basel), Estados Unidos, v. 90, n.3, p. 170-176, 2006.
+Citações:35|40
+
+180.
+Al-Sanabani, S. S. M. A. ; KLEINE NETO, Walter ; KALMAR, E. M. N. ; DIAZ, R. S. ; JANINI, L. M. R. ; SABINO, Ester Cerdeira . Analysis of the near full length genomes of HIV-1 subtypes B, F and BF recombinant from a cohort of 14 patients in São Paulo, Brazil.. Infection, Genetics and Evolution, Estados Unidos, v. 6, n.5, p. 368-377, 2006.
+Citações:30|37
+
+181.
+CARNEIRO-PROIETTI, A. B. F. ; CATALAN-SOARES, B. C. ; CASTRO-COSTA, C. M. ; MURPHY, E. L. ; SABINO, Ester Cerdeira ; HISADA, M. ; GALVAO-CASTRO, B. ; ALCANTARA, L. C. J. ; REMONDEGUI, C. ; Verdonck, K. ; PROIETTI, F. A. . HTLV in the Americas: challenges and perspectives.. Revista Panamericana de Salud Pública / Pan American Journal of Public Health, Estados Unidos, v. 19, n.1, p. 44-53, 2006.
+Citações:37|59|50
+
+182.
+BARRETO, C. C. ; NISHIYA, A. S. ; ARAUJO, L. V. ; FERREIRA, J. E. ; BUSCH, M. P. ; SABINO, Ester Cerdeira . Trends in antiretroviral drug resistance and clade distributions among HIV-1-infected blood donors in Sao Paulo, Brazil.. Journal of Acquired Immune Deficiency Syndromes and Human Retrovirology (Cessou em 1999. Cont. ISSN 1525-4135 Journal of Acquired Immune Deficiency Sy, Estados Unidos, v. 41, n.3, p. 338-341, 2006.
+Citações:59
+
+183.
+ARAUJO, L. V. ; SOARES, M. A. ; OLIVEIRA, S. M. ; CHEQUER, P. J. N. ; TANURI, A. ; SABINO, Ester Cerdeira ; FERREIRA, J. E. . DBCollHIV: a database system for collaborative HIV analysis in Brazil.. Genetics and Molecular Research (Online), Brasil, v. 5, n.1, p. 203-215, 2006.
+Citações:6|7
+
+184.
+Santos, A. F. ; Sousa, T. M. ; SOARES, E. A. J. M. ; Al-Sanabani, S. S. M. A. ; MARTINEZ, A. M. B. ; SPRINZ, E. ; SILVEIRA, J. ; SABINO, Ester Cerdeira ; TANURI, A. ; SOARES, M. A. . Characterization of a new circulating recombinant form comprising HIV-1 subtypes C and B in southern Brazil.. AIDS (London), v. 20, p. 2011-2019, 2006.
+Citações:41|52
+
+185.
+FAILACE, R. ; SABINO, Ester Cerdeira ; MENDRONE JUNIOR, A. . SEN virus: epidemiology and its relation to liver disease. Revista Brasileira de Hematologia e Hemoterapia, v. 28, p. 60-64, 2006.
+
+186.
+SA FILHO, D. J. ; Al-Sanabani, S. S. M. A. ; DIAZ, R. S. ; MUNERATO, Patricia ; BRUNSTEIN, A. ; FUSUMA, Erika Etsuko ; SABINO, Ester Cerdeira ; JANINI, L. M. R. . Analysis of full-length human immunodeficiency virus type 1 genome reveals a variable spectrum of subtypes B and f recombinants in Sao Paulo, Brazil. AIDS Research and Human Retroviruses, v. 21, n.2, p. 145-151, 2005.
+Citações:13|41
+
+187.
+SABINO, Ester Cerdeira; BARRETO, C. C. ; GONÇALEZ, T. T. ; LAYCOCK, M. E. ; PAPPALARDO, B. L. ; SALLES, N. A. ; WRIGHT, D. J. ; CHAMONE, D. A. F. ; BUSCH, M. P. . Prevalence, incidence, and residual risk of human immunodeficiency virus among community and replacement first-time blood donors in São Paulo, Brazil.. Transfusion (Arlington, Va.), Estados Unidos, v. 45, n.11, p. 1709-1714, 2005.
+Citações:42|53
+
+188.
+GIRET, M. T. M. ; SABINO, Ester Cerdeira ; KALLAS, E. G. . GBV-C/HGV and HIV-1 coinfection.. The Brazilian Journal of Infectious Diseases, Brasil, v. 9, n.2, p. 122-125, 2005.
+Citações:11
+
+189.
+SABINO, Ester Cerdeira; VAZ, A. J. ; VOGLER, I. H. ; NISHIYA, A. S. ; MORIMOTO, H. K. ; BORTOLIERO, A. L. ; REICHE, E. M. V. ; MATSUO, T. . Serological, epidemiological and molecular aspects of hepatitis C virus infection in a population from Londrina, PR, Brazil, 2001-2002. Revista do Instituto de Medicina Tropical de São Paulo, v. 46, n.6, p. 303-308, 2004.
+Citações:18|5
+
+190.
+SABINO, Ester Cerdeira; GABURRO JUNIOR, N. ; LEITE, J. P. ; VIECILI, M. ; ROSENFELD, L. G. . Platelets may affect detection and quantitation of HIV RNA in plasma samples with low viral loads. Journal of Acquired Immune Deficiency Syndromes and Human Retrovirology, Estados Unidos, v. 37, n.3, p. 1432-1433, 2004.
+
+191.
+SOARES, M. A. ; OLIVEIRA, T. ; BRINDEIRO, R. M. ; DIAZ, R. S. ; SABINO, Ester Cerdeira ; BRIGIDO, L. F. M. ; PIRES, I. L. ; MORGADO, M. G. ; DANTAS, M. C. ; BARREIRA, D. ; TEIXEIRA, P. R. ; CASSOL, S. ; TANURI, A. ; RESISTANCE, Brazilian Network Drug . A specific subtype C of human immunodeficiency virus type 1 circulates in Brazil. AIDS (London), v. 17, n.1, p. 11-21, 2003.
+Citações:79|84
+
+192.
+SALLES, N. A. ; SABINO, Ester Cerdeira ; BARRETO, C. C. ; BARRETO, A. M. E. C. ; OTANI, M. M. ; CHAMONE, D. A. F. . The discarding of blood units and the prevalence of infectious diseases in donors at the Pro-Blood Foundation/Blood Center of São Paulo, São Paulo, Brazil. Revista Panamericana de Salud Pública / Pan American Journal of Public Health, v. 13, n.2/3, p. 111-116, 2003.
+Citações:60|40
+
+193.
+GONÇALEZ, T. T. ; SABINO, Ester Cerdeira ; CHAMONE, D. A. F. . Trends in the profile of blood donors at a large blood center in the city of Sao Paulo, Brazil. Revista Panamericana de Salud Pública / Pan American Journal of Public Health, v. 13, n.2/3, p. 144-148, 2003.
+Citações:60|25
+
+194.
+OTANI, M. M. ; SALLES, N. A. ; BARRETO, A. M. E. C. ; BARRETO, C. C. ; CHAMONE, D. A. F. ; SABINO, Ester Cerdeira . Evaluation of the concomitant use of two different EIA tests for HIV screening in blood banks. Revista Panamericana de Salud Pública / Pan American Journal of Public Health, v. 13, n.2/3, p. 172-175, 2003.
+Citações:10|4
+
+195.
+SÁEZ-ALQUÉZAR, A. ; OTANI, M. M. ; SABINO, Ester Cerdeira ; SALLES, N. A. ; CHAMONE, D. A. F. . External serology quality control programs developed in Latin America with the support of PAHO from 1997 through 2000. Revista Panamericana de Salud Pública / Pan American Journal of Public Health, v. 13, n.2/3, p. 91-102, 2003.
+Citações:10|6
+
+196.
+BRINDEIRO, R. M. ; DIAZ, R. S. ; SABINO, Ester Cerdeira ; MORGADO, M. G. ; PIRES, I. L. ; BRIGIDO, L. F. M. ; DANTAS, M. C. ; BARREIRA, D. ; TEIXEIRA, P. R. ; TANURI, A. . Brazilian Network for HIV Drug Resistance Surveillance (HIV-BResNet): a survey of chronically infected individuals.. AIDS (London), v. 17, n.7, p. 1063-1069, 2003.
+Citações:135|146
+
+197.
+SABINO, Ester Cerdeira; GONÇALEZ, T. T. ; SALLES, N. A. ; SILVA, G. R. ; CHAMONE, D. A. F. . Trends in the prevalence of Chagas´ disease among first time blood donors in São Paulo. Transfusion (Arlington, Va.), USA, v. 43, n.7, p. 853-856, 2003.
+Citações:9|14
+
+198.
+NISHIYA, A. S. ; RIBEIRO DOS SANTOS, G. ; BASSIT, L. C. ; FOCACCIA, R. ; CHAMONE, D. A. F. ; SABINO, Ester Cerdeira . Genotype distribution of the GB virus C in citizens of São Paulo city, Brazil. Revista do Instituto de Medicina Tropical de São Paulo, São Paulo, v. 45, n.4, p. 213-216, 2003.
+Citações:5|6
+
+199.
+FERREIRA, S. C. ; Al-Sanabani, S. S. M. A. ; CHAMONE, D. A. F. ; SABINO, Ester Cerdeira . Human herpesvirus type 8 among Brazilian blood donors. Transfusion (Arlington, Va.), v. 43, n.12, p. 1764-1765, 2003.
+Citações:14|15
+
+200.
+RIBEIRO DOS SANTOS, G. ; NISHIYA, A. S. ; NASCIMENTO, C. M. ; BASSIT, L. C. ; CHAMONE, D. A. F. ; FOCACCIA, R. ; ELUF-NETO, J. ; SABINO, Ester Cerdeira ; DUARTE, A. J. S. . Prevalence of GB Virus C (Hepatitis G Virus)and Risk Factors for Infection in São Paulo, Brazil. European Journal of Clinical Microbiology & Infectious Diseases, v. 21, n.6, p. 438-443, 2002.
+Citações:6|12
+
+201.
+Bittencourt, A. C L. ; SABINO, Ester Cerdeira ; Costa MC ; Pedroso, C. ; Moreira, L. . No evidence of vertical transmission of HTLV-I in bottle-fed children.. Revista do Instituto de Medicina Tropical de São Paulo, São Paulo, v. 44, n.2, p. 63-65, 2002.
+Citações:15|11
+
+202.
+BASSIT, L. C. ; TAKEI, K. ; HOSHINO-SHIMIZU, S. ; NISHIYA, A. S. ; SABINO, Ester Cerdeira ; BASSITT, R. P. ; FOCACCIA, R. ; D'AMICO, E. A. ; CHAMONE, D. A. F. ; RIBEIRO DOS SANTOS, G. . New prevalence estimate of TT virus (TTV) infection in low- and high-risk population from Sao Paulo, Brazil.. Revista do Instituto de Medicina Tropical de São Paulo, v. 44, n.4, p. 233-234, 2002.
+Citações:3|9
+
+203.
+TURCHI, M. D. ; DIAZ, R. S. ; MARTELLI, C. M. T. ; SABINO, Ester Cerdeira ; SILVA, W. P. ; FERREIRA FILHO, O. ; LARANJEIRA, R. R. ; BUSCH, M. P. ; CASTELO FILHO, A. . Genetic diversity and HIV-1 incidence estimation among cocaine users in Sao Paulo. Journal of Acquired Immune Deficiency Syndromes and Human Retrovirology, v. 30, n.5, p. 527-532, 2002.
+Citações:24
+
+204.
+KIFFER, C. R. V. ; CONCEIÇÃO, O. J. ; SANTOS, E. B. ; SABINO, Ester Cerdeira ; FOCACCIA, R. . Estimated prevalence of immunity to poliomyelitis in the city of Sao Paulo, Brazil: a population-based survey.. The Brazilian Journal of Infectious Diseases, v. 6, n.5, p. 232-243, 2002.
+Citações:5
+
+205.
+ROSSINI, M. A. A. ; DIAZ, R. S. ; CASEIRO, M. M. ; TURCATO JUNIOR, G. ; ACCETTURI, C. A. ; SABINO, Ester Cerdeira . HIV-1 subtypes among intravenous drug users from two neighboring cities in Sao Paulo State, Brazil. Brazilian Journal of Medical and Biological Research, v. 34, p. 45-47, 2001.
+Citações:20|18|22
+
+206.
+LUPPI, C. G. ; ELUF-NETO, J. ; SABINO, Ester Cerdeira ; BUCCHERI, V. ; BARRETO, C. C. ; UNGARO, A. B. S. . Late diagnosis of HIV infection in women seeking counseling and testing service in Sao Paulo. AIDS patient care and STDs, v. 15, p. 391-391, 2001.
+Citações:1|1
+
+207.
+ALMEIDA NETO, C. ; STRAUSS, E. ; SABINO, Ester Cerdeira ; SUCUPIRA, Maria Cecilia Araripe ; CHAMONE, D. A. F. . Significance of isolated hepatitis B core antibody in blood donors from Sao Paulo. Revista do Instituto de Medicina Tropical de São Paulo, v. 43, p. 203-208, 2001.
+Citações:24|31
+
+208.
+SÁEZ-ALQUÉZAR, A. ; SABINO, Ester Cerdeira ; SALLES, N. A. ; CHAMONE, D. A. F. ; HULSTAERT, F. ; POTTEL, H. ; STOOPS, E. ; ZREIN, M. . Serological confirmation of Chagas'disease by a recombinant and peptide antigen line immunoassay: Inno-Lia Chagas. Journal of Clinical Microbiology (Print), v. 38, n.2, p. 851-854, 2000.
+Citações:26|28
+
+209.
+BONGERTZ, V. ; BOU-HABIB, D. C. ; BRIGIDO, L. F. M. ; CASEIRO, M. M. ; CHEQUER, P. J. N. ; FERNANDEZ, J. C. C. ; FERREIRA, P. C. ; GALVAO-CASTRO, B. ; GRECO, D. ; GUIMARAES, M. L. ; CARVALHO, M. I. L. ; MORGADO, M. G. ; OLIVEIRA, C. A. F. ; OSMANOV, S. ; RAMOS, C. A. ; ROSSINI, M. A. A. ; SABINO, Ester Cerdeira ; TANURI, A. ; UEDA, Mirthes . HIV-1 Diversity in Brazil: Genetic, Biologic, and Immunologic Characterization of HIV-1 Strains in Three Potential HIV Vaccine Evaluation Sites. Journal of Acquired Immune Deficiency Syndromes and Human Retrovirology, v. 23, p. 184-193, 2000.
+Citações:75|72
+
+210.
+SABINO, Ester Cerdeira; SALLES, N. A. ; SÁEZ-ALQUÉZAR, A. ; RIBEIRO DOS SANTOS, G. ; BUSCH, M. P. ; CHAMONE, D. A. F. . Estimated risk of transfusion-transmitted HIV infection in São Paulo, Brazil.. Transfusion (Arlington), v. 39, p. 1152-1152, 1999.
+Citações:11|12
+
+211.
+SABINO, Ester Cerdeira; ZREIN, M ; TABORDA, C. P. ; OTANI, M. M. ; RIBEIRO DOS SANTOS, G. ; SÁEZ-ALQUÉZAR, A. . Evaluation of the Inno-Lia HTLVI/II assay for confirmation of Human T-Cell Leikemia virus-reactive sera in bloodo bank donations. Journal of Clinical Microbiology, v. 37, n.5, p. 1324-1328, 1999.
+Citações:18|15
+
+212.
+RIBEIRO DOS SANTOS, G. ; NISHIYA, A. S. ; SABINO, Ester Cerdeira ; CHAMONE, D. A. F. ; SÁEZ-ALQUÉZAR, A. . An improved, PCR-based strategy for the detection of Trypanosoma cruzi in human blood samples. Annals of Tropical Medicine and Parasitology, v. 93, n.7, p. 689-94, 1999.
+Citações:9|12
+
+213.
+DIAZ, R. S. ; SABINO, Ester Cerdeira . Accuracy of replication in the polymerase chain reaction. Comparison between Thermotoga maritima DNA polymerase and Thermus aquaticus DNA polymerase. Brazilian Journal of Medical and Biological Research, v. 31, p. 1239-1242, 1998.
+Citações:7|6
+
+214.
+FOCACCIA, R. ; CONCEIÇÃO, O. J. ; SETTE JUNIOR, H. ; SABINO, Ester Cerdeira ; NITRINI, D.R. ; LOMAR, A. ; LOURENÇO, R. ; FV, S. ; KIFFER, C. R. V. ; SANTOS, E. B. ; GONZALES, M. P. ; SÁEZ-ALQUÉZAR, A. ; RISCAL, J. R. ; CHAMONE, D. A. F. . Estimated prevalence of viral Hepatitis in the general population of the munucipality of São Paulo, measured by a serologic survey of a stratified, randomized and residence-based population. The Brazilian Journal of Infectious Diseases, Bahia - Brasil, v. 2, n.6, p. 269-284, 1998.
+
+215.
+BASSIT, L. C. ; KLETER, B. ; RIBEIRO DOS SANTOS, G. ; MAERTNS, G. ; SABINO, Ester Cerdeira ; CHAMONE, D. A. F. ; QUINT, W. ; SÁEZ-ALQUÉZAR, A. . Hepatitis G virus: prevalence and sequence analysis in Blood Donors of São Paulo, Brazil. Vox Sanguinis (Basel), v. 74, p. 83-87, 1998.
+Citações:13|29
+
+216.
+SÁEZ-ALQUÉZAR, A. ; OTANI, M. M. ; SABINO, Ester Cerdeira ; RIBEIRO DOS SANTOS, G. ; SALLES, N. A. ; CHAMONE, D. A. F. . Evaluation of the Performance of Brazilian Blood Banks in Testing for Chagas' Disease. Vox Sanguinis (Basel), v. 74, p. 228-232, 1998.
+Citações:18|25
+
+217.
+ANSARAH SOBRINHO, C. ; BARRETO, C. C. ; ROSSINI, M. A. A. ; SABINO, Ester Cerdeira . Evaluation of the V3 peptide serotyping as an alternative method to genetic subtyping of the HIV-1. Virus Reviews and Research, São Lourenço - MG, v. 02, n.1-2, p. 160-160, 1997.
+
+218.
+SABINO, Ester Cerdeira; DIAZ, R. S. ; BRIGIDO, L. F. M. ; LEARN, G. H. ; MULLINS, J. I. ; REINGOLD, A. L. ; DUARTE, A. J. S. ; MAYER, A. J. ; BUSCH, M. P. . Distribution of HIV-1 subtypes seen in an AIDS clinic in São Paulo City, Brazil.. AIDS (London), v. 10, p. 1579-1584, 1996.
+Citações:64|66
+
+219.
+SALLES, N. A. ; SABINO, Ester Cerdeira ; CLIQUET, M. G. ; ELUF-NETO, J. ; MAYER, A. J. ; ALMEIDA NETO, C. ; MENDONÇA, M. C. ; DORLHIAC-LLACER, P. E. ; CHAMONE, D. A. F. ; SÁEZ-ALQUÉZAR, A. . Risk of exposure to Chagas'disease among seroreactive Brazilian blood donors. Transfusion (Arlington, Va.), v. 36, p. 969-973, 1996.
+Citações:46|51
+
+220.
+DIAZ, R. S. ; SABINO, Ester Cerdeira ; MAYER, A. J. ; OLIVEIRA, C. F. ; MOSLEY, J. W. ; BUSCH, M. P. . Lack of dual HIV infection in a transfusion recipient exposed to two seropositive blood components.. AIDS Research and Human Retroviruses, v. 12, p. 1291-1295, 1996.
+Citações:9|9
+
+221.
+HENDRY, R. M. ; HANSON, C. V. ; MORGADO, M. G. ; BONGERTZ, V. ; DUARTE, A. J. S. ; CASSEB, J. S. R. ; BRIGIDO, L. F. M. ; SABINO, Ester Cerdeira ; DIAZ, R. S. ; GALVAO-CASTRO, B. . Immunoreactivity of Brazilian HIV isolates with different V3 motifs. Memórias do Instituto Oswaldo Cruz, v. 91, p. 374-378, 1996.
+Citações:42
+
+222.
+SABINO, Ester Cerdeira; MORGADO, M. G. ; GALVAO-CASTRO, B. ; BONGERTZ, V. ; TANURI, A. . A nationwide effort to sistematically monitor HIV-1 diversity in Brazil: preliminary results. Memórias do Instituto Oswaldo Cruz, v. 91, n.3, p. 335-338, 1996.
+Citações:11|30|14
+
+223.
+ DIAZ, R. S. ; SABINO, Ester Cerdeira ; MAYER, A. J. ; MOSLEY, J. W. ; BUSCH, M. P. . Dual human immunodeficiency virus type 1 infection and recombination in a dually exposed transfusion recipient. The Transfusion Safety Study Group. Journal of Virology, v. 69, n.6, p. 3273-3281, 1995.
+Citações:93|108
+
+224.
+SABINO, Ester Cerdeira; SAMPAIO, S. . Biologia Molecular no diagnóstico clínico. Revista da Sociedade de Cardiologia do Estado de São Paulo, v. 5, p. 166-173, 1995.
+
+225.
+ALMEIDA, e C ; SALLES, N. A. ; SANTOS, M L P ; SABINO, Ester Cerdeira ; SÁEZ-ALQUÉZAR, A. ; OLIVEIRA, T G ; TRAVASSOS, L R . Serum diagnosis of american Trypanosomiasis in blood banks: A highly sensitive and specific carbohydrate - rich trypomastigote antigen and why there are so many inconclusive results. Memórias do Instituto Oswaldo Cruz, Rio de Janeiro - RJ, v. 90, n.Supple 1, p. 72-74, 1995.
+
+226.
+SABINO, Ester Cerdeira; DELWART, E. ; LEE, T. H. ; MAYER, A. J. ; MULLINS, J. I. ; BUSCH, M. P. . Identification of Low-Level Contamination of Blood as Basis for Detection of Human Immunodeficiency Virus (HIV) DNA in Anti-HIV-Negative Specimens. Journal of Acquired Immune Deficiency Syndromes and Human Retrovirology (Cessou em 1999. Cont. ISSN 1525-4135 Journal of Acquired Immune Deficiency Sy, v. 7, p. 835-839, 1994.
+
+227.
+ SABINO, Ester Cerdeira; SHPAER, E. G. ; MORGADO, M. G. ; KORBER, B. T. M. ; DIAZ, R. S. ; BONGERTZ, V. ; CAVALCANTE, S. ; GALVAO-CASTRO, B. ; MULLINS, J. I. ; MAYER, A. J. . Identification of human immunodeficiency virus type 1 envelope genes recombinant between subtypes B and F in two epidemiologically linked individuals from Brazil.. Journal of Virology, v. 68, n.10, p. 6340-6346, 1994.
+Citações:164|157
+
+228.
+SABINO, Ester Cerdeira; Pan, L. Z. ; CHENG-MAYER, C. ; MAYER, A. J. . Comparison of in vivo plasma and peripheral blood mononuclear cell HIV-1 quasispecies to short-term tissue culture isolates: an analysis of tat and C2-V3 env regions. AIDS. AIDS (London), v. 8, p. 901-909, 1994.
+Citações:35|31
+
+229.
+MORGADO, M. G. ; SABINO, Ester Cerdeira ; SHPAER, E. G. ; BONGERTZ, V. ; BRIGIDO, L. F. M. ; GUIMARAES, M. D. C. ; CASTILHO, E. A. ; GALVAO-CASTRO, B. ; MULLINS, J. I. ; HENDRY, R. M. ; MAYER, A. J. . V3 Region Polymorphisms in HIV-1 from Brazil: Prevalence of Subtype B Strains Divergent from North American/European Prototype and Detection of Subtype F. AIDS Research and Human Retroviruses, v. 10, n.5, p. 569-576, 1994.
+Citações:122|123
+
+230.
+SABINO, Ester Cerdeira; CHENG-MAYER, C. ; MAYER, A. J. . An Individual with a High Prevalence of a Tat-Defective Provirus in Peripheral Blood. AIDS Research and Human Retroviruses, v. 9, n.12, p. 1265-1268, 1993.
+Citações:18|15
+
+231.
+SABINO, Ester Cerdeira; GUERRA, E. M. ; OBA, I. T. ; SPINA, A. M. M. ; VAZ, A. J. . Frequency of hepatitis B serological markers in first consultation pregnant women at health centers in a metropolitan area, S. Paulo city, Brazil. Revista do Instituto de Medicina Tropical de São Paulo, v. 34, n.6, p. 535-541, 1992.
+Citações:1|12|3

@@ -1,0 +1,122 @@
+1.
+''''''''', ''''''' ''''''''' ; PECHERSKY, EUGENE ABRAMOVICH ; ''''''', '''''' ''''''''''' ; PIROGOV, SERGEY ANATOL'EVICH ; '''', '''''' '''''' ; SCHUTZ, GUNTER MARKUS ; '''''''''', ''''''''' ''''''''''''' ; VLADIMIROV, ALEKSANDR ALEKSANDROVICH ; '''''''', '''''''' ''''''''' ; YAMBARTSEV, ANATOLIY ANDREEVICH . ------- ---------- - ------------- -------- -- --------------- ----------Large fluctuations in two-level systems with stimulated emission. Teoreticheskaia i Matematichaskaia Fizika, v. 198, p. 133-144, 2019.
+
+2.
+LOGACHOV, A. ; LOGACHOVA, O. ; Yambartsev, A. . Large deviations in a population dynamics with catastrophes. STATISTICS & PROBABILITY LETTERS, v. 149, p. 29-37, 2019.
+
+3.
+Pechersky, E. ; PIROGOV, S. ; SCHÜTZ, G. M. ; VLADIMIROV, A. ; Yambartsev, A. . Large Emission Regime in Mean Field Luminescence. MOSCOW MATHEMATICAL JOURNAL (ONLINE), v. 19, p. 107-120, 2019.
+
+4.
+Sisko, Valentin V. ; ZOHREN, S. ; YAMBARTSEV, A . A note on weak convergence results for infinite causal triangulations. Brazilian Journal of Probability and Statistics, v. 32, p. 597-615, 2018.
+
+5.
+VVEDENSKAYA, N. D. ; LOGACHOV, A. V. ; SUHOV, YU. M. ; Yambartsev, A. A. . A Local Large Deviation Principle for Inhomogeneous Birth-Death Processes. Problems of Information Transmission, v. 54, p. 263-280, 2018.
+
+6.
+A. Yambartsev; VIA, G. ; Pechersky, E. . Stochastic Ising model with plastic interactions. Statistics & Probability Letters, v. 123, p. 100-106, 2017.
+
+7.
+Cerda Hernandez J. ; ZOHREN, S. ; A. Yambartsev . On the critical probability of percolation on random causal triangulations. Brazilian Journal of Probability and Statistics, v. 31, p. 215-228, 2017.
+
+8.
+PECHERSKY, E ; PIROGOV, S ; SCHÜTZ, G M ; VLADIMIROV, A ; YAMBARTSEV, A . Large fluctuations of radiation in stochastically activated two-level systems. Journal of Physics A-Mathematical and Theoretical, v. 50, p. 455203, 2017.
+
+9.
+GONZÁLEZ-NAVARRETE, MANUEL ; PECHERSKY, EUGENE ; Yambartsev, Anatoly . Phase Transition in Ferromagnetic Ising Model with a Cell-Board External Field. Journal of Statistical Physics, v. 162, p. 139-161, 2016.
+
+10.
+GANNON, M. ; Pechersky, E. ; SUHOV, Y. ; YAMBARTSEV, A . Random walks in a queueing network environment. Journal of Applied Probability, v. 53, p. 448-462, 2016.
+
+11.
+Yambartsev, Anatoli; PERLIN, M. ; KOVCHEGOV, Y. ; SHULZHENKO, N ; MINE, KARINA L. ; DONG, X ; Morgun, Andrey . Unexpected links reflect the noise in networks. Biology Direct, v. 11, p. 52, 2016.
+
+12.
+THOMAS, LINA D. ; VYSHENSKA, DARIIA ; SHULZHENKO, NATALIA ; Yambartsev, Anatoly ; Morgun, Andrey . Differentially correlated genes in co-expression networks control phenotype transitions. F1000Research, v. 5, p. 2740, 2016.
+Citações:1
+
+13.
+Pechersky, E. ; PIROGOV, S. ; Georg Robert Sadowski ; Yambartsev, A. . Dynamics of Tectonic Plates. Information processes, v. 15, p. 51-65, 2015.
+
+14.
+MORGUN ; YAMBARTSEV, A ; THOMAS, L ; SHULZHENKO, N ; RAMSEY, S ; DONG, X . Reverse enGENEering of Regulatory Networks from Big Data: A Roadmap for Biologists. Bioinformatics and Biology Insights, v. 9, p. 61-74, 2015.
+Citações:2|2
+
+15.
+MOGULSKII, ANATOLI ; PECHERSKY, EUGENE ; Yambartsev, Anatoli . Large deviations for excursions of non-homogeneous Markov processes. Electronic Communications in Probability, v. 19, p. 1-8, 2014.
+
+16.
+KELBERT, M. ; SUHOV, YU. ; Yambartsev, A. . A Mermin-Wagner theorem on Lorentzian triangulations with quantum spins. Brazilian Journal of Probability and Statistics, v. 28, p. 515-537, 2014.
+
+17.
+SISKO, V. ; Yambartsev, A. ; ZOHREN, S. . Growth of Uniform Infinite Causal Triangulations. Journal of Statistical Physics, v. 150, p. 353-374, 2013.
+Citações:1|2
+
+18.
+KELBERT, M. ; SUHOV, YU. ; Yambartsev, A. . A Mermin Wagner Theorem for Gibbs States on Lorentzian Triangulations. Journal of Statistical Physics, v. 150, p. 671-677, 2013.
+Citações:2|2
+
+19.
+MINE, KARINA L. ; SHULZHENKO, NATALIA ; Yambartsev, Anatoly ; ROCHMAN, MARK ; SANSON, GERDINE F. O. ; LANDO, MALIN ; Varma, Sudhir ; Skinner, Jeff ; VOLFOVSKY, NATALIA ; DENG, TAO ; BRENNA, SYLVIA M. F. ; CARVALHO, CARMEN R. N. ; RIBALTA, JULISA C. L. ; BUSTIN, MICHAEL ; MATZINGER, POLLY ; SILVA, ISMAEL D. C. G. ; LYNG, HEIDI ; GERBASE-DELIMA, MARIA ; Morgun, Andrey . Gene network reconstruction reveals cell cycle and antiviral genes as major drivers of cervical cancer. Nature Communications, v. 4, p. 1806, 2013.
+Citações:22|37
+
+20.
+HERNANDEZ, J. C. ; SUHOV, Y. ; Yambartsev, A. ; ZOHREN, S. . Bounds on the critical line via transfer matrix methods for an Ising model coupled to causal dynamical triangulations. Journal of Mathematical Physics, v. 54, p. 063301, 2013.
+Citações:1|3
+
+21.
+Shcherbakov, Vadim ; Yambartsev, Anatoly . On Equilibrium Distribution of a Reversible Growth Model. Journal of Statistical Physics, v. 148, p. 53-66, 2012.
+Citações:1|1
+
+22.
+ Krikun, Maxim ; Yambartsev, Anatoly . Phase Transition for the Ising Model on the Critical Lorentzian Triangulation. Journal of Statistical Physics, v. 148, p. 422-439, 2012.
+Citações:4|6
+
+23.
+Skinner, Jeff ; Kotliarov, Yuri ; Varma, Sudhir ; Mine, Karina L ; Yambartsev, Anatoly ; Simon, Richard ; Huyen, Yentram ; Morgun, Andrey . Construct and Compare Gene Coexpression Networks with DAPfinder and DAPview. BMC Bioinformatics, v. 12, p. 286, 2011.
+Citações:8|12
+
+24.
+ Ferrari, Pablo A. ; Pechersky, Eugene A. ; Sisko, Valentin V. ; Yambartsev, Anatoly A. ; A. Yambartsev . Gibbs random graphs on point processes. Journal of Mathematical Physics, v. 51, p. 113303, 2010.
+Citações:1|1
+
+25.
+Pechersky, E. ; A. Yambartsev . Percolation Properties of the Non-ideal Gas. Journal of Statistical Physics, v. 137, p. 501-520, 2009.
+Citações:2|3
+
+26.
+Valeska B. Guzman ; A. Yambartsev ; Goncalves-Primo A. ; Ismael D.C.G. Silva ; Carmen R.N. Carvalho ; Julisa C.L. Ribalta ; Luiz Ricardo Goulart ; Shulzhenko N. ; Gerbase-DeLima M. ; Morgun A. . New approach reveals CD28 and IFNG gene interaction in the susceptibility to cervical cancer. Human Molecular Genetics, v. 17, p. 1838-1844, 2008.
+Citações:24|27
+
+27.
+A. Yambartsev; FONTES, L. R. G. ; VACHKOVSKAIA, M. . Repulsion of an evolving surface on walls with random heights. Annales de l'Institut Henri Poincaré. B, Probability and Statistics, v. 42, n.2, p. 207-213, 2006.
+
+28.
+FONTES, L. R. G. ; VACHKOVSKAIA, M. ; A. Yambartsev . A dynamical surface interacting with rarefeid wall. Markov Processes and Related Fields, v. 11, p. 649-660, 2005.
+
+29.
+A. Yambartsev; Goncalves-Primo A. ; Morgun A. ; Gerbase-DeLima M. ; Shulzhenko N. . Selection of control genes for quantitative RT-PCR based on microarray data. Biochemical and Biophysical Research Communications, v. 337, p. 306-312, 2005.
+Citações:14|17
+
+30.
+FONTES, L. R. G. ; A. Yambartsev ; VACHKOVSKAIA, M. . Entropic repulsion on a rarefied wall. Discrete Mathematics and Theoretical Computer Science (Online), Paris, v. AC, p. 105-112, 2003.
+Citações:1
+
+31.
+A. Yambartsev; ZAMYATIN, Andrei . A Stabilization Law for Two Semi-Infinite Interacting String of Characters. Bulletin of the Brazilian Mathematical Society, v. 34, n.3, p. 361-388, 2003.
+
+32.
+ A. Yambartsev; ZAMYATIN, Andrei . Dynamics of Two Interacting Queues. Markov Processes and Related Fields, v. 7, n.2, p. 301-324, 2001.
+Citações:1
+
+33.
+ A. Yambartsev; ZAMYATIN, Andrei . Classification of two interacting strings of characters. Uspekhi Matematicheskikh Nauk, v. 56, n.3, p. 165-167, 2001.
+
+34.
+ A. Yambartsev; ZAMYATIN, Andrei ; MALYSHEV, Vadim . Two-dimensional Lorentzian Models. Moscow Mathematical Journal, v. 1, n.3, p. 1-18, 2001.
+
+35.
+A. Yambartsev; ZAMYATIN, Andrei . Transience dynamic of two interacting random strings.. Fundamental And Applied Mathematics, v. 2, n.4, p. 1029-1043, 1996.
+
+36.
+A. Yambartsev; ZAMYATIN, Andrei . Transience dynamic of interacting strings. Proceeding Of The International Conference In The Memory Of P L Chebyshev, v. 2, p. 383-385, 1996.

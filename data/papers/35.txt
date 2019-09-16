@@ -1,0 +1,256 @@
+1.
+MORAES, CAROLINA B. WITT, GESA KUZIKOV, MARIA ELLINGER, BERNHARD CALOGEROPOULOU, THEODORA PROUSIS, KYRIAKOS C. MANGANI, STEFANO DI PISA, FLAVIO LANDI, GIACOMO IACONO, LUCIA DELLO POZZI, CECILIA Freitas-Junior, Lucio H. DOS SANTOS PASCOALINO, BRUNO BERTOLACINI, CLAUDIA P. BEHRENS, BIRTE KEMINER, OLIVER LEU, JENNIFER WOLF, MARKUS REINSHAGEN, JEANETTE CORDEIRO-DA-SILVA, ANABELA SANTAREM, NUNO VENTURELLI, ALBERTO WRIGLEY, STEPHEN KARUNAKARAN, DEEPA KEBEDE, BETHLEHEM , et al. ; Accelerating Drug Discovery Efforts for Trypanosomatidic Infections Using an Integrated Transnational Academic Drug Discovery Platform. SLAS DISCOVERY: Advancing Life Sciences R&D, v. 24, p. 346-361, 2019.
+
+2.
+MELO-FILHO, CLEBER C. ; BRAGA, RODOLPHO C. ; MURATOV, EUGENE N. ; FRANCO, CAIO HADDAD ; MORAES, CAROLINA B. ; Freitas-Junior, Lucio H. ; ANDRADE, CAROLINA HORTA . Discovery of new potent hits against intracellular Trypanosoma cruzi by QSAR-based virtual screening. EUROPEAN JOURNAL OF MEDICINAL CHEMISTRY, v. 163, p. 649-659, 2019.
+
+3.
+ULIASSI, ELISA ; PIAZZI, LORNA ; BELLUTI, FEDERICA ; MAZZANTI, ANDREA ; KAISER, MARCEL ; BRUN, RETO ; MORAES, CAROLINA B. ; Freitas-Junior, Lucio H. ; GUL, SHERAZ ; KUZIKOV, MARIA ; ELLINGER, BERNHARD ; BORSARI, CHIARA ; COSTI, MARIA PAOLA ; BOLOGNESI, MARIA LAURA . Development of a Focused Library of Triazole-Linked Privileged-Structure-Based Conjugates Leading to the Discovery of Novel Phenotypic Hits against Protozoan Parasitic Infections. ChemMedChem, v. 13, p. 678-683, 2018.
+
+4.
+LINCIANO, PASQUALE ; MORAES, CAROLINA B. ; ALCANTARA, LAURA M. ; FRANCO, CAIO H. ; PASCOALINO, BRUNO ; Freitas-Junior, Lucio H. ; MACEDO, SARA ; SANTAREM, NUNO ; CORDEIRO-DA-SILVA, ANABELA ; GUL, SHERAZ ; WITT, GESA ; KUZIKOV, MARIA ; ELLINGER, BERNHARD ; FERRARI, STEFANIA ; LUCIANI, ROSARIA ; QUOTADAMO, ANTONIO ; COSTANTINO, LUCA ; COSTI, MARIA PAOLA . Aryl thiosemicarbazones for the treatment of trypanosomatidic infections. EUROPEAN JOURNAL OF MEDICINAL CHEMISTRY, v. 146, p. 423-434, 2018.
+
+5.
+MOTA, ALBERTO A. R. ; CORREA, JOSE R. ; DE ANDRADE, LORENA P. ; ASSUMPÇÃO, JOSÉ A. F. ; DE SOUZA CINTRA, GIOVANA A. ; Freitas-Junior, Lucio H. ; DA SILVA, WENDER A. ; DE OLIVEIRA, HEIBBE C. B. ; NETO, BRENNO A. D. . From Live Cells to Caenorhabditis elegans : Selective Staining and Quantification of Lipid Structures Using a Fluorescent Hybrid Benzothiadiazole Derivative. ACS Omega, v. 3, p. 3874-3881, 2018.
+
+6.
+BONOTTO, RAFAELA M. ; SOUZA-ALMEIDA, GLAUCIA ; BADRA, SORAYA JABUR ; FIGUEIREDO, LUIZ TADEU ; MORAES, CAROLINA B. ; Freitas-Junior, Lucio H. . Evaluation of broad-spectrum antiviral compounds against chikungunya infection using a phenotypic screening strategy. F1000RESEARCH, v. 7, p. 1730, 2018.
+
+7.
+BALFOUR, MICHAEL N. ; FRANCO, CAIO H. ; Moraes, Carolina B. ; Freitas-Junior, Lucio H. ; STEFANI, HÉLIO A. . Synthesis and trypanocidal activity of a library of 4-substituted 2-(1H-pyrrolo[3,2-c]pyridin-2-yl)propan-2-ols. European Journal of Medicinal Chemistry, v. 128, p. 202-212, 2017.
+
+8.
+XAVIER-NETO, JOSE ; CARVALHO, MURILO ; PASCOALINO, BRUNO DOS SANTOS ; CARDOSO, ALISSON CAMPOS ; COSTA, ÂNGELA MARIA SOUSA ; PEREIRA, ANA HELENA MACEDO ; SANTOS, LUANA NUNES ; SAITO, ÂNGELA ; MARQUES, RAFAEL ELIAS ; SMETANA, JULIANA HELENA COSTA ; CONSONNI, SILVIO ROBERTO ; BANDEIRA, CARLA ; COSTA, VIVIAN VASCONCELOS ; BAJGELMAN, MARCIO CHAIM ; OLIVEIRA, PAULO SÉRGIO LOPES DE ; CORDEIRO, MARLI TENORIO ; GONZALES GIL, LAURA HELENA VEGA ; PAULETTI, BIANCA ALVES ; GRANATO, DANIELA CAMPOS ; PAES LEME, ADRIANA FRANCO ; FREITAS-JUNIOR, LUCIO ; HOLANDA DE FREITAS, CAROLINA BORSOI MORAES ; TEIXEIRA, MAURO MARTINS ; BEVILACQUA, ESTELA ; FRANCHINI, KLEBER . Hydrocephalus and arthrogryposis in an immunocompetent mouse model of ZIKA teratogeny: A developmental study. PLoS Neglected Tropical Diseases (Online), v. 11, p. e0005363, 2017.
+
+9.
+DI PISA, FLAVIO ; LANDI, GIACOMO ; DELLO IACONO, LUCIA ; POZZI, CECILIA ; BORSARI, CHIARA ; FERRARI, STEFANIA ; SANTUCCI, MATTEO ; SANTAREM, NUNO ; CORDEIRO-DA-SILVA, ANABELA ; MORAES, CAROLINA ; ALCANTARA, LAURA ; FONTANA, VANESSA ; FREITAS-JUNIOR, LUCIO ; GUL, SHERAZ ; KUZIKOV, MARIA ; BEHRENS, BIRTE ; PÖHNER, INA ; WADE, REBECCA ; COSTI, MARIA ; MANGANI, STEFANO . Chroman-4-One Derivatives Targeting Pteridine Reductase 1 and Showing Anti-Parasitic Activity. Molecules (Basel. Online), v. 22, p. 426, 2017.
+
+10.
+GOMES, MARCELO N. ; ALCÂNTARA, LAURA M. ; NEVES, BRUNO J. ; MELHO-FILHO, CLEBER C. ; Freitas-Junior, Lucio H. ; Moraes, Carolina Borsoi ; MA, RUI ; FRANZBLAU, SCOTT G. ; MURATOV, EUGENE ; ANDRADE, CAROLINA HORTA . Computer-Aided Discovery of Two Novel Chalcone-Like Compounds Active and Selective Against Leishmania infantum. BIOORGANIC & MEDICINAL CHEMISTRY LETTERS, v. 27, p. 2459-2464, 2017.
+
+11.
+BORSARI, CHIARA SANTAREM, NUNO TORRADO, JUAN OLÍAS, ANA ISABEL CORRAL, MARÍA JESÚS BAPTISTA, CATARINA GUL, SHERAZ WOLF, MARKUS KUZIKOV, MARIA ELLINGER, BERNHARD WITT, GESA GRIBBON, PHILIP REINSHAGEN, JEANETTE LINCIANO, PASQUALE TAIT, ANNALISA COSTANTINO, LUCA Freitas-Junior, Lucio H. Moraes, Carolina B. BRUNO DOS SANTOS, PASCOALINO ALCÂNTARA, LAURA MARIA FRANCO, CAIO HADDAD BERTOLACINI, CLAUDIA DANIELLI FONTANA, VANESSA TEJERA NEVADO, PALOMA CLOS, JOACHIM , et al. ; Methoxylated 2'-hydroxychalcones as antiparasitic hit compounds. European Journal of Medicinal Chemistry, v. 126, p. 1129-1135, 2017.
+
+12.
+LINCIANO, PASQUALE DAWSON, ALICE PÖHNER, INA COSTA, DAVID M. SÁ, MONICA S. CORDEIRO-DA-SILVA, ANABELA LUCIANI, ROSARIA GUL, SHERAZ WITT, GESA ELLINGER, BERNHARD KUZIKOV, MARIA GRIBBON, PHILIP REINSHAGEN, JEANETTE WOLF, MARKUS BEHRENS, BIRTE HANNAERT, VÉRONIQUE MICHELS, PAUL A. M. NERINI, ERIKA POZZI, CECILIA DI PISA, FLAVIO LANDI, GIACOMO SANTAREM, NUNO FERRARI, STEFANIA SAXENA, PUNEET LAZZARI, SANDRA , et al. ; Exploiting the 2-Amino-1,3,4-thiadiazole Scaffold To Inhibit Pteridine Reductase in Support of Early-Stage Drug Discovery. ACS Omega, v. 2, p. 5666-5683, 2017.
+
+13.
+SILVA, DANIEL G. ; RIBEIRO, JEAN F.R. ; DE VITA, DANIELA ; CIANNI, LORENZO ; HADDAD FRANCO, CAIO ; Freitas-Junior, Lucio H. ; Moraes, Carolina Borsoi ; ROCHA, JOSMAR R. ; BURTOLOSO, ANTONIO C.B. ; KENNY, PETER W. ; LEITÃO, ANDREI ; MONTANARI, CARLOS A. . A comparative study of warheads for design of cysteine protease inhibitors. BIOORGANIC & MEDICINAL CHEMISTRY LETTERS, v. 27, p. 5031-5035, 2017.
+
+14.
+ULIASSI, ELISA ; FIORANI, GIULIA ; KRAUTH-SIEGEL, R. LUISE ; BERGAMINI, CHRISTIAN ; FATO, ROMANA ; BIANCHINI, GIULIA ; MENÉNDEZ, J. CARLOS ; MOLINA, MARIA TERESA ; LÓPEZ-MONTERO, EULOGIO ; FALCHI, FEDERICO ; CAVALLI, ANDREA ; GUL, SHERAZ ; KUZIKOV, MARIA ; ELLINGER, BERNHARD ; WITT, GESA ; Moraes, Carolina B. ; Freitas-Junior, Lucio H. ; BORSARI, CHIARA ; COSTI, MARIA PAOLA ; BOLOGNESI, MARIA LAURA . Crassiflorone derivatives that inhibit Trypanosoma brucei glyceraldehyde-3-phosphate dehydrogenase ( Tb GAPDH) and Trypanosoma cruzi trypanothione reductase ( Tc TR) and display trypanocidal activity. EUROPEAN JOURNAL OF MEDICINAL CHEMISTRY, v. 141, p. 138-148, 2017.
+
+15.
+ULIASSI, ELISA ; PIAZZI, LORNA ; BELLUTI, FEDERICA ; KAISER, MARCEL ; BRUN, RETO ; GUL, SHERAZ ; ELLINGER, BERNHARD ; MORAES, CAROLINA B. ; Freitas-Junior, Lucio H. ; BORSARI, CHIARA ; COSTI, MARIA PAOLA ; BOLOGNESI, MARIA LAURA . Design, Synthesis and Structure Activity Relationships of a Phenotypic Small Library against Protozoan Infections. Proceedings, v. 1, p. 648, 2017.
+
+16.
+BOSC, DAMIEN ; MOURAY, ELISABETH ; COJEAN, SANDRINE ; FRANCO, CAIO HADDAD ; LOISEAU, PHILIPPE M. ; Freitas-Junior, Lucio H. ; Moraes, Carolina Borsoi ; GRELLIER, PHILIPPE ; DUBOIS, JOËLLE . Highly improved antiparasitic activity after introduction of an N-benzylimidazole moiety on protein farnesyltransferase inhibitors. European Journal of Medicinal Chemistry, v. 109, p. 173-186, 2016.
+Citações:4|2
+
+17.
+ EKINS, SEAN ; MIETCHEN, DANIEL ; COFFEE, MEGAN ; STRATTON, THOMAS ; FREUNDLICH, JOEL ; FREITAS-JUNIOR, LUCIO ; MURATOV, EUGENE ; SIQUEIRA-NETO, JAIR ; WILLIAMS, ANTONY ; ANDRADE, CAROLINA . Open drug discovery for the Zika virus. F1000Research, v. 5, p. 1-14, 2016.
+Citações:12
+
+18.
+SILVA, FREDSON T. ; FRANCO, CAIO H. ; FAVARO, DENIZE C. ; Freitas-Junior, Lucio H. ; Moraes, Carolina B. ; FERREIRA, ELIZABETH I. . Design, synthesis and antitrypanosomal activity of some nitrofurazone 1,2,4-triazolic bioisosteric analogues. European Journal of Medicinal Chemistry, v. 121, p. 553-560, 2016.
+Citações:6|5
+
+19.
+PASCOALINO, BRUNO S. ; COURTEMANCHE, GILLES ; CORDEIRO, MARLI T. ; GIL, LAURA H. V. G. ; FREITAS-JUNIOR, LUCIO . Zika antiviral chemotherapy: identification of drugs and promising starting points for drug discovery from an FDA-approved library. F1000Research, v. 5, p. 2523, 2016.
+
+20.
+Bruna Fereira de Souza ; Mayara Roncaglia dos Santos ; Renan Pimentel de Souza ; Simon Bernhard Cämmerer ; Natália Aimée d ? ; Caio Haddad Franco ; Carolina Borsoi Moraes ; Freitas-Junior, LH. . Synthesis of Chiral 3-[[(Aryl) methyl] amino]- and 3-[[(Heteroaryl)-methyl]-amino]- quinuclidines with High Biological Activity against Intracellular Trypansoma cruzi Amastigotes. International Journal of Chemistry and Pharmaceutical Sciences, v. 4, p. 272-278, 2016.
+
+21.
+Gabrielle Frizzo Souza ; Simon Bernhard Cämmerer ; Caio Haddad Franco ; Laura Maria Alcantara ; Carolina Borsoi Moraes ; Freitas-Junior, LH. . N-[4-[Benzyloxy] benzyl]-benzenemethaneamines with High Biological Activity against Intracellular Trypanosoma cruzi and Leishmania infantum Amastigotes. International Journal of Chemistry and Pharmaceutical Sciences, v. 4, p. 570-578, 2016.
+
+22.
+Choi, Youngseon ; SIQUEIRA NETO, JAIR LAGE DE ; MORAES, CAROLINA ; FREITAS, LUCIO ; Song, Rita . Synthesis and Evaluation of DNA Based Quantum Dot Fluorescence In Situ Hybridization (FISH) Probe for Telomere Detection. Journal of Nanoscience and Nanotechnology (Print), v. 15, p. 1708-1713, 2015.
+Citações:1|2
+
+23.
+SINGH, ALOK KUMAR ; PANDEY, RAJEEV KUMAR ; SIQUEIRA-NETO, JAIR LAGE ; Kwon, Yong-Jun ; Freitas-Junior, Lucio H. ; SHAHA, CHANDRIMA ; MADHUBALA, RENTALA . A proteomic based approach to gain insight into reprogramming of THP-1 cells exposed to over an early temporal window. Infection and Immunity (Print), v. 83, p. IAI.02833-14-1868, 2015.
+Citações:7|5
+
+24.
+Moraes, Carolina B. ; WHITE, KAREN L. ; BRAILLARD, STÉPHANIE ; PEREZ, CATHERINE ; GOO, JUNGHYUN ; GASPAR, LUIS ; SHACKLEFORD, DAVID M. ; CORDEIRO-DA-SILVA, ANABELA ; THOMPSON, R. C. ANDREW ; FREITAS-JUNIOR, LUCIO ; CHARMAN, SUSAN A. ; Chatelain, Eric . Enantiomers of nifurtimox do not exhibit stereoselective anti- activity, toxicity or pharmacokinetic properties. Antimicrobial Agents and Chemotherapy (Print), v. 59, p. AAC.05139-14-3647, 2015.
+
+25.
+GASPAR, LUÍS ; MORAES, CAROLINA ; FREITAS-JUNIOR, LUCIO ; FERRARI, STEFANIA ; COSTANTINO, LUCA ; COSTI, MARIA ; CORON, ROSS ; SMITH, TERRY ; SIQUEIRA-NETO, JAIR ; MCKERROW, JAMES ; CORDEIRO-DA-SILVA, ANABELA . Current and Future Chemotherapy for Chagas Disease. Current Medicinal Chemistry, v. 22, p. 4293-4312, 2015.
+Citações:6|2
+
+26.
+Moon, Seunghyun ; Siqueira-Neto, Jair L. ; Moraes, Carolina Borsoi ; Yang, Gyongseon ; KANG, MYUNGJOO ; Freitas-Junior, Lucio H. ; HANSEN, MICHAEL A. E. . An Image-Based Algorithm for Precise and Accurate High Throughput Assessment of Drug Activity against the Human Parasite Trypanosoma cruzi. Plos One, v. 9, p. e87188, 2014.
+Citações:18|20
+
+27.
+OH, SANGMI ; KWON, BOSUNG ; KONG, SUNJU ; Yang, Gyongseon ; LEE, NAKYUNG ; HAN, DAWOON ; GOO, JUNGHYUN ; Siqueira-Neto, Jair L. ; Freitas-Junior, Lucio H. ; LIUZZI, MICHEL ; LEE, JINHWA ; Song, Rita . Synthesis and biological evaluation of 2-acetamidothiophene-3-carboxamide derivatives against Leishmania donovani. MedChemComm, v. 5, p. 142, 2014.
+Citações:1|1
+
+28.
+LI, KAI SCHURIG-BRICCIO, LICI A FENG, XINXIN UPADHYAY, ASHUTOSH PUJARI, VENUGOPAL LECHARTIER, BENOIT FONTES, FABIO L. YANG, HONGLIANG RAO, GUODONG ZHU, WEI GULATI, ANMOL NO, JOO HWAN CINTRA, GIOVANA BOGUE, SHANNON LIU, YI-LIANG MOLOHON, KATIE J ORLEAN, PETER MITCHELL, DOUGLAS A. Freitas-Junior, Lucio H. REN, FEIFEI SUN, HONG JIANG, TONG LI, YUJIE GUO, REY-TING COLE, STEWART T. , et al. ; Multi-Target Drug Discovery for Tuberculosis and Other Infectious Diseases. Journal of Medicinal Chemistry, v. 57, p. 3126-3139, 2014.
+Citações:58|11
+
+29.
+Moraes, Carolina B. ; Giardini, Miriam A. ; KIM, HWAYOUNG ; FRANCO, CAIO H. ; ARAUJO-JUNIOR, ADALBERTO M. ; Schenkman, Sergio ; Chatelain, Eric ; Freitas-Junior, Lucio H. . Nitroheterocyclic compounds are more efficacious than CYP51 inhibitors against Trypanosoma cruzi: implications for Chagas disease drug discovery and development. Scientific Reports, v. 4, p. 1-11, 2014.
+Citações:35|19
+
+30.
+ARREY TARKANG, PROTUS ; FRANZOI, KATHRIN DIEHL ; LEE, SUKJUN ; LEE, EUNYOUNG ; VIVARELLI, DIEGO ; FREITAS-JUNIOR, LUCIO ; LIUZZI, MICHEL ; NOLÉ, TSABANG ; AYONG, LAWRENCE S. ; AGBOR, GABRIEL A. ; OKALEBO, FAITH A. ; GUANTAI, ANASTASIA N. . In Vitro Antiplasmodial Activities and Synergistic Combinations of Differential Solvent Extracts of the Polyherbal Product, Nefang. BioMed Research International, v. 2014, p. 1-10, 2014.
+Citações:3|6
+
+31.
+OH, SANGMI ; KIM, SUNGBUM ; KONG, SUNJU ; Yang, Gyongseon ; LEE, NAKYUNG ; HAN, DAWOON ; GOO, JUNGHYUN ; Siqueira-Neto, Jair L. ; Freitas-Junior, Lucio H. ; Song, Rita . Synthesis and biological evaluation of 2,3-dihydroimidazo[1,2-a]benzimidazole derivatives against Leishmania donovani and Trypanosoma cruzi. European Journal of Medicinal Chemistry, v. 84, p. 395-403, 2014.
+Citações:10|9
+
+32.
+Kwon, Yong-Jun ; HEO, JINYEONG ; WONG, HAZEL E.E. ; CRUZ, DEU JOHN M. ; VELUMANI, SUMATHY ; DA SILVA, CAMILA T. ; MOSIMANN, ANA LUIZA P. ; DUARTE DOS SANTOS, CLAUDIA N. ; Freitas-Junior, Lucio H. ; FINK, KATJA . Kinome siRNA screen identifies novel cell-type specific dengue host target genes. Antiviral Research, v. 110, p. 20-30, 2014.
+Citações:5|7
+
+33.
+LEE, SUKJUN ; LIM, DONGHYUN ; LEE, EUNYOUNG ; LEE, NAKYUNG ; LEE, HONG-GUN ; Cechetto, Jonathan ; LIUZZI, MICHEL ; Freitas-Junior, Lucio H. ; SONG, JIN SOOK ; BAE, MYUNG AE ; OH, SANGMI ; AYONG, LAWRENCE ; PARK, SEUNG BUM . Discovery of carbohybrid-based 2-aminopyrimidine analogues as a new class of rapid-acting antimalarial agents using image-based cytological profiling assay. Journal of Medicinal Chemistry, v. 57, p. 7425-7434, 2014.
+Citações:5|10
+
+34.
+FARIA, J. ; MORAES, C. B. ; SONG, R. ; PASCOALINO, B. S. ; LEE, N. ; SIQUEIRA-NETO, J. L. ; CRUZ, D. J. M. ; PARKINSON, T. ; IOSET, J.-R. ; CORDEIRO-DA-SILVA, A. ; FREITAS-JUNIOR, L. H. . Drug Discovery for Human African Trypanosomiasis: Identification of Novel Scaffolds by the Newly Developed HTS SYBR Green Assay for Trypanosoma brucei. Journal of Biomolecular Screening, v. 20, p. 70-81, 2014.
+Citações:5|9
+
+35.
+Moraes, Carolina B. ; Dorval, Thierry ; CONTRERAS-DOMINGUEZ, MÓNICA ; Dossin, Fernando de M. ; HANSEN, MICHAEL A. E. ; Genovesio, Auguste ; Freitas-Junior, Lucio H. . Transcription Sites Are Developmentally Regulated during the Asexual Cycle of Plasmodium falciparum. Plos One, v. 8, p. e55539, 2013.
+Citações:2|2
+
+36.
+ CRUZ, DEU JOHN M. ; KOISHI, ANDREA CRISTINE ; TANIGUCHI, JULIANA BOSSO ; LI, XIAOLAN ; MILAN BONOTTO, RAFAELA ; NO, JOO HWAN ; KIM, KEUM HYUN ; BAEK, SUNGMIN ; KIM, HEE YOUNG ; WINDISCH, MARC PETER ; PAMPLONA MOSIMANN, ANA LUIZA ; DE BORBA, LUANA ; LIUZZI, MICHEL ; HANSEN, MICHAEL ADSETTS EDBERG ; NUNES DUARTE DOS SANTOS, CLAUDIA ; FREITAS-JUNIOR, LUCIO HOLANDA . High Content Screening of a Kinase-Focused Library Reveals Compounds Broadly-Active against Dengue Viruses. PLoS Neglected Tropical Diseases (Online), v. 7, p. e2073, 2013.
+Citações:10|14
+
+37.
+ZHANG, YONGHUI ; ZHU, WEI ; LIU, YI-LIANG ; WANG, HONG ; WANG, KE ; LI, KAI ; NO, JOO HWAN ; AYONG, LAWRENCE ; GULATI, ANMOL ; PANG, RAN ; FREITAS-JUNIOR, LUCIO ; MORITA, CRAIG T. ; OLDFIELD, ERIC . Chemo-Immunotherapeutic Anti-Malarials Targeting Iso-prenoid Biosynthesis. ACS MED CHEM LETT, v. 134, p. 130308115230009, 2013.
+Citações:15|19
+
+38.
+ALCANTARA, LAURA M. ; KIM, JUNWON ; Moraes, Carolina B. ; FRANCO, CAIO H. ; FRANZOI, KATHRIN D. ; LEE, SUKJUN ; Freitas-Junior, Lucio H. ; AYONG, LAWRENCE S. . Chemosensitization potential of P-glycoprotein inhibitors in malaria parasites. Experimental Parasitology, v. 134, p. 235, 2013.
+Citações:7|9
+
+39.
+Moon, Seunghyun ; LEE, SUKJUN ; KIM, HEECHANG ; Freitas-Junior, Lucio H. ; KANG, MYUNGJOO ; AYONG, LAWRENCE ; HANSEN, MICHAEL A. E. . An Image Analysis Algorithm for Malaria Parasite Stage Classification and Viability Quantification. Plos One, v. 8, p. e61812, 2013.
+Citações:7|13
+
+40.
+POHLIT, ADRIAN ; LIMA, RENATA ; FRAUSIN, GINA ; SILVA, LUIZ ; LOPES, STEFANIE ; MORAES, CAROLINA ; CRAVO, PEDRO ; LACERDA, MARCUS ; SIQUEIRA, ANDRÉ ; FREITAS-JUNIOR, LUCIO ; COSTA, FABIO . Amazonian Plant Natural Products: Perspectives for Discovery of New Antimalarial Drug Leads. Molecules (Basel. Online), v. 18, p. 9219-9240, 2013.
+Citações:13|13
+
+41.
+CRUZ, DEU JOHN M. ; BONOTTO, RAFAELA M. ; GOMES, RAFAEL G. B. ; DA SILVA, CAMILA T. ; TANIGUCHI, JULIANA B. ; NO, JOO HWAN ; LOMBARDOT, BENOIT ; SCHWARTZ, OLIVIER ; HANSEN, MICHAEL A. E. ; Freitas-Junior, Lucio H. . Identification of Novel Compounds Inhibiting Chikungunya Virus-Induced Cell Death by High Throughput Screening of a Kinase Inhibitor Library. PLoS Neglected Tropical Diseases (Online), v. 7, p. e2471, 2013.
+Citações:13|22
+
+42.
+DA SILVA, MARCELO SANTOS ; MONTEIRO, JOMAR PATRÍCIO ; NUNES, VINÍCIUS SANTANA ; VASCONCELOS, ELTON JOSÉ ; PEREZ, ARINA MARINA ; FREITAS-JÚNIOR, LÚCIO DE HOLANDA ; ELIAS, MARIA CAROLINA ; CANO, MARIA ISABEL NOGUEIRA . Leishmania amazonensis Promastigotes Present Two Distinct Modes of Nucleus and Kinetoplast Segregation during Cell Cycle. Plos One, v. 8, p. e81397, 2013.
+Citações:6|9
+
+43.
+NO, J. H. ; DE MACEDO DOSSIN, F. ; ZHANG, Y. ; LIU, Y.-L. ; ZHU, W. ; FENG, X. ; YOO, J. A. ; LEE, E. ; WANG, K. ; HUI, R. ; FREITAS-JUNIOR, L. H. ; OLDFIELD, E. . Lipophilic analogs of zoledronate and risedronate inhibit Plasmodium geranylgeranyl diphosphate synthase (GGPPS) and exhibit potent antimalarial activity. Proceedings of the National Academy of Sciences of the United States of America (Online), v. 109, p. 4058, 2012.
+Citações:24|28
+
+44.
+Siqueira-Neto, Jair L. ; Moon, Seunghyun ; Jang, Jiyeon ; Yang, Gyongseon ; LEE, CHANGBOK ; MOON, HONG KEE ; Chatelain, Eric ; Genovesio, Auguste ; Cechetto, Jonathan ; Freitas-Junior, Lucio H. . An Image-Based High-Content Screening Assay for Compounds Targeting Intracellular Leishmania donovani Amastigotes in Human Macrophages. PLoS Neglected Tropical Diseases (Online), v. 6, p. e1671, 2012.
+Citações:43|51
+
+45.
+Ku, Min-Je ; Dossin, Fernando de M. ; HANSEN, MICHAEL A. E. ; Genovesio, Auguste ; AYONG, LAWRENCE ; Freitas-Junior, Lucio H. . An Image-Based Drug Susceptibility Assay Targeting the Placental Sequestration of Plasmodium falciparum-Infected Erythrocytes. Plos One, v. 7, p. e41765, 2012.
+Citações:1|1
+
+46.
+Freitas-Junior, Lucio H.; Chatelain, Eric ; KIM, HELENA ANDRADE ; Siqueira-Neto, Jair L. . Visceral leishmaniasis treatment: What do we have, what do we need and how to deliver it?. International Journal for Parasitology: Drugs and Drug Resistance, v. 2, p. 11-19, 2012.
+Citações:71|59
+
+47.
+Ku, Min-Je ; Dossin, Fernando M ; Choi, Youngseon ; Moraes, Carolina B ; Ryu, Jiyoung ; Song, Rita ; Freitas-Junior, Lucio H . Quantum dots: a new tool for anti-malarial drug assays. Malaria Journal (Online), v. 10, p. 118, 2011.
+Citações:12|13
+
+48.
+Genovesio, Auguste ; Giardini, Miriam A. ; Kwon, Yong-Jun ; Dossin, Fernando de Macedo ; Choi, Seo Yeon ; Kim, Nam Youl ; Kim, Hi Chul ; Jung, Sung Yong ; Schenkman, Sergio ; Almeida, Igor C. ; Emans, Neil ; Freitas-Junior, Lucio H. . Visual Genome-Wide RNAi Screening to Identify Human Host Factors Required for Trypanosoma cruzi Infection. Plos One, v. 6, p. e19733, 2011.
+Citações:17|18
+
+49.
+SERPELONI, MARIANA ; Moraes, Carolina Borsoi ; MUNIZ, JOÃO RENATO CARVALHO ; MOTTA, MARIA CRISTINA MACHADO ; RAMOS, AUGUSTO SAVIO PEIXOTO ; KESSLER, RAFAEL LUIS ; INOUE, ALEXANDRE HARUO ; DUARTE DAROCHA, WANDERSON ; YAMADA-OGATTA, SUELI FUMIE ; FRAGOSO, STENIO PERDIGÃO ; GOLDENBERG, SAMUEL ; Freitas-Junior, Lucio H. ; ÁVILA, ANDRÉA RODRIGUES . An Essential Nuclear Protein in Trypanosomes Is a Component of mRNA Transcription/Export Pathway. Plos One, v. 6, p. e20730, 2011.
+Citações:16|14
+
+50.
+da Silva, Marcelo S ; Perez, Arina M ; da Silveira, Rita de Cassia V ; de Moraes, Camila E ; Siqueira-Neto, Jair L ; FREITAS-JUNIOR, L. H. ; Cano, Maria Isabel N . The Leishmania amazonensis TRF (TTAGGG repeat binding factor) homologue binds and co-localizes with telomeres. BMC Microbiology (Online), v. 10, p. 136, 2010.
+Citações:4|6
+
+51.
+ Siqueira-Neto, Jair L. ; Song, Ok-Ryul ; Oh, Hyunrim ; Sohn, Jeong-Hun ; Yang, Gyongseon ; Nam, Jiyoun ; Jang, Jiyeon ; Cechetto, Jonathan ; Lee, Chang Bok ; Moon, Seunghyun ; Genovesio, Auguste ; Chatelain, Eric ; Christophe, Thierry ; Freitas-Junior, Lucio H. . Antileishmanial High-Throughput Drug Screening Reveals Drug Candidates with New Scaffolds. Plos Neglected Tropical Diseases, v. 4, p. e675, 2010.
+Citações:54|55
+
+52.
+Contreras-Dominguez, Monica ; Moraes, Carolina Borsoi ; Dorval, Thierry ; Genovesio, Auguste ; Dossin, Fernando de Macedo ; Freitas-Junior, Lucio H. . A modified fluorescence in situ hybridization protocol for Plasmodium falciparum greatly improves nuclear architecture conservation. Molecular and Biochemical Parasitology (Print), v. 173, p. 48-52, 2010.
+Citações:2|4
+
+53.
+ROMANHA, ALVARO JOSÃ© ; ARMSTRONG, TANYA ; RIBEIRO, ISABELA ; DEGRAVE, WIM ; Freitas-Junior, Lucio H ; CHIARI, EGLER ; CASTRO, SOLANGE LISBOA DE ; ANDRADE, ZILTON DE ARAÃºJO ; SOARES, MILENA ; BUSTAMANTE, JUAN MANUEL ; CALZADA, JOSÃ© EDUARDO ; ROMERO, LUZ I ; SOEIRO, MARIA DE NAZARÃ© CORREIA ; LOTROWSKA, MICHEL ; SPADAFORA, CARMENZA ; BOURDIN, BERNADETTE ; OLIVIERI, BIANCA ; BLUM, BETHANIA ; TALVANI, ANDRÃ© ; LANNES-VIEIRA, JOSELI ; Chatelain, Eric ; ANDRADE, SONIA GUMES ; BAHIA, MARIA TEREZINHA ; CHAVES, GABRIELA ; ZANI, CARLOS . In vitro and in vivo experimental models for drug screening and development for Chagas disease. Memórias do Instituto Oswaldo Cruz (Impresso), v. 105, p. 233-238, 2010.
+Citações:101|13|101
+
+54.
+Dossin, Fernando de M. ; Dufour, Alexandre ; Dusch, Elodie ; Siqueira-Neto, Jair L. ; Moraes, Carolina B. ; Yang, Gyong Seon ; Cano, Maria Isabel ; Genovesio, Auguste ; Freitas-Junior, Lucio H. . Automated Nuclear Analysis of Leishmania major Telomeric Clusters Reveals Changes in Their Organization during the Parasite's Life Cycle. Plos One, v. 3, p. e2313, 2008.
+Citações:9|10
+
+55.
+Neto, J.L. Siqueira ; Lira, C.B.B. ; Giardini, M.A. ; Khater, L. ; Perez, A.M. ; Peroni, L.A. ; dos Reis, J.R.R. ; Freitas-Junior, L.H. ; Ramos, C.H.I. ; Cano, M.I.N. . Leishmania replication protein A-1 binds in vivo single-stranded telomeric DNA. Biochemical and Biophysical Research Communications (Print), v. 358, p. 417-423, 2007.
+Citações:12|18
+
+56.
+ Freitas-Junior, Lucio H.; Hernandez-Rivas, Rosaura ; Ralph, Stuart A. ; Montiel-Condado, Dvorak ; Ruvalcaba-Salazar, Omar K. ; Rojas-Meza, Ana Paola ; Mâncio-Silva, Liliana ; Leal-Silvestre, Ricardo J. ; Gontijo, Alisson Marques ; Shorte, Spencer ; Scherf, Artur . Telomeric Heterochromatin Propagation and Histone Acetylation Control Mutually Exclusive Expression of Antigenic Variation Genes in Malaria Parasites. Cell (Cambridge), v. 121, p. 25-36, 2005.
+Citações:294|308
+
+57.
+Duraisingh, Manoj T. ; Voss, Till S. ; Marty, Allison J. ; Duffy, Michael F. ; Good, Robert T. ; Thompson, Jennifer K. ; Freitas-Junior, Lucio H. ; Scherf, Artur ; Crabb, Brendan S. ; Cowman, Alan F. . Heterochromatin Silencing and Locus Repositioning Linked to Regulation of Virulence Genes in Plasmodium falciparum. Cell (Cambridge), v. 121, p. 13-24, 2005.
+Citações:285|285
+
+58.
+CHAMOND, N. ; Grégoire C ; Coatnoan N ; Rougeot C ; Freitas-Junior, L.H. ; da Silveira JF ; Degrave WM ; Minoprio P . Biochemical Characterization of Proline Racemases from the Human Protozoan Parasite Trypanosoma cruzi and Definition of Putative Protein Signatures. The Journal of Biological Chemistry (Print), v. 278, p. 15484-15494, 2003.
+Citações:45|48
+
+59.
+O'DONNELL, R. A. ; FREITAS-JUNIOR, L. H. ; PREISER, P. R. ; WILLIAMSON, D. H. ; DURAISINGH, M. ; MCELWAIN, T. F. ; SCHERF, A. ; COWMAN, A. F. ; CRABB, B. S. . A genetic screen for improved plasmid segregation reveals a role for Rep20 in the interaction of Plasmodium falciparum chromosomes. The EMBO Journal, v. 21, p. 1231-1239, 2002.
+Citações:91|94
+
+60.
+FIGUEIREDO, L. M. ; FREITAS-JUNIOR, L. H. ; BOTTIUS, E. ; OLIVO-MARIN, JEAN-CHRISTOPHE ; SCHERF, A. . A central role for Plasmodiumfalciparum subtelomeric regions in spatial positioning and telomere length regulation. The EMBO Journal, v. 21, p. 815-824, 2002.
+Citações:84|91
+
+61.
+Scherf A ; Figueiredo LM ; FREITAS-JUNIOR, L. H. . Plasmodium telomeres: a pathogen's perspective. Current Opinion in Microbiology, v. 4, p. 409-414, 2001.
+Citações:79|82
+
+62.
+Acosta-Serrano A ; Almeida IC ; FREITAS-JUNIOR, L. H. ; Nobuko N ; Schenkman S . The mucin-like glycoprotein super-family of Trypanosoma cruzi:structure and biological roles. Molecular & Biochemical Parasitology, v. 114, p. 143-150, 2001.
+Citações:118|122
+
+63.
+ FREITAS-JUNIOR, L. H.; Bottius E ; PIRRIT LA ; DEITSCH KW ; SCHEIDIG C ; GUINET F ; NEHRBASS U ; WELLEMS TE ; Scherf A . Frequent ectopic recombination of virulence factor genes in telomeric chromosome clusters of P. falciparum.. Nature (London), v. 407, n.(6807), p. 1018-1022, 2000.
+Citações:321|341
+
+64.
+FREITAS-JUNIOR, L. H.; Ramirez MI ; Yamauchi LM ; Uemura H ; Schenkman S . The use of the green fluorescent protein to monitor and improve transfection in Trypanosoma cruzi. Molecular and Biochemical Parasitology (Print), v. 111, n.(1), p. 235-240, 2000.
+Citações:20|23
+
+65.
+FREITAS-JUNIOR, L. H.; Porto RM ; PIRRIT LA ; Schenkman S ; Scherf A . Identification of the telomere in Trypanosoma cruzi reveals highly heterogeneous telomere lengths in different parasite strains. Nucleic Acids Research (Online), v. 27, n.(12), p. 2451-2456, 1999.
+Citações:22|25
+
+66.
+ABUIN, G. ; FREITAS-JUNIOR, L. H. ; COLLI, W. ; ALVES, M. J. M. ; SCHENKMAN, S. . Expression of trans-Sialidase and 85-kDa Glycoprotein Genes in Trypanosoma cruzi Is Differentially Regulated at the Post-transcriptional Level by Labile Protein Factors. The Journal of Biological Chemistry (Print), v. 274, p. 13041-13047, 1999.
+Citações:41|45
+
+67.
+FREITAS-JUNIOR, L. H.; Briones MRS ; Schenkman S . Two distinct groups of mucin-like genes are differentially expressed in the developmental stages of Trypanosoma cruzi1Note: Nucleotide sequence data reported in this paper are available in the EMBL, GenBankâ ¢, and DDJB databases under the accession numbers AF027869â AFO27880.1. Molecular and Biochemical Parasitology (Print), v. 93, n.(1), p. 101-114, 1998.
+Citações:25|28
+
+68.
+FREITAS-JUNIOR, L. H.; Egima CM ; Briones MRS ; Schenkman RP ; Uemura H ; Schenkman S . Organization of trans-sialidase genes in Trypanosoma cruzi. Molecular and Biochemical Parasitology (Print), v. 77, n.(2), p. 115-125, 1996.
+Citações:18|22
+
+69.
+FREITAS-JUNIOR, L. H.; Teixeira AR ; Arganaraz ER ; Lacava ZG ; Santana JM ; Luna H . Possible integration of Trypanosoma cruzi kDNA minicircles into the host cell genome by infection. Mutation Research (Print), v. 305, p. 197-209, 1994.
+Citações:32|36

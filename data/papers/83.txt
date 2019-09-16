@@ -1,0 +1,89 @@
+1.
+ ALVES, WONDER A.L. ; HASHIMOTO, RONALDO F. ; MARCOTEGUI, BEATRIZ . Ultimate levelings. COMPUTER VISION AND IMAGE UNDERSTANDING, v. 165, p. 60-74, 2017.
+
+2.
+REZENDE LIMA, WÂNIA ; CORREA MARTINS, DAVID ; SIMÔNIO PARREIRA, KLEBER ; SCARPELLI, PEDRO ; SANTOS DE MORAES, MIRIAM ; TOPALIS, PANTELIS ; FUMIO HASHIMOTO, RONALDO ; R. S. GARCIA, CÉLIA . Genome-wide analysis of the human malaria parasite Plasmodium falciparum transcription factor PfNF-YB shows interaction with a CCAAT motif. Oncotarget, v. 8, p. 113987-114001, 2017.
+
+3.
+DE ARAÚJO LIMA, LEANDRO FEIO-DOS-SANTOS, ANA CECÍLIA BELANGERO, SINTIA IOLE GADELHA, ARY BRESSAN, RODRIGO AFFONSECA SALUM, GIOVANNI ABRAHÃO PAN, PEDRO MARIO MORIYAMA, TAIS SILVEIRA GRAEFF-MARTINS, ANA SOLEDADE TAMANAHA, ANA CARINA ALVARENGA, PEDRO KRIEGER, FERNANDA VALLE FLEITLICH-BILYK, BACY JACKOWSKI, ANDREA PAROLIN BRIETZKE, ELISA SATO, JOÃO RICARDO POLANCZYK, GUILHERME VANONI MARI, JAIR DE JESUS MANFRO, GISELE GUS DO ROSÁRIO, MARIA CONCEIÇÃO MIGUEL, EURÍPEDES CONSTANTINO PUGA, RENATO DAVID TAHIRA, ANA CAROLINA SOUZA, VIVIANE NERI CHILE, THAIS , et al. ; An integrative approach to investigate the respective roles of single-nucleotide variants and copy-number variants in Attention-Deficit/Hyperactivity Disorder. Scientific Reports, v. 6, p. 22851, 2016.
+Citações:1
+
+4.
+LIMA, W. R. ; TESSARIN-ALMEIDA, G. ; ROZANSKI, A. ; PARREIRA, K. S. ; MORAES, M. S. ; MARTINS, D. C. ; HASHIMOTO, R. F. ; GALANTE, P. A. F. ; GARCIA, C. R. S. . Signaling transcript profile of the asexual intraerythrocytic development cycle of Plasmodium falciparum induced by melatonin and cAMP. Genes & Cancer, v. 7, p. 323-339, 2016.
+Citações:1
+
+5.
+SWARNKAR, TRIPTI ; SIMÕES, SERGIO NERY ; ANURA, ANJI ; BRENTANI, HELENA ; CHATTERJEE, JYOTIRMOY ; HASHIMOTO, RONALDO FUMIO ; MARTINS, DAVID CORREA ; MITRA, PABITRA . Identifying dense subgraphs in protein-protein interaction network for gene selection from microarray data. Network Modeling Analysis in Health Informatics and Bioinformatics, v. 4, p. 1-18, 2015.
+
+6.
+SIMÕES, SÉRGIO N ; MARTINS, DAVID C ; PEREIRA, CARLOS AB ; Hashimoto, Ronaldo F ; BRENTANI, HELENA . NERI: network-medicine based integrative approach for disease gene prioritization by relative importance. BMC Bioinformatics, v. 16, p. S9, 2015.
+
+7.
+LOPES, FABRÍCIO M. ; RAY, SHUBHRA SANKAR ; HASHIMOTO, RONALDO F. ; CESAR, ROBERTO M. . Entropic Biological Score: a cell cycle investigation for GRNs inference. Gene (Amsterdam), v. 541, p. 129-137, 2014.
+Citações:8|7
+
+8.
+MARTINS, D. C. ; OLIVEIRA, E. A. ; BRAGA-NETO, U. ; HASHIMOTO, R. F. ; CESAR JUNIOR, R. M. . Signal Propagation in Bayesian Networks and its Relationship with Intrinsically Multivariate Predictive Variables. Information Sciences, v. 225, p. 18-34, 2013.
+Citações:2|4
+
+9.
+HIGA, C. H. A. ; ANDRADE, T. P. ; HASHIMOTO, R. F. . Growing Seed Genes from Time Series Data and Thresholded Boolean Networks with Perturbation. IEEE/ACM Transactions on Computational Biology and Bioinformatics (Print), v. 10, p. 37-49, 2013.
+Citações:4|4
+
+10.
+VICENTE, F. F. R. ; LOPES, F. M. ; HASHIMOTO, R. F. ; CESAR JUNIOR, R. M. . Assessing the Gain of Biological Data Integration in Gene Networks Inference. BMC Genomics, v. 13, p. 1-12, 2012.
+Citações:4|12
+
+11.
+Higa, Carlos HA ; Louzada, Vitor HP ; Andrade, Tales P ; Hashimoto, Ronaldo F . Constraint-based analysis of gene interactions using restricted boolean networks and time-series data. BMC Proceedings, v. 5, p. S5, 2011.
+Citações:3
+
+12.
+ MARTINS, D. C. ; BRAGA-NETO, U. ; BITTNER, M. L. ; HASHIMOTO, R. F. ; DOUGHERTY, E. R. . Intrinsically Multivariate Predictive Genes. IEEE Journal of Selected Topics in Signal Processing, v. 2, p. 424-439, 2008.
+Citações:21|33
+
+13.
+TREPODE, N. W. ; ARMELIN, H. A. ; BITTNER, M. L. ; BARRERA, J. ; GUBITOSO, M. D. ; HASHIMOTO, R. F. . A Robust Structural PGN Model for Control of Cell-Cycle Progression Stabilized by Negative Feedbacks. EURASIP Journal on Bioinformatics and Systems Biology (Online), v. 2007, p. 1-11, 2007.
+Citações:3
+
+14.
+SILVA, P. J. S. ; HASHIMOTO, R. F. ; KIM, S. ; BARRERA, J. ; BRANDAO, L. O. ; SUH, E. ; DOUGHERTY, E. R. . Feature Selection Algorithms to Find Strong Genes. Pattern Recognition Letters, v. 26, n.10, p. 1444-1453, 2005.
+Citações:17|20
+
+15.
+BRAGA-NETO, U. ; HASHIMOTO, R. F. ; DOUGHERTY, E. R. ; NGUYEN, D. V. ; CARROLL, R. J. . Is Cross-Validation Better than Resubstitution for Ranking Genes. Bioinformatics (Oxford), v. 20, n.2, p. 253-258, 2004.
+Citações:33|41
+
+16.
+ HASHIMOTO, R. F.; KIM, S. ; SHMULEVICH, Ilya ; ZHANG, Wei ; BITTNER, M. L. ; DOUGHERTY, E. R. . Growing Genetic Regulatory Networks from Seed Genes. Bioinformatics (Oxford), Grã-Bretanha, v. 20, n.8, p. 1241-1247, 2004.
+Citações:55|69
+
+17.
+HASHIMOTO, R. F.; BARRERA, J. . A Greedy Algorithm for Decomposing Convex Structuring Elements. Journal of Mathematical Imaging and Vision, USA, v. 18, n.3, p. 269-289, 2003.
+Citações:1|3
+
+18.
+ HASHIMOTO, R. F.; DOUGHERTY, E. R. ; Marcel Brun ; Zheng-Zheng Zhou ; BITTNER, M. L. ; TRENT, J. M. . Efficient Selection of Feature Sets Possessing High Coefficients of Determination Based on Incremental Determinations. Signal Processing, v. 83, n.4, p. 695-712, 2003.
+Citações:9|12
+
+19.
+SHMULEVICH, Ilya ; GLUHOVSKY, Ilya ; HASHIMOTO, R. F. ; DOUGHERTY, E. R. ; ZHANG, Wei . Steady-State Analysis of Genetic Regulatory Networks Modelled by Probabilistic Boolean Networks. Comparative and Functional Genomics, v. 4, p. 601-608, 2003.
+Citações:67|71
+
+20.
+HASHIMOTO, R. F.; BARRERA, J. . A Note on Park and Chin´s Algorithm. IEEE Transactions on Pattern Analysis and Machine Intelligence, v. 24, n.1, p. 139-144, 2002.
+Citações:8|10
+
+21.
+HIRATA JR., R. ; BARRERA, J. ; HASHIMOTO, R. F. ; DANTAS, D. O. ; ESTEVES, G. H. . Segmentation of Microarray Images by Mathematical Morphology. Real-Time Imaging, USA, v. 8, n.6, p. 491-505, 2002.
+Citações:25
+
+22.
+HASHIMOTO, R. F.; BARRERA, J. . From the Sup-Decomposition to Sequential Decompositions. Journal of Mathematical Imaging and Vision, v. 15, n.3, p. 197-216, 2001.
+
+23.
+ BARRERA, J. ; HASHIMOTO, R. F. . Sup-Compact and Inf-Compact Representations of W-Operators. Fundamenta Informaticae, v. 45, n.4, p. 283-294, 2001.
+
+24.
+HASHIMOTO, R. F.; BARRERA, J. ; FERREIRA, C. E. . A Combinatorial Optimization Technique for the Sequential Decomposition of Erosions and Dilations. Journal of Mathematical Imaging and Vision, v. 13, p. 17-33, 2000.
+Citações:5|10

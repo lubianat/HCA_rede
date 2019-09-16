@@ -1,0 +1,75 @@
+1.
+DE LIMA, DIÓGENES S. ; CARDOZO, LUCAS E. ; MARACAJA-COUTINHO, VINICIUS ; SUHRBIER, ANDREAS ; MANE, KARIM ; JEFFRIES, DAVID ; SILVEIRA, EDUARDO L. V. ; AMARAL, PAULO P. ; RAPPUOLI, RINO ; DE SILVA, THUSHAN I. ; NAKAYA, HELDER I. . Long noncoding RNAs are involved in multiple immunological pathways in response to vaccination. PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA (ONLINE), v. 116, p. 201822046-17126, 2019.
+
+2.
+HELUANY, C. S. ; KUPA, L. V. K. ; VIANA, M. N. ; FERNANDES, C. M. ; SILVEIRA, EDUARDO L. V. ; FARSKY, S. H. P. . In vivo exposure to hydroquinone during the early phase of collagen-induced arthritis aggravates the disease. TOXICOLOGY, v. 408, p. 22-30, 2018.
+
+3.
+BHAUMIK, SIDDHARTHA KUMAR ; KULKARNI, RAVEENDRA R ; WELDON, WILLIAM C ; SILVEIRA, EDUARDO L V ; AHMED, HASAN ; GUNISETTY, SIVARAM ; CHANDELE, ANMOL ; ANTIA, RUSTOM ; VERMA, HARISH ; SUTTER, ROLAND ; PALLANSCH, MARK A ; OBERSTE, M STEVEN ; VILLINGER, FRANCOIS ; ORENSTEIN, WALTER ; MURALI-KRISHNA, KAJA . Immune Priming and Long-term Persistence of Memory B Cells After Inactivated Poliovirus Vaccine in Macaque Models: Support for at least 2 Doses. CLINICAL INFECTIOUS DISEASES, v. 67, p. S66-S77, 2018.
+
+4.
+SILVEIRA, EDUARDO L. V.; DOMINGUEZ, M. R. ; SOARES, I. S. . To B or Not to B: Understanding B Cell Responses in the Development of Malaria Infection. Frontiers in Immunology, v. 9, p. 1-9, 2018.
+
+5.
+LEVER, M. ; Silveira, Eduardo L ; NAKAYA, H. I. . Systems Vaccinology Applied to DNA Vaccines: Perspective and Challenges. CURRENT ISSUES IN MOLECULAR BIOLOGY, p. 1-16, 2017.
+
+6.
+ Silveira, E. L. V.; ROGERS, K. A. ; GUMBER, S. ; AMANCHA, P. ; XIAO, P. ; WOOLARD, S. M. ; BYRAREDDY, S. N. ; TEIXEIRA, M. M. ; VILLINGER, F. . Immune Cell Dynamics in Rhesus Macaques Infected with a Brazilian Strain of Zika Virus. The Journal of Immunology, v. 199, p. ji1700256, 2017.
+
+7.
+HONG, J. J. ; SILVEIRA, EDUARDO L.V. ; AMANCHA, P. ; BYRAREDDY, S. N. ; GUMBER, S. ; CHANG, K. T. ; VILLINGER, F. . Early initiation of antiretroviral treatment post SIV infection does not resolve lymphoid tissue activation. AIDS, v. Epub, p. 1, 2017.
+
+8.
+KASTURI, SUDHIR PAI ; KOZLOWSKI, PAMELA A. ; NAKAYA, HELDER I. ; BURGER, MATHEUS C. ; RUSSO, PEDRO ; PHAM, MATHEW ; KOVALENKOV, YEVGENIY ; SILVEIRA, EDUARDO L. V. ; HAVENAR-DAUGHTON, COLIN ; BURTON, SAMANTHA L. ; KILGORE, KATIE M. ; JOHNSON, MATHEW J. ; NABI, RAFIQ ; LEGERE, TRACI ; SHER, ZARPHEEN JINNAH ; CHEN, XUEMIN ; AMARA, RAMA R. ; HUNTER, ERIC ; BOSINGER, STEVEN E. ; SPEARMAN, PAUL ; CROTTY, SHANE ; VILLINGER, FRANCOIS ; DERDEYN, CYNTHIA A. ; WRAMMERT, JENS ; PULENDRAN, BALI . Adjuvanting a Simian Immunodeficiency Virus Vaccine with Toll-Like Receptor Ligands Encapsulated in Nanoparticles Induces Persistent Antibody Responses and Enhanced Protection in TRIM5? Restrictive Macaques. JOURNAL OF VIROLOGY, v. 91, p. e01844-16, 2017.
+
+9.
+SILVEIRA, EDUARDO L. V.. The importance of B cells in the development of preventive and therapeutical approaches against Dengue, Zika and Chikungunya viral infections. BRAZILIAN JOURNAL OF PHARMACEUTICAL SCIENCES (ONLINE), v. 52, p. v-viii, 2016.
+
+10.
+SILVEIRA, EDUARDO L. V.. Dengue Virus Infection: Current Challenges and Future Perspectives. SM Vaccines and Vaccination Journal, v. 1, p. 1001, 2015.
+
+11.
+LESKOWITZ, R. ; FOGG, M. H. ; ZHOU, X. Y. ; KAUR, A. ; Silveira, E. L. V. ; VILLINGER, F. ; LIEBERMAN, P. M. ; WANG, F. ; ERTL, H. C. . Adenovirus-Based Vaccines against Rhesus Lymphocryptovirus EBNA-1 Induce Expansion of Specific CD8+ and CD4+ T Cells in Persistently Infected Rhesus Macaques. Journal of Virology (Print), v. 88, p. 4721-4735, 2014.
+Citações:5|6
+
+12.
+ SILVEIRA, EDUARDO L.V.; KASTURI, SUDHIR P. ; KOVALENKOV, YEVGENIY ; RASHEED, ATA UR ; YEISER, PATRYCE ; JINNAH, ZARPHEEN S. ; LEGERE, TRACI H. ; PULENDRAN, BALI ; VILLINGER, FRANCOIS ; WRAMMERT, JENS . Vaccine-induced plasmablast responses in rhesus macaques: Phenotypic characterization and a source for generating antigen-specific monoclonal antibodies. Journal of Immunological Methods (Print), v. 416, p. 69-83, 2014.
+Citações:13|6
+
+13.
+COELHO-DOS-REIS, J. G. A. ; LI, X. ; SILVEIRA, E. L. V. ; MANDRAJU, R. ; VELMURUGAN, S. ; CHAKRAVARTY, S. ; SUEMIZU, H. ; ITO, M. ; SIM, B. K. L. ; HOFFMAN, S. ; TSUJI, M. . Plasmodium falciparum infection in 'humanised liver' mice. Malaria World Journal, v. 4, p. 1, 2013.
+
+14.
+ Silveira, E. L. V.; FOGG, M. H. ; LESKOWITZ, R. M. ; ERTL, H. C. ; WISEMAN, R. W. ; O'CONNOR, D. H. ; LIEBERMAN, P. ; WANG, F. ; VILLINGER, F. . Therapeutic Vaccination against the Rhesus Lymphocryptovirus EBNA-1 Homologue, rhEBNA-1, Elicits T Cell Responses to Novel Epitopes in Rhesus Macaques. Journal of Virology (Print), v. 87, p. 13904-13910, 2013.
+Citações:3|3
+
+15.
+ Dominguez, M. R. ; SILVEIRA, E. L. V. ; Vasconcelos, J. R. ; Alencar, B. C. G. ; MACHADO, A. ; BRUNA-ROMERO, O. ; GAZZINELLI, R. T. ; Rodrigues, M. M. . Subdominant/Cryptic CD8 T Cell Epitopes Contribute to Resistance against Experimental Infection with a Human Protozoan Parasite. Plos One, v. 6, p. e22011, 2011.
+Citações:21|22
+
+16.
+Zárate-Bladés, C. R. ; Bonato, V. L. D. ; SILVEIRA, E. L. V. ; Paula, M. O. ; Junta, C. M. ; Sandrin-Garcia, P. ; Fachin, A. L. ; Mello SM ; Cardoso, R. S. ; GALETTI, F. C. ; Coelho-Castelo, A. A. A. ; Ramos, S. G. ; Donadi, E. A. ; Sakamoto-Hojo, E. T. ; Passos, G. A. S. ; Silva, C. L. . Comprehensive gene expression profiling in lungs of mice infected with Mycobacterium tuberculosis following DNAhsp65 immunotherapy. JOURNAL OF GENE MEDICINE, v. 11, p. 66-78, 2009.
+Citações:17|18
+
+17.
+Rodrigues, M. M. ; Alencar, B. C. G. ; Claser, C. ; Tzelepis, F. ; SILVEIRA, E. L. V. ; Haolla, F. A. B. ; Dominguez, M. R. ; Vasconcelos, J. R. . Swimming against the current: genetic vaccination against Trypanosoma cruzi infection in mice. Memórias do Instituto Oswaldo Cruz (Impresso), v. 104, p. 281-287, 2009.
+Citações:4|10|31
+
+18.
+ SILVEIRA, E. L. V.; Claser, C. ; Haolla, F. A. B. ; Zanella, L. G. ; Rodrigues, M. M. . Novel Protective Antigens Expressed by Trypanosoma cruzi Amastigotes Provide Immunity to Mice Highly Susceptible to Chagas' Disease. Clinical and Vaccine Immunology, v. 15, p. 1292-1300, 2008.
+Citações:15|18
+
+19.
+Claser, C. ; Curcio M ; Mello SM ; SILVEIRA, E. L. V. ; Monteiro, HP ; Rodrigues, M. M. . Silencing cytokeratin 18 gene inhibits intracellular replication of Trypanosoma cruzi in HeLa cells but not binding and invasion of trypanosomes. BMC Cell Biology (Online), v. 9, p. 68, 2008.
+Citações:10|17
+
+20.
+CARDOSO, RENATO S. ; JUNTA, CRISTINA M. ; MACEDO, CLAUDIA ; MAGALHÃES, DANIELLE A.R. ; SILVEIRA, EDUARDO L.V. ; PAULA, MARINA O. ; MARQUES, MÁRCIA M.C. ; MELLO, STEPHANO S. ; ZÁRATE-BLADÉS, CARLOS R. ; NGUYEN, CATHERINE ; HOULGATTE, REMI ; DONADI, EDUARDO A. ; SAKAMOTO-HOJO, ELZA T. ; PASSOS, GERALDO A.S. . Hybridization signatures of gamma-irradiated murine fetal thymus organ culture (FTOC) reveal modulation of genes associated with T-cell receptor V(D)J recombination and DNA repair. Molecular Immunology, v. 43, p. 464-472, 2006.
+Citações:6|6
+
+21.
+MAGALHÃES, DANIELLE A. R. ; SILVEIRA, EDUARDO L. V. ; JUNTA, CRISTINA M. ; SANDRIN-GARCIA, PAULA ; FACHIN, ANA LUCIA ; DONADI, EDUARDO A. ; SAKAMOTO-HOJO, ELZA T. ; PASSOS, GERALDO A. S. . Promiscuous Gene Expression in the Thymus: The Root of Central Tolerance. Clinical & Developmental Immunology, v. 13, p. 81-99, 2006.
+Citações:21|22
+
+22.
+BONINI-DOMINGOS, C. R. ; SILVEIRA, E. L. V. ; VIANA-BARACIOLI, L. M. S. ; CANALI, A. A. . Caracterização de Hemoglobina N-Baltimore em doador de sangue de São José do Rio Preto, SP. Jornal Brasileiro de Patologia e Medicina Laboratorial (Impresso), v. 39, p. 41-44, 2003.
