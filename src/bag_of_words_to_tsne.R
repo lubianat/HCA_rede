@@ -1,7 +1,7 @@
 library(data.table)
 
 
-bag <- fread("outputs/bag_of_words_3_abs.tsv")
+bag <- fread("outputs/bag_of_words_10_abs.tsv")
 
 bag2 <- bag
 bag[is.na(bag)] <- 0
@@ -55,11 +55,18 @@ JackStrawPlot(pbmc, dims = 1:15)
 ElbowPlot(pbmc)
 
 
-pbmc <- FindNeighbors(pbmc, dims = 1:7)
-pbmc <- FindClusters(pbmc, resolution = 1.0)
+pbmc <- FindNeighbors(pbmc, dims = 5)
+pbmc <- FindClusters(pbmc, resolution = 1.2)
+
+pbmc <- RunUMAP(pbmc, dims = 1:5)
+DimPlot(pbmc, reduction = "umap")
+pbmc.markers <- FindAllMarkers(pbmc, only.pos = TRUE, min.pct = 0.25, logfc.threshold = 0.25)
+
+Idents(pbmc)
+
 
 cluster_researchers <- data.frame(researcher_id = names(Idents(pbmc)), cluster_id = Idents(pbmc))
-write.table(cluster_researchers, "outputs/cluster_researchers_3_abs.tsv", sep = '\t', row.names = F)
+write.table(cluster_researchers, "outputs/cluster_researchers_10_abs.tsv", sep = '\t', row.names = F)
 
 
 data <- GetAssayData(pbmc, slot = "scale.data")
@@ -71,10 +78,7 @@ rownames(distance_data) <- rownames(data)
 
 distance_data[distance_data<mean(distance_data)] <- 0
 
-write.table(distance_data, "outputs/manhattan_distances_higher_than mean_3_abs.tsv", sep = '\t', row.names = F)
-#pbmc <- RunUMAP(pbmc, dims = 1:7)
+write.table(distance_data, "outputs/manhattan_distances_higher_than mean_10_abs.tsv", sep = '\t', row.names = F)
+write.table(pbmc.markers, "outputs/word_markers_for_clusters_10_abs.tsv", sep = '\t', row.names = F)
 
-#DimPlot(pbmc, reduction = "umap")
-#pbmc.markers <- FindAllMarkers(pbmc, only.pos = TRUE, min.pct = 0.25, logfc.threshold = 0.25)
 
-Idents(pbmc)

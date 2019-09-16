@@ -13,16 +13,21 @@ for (f in files[!files %in% done_files]){
   if (!is.na(f)){
     corpus <- fread(paste0("./data/papers/",f), encoding = 'Latin-1', fill = T)
     title_vector <- extract_titles(corpus)
-    mini_tv <- title_vector[1:10]
-    if (any(is.na(mini_tv))){
-      mini_tv <- title_vector[1:2]
-    }
+    if(length(title_vector)){
+      
+      mini_tv <- title_vector[1:10]
+      if (any(is.na(mini_tv))){
+        mini_tv <- title_vector[1:2]
+      }
       abs_list <- get_abstracts_from_titles(mini_tv)
       if (length(abs_list)>0){
         bag_of_words <- get_bag_of_words_from_abs_list(abs_list, min_times = 2)
         bag_of_words$researcher <- paste0("#",gsub("(.*).txt", "\\1", f))
         final_bag <- rbind(final_bag,bag_of_words)
       }
+
+    }
+
       done_files <- c(done_files, f)
     
 
