@@ -1,7 +1,7 @@
 library(data.table)
 
 
-bag <- fread("outputs/bag_of_words_10_abs.tsv")
+bag <- fread("outputs/bag_of_words_3_abs.tsv")
 
 bag2 <- bag
 bag[is.na(bag)] <- 0
@@ -55,11 +55,14 @@ JackStrawPlot(pbmc, dims = 1:15)
 ElbowPlot(pbmc)
 
 
-pbmc <- FindNeighbors(pbmc, dims = 5)
-pbmc <- FindClusters(pbmc, resolution = 1.2)
+pbmc <- FindNeighbors(pbmc, dims = 9)
+pbmc <- FindClusters(pbmc, resolution = 1.0)
 
-pbmc <- RunUMAP(pbmc, dims = 1:5)
+pbmc <- RunUMAP(pbmc, dims = 1:9)
+pdf('outputs/seurat_cluster_plot.pdf', width = 3 , height = 3)
 DimPlot(pbmc, reduction = "umap")
+dev.off()
+
 pbmc.markers <- FindAllMarkers(pbmc, only.pos = TRUE, min.pct = 0.25, logfc.threshold = 0.25)
 
 Idents(pbmc)

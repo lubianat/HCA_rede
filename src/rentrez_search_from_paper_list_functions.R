@@ -69,6 +69,26 @@ get_abstracts_from_titles <- function(title_vector){
 }
 
 
+
+#' get abstracts from title vector
+#' @param title_vector A character vector with titles
+#' @return A list with the abstracts from each title
+#' 
+get_pmids_from_titles <- function(title_vector){
+  pmid_list <- list()
+  message("Searching abstracts via rentrez")
+  for (i in title_vector){
+    print(i)
+    if (i !=""){
+      id <- rentrez::entrez_search(db="pubmed", term=i)$ids
+      if (length(id) != 0) {
+      pmid_list[[i]] <-    id
+      }
+        }
+      }
+  return(pmid_list)
+}
+
 #abs_list <- get_abstracts_from_titles(title_vector)
 
 
